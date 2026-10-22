@@ -15,6 +15,37 @@ def item(number, when, repost=False):
     return p
 
 class ArchiveTests(unittest.TestCase):
+    def test_model_feed_preserves_text_quotes_links_and_alt_without_media(self):
+        now = datetime.now(a.UTC)
+        source = item(1, now)
+        source['post']['author']['avatar'] = 'https://cdn.example/avatar.jpg'
+        source['post']['record']['text'] = 'Full text ' * 1000
+        source['post']['record']['facets'] = [{'features': [{'uri': 'https://store.example/deal'}]}]
+        source['post']['record']['reply'] = {'$type': 'app.bsky.feed.post#replyRef',
+            'parent': {'uri': 'at://did:plc:parent/app.bsky.feed.post/parent'}}
+        source['post']['embed'] = {
+            'media': {'images': [{'alt': 'Coupon code SAVE20', 'thumb': 'https://cdn.example/thumb.jpg',
+                                  'fullsize': 'https://cdn.example/full.jpg'}]},
+            'record': {'record': {'uri': 'at://did:plc:quote/app.bsky.feed.post/abc',
+                'author': {'handle': 'quoted.example', 'avatar': 'https://cdn.example/quote.jpg'},
+                'value': {'text': 'Quoted offer text', 'createdAt': a.stamp(now)},
+                'embeds': [{'external': {'uri': 'https://store.example/quoted', 'title': 'Offer title',
+                                        'description': 'Offer conditions', 'thumb': 'https://cdn.example/card.jpg'}}]}}}
+        event = a.normalize(source)
+        text = a.model_feed('test', [event], {'updatedAt': a.stamp(now)})
+        for value in (source['post']['record']['text'], 'https://store.example/deal', 'Coupon code SAVE20',
+                      'Quoted offer text', 'Offer title', 'Offer conditions', 'https://store.example/quoted',
+                      'https://bsky.app/profile/did:plc:quote/post/abc',
+                      'Reply parent: https://bsky.app/profile/did:plc:parent/post/parent'):
+            self.assertIn(value, text)
+        self.assertNotIn('cdn.example', text)
+        self.assertEqual(text.count('--- 1/1 |'), 1)
+        with tempfile.TemporaryDirectory() as tmp:
+            a.write_model(Path(tmp), 'test', 'test', [event], {'updatedAt': a.stamp(now)})
+            output = (Path(tmp) / 'test.html').read_text()
+            for forbidden in ('<img', '<video', '<script', '<iframe', 'src=', 'cdn.example'):
+                self.assertNotIn(forbidden, output)
+
     def test_pagination_dedup_and_pruning(self):
         now = datetime(2026, 10, 22, 0, tzinfo=a.UTC)
         recent = item(1, now - timedelta(hours=1))
