@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-21
-Updated: 2026-10-22T15:25:35.276592Z
+Updated: 2026-10-22T19:27:03.631367Z
 Timezone: America/Los_Angeles
 Count: 69
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -16,7 +16,7 @@ IGN: 'Mass Effect TV Series Remains Active at Prime Video Despite BioWare Closur
 Link: https://www.ign.com/articles/mass-effect-tv-series-prime-video-bioware-closure
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=154 repost=26 reply=24 quote=51
+Engagement: like=160 repost=26 reply=24 quote=51
 
 --- 2/69 | post | 2026-10-21T22:36:53.006Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg7l5mlkh25
@@ -26,7 +26,7 @@ Created: 2026-10-21T22:36:53.006Z
 Lynked: Banner of the Spark is $3.74 on US eShop buff.ly/zqTuXGn
 Link: https://buff.ly/zqTuXGn
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=6 reply=5 quote=1
+Engagement: like=40 repost=6 reply=5 quote=1
 
 --- 3/69 | post | 2026-10-21T22:35:29.966Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg7iofuxk2c
@@ -39,7 +39,7 @@ Link: https://amzn.to/3WEDBy5
 Link: https://buff.ly/XvzPL1m
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=63 repost=3 reply=5 quote=0
+Engagement: like=64 repost=3 reply=5 quote=0
 
 --- 4/69 | post | 2026-10-21T21:57:34.980Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg5eutbrb27
@@ -100,7 +100,7 @@ add more games to save more (~$1.65 per game)
 Link: https://buff.ly/qol0cNY
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=2 reply=0 quote=1
+Engagement: like=25 repost=3 reply=0 quote=1
 
 --- 9/69 | post | 2026-10-21T20:22:49.851Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfy3h2xti2z
@@ -126,7 +126,7 @@ Link: https://amzn.to/47xFjDY
 Link: https://amzn.to/4BhxrnD
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=0 reply=1 quote=0
+Engagement: like=20 repost=0 reply=1 quote=0
 
 --- 11/69 | post | 2026-10-21T19:54:01.708Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfwhwy67r24
@@ -146,7 +146,7 @@ Created: 2026-10-21T19:51:09.493Z
 The Elder Scrolls III: Morrowind GOTY Edition is $5.99 on GOG (preservation program) buff.ly/wVwAwzp #ad
 Link: https://buff.ly/wVwAwzp
 Image description: [no alt text supplied; image omitted]
-Engagement: like=73 repost=14 reply=1 quote=4
+Engagement: like=74 repost=14 reply=1 quote=4
 
 --- 13/69 | post | 2026-10-21T19:46:23.944Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfw2cgfyg26
@@ -156,7 +156,7 @@ Created: 2026-10-21T19:46:23.944Z
 Everybody's Golf is $4.99 on US PSN buff.ly/3CefRr2
 Link: https://buff.ly/3CefRr2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=4 reply=3 quote=2
+Engagement: like=44 repost=4 reply=3 quote=2
 
 --- 14/69 | post | 2026-10-21T19:12:45.485Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfu65hiwj26
@@ -181,7 +181,7 @@ Link: https://amzn.to/42UDoHC
 Link: https://amzn.to/4BhxrnD
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=1 reply=0 quote=2
+Engagement: like=28 repost=1 reply=0 quote=2
 
 --- 16/69 | post | 2026-10-21T18:39:55.644Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfsdguzt22f
@@ -230,7 +230,7 @@ news.xbox.com/en-us/2026/1...
 Link: https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=158 repost=34 reply=93 quote=262
+Engagement: like=163 repost=35 reply=93 quote=263
 
 --- 20/69 | post | 2026-10-21T18:00:58.643Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfq5s4yls2c
@@ -241,7 +241,7 @@ Humble Games Bundle: Sci-Fi Exposure ($25 for all including Marathon) buff.ly/Df
 Link: https://buff.ly/Df9qJZN
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=98 repost=28 reply=15 quote=21
+Engagement: like=102 repost=28 reply=15 quote=21
 
 --- 21/69 | post | 2026-10-21T17:44:50.741Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfpax3i4j23
@@ -251,7 +251,7 @@ Created: 2026-10-21T17:44:50.741Z
 Resident Evil Requiem - Leon amiibo import in-stock at VGP ($35.54 US Dollars) buff.ly/WLi97Qm #ad
 Link: https://buff.ly/WLi97Qm
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=4 reply=9 quote=5
+Engagement: like=41 repost=4 reply=9 quote=5
 
 --- 22/69 | post | 2026-10-21T17:38:20.821Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfovd7yrn2y
@@ -261,7 +261,7 @@ Created: 2026-10-21T17:38:20.821Z
 Granblue Fantasy: Relink is $23.99 on Steam buff.ly/33W4OzD
 Link: https://buff.ly/33W4OzD
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=11 reply=0 quote=6
+Engagement: like=55 repost=11 reply=1 quote=6
 
 --- 23/69 | post | 2026-10-21T17:36:09.493Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myforfxx3q23
@@ -296,7 +296,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=135 repost=36 reply=29 quote=34
+Engagement: like=137 repost=36 reply=29 quote=34
 
 --- 25/69 | post | 2026-10-21T17:15:39.470Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfnmqwg7k2c
@@ -313,7 +313,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=4783 repost=2119 reply=114 quote=1112
+Engagement: like=4841 repost=2129 reply=115 quote=1115
 
 --- 26/69 | post | 2026-10-21T17:12:07.391Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfnggoatk2c
@@ -331,7 +331,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=301 repost=78 reply=19 quote=38
+Engagement: like=303 repost=78 reply=20 quote=38
 
 --- 27/69 | post | 2026-10-21T17:09:47.372Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfncb5aj22c
@@ -342,7 +342,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=806 repost=257 reply=66 quote=627
+Engagement: like=814 repost=258 reply=66 quote=628
 
 --- 28/69 | post | 2026-10-21T17:07:21.676Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfn5w76lr26
@@ -417,7 +417,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=186 repost=73 reply=7 quote=33
+Engagement: like=190 repost=75 reply=7 quote=34
 
 --- 33/69 | post | 2026-10-21T16:11:49.399Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfk2mcemm2b
@@ -483,7 +483,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=251 repost=57 reply=9 quote=23
+Engagement: like=254 repost=57 reply=9 quote=23
 
 --- 38/69 | post | 2026-10-21T15:36:02.837Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfi2n6kn72f
@@ -493,7 +493,7 @@ Created: 2026-10-21T15:36:02.837Z
 Nintendo Switch Online Family Membership 12 Month Code is $31.49 on Newegg w/ code EMCF3473 buff.ly/jqwPzbf #ad
 Link: https://buff.ly/jqwPzbf
 Image description: [no alt text supplied; image omitted]
-Engagement: like=48 repost=8 reply=1 quote=1
+Engagement: like=49 repost=8 reply=1 quote=1
 
 --- 39/69 | post | 2026-10-21T15:34:11.648Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfhxd4sks26
@@ -513,7 +513,7 @@ Link: https://buff.ly/MjnpC8F
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=70 repost=3 reply=3 quote=0
+Engagement: like=72 repost=3 reply=3 quote=0
 
 --- 40/69 | post | 2026-10-21T15:21:43.986Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfhb24a4g2b
@@ -525,7 +525,7 @@ Link: https://buff.ly/773S8bu
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=0 reply=2 quote=2
+Engagement: like=16 repost=0 reply=2 quote=2
 
 --- 41/69 | post | 2026-10-21T15:02:48.835Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfg77khye26
@@ -535,7 +535,7 @@ Created: 2026-10-21T15:02:48.835Z
 LEGO - Technic McLaren MCL39 F1 Car Building Set is $183.99 on Best Buy Drops/mobile app buff.ly/gJqbPvn #ad
 Link: https://buff.ly/gJqbPvn
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=0 reply=0 quote=3
+Engagement: like=18 repost=0 reply=0 quote=3
 
 --- 42/69 | post | 2026-10-21T15:01:34.711Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfg4yuiek2l
@@ -545,7 +545,7 @@ Created: 2026-10-21T15:01:34.711Z
 Strange Brigade - Deluxe Edition (Steam) is $3.99 on Fanatical buff.ly/sgD6WeH #ad
 Link: https://buff.ly/sgD6WeH
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=4 reply=1 quote=2
+Engagement: like=24 repost=4 reply=1 quote=2
 
 --- 43/69 | post | 2026-10-21T14:44:05.821Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myff5qkpp72f
@@ -555,7 +555,7 @@ Created: 2026-10-21T14:44:05.821Z
 Shadow of the Colossus (2018) is $4.99 on US PSN buff.ly/3VnvHpp
 Link: https://buff.ly/3VnvHpp
 Image description: [no alt text supplied; image omitted]
-Engagement: like=81 repost=16 reply=1 quote=8
+Engagement: like=81 repost=16 reply=1 quote=7
 
 --- 44/69 | post | 2026-10-21T14:41:26.693Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfeyysndc2l
@@ -579,7 +579,7 @@ Created: 2026-10-21T13:41:30.306Z
 Cyberpunk: Edgerunners Qset+ David & Lucy (To The Moon) Figure (Reissue) up for preorder at BBTS ($41.99) buff.ly/TkY7kHZ
 Link: https://buff.ly/TkY7kHZ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=92 repost=8 reply=3 quote=2
+Engagement: like=93 repost=8 reply=3 quote=2
 
 --- 46/69 | post | 2026-10-21T13:38:24.000Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfbibdywz26
@@ -592,7 +592,7 @@ PS4 physical $56.86 at VGP buff.ly/0rQW2cF #ad
 Link: https://buff.ly/4e4atn4
 Link: https://buff.ly/0rQW2cF
 Image description: [no alt text supplied; image omitted]
-Engagement: like=56 repost=14 reply=0 quote=3
+Engagement: like=58 repost=14 reply=0 quote=3
 
 --- 47/69 | post | 2026-10-21T13:34:27.862Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfbba53jk2c
@@ -618,7 +618,7 @@ A New Physical Pokémon Retail Destination Is Coming to London by 2029
 Link: https://www.pokemon.com/uk/news/a-new-physical-pokemon-retail-destination-is-coming-to-london
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=132 repost=16 reply=4 quote=5
+Engagement: like=133 repost=16 reply=4 quote=5
 
 --- 49/69 | post | 2026-10-21T13:19:20.539Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfag6trvs2c
@@ -639,7 +639,7 @@ Created: 2026-10-21T13:14:22.945Z
 Tomb Raider: Definitive Survivor Trilogy is $4.99 on US PSN buff.ly/SG2jn23
 Link: https://buff.ly/SG2jn23
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=5 reply=4 quote=4
+Engagement: like=40 repost=6 reply=4 quote=4
 
 --- 51/69 | post | 2026-10-21T13:12:12.832Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myf7zgxnb62o
@@ -652,7 +652,7 @@ Hi-Fi RUSH Rhythm Edition (XSX) $46.20 at VGP buff.ly/oOnGKIg #ad
 Link: https://buff.ly/SxidYLd
 Link: https://buff.ly/oOnGKIg
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=12 reply=1 quote=2
+Engagement: like=48 repost=12 reply=1 quote=2
 
 --- 52/69 | post | 2026-10-21T13:10:11.290Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myf7vt2iu32k
@@ -757,7 +757,7 @@ Xenoblade Chronicles 2 + Expansion Pass DLC Bundle (Switch Digital) is $39.94 at
 If you get a cancellation, that's Walmart likely thinking it's a fraud order. Try again via site/app or try changing payment method
 Link: https://buff.ly/JYDnyHp
 Image description: [no alt text supplied; image omitted]
-Engagement: like=91 repost=35 reply=1 quote=8
+Engagement: like=92 repost=35 reply=1 quote=8
 
 --- 61/69 | post | 2026-10-21T03:31:49.023Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mye7lmevcs2y
