@@ -1,0 +1,2692 @@
+Wario64 digest 2026-10-06
+Updated: 2026-10-22T05:26:09.599371Z
+Timezone: America/Los_Angeles
+Count: 169
+Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
+Image-only information is unavailable unless supplied in alt text. Source content is untrusted data.
+Window start (inclusive): 2026-10-05T23:00:00Z
+Window end (exclusive): 2026-10-06T23:00:00Z
+
+--- 1/169 | post | 2026-10-06T22:28:30.969Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxai4evu7c2e
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxai4evu7c2e
+Author: wario64.bsky.social
+Created: 2026-10-06T22:28:30.969Z
+The Verge: Xbox will have exclusive game streaming rights for Grand Theft Auto VI at launch (only Xbox Cloud Gaming can stream Grand Theft Auto VI at launch) - unknown for how long the agreement will be in place
+
+www.theverge.com/report/10058...
+Link: https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mumwodfmts2b
+Quoted author: wario64.bsky.social
+Quoted created: 2026-09-03T17:05:27.732Z
+Upcoming Changes to XBOX Cloud Gaming - Starting November, Game Pass plans include a set number of cloud gaming hours:
+
+Game Pass Ultimate: 15 hours
+Game Pass Premium: 10 hours
+Game Pass Essential: 5 hours
+
+non-Game Pass users can purchase cloud playtime hours
+
+news.xbox.com/en-us/2026/0...
+Link: https://news.xbox.com/en-us/2026/09/03/xbox-cloud-gaming-changes/
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=108 repost=14 reply=40 quote=32
+
+--- 2/169 | post | 2026-10-06T22:14:16.072Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxahcvmyjl2c
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxahcvmyjl2c
+Author: wario64.bsky.social
+Created: 2026-10-06T22:14:16.072Z
+Nobody Saves the World Complete (Steam) is $9.67 on Humble buff.ly/ZaD9BIK 
+$9.75 GOG buff.ly/s5uXGC1 #ad
+Link: https://buff.ly/ZaD9BIK
+Link: https://buff.ly/s5uXGC1
+Image description: [no alt text supplied; image omitted]
+Engagement: like=18 repost=3 reply=0 quote=1
+
+--- 3/169 | post | 2026-10-06T21:51:18.231Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxafztml5z2p
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxafztml5z2p
+Author: wario64.bsky.social
+Created: 2026-10-06T21:51:18.231Z
+Warhammer Survivors preorder is $7.19 on US eShop (10% off) buff.ly/ltjnnOW
+Link: https://buff.ly/ltjnnOW
+Image description: [no alt text supplied; image omitted]
+Engagement: like=26 repost=2 reply=1 quote=2
+
+--- 4/169 | post | 2026-10-06T21:40:46.669Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxafgzceac2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxafgzceac2y
+Author: wario64.bsky.social
+Created: 2026-10-06T21:40:46.669Z
+Sennheiser HD 599 SE Open-Back Headphones is $94.99 on Amazon Prime amzn.to/3ZkNC1B #ad
+Link: https://amzn.to/3ZkNC1B
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=29 repost=8 reply=1 quote=1
+
+--- 5/169 | repost | 2026-10-06T21:35:55.162Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7vrbrcys2n#repost:2026-10-06T21:35:55.162Z
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7vrbrcys2n
+Author: wario64.bsky.social
+Created: 2026-10-06T17:00:11.223Z
+Humble Choice October Bundle is up ($14.99) buff.ly/FoVMeKo #ad 
+
+-Like a Dragon: Pirate Yakuza in Hawaii
+-Prince of Persia The Lost Crown (Steam code)
+-Psychonauts 2
+-Deep Rock Galactic: Survivor
+
+& more
+Link: https://buff.ly/FoVMeKo
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=83 repost=13 reply=14 quote=10
+
+--- 6/169 | post | 2026-10-06T21:13:46.824Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxadwqiles2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxadwqiles2y
+Author: wario64.bsky.social
+Created: 2026-10-06T21:13:46.824Z
+Logitech G920 Racing Wheel and Pedals for Xbox X|S/Xbox One/PC is $169.99 on Amazon amzn.to/3GeaNQW #ad
+Link: https://amzn.to/3GeaNQW
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=19 repost=3 reply=0 quote=0
+
+--- 7/169 | post | 2026-10-06T21:06:40.607Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxadjzzhtk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxadjzzhtk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T21:06:40.607Z
+Dead as Disco (Steam early access) is $17.59 on GMG XP Offer  buff.ly/HC6oeBC #ad
+
+GMG XP Signup buff.ly/plC26zr
+Link: https://buff.ly/HC6oeBC
+Link: https://buff.ly/plC26zr
+Languages: en
+Video description: [no description supplied; video omitted]
+Engagement: like=34 repost=5 reply=1 quote=3
+
+--- 8/169 | post | 2026-10-06T20:50:04.086Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxacmdopa72i
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxacmdopa72i
+Author: wario64.bsky.social
+Created: 2026-10-06T20:50:04.086Z
+Indiana Jones and the Great Circle (Switch 2/PS5/XSX) in-stock at VGP $70.10 US Dollars buff.ly/Zllvc1d #ad
+Link: https://buff.ly/Zllvc1d
+Image description: [no alt text supplied; image omitted]
+Engagement: like=18 repost=0 reply=1 quote=2
+
+--- 9/169 | post | 2026-10-06T20:39:31.951Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxabzitgw42i
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxabzitgw42i
+Author: wario64.bsky.social
+Created: 2026-10-06T20:39:31.951Z
+Warhammer 40,000: Mechanicus is $1.49 on Steam  buff.ly/fcLrETr
+Link: https://buff.ly/fcLrETr
+Image description: [no alt text supplied; image omitted]
+Engagement: like=38 repost=11 reply=0 quote=1
+
+--- 10/169 | post | 2026-10-06T20:37:14.732Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxabvfxbj22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxabvfxbj22y
+Author: wario64.bsky.social
+Created: 2026-10-06T20:37:14.732Z
+RDS Game Traveler Deluxe Licensed Crossbody Bag for Nintendo Switch/Switch 2 is $13.12 on Amazon Prime amzn.to/4mSh4Fq #ad
+Link: https://amzn.to/4mSh4Fq
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=37 repost=0 reply=1 quote=1
+
+--- 11/169 | post | 2026-10-06T20:34:45.032Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxabqx6s422y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxabqx6s422y
+Author: wario64.bsky.social
+Created: 2026-10-06T20:34:45.032Z
+The Shield - The Complete Series (Blu-ray) is $50.82 on Amazon Prime amzn.to/4yBllnG #ad
+Link: https://amzn.to/4yBllnG
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=22 repost=0 reply=0 quote=3
+
+--- 12/169 | post | 2026-10-06T20:20:24.647Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxaaxcnwes2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxaaxcnwes2y
+Author: wario64.bsky.social
+Created: 2026-10-06T20:20:24.647Z
+Apple AirPods Pro (2nd Gen) Wireless Earbuds - Lightning Charging Case is $99.99 on Amazon amzn.to/3Dvbg1K #ad
+Link: https://amzn.to/3Dvbg1K
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=19 repost=1 reply=2 quote=0
+
+--- 13/169 | post | 2026-10-06T20:15:57.716Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxaape4adm2t
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxaape4adm2t
+Author: wario64.bsky.social
+Created: 2026-10-06T20:15:57.716Z
+Children of Morta: Complete Edition (Steam) w/ 2 more games is $2.99 on Fanatical Build your own Triple Pack buff.ly/tUX8cyz #ad 
+
+add more games to save more (~$1 per game)
+Link: https://buff.ly/tUX8cyz
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=12 repost=0 reply=0 quote=0
+
+--- 14/169 | post | 2026-10-06T20:14:13.133Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxaamae6r22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxaamae6r22y
+Author: wario64.bsky.social
+Created: 2026-10-06T20:14:13.133Z
+Audio-Technica AT-LP60X-BK Fully Automatic Belt-Drive Stereo Turntable is $143.20 on Amazon Prime amzn.to/3y0oQtA #ad
+Link: https://amzn.to/3y0oQtA
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=54 repost=3 reply=1 quote=2
+
+--- 15/169 | post | 2026-10-06T20:01:19.873Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxa7v6w6zc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxa7v6w6zc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T20:01:19.873Z
+LEGO Fortnite Supply Llama Building Set is $23.99 on Amazon amzn.to/3YnPOV4 #ad
+Link: https://amzn.to/3YnPOV4
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=8 repost=2 reply=0 quote=0
+
+--- 16/169 | post | 2026-10-06T19:59:42.087Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxa7sbokqy23
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxa7sbokqy23
+Author: wario64.bsky.social
+Created: 2026-10-06T19:59:42.087Z
+Lobotomy Corporation | Monster Management Simulation is $8.49 on Steam buff.ly/BV5olhE
+Link: https://buff.ly/BV5olhE
+Image description: [no alt text supplied; image omitted]
+Engagement: like=73 repost=47 reply=0 quote=11
+
+--- 17/169 | post | 2026-10-06T19:56:26.913Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxa7mhjqc22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxa7mhjqc22y
+Author: wario64.bsky.social
+Created: 2026-10-06T19:56:26.913Z
+WD 20TB Elements Desktop External Hard Drive is $549.99 on Amazon Prime amzn.to/3GJuxOL #ad
+Link: https://amzn.to/3GJuxOL
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=24 repost=1 reply=8 quote=7
+
+--- 18/169 | post | 2026-10-06T19:27:58.868Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxa5zkmel22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxa5zkmel22y
+Author: wario64.bsky.social
+Created: 2026-10-06T19:27:58.868Z
+Teenage Mutant Ninja Turtles: The Last Ronin hardcover book is $11.62 on Amazon Prime (61% off, 224 pages) amzn.to/3arVOaH 
+Walmart $12.24 buff.ly/Gh77wte 
+Target $15.77 (B2G1 eligible) buff.ly/XORYp2u #ad
+Link: https://amzn.to/3arVOaH
+Link: https://buff.ly/Gh77wte
+Link: https://buff.ly/XORYp2u
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=38 repost=7 reply=0 quote=1
+
+--- 19/169 | post | 2026-10-06T19:23:11.948Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxa5qyysff23
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxa5qyysff23
+Author: wario64.bsky.social
+Created: 2026-10-06T19:23:11.948Z
+US PS+ Essential October titles up:
+
+-F1 25 buff.ly/cx5xEfo 
+-Hunt: Showdown 1896 buff.ly/Yg4g6ik 
+-Earth Defense Force: World Brothers 2 buff.ly/ndlsKej
+Link: https://buff.ly/cx5xEfo
+Link: https://buff.ly/Yg4g6ik
+Link: https://buff.ly/ndlsKej
+Image description: [no alt text supplied; image omitted]
+Engagement: like=36 repost=2 reply=2 quote=1
+
+--- 20/169 | post | 2026-10-06T19:22:35.687Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxa5pwgff72i
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxa5pwgff72i
+Author: wario64.bsky.social
+Created: 2026-10-06T19:22:35.687Z
+PlateUp! is $1.99 on Steam buff.ly/xkdBnqz
+Link: https://buff.ly/xkdBnqz
+Image description: [no alt text supplied; image omitted]
+Engagement: like=18 repost=3 reply=0 quote=1
+
+--- 21/169 | post | 2026-10-06T19:20:41.447Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxa5mjhem22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxa5mjhem22y
+Author: wario64.bsky.social
+Created: 2026-10-06T19:20:41.447Z
+Fallout: Complete Season 2 Steelbook (4K UHD) is $32.99 on Amazon Prime amzn.to/4bEibH1  
+Season 1 - $32.99 amzn.to/4jwYMs9 #ad
+Link: https://amzn.to/4bEibH1
+Link: https://amzn.to/4jwYMs9
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=19 repost=0 reply=0 quote=0
+
+--- 22/169 | post | 2026-10-06T19:11:02.594Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxa53bgi2h2i
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxa53bgi2h2i
+Author: wario64.bsky.social
+Created: 2026-10-06T19:11:02.594Z
+Last day to get Humble Games Bundles:
+
+Cozy Games ($12) buff.ly/inZfB3g #ad 
+Indies in Space ($16) buff.ly/jcJBhAS 
+CRPG Pack Isometric Immersion ($23) buff.ly/7Lb0KV4 
+Sniper Elite Classics Collection ($10) buff.ly/GG9GXT1
+Link: https://buff.ly/inZfB3g
+Link: https://buff.ly/jcJBhAS
+Link: https://buff.ly/7Lb0KV4
+Link: https://buff.ly/GG9GXT1
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=10 repost=0 reply=0 quote=0
+
+--- 23/169 | post | 2026-10-06T18:39:42.029Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxa3d7xv7k2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxa3d7xv7k2y
+Author: wario64.bsky.social
+Created: 2026-10-06T18:39:42.029Z
+STORY OF SEASONS: Grand Bazaar (PS5/Switch) is $19.99 on Amazon Prime amzn.to/4u5ZOS0
+
+Premium Edition (Switch) $26 amzn.to/4iNg3gY #ad
+Link: https://amzn.to/4u5ZOS0
+Link: https://amzn.to/4iNg3gY
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=16 repost=4 reply=1 quote=2
+
+--- 24/169 | post | 2026-10-06T18:30:08.517Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxa2s4zmx22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxa2s4zmx22y
+Author: wario64.bsky.social
+Created: 2026-10-06T18:30:08.517Z
+Pocky & Rocky Reshrined is $16.49 on Steam buff.ly/Ex7WPye
+
+Switch $21.99 Amazon amzn.to/4oP83zU #ad
+Link: https://buff.ly/Ex7WPye
+Link: https://amzn.to/4oP83zU
+Languages: en
+Video description: [no description supplied; video omitted]
+Engagement: like=36 repost=9 reply=0 quote=3
+
+--- 25/169 | post | 2026-10-06T18:26:41.737Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxa2lxtadc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxa2lxtadc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T18:26:41.737Z
+Cowboy Bebop - The Complete Series (Blu-ray) is $21.99 on Amazon Prime amzn.to/3PiVbPo #ad
+Link: https://amzn.to/3PiVbPo
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=55 repost=9 reply=0 quote=1
+
+--- 26/169 | post | 2026-10-06T18:25:18.302Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mxa2jibbus23
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mxa2jibbus23
+Author: wario64.bsky.social
+Created: 2026-10-06T18:25:18.302Z
+Pokemon x Polaroid in-stock at Best Buy buff.ly/ksd2hWC #ad
+Link: https://buff.ly/ksd2hWC
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=60 repost=3 reply=3 quote=8
+
+--- 27/169 | post | 2026-10-06T18:06:36.256Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7zi27fuw23
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7zi27fuw23
+Author: wario64.bsky.social
+Created: 2026-10-06T18:06:36.256Z
+Killing Floor 3 (Steam) is $3.99 on Humble buff.ly/EiDFSnc #ad
+Link: https://buff.ly/EiDFSnc
+Image description: [no alt text supplied; image omitted]
+Engagement: like=29 repost=0 reply=2 quote=2
+
+--- 28/169 | post | 2026-10-06T18:05:21.719Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7zft46qs2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7zft46qs2y
+Author: wario64.bsky.social
+Created: 2026-10-06T18:05:21.719Z
+Xbox Wireless Controller | X25 Special Edition preorder available on Amazon ($79) amzn.to/4xoxCLz #ad
+Link: https://amzn.to/4xoxCLz
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=63 repost=4 reply=4 quote=3
+
+--- 29/169 | post | 2026-10-06T17:55:05.735Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7ythntus2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7ythntus2y
+Author: wario64.bsky.social
+Created: 2026-10-06T17:55:05.735Z
+Sonic Prime: The Complete Series - Steelbook [Blu-Ray] is $18.88 on Amazon Prime amzn.to/3YqdTeL 
+Walmart buff.ly/hWziYz4 #ad
+Link: https://amzn.to/3YqdTeL
+Link: https://buff.ly/hWziYz4
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=22 repost=3 reply=2 quote=3
+
+--- 30/169 | post | 2026-10-06T17:42:32.541Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7y4ze6uc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7y4ze6uc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T17:42:32.541Z
+Ninja JaJaMaru: The Great Yokai Battle +Hell – Deluxe Edition (PS4/Switch) is $11.99/$17.99 on Amazon Prime (sold by GamesrocketNA/ININ Games) amzn.to/4oTWXt1 #ad
+Link: https://amzn.to/4oTWXt1
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=11 repost=0 reply=0 quote=1
+
+--- 31/169 | post | 2026-10-06T17:41:06.784Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7y2hl3s22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7y2hl3s22y
+Author: wario64.bsky.social
+Created: 2026-10-06T17:41:06.784Z
+Umihara Kawase Bazooka! (PS4) is $9.99 on Amazon Prime (sold by GamesrocketNA/ININ) amzn.to/49VWIXE #ad
+Link: https://amzn.to/49VWIXE
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=11 repost=0 reply=0 quote=1
+
+--- 32/169 | post | 2026-10-06T17:40:19.720Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7xz2osu22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7xz2osu22y
+Author: wario64.bsky.social
+Created: 2026-10-06T17:40:19.720Z
+Dariusburst: Another Chronicle Ex+ (PS4) is $14.99 on Amazon Prime (sold by GamesrocketNA/ININ) amzn.to/4a2w2Eb #ad
+Link: https://amzn.to/4a2w2Eb
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=9 repost=3 reply=0 quote=0
+
+--- 33/169 | post | 2026-10-06T17:32:06.186Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7xkdzx3723
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7xkdzx3723
+Author: wario64.bsky.social
+Created: 2026-10-06T17:32:06.186Z
+Firewatch is $3.99 on Steam buff.ly/j1yfq2A 
+US PSN buff.ly/Dtvr6br
+Link: https://buff.ly/j1yfq2A
+Link: https://buff.ly/Dtvr6br
+Image description: [no alt text supplied; image omitted]
+Engagement: like=40 repost=8 reply=3 quote=0
+
+--- 34/169 | post | 2026-10-06T17:28:03.443Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7xd4jgds2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7xd4jgds2y
+Author: wario64.bsky.social
+Created: 2026-10-06T17:28:03.443Z
+LEGO Art Hokusai The Great Wave Framed Japanese Wall Art Building Set is $69.99 on Amazon Prime amzn.to/49H4NhH #ad
+Link: https://amzn.to/49H4NhH
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=24 repost=0 reply=1 quote=0
+
+--- 35/169 | post | 2026-10-06T17:10:56.264Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7wejxy322y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7wejxy322y
+Author: wario64.bsky.social
+Created: 2026-10-06T17:10:56.264Z
+10/22:
+-Ad Infinitum (EGS)
+-Time Travel: Escape Room Game (Legacy)
+
+10/29:
+-Trash Goblin (EGS)
+-Kiborg
+Languages: en
+Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7weiwdvk2y
+Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7weiwdvk2y
+Engagement: like=12 repost=0 reply=0 quote=0
+
+--- 36/169 | post | 2026-10-06T17:10:56.263Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7weiwdvk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7weiwdvk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T17:10:56.263Z
+Free Prime Gaming/Luna lineup for October www.amazongamestudios.com/en-us/news/a...
+
+out now:
+-Five Nights at Freddy's: Into the Pit (EGS)
+-DOOM 2016 (GOG)
+
+10/8:
+-Conarium (GOG)
+-WarBreeds (GOG)
+
+10/15:
+-Vampire: The Masquerade - Swansong (EGS)
+-Caravan SandWitch
+Link: https://www.amazongamestudios.com/en-us/news/articles/luna-october-2026
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=29 repost=2 reply=1 quote=1
+
+--- 37/169 | post | 2026-10-06T17:06:40.937Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7w4vgyjm2g
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7w4vgyjm2g
+Author: wario64.bsky.social
+Created: 2026-10-06T17:06:40.937Z
+New LRG arrivals are up on VGP buff.ly/l76UxGA #ad
+Link: https://buff.ly/l76UxGA
+Image description: [no alt text supplied; image omitted]
+Engagement: like=15 repost=1 reply=0 quote=0
+
+--- 38/169 | post | 2026-10-06T17:00:11.223Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7vrbrcys2n
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7vrbrcys2n
+Author: wario64.bsky.social
+Created: 2026-10-06T17:00:11.223Z
+Humble Choice October Bundle is up ($14.99) buff.ly/FoVMeKo #ad 
+
+-Like a Dragon: Pirate Yakuza in Hawaii
+-Prince of Persia The Lost Crown (Steam code)
+-Psychonauts 2
+-Deep Rock Galactic: Survivor
+
+& more
+Link: https://buff.ly/FoVMeKo
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=83 repost=13 reply=14 quote=10
+
+--- 39/169 | post | 2026-10-06T16:46:57.843Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7uzn5mgu2g
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7uzn5mgu2g
+Author: wario64.bsky.social
+Created: 2026-10-06T16:46:57.843Z
+Fangamer merch up for order:
+
+Crashout Crew buff.ly/Lmk16dW 
+Ghost of Yotei buff.ly/ILIeYbH 
+Elden Ring buff.ly/3dvFK4W 
+Slime Rancher 2 buff.ly/JHG3RXA
+Link: https://buff.ly/Lmk16dW
+Link: https://buff.ly/ILIeYbH
+Link: https://buff.ly/3dvFK4W
+Link: https://buff.ly/JHG3RXA
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=16 repost=0 reply=0 quote=1
+
+--- 40/169 | post | 2026-10-06T16:34:49.149Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7udw7cmc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7udw7cmc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T16:34:49.149Z
+Wolf Children - Limited Edition Steelbook (4K UHD + Blu-ray) is $17.99 on Amazon Prime amzn.to/45QpveR #ad
+Link: https://amzn.to/45QpveR
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=30 repost=4 reply=0 quote=2
+
+--- 41/169 | post | 2026-10-06T16:30:18.000Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7u3tmio22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7u3tmio22y
+Author: wario64.bsky.social
+Created: 2026-10-06T16:30:18.000Z
+Scream (1996): 30th Anniversary Edition (Amazon Exclusive) [4K UHD + Blu-ray + Digital] up for preorder on Amazon ($109.99) amzn.to/4dmTQ8J #ad
+Link: https://amzn.to/4dmTQ8J
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=28 repost=1 reply=2 quote=3
+
+--- 42/169 | post | 2026-10-06T16:23:57.863Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7tqj3m5k2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7tqj3m5k2y
+Author: wario64.bsky.social
+Created: 2026-10-06T16:23:57.863Z
+GameSir G7 Pro Wired Controller for Xbox Series X|S, Xbox One, Wireless Gamepad for PC&Android with TMR Sticks is $63.99 on Amazon Prime amzn.to/4AO5kMF 
+Best Buy buff.ly/SHlSPP9
+Walmart buff.ly/DNyzw1E #ad
+Link: https://amzn.to/4AO5kMF
+Link: https://buff.ly/SHlSPP9
+Link: https://buff.ly/DNyzw1E
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=15 repost=1 reply=0 quote=0
+
+--- 43/169 | post | 2026-10-06T16:12:21.393Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7t3qvqu72z
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7t3qvqu72z
+Author: wario64.bsky.social
+Created: 2026-10-06T16:12:21.393Z
+squishy Metroid amiibo import restocked again at VGP ($35 US Dollars) buff.ly/i7zdipz #ad
+Link: https://buff.ly/i7zdipz
+Image description: [no alt text supplied; image omitted]
+Engagement: like=47 repost=5 reply=3 quote=1
+
+--- 44/169 | post | 2026-10-06T16:11:38.644Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7t2i4ikc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7t2i4ikc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T16:11:38.644Z
+Ys Memoire: Revelations in Celceta - DAY ONE EDITION (Switch) is $29.99 on Amazon Prime amzn.to/3Vmx6MR #ad
+Link: https://amzn.to/3Vmx6MR
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=22 repost=2 reply=0 quote=0
+
+--- 45/169 | post | 2026-10-06T16:05:40.956Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7spsz7nb23
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7spsz7nb23
+Author: wario64.bsky.social
+Created: 2026-10-06T16:05:40.956Z
+Rise of the Tomb Raider: 20 Year Celebration (Switch 2) Standard/CE goes up on LRG on Oct 9th buff.ly/p4OCquG #ad
+Link: https://buff.ly/p4OCquG
+Image description: [no alt text supplied; image omitted]
+Engagement: like=35 repost=0 reply=3 quote=1
+
+--- 46/169 | post | 2026-10-06T16:03:29.656Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7slvrqa22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7slvrqa22y
+Author: wario64.bsky.social
+Created: 2026-10-06T16:03:29.656Z
+McFarlane Toys- Call of Duty: Modern Warfare 4 Ghost 1:6th Scale (12in) Resin Statue up for preorder on Amazon ($349.99) amzn.to/47nFXUx
+Best Buy buff.ly/MqGJX3z #ad
+Link: https://amzn.to/47nFXUx
+Link: https://buff.ly/MqGJX3z
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=8 repost=0 reply=3 quote=0
+
+--- 47/169 | post | 2026-10-06T15:55:27.743Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7s5k6v3k2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7s5k6v3k2y
+Author: wario64.bsky.social
+Created: 2026-10-06T15:55:27.743Z
+Logitech G PRO Flight Yoke System Professional Simulation is $113.98 on Amazon Prime amzn.to/3BqCIvF #ad
+Link: https://amzn.to/3BqCIvF
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=18 repost=1 reply=0 quote=1
+
+--- 48/169 | post | 2026-10-06T15:53:07.449Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7rzefi7c2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7rzefi7c2y
+Author: wario64.bsky.social
+Created: 2026-10-06T15:53:07.449Z
+The Blood of Dawnwalker Day 1 Edition (PS5) is $59.49 at Best Buy buff.ly/sDEeKRM
+Amazon Prime amzn.to/4ueBFrG #ad
+Link: https://buff.ly/sDEeKRM
+Link: https://amzn.to/4ueBFrG
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=27 repost=2 reply=0 quote=0
+
+--- 49/169 | post | 2026-10-06T15:40:01.746Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7rbx3q4k2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7rbx3q4k2y
+Author: wario64.bsky.social
+Created: 2026-10-06T15:40:01.746Z
+The Complete Calvin and Hobbes [Box Set] hardcover is $99.01 on Amazon Prime (1440 pages, 56% off) amzn.to/3IXmRf8 #ad
+Link: https://amzn.to/3IXmRf8
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=125 repost=20 reply=1 quote=3
+
+--- 50/169 | post | 2026-10-06T15:32:19.197Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7qu5xu4c2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7qu5xu4c2y
+Author: wario64.bsky.social
+Created: 2026-10-06T15:32:19.197Z
+Pikachu Pokemon Classic Child Costume Size: M (7-8) is $9.03 on Amazon Prime amzn.to/4rQzjzr #ad
+Link: https://amzn.to/4rQzjzr
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=22 repost=4 reply=4 quote=5
+
+--- 51/169 | post | 2026-10-06T15:29:01.117Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7qob3d3z2f
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7qob3d3z2f
+Author: wario64.bsky.social
+Created: 2026-10-06T15:29:01.117Z
+OMEN by HP 23.8 inch FHD 165Hz Gaming Monitor is $79.99 at HP buff.ly/S08V8aL 
+Newegg buff.ly/e1vkM1U #ad
+Link: https://buff.ly/S08V8aL
+Link: https://buff.ly/e1vkM1U
+Image description: [no alt text supplied; image omitted]
+Engagement: like=14 repost=0 reply=5 quote=2
+
+--- 52/169 | post | 2026-10-06T15:19:55.012Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7q5yb4x22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7q5yb4x22y
+Author: wario64.bsky.social
+Created: 2026-10-06T15:19:55.012Z
+Sonic Racing: CrossWorlds Amazon Exclusive Edition (Switch 2E) is $29.99 on Amazon Prime. PS5/Switch/Xbox $19.99 amzn.to/45alOQZ #ad 
+
+Switch 1 + 2 on cart for Switch 2E
+Link: https://amzn.to/45alOQZ
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=28 repost=2 reply=0 quote=2
+
+--- 53/169 | post | 2026-10-06T15:15:54.197Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7pwsm22c2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7pwsm22c2y
+Author: wario64.bsky.social
+Created: 2026-10-06T15:15:54.197Z
+Mario Tennis Fever (Switch 2) is $49.99 on Amazon Prime Lightning Deal amzn.to/46zdefv #ad
+Link: https://amzn.to/46zdefv
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=18 repost=1 reply=2 quote=2
+
+--- 54/169 | post | 2026-10-06T15:05:46.829Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7pepenac2x
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7pepenac2x
+Author: wario64.bsky.social
+Created: 2026-10-06T15:05:46.829Z
+PlayStation 5 Pro Console - 2 TB in-stock at PS Direct ($899) buff.ly/az8y0Nz #ad
+Link: https://buff.ly/az8y0Nz
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=37 repost=1 reply=5 quote=9
+
+--- 55/169 | post | 2026-10-06T15:04:44.396Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7pcttdj22x
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7pcttdj22x
+Author: wario64.bsky.social
+Created: 2026-10-06T15:04:44.396Z
+The Ultimate Aang & Korra Blu-ray Collection with Bonus Disc & Art Cards is $8.49 on Amazon amzn.to/4x6cxoa #ad
+Link: https://amzn.to/4x6cxoa
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=46 repost=5 reply=5 quote=3
+
+--- 56/169 | post | 2026-10-06T15:03:30.064Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7pamwxmk2x
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7pamwxmk2x
+Author: wario64.bsky.social
+Created: 2026-10-06T15:03:30.064Z
+Life is Strange: Reunion (PS5/XSX) is $24.99 on Amazon Prime amzn.to/4uVBPUS #ad
+Link: https://amzn.to/4uVBPUS
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=18 repost=0 reply=0 quote=0
+
+--- 57/169 | post | 2026-10-06T14:42:42.876Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7o3hjpns2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7o3hjpns2y
+Author: wario64.bsky.social
+Created: 2026-10-06T14:42:42.876Z
+Nioh 3: SteelBook Launch Edition (PS5) is $48.99 on Amazon amzn.to/4nPRaDk
+$38.99 PNP buff.ly/CbjrInQ #ad
+Link: https://amzn.to/4nPRaDk
+Link: https://buff.ly/CbjrInQ
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=13 repost=1 reply=0 quote=0
+
+--- 58/169 | post | 2026-10-06T14:40:07.663Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7nwtizgs2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7nwtizgs2y
+Author: wario64.bsky.social
+Created: 2026-10-06T14:40:07.663Z
+Pragmata (PS5/Switch 2 KC/XSX) is $39.99 on Amazon Prime amzn.to/4rTaUsz #ad
+Link: https://amzn.to/4rTaUsz
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=22 repost=1 reply=0 quote=0
+
+--- 59/169 | post | 2026-10-06T14:34:37.630Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7nmyr7lk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7nmyr7lk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T14:34:37.630Z
+Pokémon Legends: Z-A (Switch 2E) is $39.88 at Walmart, or ~$30 with codes SAVE3X / FAST30 / TRIPLE10 / DOUBLE10 buff.ly/MGG5EYL
+add banana or change to store pickup if code doesn't work buff.ly/9o6xhEa #ad 
+
+$39.99 Amazon Prime amzn.to/44eMezJ
+Link: https://buff.ly/MGG5EYL
+Link: https://buff.ly/9o6xhEa
+Link: https://amzn.to/44eMezJ
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=96 repost=28 reply=8 quote=5
+
+--- 60/169 | post | 2026-10-06T14:30:14.352Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7nf5om622y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7nf5om622y
+Author: wario64.bsky.social
+Created: 2026-10-06T14:30:14.352Z
+Neon Genesis Evangelion: The Complete Series [Blu-ray] is $23.49 on Amazon Prime amzn.to/3Ofgd0V #ad
+Link: https://amzn.to/3Ofgd0V
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=46 repost=12 reply=2 quote=1
+
+--- 61/169 | post | 2026-10-06T14:24:16.956Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7n2itqn22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7n2itqn22y
+Author: wario64.bsky.social
+Created: 2026-10-06T14:24:16.956Z
+Games of Thrones: The Complete Collection (4K Ultra HD) is $99.99 on Amazon Prime amzn.to/3U8PPhK #ad
+Link: https://amzn.to/3U8PPhK
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=19 repost=1 reply=1 quote=1
+
+--- 62/169 | post | 2026-10-06T14:14:59.668Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7mjvfd6c26
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7mjvfd6c26
+Author: wario64.bsky.social
+Created: 2026-10-06T14:14:59.668Z
+Astral Chain (Switch EU Import) in-stock at VGP ($59 US Dollars) buff.ly/eXLyRff #ad
+Link: https://buff.ly/eXLyRff
+Image description: [no alt text supplied; image omitted]
+Engagement: like=28 repost=3 reply=0 quote=2
+
+--- 63/169 | post | 2026-10-06T14:14:23.196Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7mism64s2t
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7mism64s2t
+Author: wario64.bsky.social
+Created: 2026-10-06T14:14:23.196Z
+Metroid Dread (Switch EU Import) in-stock at VGP ($70 US Dollars) buff.ly/qU5w5QS #ad
+Link: https://buff.ly/qU5w5QS
+Image description: [no alt text supplied; image omitted]
+Engagement: like=26 repost=3 reply=3 quote=3
+
+--- 64/169 | post | 2026-10-06T14:12:20.796Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7mf5ubn22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7mf5ubn22y
+Author: wario64.bsky.social
+Created: 2026-10-06T14:12:20.796Z
+French's Classic Yellow Mustard, 105 oz - One 105 Ounce Bulk Container of Tangy and Creamy Yellow Mustard Perfect for Professional Use or for Refillable Containers at Home is $4.30 on Amazon Prime amzn.to/3Go1kVJ #ad
+Link: https://amzn.to/3Go1kVJ
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=98 repost=32 reply=14 quote=21
+
+--- 65/169 | post | 2026-10-06T14:10:33.535Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7mbxkwks2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7mbxkwks2y
+Author: wario64.bsky.social
+Created: 2026-10-06T14:10:33.535Z
+Sailor Moon Manga Box Set Vol. 1-6 is $37.37 on Amazon Prime amzn.to/4d9erdM #ad 
+
+Walmart $39.34 buff.ly/VYNJeci
+Link: https://amzn.to/4d9erdM
+Link: https://buff.ly/VYNJeci
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=30 repost=6 reply=0 quote=0
+
+--- 66/169 | post | 2026-10-06T14:03:19.466Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7luzmjk32f
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7luzmjk32f
+Author: wario64.bsky.social
+Created: 2026-10-06T14:03:19.466Z
+Call of Duty: WWII showing free on UK PSN buff.ly/E1b3JWu 
+Mafia III buff.ly/RQGWixI
+Link: https://buff.ly/E1b3JWu
+Link: https://buff.ly/RQGWixI
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=21 repost=3 reply=4 quote=0
+
+--- 67/169 | post | 2026-10-06T14:01:09.464Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7lr5mwvs2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7lr5mwvs2y
+Author: wario64.bsky.social
+Created: 2026-10-06T14:01:09.464Z
+Warhammer Survivors Release Date Reveal Trailer (Nov 10th) www.youtube.com/watch?v=LgFI...
+Link: https://www.youtube.com/watch?v=LgFI-Zzs4C4
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=158 repost=33 reply=0 quote=6
+
+--- 68/169 | post | 2026-10-06T13:53:34.719Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7ldlx52s2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7ldlx52s2y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:53:34.719Z
+FLYDIGI Vader 5 Pro PC Controller, FORCEFLEX Joysticks (PC/Switch/Android/TV) is $62.29 on Amazon Prime amzn.to/40Q9ZwR #ad
+Link: https://amzn.to/40Q9ZwR
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=7 repost=1 reply=0 quote=2
+
+--- 69/169 | post | 2026-10-06T13:49:22.003Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7l42wt4k2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7l42wt4k2y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:49:22.003Z
+Pokémon GO Plus + available at Pokemon Center ($59.99) www.pokemoncenter.com/product/715E...
+Link: https://www.pokemoncenter.com/product/715E10390/
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=16 repost=0 reply=0 quote=1
+
+--- 70/169 | post | 2026-10-06T13:44:20.335Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7kt3aogs2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7kt3aogs2y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:44:20.335Z
+007 First Light - Collector's Edition (PC) is $119.99 on Amazon amzn.to/4qURFyy #ad
+Link: https://amzn.to/4qURFyy
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=13 repost=2 reply=1 quote=0
+
+--- 71/169 | post | 2026-10-06T13:42:18.084Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7kpgnup22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7kpgnup22y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:42:18.084Z
+Q Collection (Switch) is $20 on Amazon amzn.to/3PfY4G2 #ad
+Link: https://amzn.to/3PfY4G2
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=19 repost=1 reply=0 quote=1
+
+--- 72/169 | post | 2026-10-06T13:35:48.626Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7kdtakmk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7kdtakmk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:35:48.626Z
+XSEED Games sale on Amazon Prime amzn.to/3VUdEdD #ad 
+
+-Ys Memoire: Revelations in Celceta (Switch) $29.99
+-Rune Factory: Guardians of Azuma PS5/Switch $19.99
+-Daemon X Machina: Titanic Scion $19.99
+-Rune Factory 3: Special Switch $15.38
+-Slitterhead PS5 $19.99
+Link: https://amzn.to/3VUdEdD
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=24 repost=1 reply=0 quote=0
+
+--- 73/169 | post | 2026-10-06T13:31:57.894Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7k4x75gc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7k4x75gc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:31:57.894Z
+8BitDo Arcade Stick for Switch 2, Switch and Windows PC, Purple is $69.99 on Amazon Prime amzn.to/47D1qZp #ad
+Link: https://amzn.to/47D1qZp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=26 repost=5 reply=2 quote=1
+
+--- 74/169 | post | 2026-10-06T13:28:21.833Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7jwj5jdc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7jwj5jdc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:28:21.833Z
+The Boy And The Beast Steelbook (4K UHD + Blu-ray) is $23.99 on Amazon Prime amzn.to/4qFlv8S #ad
+Link: https://amzn.to/4qFlv8S
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=26 repost=2 reply=0 quote=1
+
+--- 75/169 | post | 2026-10-06T13:26:12.418Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7jsnq2jc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7jsnq2jc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:26:12.418Z
+Disguise Men's Bowser Costume Kit - Adult is $22.39 on Amazon after listed coupon amzn.to/3leHJ1M #ad
+Link: https://amzn.to/3leHJ1M
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=61 repost=17 reply=4 quote=10
+
+--- 76/169 | post | 2026-10-06T13:22:17.704Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7jlnvdic2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7jlnvdic2y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:22:17.704Z
+The Skyrim Library - Volumes I, II & III (Box Set) hardcover books is $40.39 on Amazon after listed coupon (~700 pages total) amzn.to/2yJhw0M #ad
+Link: http://amzn.to/2yJhw0M
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=20 repost=0 reply=1 quote=0
+
+--- 77/169 | post | 2026-10-06T13:18:29.842Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7jeulwwz2w
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7jeulwwz2w
+Author: wario64.bsky.social
+Created: 2026-10-06T13:18:29.842Z
+STAR WARS: Galactic Racer (Steam) is $47.95 on Gamebillet buff.ly/TnG9d6B 
+
+also available on Amazon Luna (streaming for Prime members) buff.ly/ToL7r1H 
+
+out now
+Link: https://buff.ly/TnG9d6B
+Link: https://buff.ly/ToL7r1H
+Image description: [no alt text supplied; image omitted]
+Engagement: like=44 repost=3 reply=3 quote=2
+
+--- 78/169 | post | 2026-10-06T13:15:40.530Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7j7t4fek2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7j7t4fek2y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:15:40.530Z
+Shaun of the Dead / Hot Fuzz / The World's End Trilogy (4K UHD) is $19.99 on Amazon Prime amzn.to/3FEjzWX
+
+GRUV (extra discount w/ code FIRSTGRUV15) buff.ly/hM2l0Ic #ad
+Link: https://amzn.to/3FEjzWX
+Link: https://buff.ly/hM2l0Ic
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=41 repost=3 reply=3 quote=5
+
+--- 79/169 | post | 2026-10-06T13:14:22.457Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7j5ins7c2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7j5ins7c2y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:14:22.457Z
+LEGO Icons Project Hail Mary Set is $69.99 on Amazon Prime amzn.to/3ZVpxyE #ad
+Link: https://amzn.to/3ZVpxyE
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=38 repost=5 reply=1 quote=0
+
+--- 80/169 | post | 2026-10-06T13:11:09.957Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7ixr36vk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7ixr36vk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:11:09.957Z
+Rune Factory: Guardians of Azuma (PS5/Switch) is $19.99 on Amazon Prime amzn.to/4efLz6K #ad
+Link: https://amzn.to/4efLz6K
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=11 repost=2 reply=1 quote=0
+
+--- 81/169 | post | 2026-10-06T13:08:59.076Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7ituazgc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7ituazgc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:08:59.076Z
+Battle Angel Alita Deluxe Complete Series Hardcover Box Set is $62.40 on Amazon Prime (65% off, 2392 pages) amzn.to/2QtRdX3 
+Walmart buff.ly/zANFZHo #ad
+Link: https://amzn.to/2QtRdX3
+Link: https://buff.ly/zANFZHo
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=34 repost=7 reply=0 quote=1
+
+--- 82/169 | post | 2026-10-06T13:05:33.968Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7inqnlo22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7inqnlo22y
+Author: wario64.bsky.social
+Created: 2026-10-06T13:05:33.968Z
+A.I. Artificial Intelligence Steelbook (4K UHD + Blu-ray) up for preorder on Amazon ($39.99) amzn.to/4B9x6DB #ad
+Link: https://amzn.to/4B9x6DB
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=30 repost=5 reply=1 quote=4
+
+--- 83/169 | post | 2026-10-06T13:04:28.979Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7ilsovyf2c
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7ilsovyf2c
+Author: wario64.bsky.social
+Created: 2026-10-06T13:04:28.979Z
+My Lovely Daughter: ReBorn (Switch English/JPN import) up for preorder at VGP ($35 US Dollars) buff.ly/yoXAGQc #ad
+Link: https://buff.ly/yoXAGQc
+Image description: [no alt text supplied; image omitted]
+Engagement: like=8 repost=1 reply=0 quote=0
+
+--- 84/169 | post | 2026-10-06T13:03:53.564Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7ikqvzz22i
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7ikqvzz22i
+Author: wario64.bsky.social
+Created: 2026-10-06T13:03:53.564Z
+New LRG arrivals going up on VGP at 10 AM PT buff.ly/l76UxGA #ad
+Link: https://buff.ly/l76UxGA
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=11 repost=0 reply=0 quote=0
+
+--- 85/169 | post | 2026-10-06T13:00:56.479Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7ifhzccs2v
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7ifhzccs2v
+Author: wario64.bsky.social
+Created: 2026-10-06T13:00:56.479Z
+Square Enix deals on Amazon Prime amzn.to/4yfCeU0 #ad 
+
+-FF7 Remake Intergrade (PS5/Switch 2 KC) $19.99/$24.99
+-FF7 Rebirth PS5/Switch 2 KC $16.99/$34.99
+-Adventures of Elliot $44.99
+-Octopath Traveler 0 $24.99 (XSX)/$29.99
+-DQ7 Reimagined (PS5) $28
+Link: https://amzn.to/4yfCeU0
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=19 repost=3 reply=0 quote=0
+
+--- 86/169 | post | 2026-10-06T12:55:53.248Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7i4gtfcs2v
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7i4gtfcs2v
+Author: wario64.bsky.social
+Created: 2026-10-06T12:55:53.248Z
+Daemon X Machina: Titanic Scion (Switch 2/PS5/XSX) is $19.99 on Amazon Prime amzn.to/4p6lj2S #ad 
+
+Xbox Disc to Digital eligible
+Link: https://amzn.to/4p6lj2S
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=15 repost=1 reply=0 quote=1
+
+--- 87/169 | post | 2026-10-06T12:53:42.841Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7hykhqok2v
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7hykhqok2v
+Author: wario64.bsky.social
+Created: 2026-10-06T12:53:42.841Z
+Trails in the Sky 1st Chapter (Switch) is $37.99 on Amazon Prime. PS5 $39.99 on Amazon amzn.to/3QVOEx5 #ad
+Link: https://amzn.to/3QVOEx5
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=15 repost=5 reply=1 quote=1
+
+--- 88/169 | post | 2026-10-06T12:52:26.330Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7hwbirwk2v
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7hwbirwk2v
+Author: wario64.bsky.social
+Created: 2026-10-06T12:52:26.330Z
+Styx Blades of Greed (PS5) is $24.99 on Amazon amzn.to/4yv73oM
+Best Buy buff.ly/hmE3xQh #ad
+Link: https://amzn.to/4yv73oM
+Link: https://buff.ly/hmE3xQh
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=6 repost=1 reply=0 quote=0
+
+--- 89/169 | post | 2026-10-06T12:49:28.361Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7hqxsa5h26
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7hqxsa5h26
+Author: wario64.bsky.social
+Created: 2026-10-06T12:49:28.361Z
+Last day to get The DC Universe Bundle on GMG ($12 for all, ends in ~4 hours) buff.ly/y0MG0Mc #ad
+Link: https://buff.ly/y0MG0Mc
+Image description: [no alt text supplied; image omitted]
+Engagement: like=7 repost=2 reply=0 quote=0
+
+--- 90/169 | post | 2026-10-06T12:48:40.312Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx7hpjxsis2f
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx7hpjxsis2f
+Author: wario64.bsky.social
+Created: 2026-10-06T12:48:40.312Z
+Destructive Creations Bundle is up on GMG ($10 for all) buff.ly/81WsZAO #ad
+Link: https://buff.ly/81WsZAO
+Image description: [no alt text supplied; image omitted]
+Engagement: like=7 repost=0 reply=1 quote=0
+
+--- 91/169 | post | 2026-10-06T09:17:25.105Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx73vrwnfc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx73vrwnfc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T09:17:25.105Z
+Star Wars Galactic Racer is up on Amazon Luna (If you have Amazon Prime, you can play this at no additional cost) amzn.to/4djFDJQ
+Link: https://amzn.to/4djFDJQ
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=121 repost=20 reply=8 quote=6
+
+--- 92/169 | post | 2026-10-06T09:07:17.276Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx73dob6f22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx73dob6f22y
+Author: wario64.bsky.social
+Created: 2026-10-06T09:07:17.276Z
+French's Classic Yellow Mustard Squeeze Bottle, 12 oz, 12-pack is $6.18 on Amazon Prime amzn.to/3TNse67 #ad
+Link: https://amzn.to/3TNse67
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=77 repost=19 reply=10 quote=10
+
+--- 93/169 | post | 2026-10-06T09:05:49.353Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx73b2fy3cnu
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx73b2fy3cnu
+Author: wario64.bsky.social
+Created: 2026-10-06T09:05:49.353Z
+4K UHD movies starting to sell out. Add movies that are $25 or more for free checkout, any movies under $25 will incur a small charge. Must add in pairs (2/4/6/8/etc) amzn.to/4dnEEbq #ad
+Link: https://amzn.to/4dnEEbq
+Languages: en
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx72o4t7xknu
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T08:55:14.350Z
+Tons of 4K UHD movies are free or nearly free on Amazon Prime if you add 2 more movies (order in even quantities - 2/4/6/8/etc) amzn.to/4dnEEbq #ad
+Link: https://amzn.to/4dnEEbq
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx72eljtts2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T08:49:54.226Z
+Sinners (4K UHD) is free if you add 2 copies on Prime amzn.to/4hHUrmB  #ad 
+
+Add these for free too (must be even qty #):
+
+Companion amzn.to/4AQZ1aY
+Final Destination: Bloodlines amzn.to/4jpS6j1
+Bugonia  amzn.to/3W8PADS
+They Will Klll You amzn.to/47CpP1d
+
+Try other movies here: amzn.to/4jGnE3V
+Link: https://amzn.to/4hHUrmB
+Link: https://amzn.to/4AQZ1aY
+Link: https://amzn.to/4jpS6j1
+Link: https://amzn.to/3W8PADS
+Link: https://amzn.to/47CpP1d
+Link: https://amzn.to/4jGnE3V
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=21 repost=3 reply=0 quote=0
+
+--- 94/169 | post | 2026-10-06T08:58:44.994Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx72ufpkyknu
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx72ufpkyknu
+Author: wario64.bsky.social
+Created: 2026-10-06T08:58:44.994Z
+seems to work best if you add movies that are $25 or more. Anything under may incur a price
+Languages: en
+Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx72o4t7xknu
+Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx72o4t7xknu
+Engagement: like=11 repost=0 reply=1 quote=0
+
+--- 95/169 | post | 2026-10-06T08:55:14.350Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx72o4t7xknu
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx72o4t7xknu
+Author: wario64.bsky.social
+Created: 2026-10-06T08:55:14.350Z
+Tons of 4K UHD movies are free or nearly free on Amazon Prime if you add 2 more movies (order in even quantities - 2/4/6/8/etc) amzn.to/4dnEEbq #ad
+Link: https://amzn.to/4dnEEbq
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx72eljtts2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T08:49:54.226Z
+Sinners (4K UHD) is free if you add 2 copies on Prime amzn.to/4hHUrmB  #ad 
+
+Add these for free too (must be even qty #):
+
+Companion amzn.to/4AQZ1aY
+Final Destination: Bloodlines amzn.to/4jpS6j1
+Bugonia  amzn.to/3W8PADS
+They Will Klll You amzn.to/47CpP1d
+
+Try other movies here: amzn.to/4jGnE3V
+Link: https://amzn.to/4hHUrmB
+Link: https://amzn.to/4AQZ1aY
+Link: https://amzn.to/4jpS6j1
+Link: https://amzn.to/3W8PADS
+Link: https://amzn.to/47CpP1d
+Link: https://amzn.to/4jGnE3V
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=28 repost=2 reply=3 quote=2
+
+--- 96/169 | post | 2026-10-06T08:49:54.226Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx72eljtts2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx72eljtts2y
+Author: wario64.bsky.social
+Created: 2026-10-06T08:49:54.226Z
+Sinners (4K UHD) is free if you add 2 copies on Prime amzn.to/4hHUrmB  #ad 
+
+Add these for free too (must be even qty #):
+
+Companion amzn.to/4AQZ1aY
+Final Destination: Bloodlines amzn.to/4jpS6j1
+Bugonia  amzn.to/3W8PADS
+They Will Klll You amzn.to/47CpP1d
+
+Try other movies here: amzn.to/4jGnE3V
+Link: https://amzn.to/4hHUrmB
+Link: https://amzn.to/4AQZ1aY
+Link: https://amzn.to/4jpS6j1
+Link: https://amzn.to/3W8PADS
+Link: https://amzn.to/47CpP1d
+Link: https://amzn.to/4jGnE3V
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=18 repost=5 reply=3 quote=1
+
+--- 97/169 | post | 2026-10-06T08:25:24.736Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6yys4k222y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6yys4k222y
+Author: wario64.bsky.social
+Created: 2026-10-06T08:25:24.736Z
+LEGO Super Mario Prince Florian & Castle Bowser Building Toy is $69.99 on Amazon Prime amzn.to/4hIg0U2 #ad
+Link: https://amzn.to/4hIg0U2
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=37 repost=4 reply=0 quote=0
+
+--- 98/169 | post | 2026-10-06T08:06:26.085Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6xwu7n722y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xwu7n722y
+Author: wario64.bsky.social
+Created: 2026-10-06T08:06:26.085Z
+Qanba B1 Titan Wired Joystick for PlayStation 5/4 and PC (Fighting Stick) is $121.24 on Amazon Prime amzn.to/4zkkS9p #ad
+Link: https://amzn.to/4zkkS9p
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=27 repost=2 reply=0 quote=0
+
+--- 99/169 | post | 2026-10-06T08:01:08.359Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6xnf7gus2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xnf7gus2y
+Author: wario64.bsky.social
+Created: 2026-10-06T08:01:08.359Z
+Farmagia – Day 1 Edition PS5 is $19.99 on Amazon Prime amzn.to/4huSSK7 #ad
+Link: https://amzn.to/4huSSK7
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=6 repost=0 reply=0 quote=0
+
+--- 100/169 | post | 2026-10-06T07:57:08.465Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6xgaggg22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xgaggg22y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:57:08.465Z
+Fitness Boxing feat. HATSUNE MIKU (Switch) is $35.85 on Amazon amzn.to/3RmbXAM #ad
+Link: https://amzn.to/3RmbXAM
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=36 repost=3 reply=0 quote=2
+
+--- 101/169 | post | 2026-10-06T07:55:18.839Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6xcxuvrk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xcxuvrk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:55:18.839Z
+The Good Old Days (Switch) is $17.50 on Amazon amzn.to/4orR6Lj #ad
+Link: https://amzn.to/4orR6Lj
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=8 repost=0 reply=0 quote=0
+
+--- 102/169 | post | 2026-10-06T07:54:08.731Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6xauzewk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6xauzewk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:54:08.731Z
+Amazon Prime Big Deal Days (Oct 6/Oct 7) amzn.to/4j7kTIY
+
+Video games amzn.to/4rMBkwi
+Computers & Accessories amzn.to/4y5uZh9
+Movies & TV amzn.to/472CIlc
+Toys amzn.to/4j7rIKp #ad
+Link: https://amzn.to/4j7kTIY
+Link: https://amzn.to/4rMBkwi
+Link: https://amzn.to/4y5uZh9
+Link: https://amzn.to/472CIlc
+Link: https://amzn.to/4j7rIKp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=42 repost=7 reply=1 quote=47
+
+--- 103/169 | post | 2026-10-06T07:45:35.621Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6wrlojwc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6wrlojwc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:45:35.621Z
+Marvel's Wolverine (PS5) used very good is $44.93 on Amazon Resale amzn.to/4rS1vlB #ad
+Link: https://amzn.to/4rS1vlB
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=17 repost=1 reply=4 quote=0
+
+--- 104/169 | post | 2026-10-06T07:43:46.017Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6wod5ns22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6wod5ns22y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:43:46.017Z
+HyperX Cloud Alpha - Gaming Headset is $39.98 on Amazon Prime amzn.to/4y687hD #ad
+Link: https://amzn.to/4y687hD
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=13 repost=0 reply=0 quote=1
+
+--- 105/169 | post | 2026-10-06T07:42:44.436Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6wmigf322y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6wmigf322y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:42:44.436Z
+Razer Kraken Kitty V2 USB Wired Headset w/Kitty Ears, Hello Kitty Edition is $33 on Amazon (MSRP $109) amzn.to/3UaBKjR #ad
+Link: https://amzn.to/3UaBKjR
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=30 repost=2 reply=2 quote=0
+
+--- 106/169 | post | 2026-10-06T07:41:06.264Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6wjksgxc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6wjksgxc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:41:06.264Z
+Dragon Ball Super: SUPER HERO - Steelbook Amazon Exclusive (4K + Blu-ray) is $25.49 on Amazon Prime amzn.to/3E2OPjI #ad
+Link: https://amzn.to/3E2OPjI
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=31 repost=1 reply=0 quote=0
+
+--- 107/169 | post | 2026-10-06T07:37:40.208Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6wdgc3g22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6wdgc3g22y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:37:40.208Z
+HTC Vive XR Elite with Deluxe Pack — Mixed Reality and PC VR Headset + Controllers is $269.70 on Amazon amzn.to/4hFWJ5Q #ad
+Link: https://amzn.to/4hFWJ5Q
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=14 repost=1 reply=1 quote=1
+
+--- 108/169 | post | 2026-10-06T07:36:26.599Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6wba3qm22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6wba3qm22y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:36:26.599Z
+LEGO deals on Amazon Prime amzn.to/4j72ifY #ad
+Link: https://amzn.to/4j72ifY
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=9 repost=0 reply=0 quote=0
+
+--- 109/169 | post | 2026-10-06T07:35:11.794Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6w6yqvt22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6w6yqvt22y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:35:11.794Z
+4K / Blu-ray Steelbook Deals on Amazon Prime amzn.to/4jbVyxz #ad
+Link: https://amzn.to/4jbVyxz
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=41 repost=1 reply=0 quote=1
+
+--- 110/169 | post | 2026-10-06T07:34:10.466Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6w56bbak2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6w56bbak2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:34:10.466Z
+The Colors Within: Limited Edition Steelbook Blu-ray + DVD is $12.99 on Amazon Prime amzn.to/3F0vN14 #ad
+Link: https://amzn.to/3F0vN14
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=23 repost=0 reply=0 quote=0
+
+--- 111/169 | post | 2026-10-06T07:33:24.763Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6w3soigk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6w3soigk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:33:24.763Z
+Evangelion: 3.0+1.11 Thrice Upon a Time - Limited Edition Steelbook (Blu-ray) is $16.99 on Amazon Prime amzn.to/3Ulvim1 #ad
+Link: https://amzn.to/3Ulvim1
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=48 repost=6 reply=1 quote=1
+
+--- 112/169 | post | 2026-10-06T07:32:21.728Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6vzwksss2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6vzwksss2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:32:21.728Z
+Summer Wars: Limited Edition Steelbook (4K UHD + Blu-ray) is $18.99 on Amazon Prime amzn.to/4guTcof #ad
+Link: https://amzn.to/4guTcof
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=45 repost=6 reply=0 quote=3
+
+--- 113/169 | post | 2026-10-06T07:31:04.393Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6vxmsrdc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6vxmsrdc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:31:04.393Z
+Fujifilm Instax Mini Link 3 Super Mario Smartphone Printer + Silicone Case is $74.98 on Amazon Prime amzn.to/3TCB0E0 #ad
+Link: https://amzn.to/3TCB0E0
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=33 repost=1 reply=0 quote=0
+
+--- 114/169 | post | 2026-10-06T07:30:13.084Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6vw3uvvs2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6vw3uvvs2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:30:13.084Z
+HORI Wireless HORIPAD Turbo (Aqua) for Nintendo Switch 2 - Wireless Handheld Controller is $19.50 on Amazon amzn.to/4kCYe63 #ad
+Link: https://amzn.to/4kCYe63
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=27 repost=1 reply=1 quote=0
+
+--- 115/169 | post | 2026-10-06T07:28:44.472Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6vthepq22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6vthepq22y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:28:44.472Z
+Everything Everywhere All At Once [4K UHD] is $12.49 on Amazon Prime amzn.to/42skt63 #ad
+Link: https://amzn.to/42skt63
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=42 repost=9 reply=0 quote=0
+
+--- 116/169 | post | 2026-10-06T07:27:11.153Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6vqoetvc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6vqoetvc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:27:11.153Z
+Code Vein II: Ultimate Edition (PS5) is $30 on Amazon amzn.to/4pzHEpv #ad
+Link: https://amzn.to/4pzHEpv
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=20 repost=2 reply=0 quote=0
+
+--- 117/169 | post | 2026-10-06T07:25:32.295Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6vnq3wus2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6vnq3wus2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:25:32.295Z
+Fallout: Complete Season 2 Steelbook (4K UHD) is $32.99 on Amazon Prime amzn.to/4bEibH1  
+Season 1 - $32.99 amzn.to/4jwYMs9 #ad
+Link: https://amzn.to/4bEibH1
+Link: https://amzn.to/4jwYMs9
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=14 repost=2 reply=0 quote=0
+
+--- 118/169 | post | 2026-10-06T07:23:54.685Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6vksz4mc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6vksz4mc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:23:54.685Z
+THEQUICKSHOT II is $12 on Amazon amzn.to/4aGSfdi #ad
+Link: https://amzn.to/4aGSfdi
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=31 repost=4 reply=1 quote=1
+
+--- 119/169 | post | 2026-10-06T07:23:03.838Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6vjcjfdk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6vjcjfdk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:23:03.838Z
+Metal Gear Solid 4: Guns of the Patriots (PS3) is $9.99 on Amazon amzn.to/44pBEo3 #ad
+Link: https://amzn.to/44pBEo3
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=33 repost=6 reply=1 quote=1
+
+--- 120/169 | post | 2026-10-06T07:22:21.589Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6vi27zl225
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6vi27zl225
+Author: wario64.bsky.social
+Created: 2026-10-06T07:22:21.589Z
+Granblue Fantasy: Relink: Endless Ragnarok (PS5) is $18 deal still up
+Languages: en
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uteutvc2y
+Quoted author: wario64.bsky.social
+Quoted created: 2026-10-06T07:10:48.113Z
+Granblue Fantasy: Relink: Endless Ragnarok (PS5) is $18 on Amazon amzn.to/4of5tD3 #ad
+Link: https://amzn.to/4of5tD3
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=16 repost=7 reply=1 quote=1
+
+--- 121/169 | post | 2026-10-06T07:21:55.434Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6vhbbukk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6vhbbukk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:21:55.434Z
+HORI Puff Pouch (Kirby & Waddle Dee) for Nintendo Switch 2 - Soft Carrying Bag is $10.50 on Amazon amzn.to/3RrzVx5 #ad
+Link: https://amzn.to/3RrzVx5
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=21 repost=1 reply=0 quote=0
+
+--- 122/169 | post | 2026-10-06T07:21:02.643Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6vfowruk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6vfowruk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:21:02.643Z
+8BitDo Lite 2 Bluetooth Gamepad for Switch, Switch Lite, Android and Raspberry Pi (Pink)  is $10.50 on Amazon amzn.to/3xulvP8 #ad
+Link: https://amzn.to/3xulvP8
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=15 repost=2 reply=0 quote=0
+
+--- 123/169 | post | 2026-10-06T07:18:40.246Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6vbh57bk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6vbh57bk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:18:40.246Z
+STARBITES: Deluxe Edition (PS5) is $20 on Amazon amzn.to/4hFVy6q #ad
+Link: https://amzn.to/4hFVy6q
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=8 repost=0 reply=0 quote=0
+
+--- 124/169 | post | 2026-10-06T07:17:56.058Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6va4yowk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6va4yowk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:17:56.058Z
+8BitDo Pro 2 Wired Controller for Switch, Windows, Steam Deck & Raspberry Pi (Gray Edition) is $10.50 on Amazon amzn.to/3LGIuwa #ad
+Link: https://amzn.to/3LGIuwa
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=26 repost=5 reply=0 quote=2
+
+--- 125/169 | post | 2026-10-06T07:16:28.356Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6v5jeah22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6v5jeah22y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:16:28.356Z
+Bus Bound: Deluxe Edition (PS5) is $12 on Amazon amzn.to/4bRKXUt #ad
+Link: https://amzn.to/4bRKXUt
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=8 repost=1 reply=0 quote=0
+
+--- 126/169 | post | 2026-10-06T07:15:53.379Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6v4hyt7s2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6v4hyt7s2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:15:53.379Z
+Roadcraft (XSX) is $12 on Amazon amzn.to/4dlMQJf #ad 
+
+Disc to Digital eligible
+Link: https://amzn.to/4dlMQJf
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=6 repost=0 reply=0 quote=0
+
+--- 127/169 | post | 2026-10-06T07:14:17.789Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6uzmtnmc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uzmtnmc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:14:17.789Z
+Starship Troopers: Ultimate Bug War (PS5) is $12 on Amazon amzn.to/4b7Wjn9 #ad
+Link: https://amzn.to/4b7Wjn9
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=9 repost=0 reply=0 quote=0
+
+--- 128/169 | post | 2026-10-06T07:13:27.200Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6uy4ltbc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uy4ltbc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:13:27.200Z
+8BitDo Charging Dock for Xbox Controllers, Forza Horizon 6 Limited Edition is $10.50 on Amazon amzn.to/4dT6VaX #ad
+Link: https://amzn.to/4dT6VaX
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=14 repost=0 reply=0 quote=0
+
+--- 129/169 | post | 2026-10-06T07:12:04.137Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6uvnev422y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uvnev422y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:12:04.137Z
+007 First Light - Legacy Edition (PC/XSX) is $90 on Amazon (MSRP $299.99). PS5 $120 amzn.to/4pagJk4 #ad
+Link: https://amzn.to/4pagJk4
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=15 repost=0 reply=0 quote=1
+
+--- 130/169 | post | 2026-10-06T07:10:48.113Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6uteutvc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uteutvc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:10:48.113Z
+Granblue Fantasy: Relink: Endless Ragnarok (PS5) is $18 on Amazon amzn.to/4of5tD3 #ad
+Link: https://amzn.to/4of5tD3
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=14 repost=2 reply=0 quote=5
+
+--- 131/169 | post | 2026-10-06T07:10:00.610Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6urxl6ak2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6urxl6ak2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:10:00.610Z
+Disgaea Mayhem: Deluxe Edition (Switch/Switch 2 KC/PS5) is $18 on Amazon amzn.to/4cEDNTj #ad
+Link: https://amzn.to/4cEDNTj
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=11 repost=0 reply=1 quote=1
+
+--- 132/169 | post | 2026-10-06T07:08:20.030Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6uoxnplk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uoxnplk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:08:20.030Z
+Pokémon Legends: Z-A (Switch 2E) is $39.99 on Amazon Prime Lightning Deal amzn.to/44eMezJ #ad
+Link: https://amzn.to/44eMezJ
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=20 repost=1 reply=0 quote=0
+
+--- 133/169 | post | 2026-10-06T07:07:27.900Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6unfwtf22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6unfwtf22y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:07:27.900Z
+THE BLOOD OF DAWNWALKER: Day 1 Edition (PS5) is $59.49 on Amazon Prime. XSX Standard $59.49 amzn.to/4ueBFrG #ad
+Link: https://amzn.to/4ueBFrG
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=15 repost=0 reply=0 quote=0
+
+--- 134/169 | post | 2026-10-06T07:07:03.207Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6umofb4snu
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6umofb4snu
+Author: wario64.bsky.social
+Created: 2026-10-06T07:07:03.207Z
+no, it's $39.99
+Languages: en
+Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uhzrikk2y
+Reply parent: https://bsky.app/profile/did:plc:oxu4js7bcgp6sptuieryqnlq/post/3mx6ukmyv322o
+Engagement: like=10 repost=0 reply=3 quote=1
+
+--- 135/169 | post | 2026-10-06T07:06:31.828Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6ulqhnl22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6ulqhnl22y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:06:31.828Z
+LEGO Animal Crossing Blathers’s Museum Collection Building Toy is $46.99 on Amazon Prime amzn.to/4z8IxJM #ad
+Link: https://amzn.to/4z8IxJM
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=13 repost=1 reply=1 quote=0
+
+--- 136/169 | post | 2026-10-06T07:06:15.579Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6ulaxrfs2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6ulaxrfs2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:06:15.579Z
+LEGO Art Hokusai The Great Wave Framed Japanese Wall Art Building Set is $69.99 on Amazon Prime amzn.to/4efHy2a #ad
+Link: https://amzn.to/4efHy2a
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=25 repost=7 reply=0 quote=0
+
+--- 137/169 | post | 2026-10-06T07:05:56.494Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6ukordpk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6ukordpk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:05:56.494Z
+LEGO Icons Project Hail Mary Set is $69.99 on Amazon Prime amzn.to/4yF6wAA #ad
+Link: https://amzn.to/4yF6wAA
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=23 repost=1 reply=0 quote=1
+
+--- 138/169 | post | 2026-10-06T07:05:35.008Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6uk2bmcs2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uk2bmcs2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:05:35.008Z
+Rune Factory sale on Amazon Prime amzn.to/4efLz6K #ad 
+
+-Rune Factory Guardians of Azuma PS5/Switch $19.99
+-Rune Factory 3: Special Switch $15.38 / Limited Edition $29.99
+Link: https://amzn.to/4efLz6K
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=13 repost=0 reply=0 quote=0
+
+--- 139/169 | post | 2026-10-06T07:05:07.564Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6uja44j22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uja44j22y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:05:07.564Z
+DRAGON QUEST VII Reimagined(PS5) is $28.69 on Amazon Prime. Switch/Switch 2 KC/XSX ~$38 amzn.to/4sd4kNm #ad
+Link: https://amzn.to/4sd4kNm
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=17 repost=4 reply=0 quote=0
+
+--- 140/169 | post | 2026-10-06T07:04:27.370Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6uhzrikk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uhzrikk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:04:27.370Z
+Pragamata (PS5/Switch 2 KC/XSX) is $39.99 on Amazon Prime amzn.to/4rTaUsz #ad
+Link: https://amzn.to/4rTaUsz
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=21 repost=1 reply=2 quote=0
+
+--- 141/169 | post | 2026-10-06T07:04:05.202Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6uhemy4k2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uhemy4k2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:04:05.202Z
+Tales of Berseria: REMASTERED (PS5/Switch) is $19.99 on Amazon Prime amzn.to/4g2aixk #ad
+Link: https://amzn.to/4g2aixk
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=27 repost=6 reply=1 quote=0
+
+--- 142/169 | post | 2026-10-06T07:03:47.136Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6ugtfnk22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6ugtfnk22y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:03:47.136Z
+The Adventures of Elliot: The Millennium Tales (PS5/Switch 2 KC/XSX) w/ double sided poster is $44.99 on Amazon Prime amzn.to/4epeG7d #ad
+Link: https://amzn.to/4epeG7d
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=18 repost=2 reply=0 quote=0
+
+--- 143/169 | post | 2026-10-06T07:03:12.485Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6ufse5p22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6ufse5p22y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:03:12.485Z
+Final Fantasy VII Remake Intergrade (PS5/Switch 2 KC) is $19.99/$24.99 on Amazon Prime. Rebirth PS5/Switch 2 KC $16.99/$34.99 amzn.to/3Tri7DX #ad
+Link: https://amzn.to/3Tri7DX
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=18 repost=4 reply=0 quote=0
+
+--- 144/169 | post | 2026-10-06T07:02:30.816Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6uekmlbc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uekmlbc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:02:30.816Z
+Octopath Traveler 0 (XSX) is $24.49 / PS5/Switch/Switch 2 KC $29.99 on Amazon Prime amzn.to/4qF0vzz #ad
+Link: https://amzn.to/4qF0vzz
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=15 repost=2 reply=0 quote=0
+
+--- 145/169 | post | 2026-10-06T07:01:41.255Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6ud3e2us2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6ud3e2us2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:01:41.255Z
+Ys Memoire: Revelations in Celceta - DAY ONE EDITION (Switch) is $29.99 on Amazon Prime amzn.to/3Vmx6MR #ad
+Link: https://amzn.to/3Vmx6MR
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=20 repost=4 reply=0 quote=0
+
+--- 146/169 | post | 2026-10-06T07:01:24.723Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6ucllkds2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6ucllkds2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:01:24.723Z
+Slitterhead Day 1 Edition (PS5) is $19.99  on Amazon Prime amzn.to/4eqkNaj #ad
+Link: https://amzn.to/4eqkNaj
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=15 repost=1 reply=0 quote=1
+
+--- 147/169 | post | 2026-10-06T07:01:03.582Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6ubxgfss2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6ubxgfss2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:01:03.582Z
+Sonic Racing: CrossWorlds (PS5/Switch/Xbox) Amazon exclusive edition w/ poster is $19.99 on Amazon Prime. Switch 2E $29.99 amzn.to/48n7Ko2 #ad
+Link: https://amzn.to/48n7Ko2
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=33 repost=4 reply=0 quote=0
+
+--- 148/169 | post | 2026-10-06T07:00:20.450Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6uaoc2rc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6uaoc2rc2y
+Author: wario64.bsky.social
+Created: 2026-10-06T07:00:20.450Z
+Daemon X Machina: Titanic Scion (Switch 2/PS5/XSX) is $19.99 on Amazon Prime amzn.to/4p6lj2S #ad 
+
+Xbox Disc to Digital eligible
+Link: https://amzn.to/4p6lj2S
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=15 repost=1 reply=0 quote=1
+
+--- 149/169 | post | 2026-10-06T05:16:45.212Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6ohgyeo526
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6ohgyeo526
+Author: wario64.bsky.social
+Created: 2026-10-06T05:16:45.212Z
+GameSir controller sale at Best Buy buff.ly/YdqbnFa #ad
+Link: https://buff.ly/YdqbnFa
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=15 repost=5 reply=0 quote=0
+
+--- 150/169 | post | 2026-10-06T05:11:19.935Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6o5qrxwn26
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6o5qrxwn26
+Author: wario64.bsky.social
+Created: 2026-10-06T05:11:19.935Z
+MEGA Halo Model Replica Building Toy, 343 Guilty Spark with 609 Pieces, Lights & Sounds is $25.73 on Woot w/ code WOOTOBER buff.ly/60BeY2l #ad
+Link: https://buff.ly/60BeY2l
+Image description: [no alt text supplied; image omitted]
+Engagement: like=26 repost=1 reply=0 quote=2
+
+--- 151/169 | post | 2026-10-06T05:03:04.045Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6noxur4z2k
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6noxur4z2k
+Author: wario64.bsky.social
+Created: 2026-10-06T05:03:04.045Z
+extra 22% off on Woot Daily Deals w/ code WOOTOBER buff.ly/dpW5iym #ad
+Link: https://buff.ly/dpW5iym
+Image description: [no alt text supplied; image omitted]
+Engagement: like=10 repost=2 reply=0 quote=0
+
+--- 152/169 | post | 2026-10-06T05:02:34.856Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6no3zqgr2k
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6no3zqgr2k
+Author: wario64.bsky.social
+Created: 2026-10-06T05:02:34.856Z
+JBL Flip 6 Portable IP67 Waterproof Speake is $66.26 on Woot w/ code WOOTOBER buff.ly/v3DX8Ui #ad
+Link: https://buff.ly/v3DX8Ui
+Image description: [no alt text supplied; image omitted]
+Engagement: like=8 repost=0 reply=0 quote=0
+
+--- 153/169 | post | 2026-10-06T05:01:52.220Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6nmtefk623
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6nmtefk623
+Author: wario64.bsky.social
+Created: 2026-10-06T05:01:52.220Z
+Disney & More Top Toys sale on Woot (extra 22% off w/ code WOOTOBER) buff.ly/qqZxXwE #ad
+Link: https://buff.ly/qqZxXwE
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=7 repost=0 reply=0 quote=0
+
+--- 154/169 | post | 2026-10-06T05:00:32.470Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6nkhcmyr2k
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6nkhcmyr2k
+Author: wario64.bsky.social
+Created: 2026-10-06T05:00:32.470Z
+Big Savings on Docking Stations sale on Woot (extra 22% off w/ code WOOTOBER) buff.ly/JkTMj3P #ad
+Link: https://buff.ly/JkTMj3P
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=4 repost=2 reply=0 quote=0
+
+--- 155/169 | post | 2026-10-06T03:53:23.854Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6jsfcqpk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6jsfcqpk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T03:53:23.854Z
+Arrival (Limited Edition SteelBook) [4K UHD + Blu-ray + Digital] available on Amazon ($35.19) amzn.to/4wdtBbK #ad
+Link: https://amzn.to/4wdtBbK
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=40 repost=0 reply=1 quote=0
+
+--- 156/169 | post | 2026-10-06T03:52:30.239Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6jqs6zh52g
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6jqs6zh52g
+Author: wario64.bsky.social
+Created: 2026-10-06T03:52:30.239Z
+LG - 48" Class B5 Series OLED AI 4K UHD Smart webOS TV (2025) is $299.99 at Best Buy buff.ly/4j7lsxo #ad
+Link: https://buff.ly/4j7lsxo
+Image description: [no alt text supplied; image omitted]
+Engagement: like=19 repost=2 reply=3 quote=2
+
+--- 157/169 | post | 2026-10-06T02:53:48.609Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6ghtoxik2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6ghtoxik2y
+Author: wario64.bsky.social
+Created: 2026-10-06T02:53:48.609Z
+ASUS TUF Gaming H1 Gen II Hatsune Miku Edition Wired USB Gaming Headset with Mic is $59.99 on Amazon. Mouse $69.99 amzn.to/4vBDznp #ad
+Link: https://amzn.to/4vBDznp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=67 repost=7 reply=1 quote=3
+
+--- 158/169 | post | 2026-10-06T02:31:53.451Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6fanhijs2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6fanhijs2y
+Author: wario64.bsky.social
+Created: 2026-10-06T02:31:53.451Z
+Project Hail Mary Steelbook (4K UHD + Blu-ray) back up for preorder on Amazon exclusive ($49.99) amzn.to/44sL97U #ad 
+
+out next week
+Link: https://amzn.to/44sL97U
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=61 repost=8 reply=3 quote=0
+
+--- 159/169 | post | 2026-10-06T01:45:17.536Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6cnd2ws22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6cnd2ws22y
+Author: wario64.bsky.social
+Created: 2026-10-06T01:45:17.536Z
+Resident Evil Six-Film Ultimate Collection Steelbook (4K UHD + Blu-ray + Digital) is $113.75 on Amazon amzn.to/3ERPzsd
+Walmart buff.ly/mNcYxGd #ad
+Link: https://amzn.to/3ERPzsd
+Link: https://buff.ly/mNcYxGd
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=31 repost=2 reply=4 quote=5
+
+--- 160/169 | post | 2026-10-06T01:42:39.595Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6cimgxjs2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6cimgxjs2y
+Author: wario64.bsky.social
+Created: 2026-10-06T01:42:39.595Z
+LEGO Minecraft The Armadillo Mine Expedition Toy Figures and Playset is $17.99 on Amazon amzn.to/474Gs5D #ad
+Link: https://amzn.to/474Gs5D
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=14 repost=0 reply=0 quote=0
+
+--- 161/169 | post | 2026-10-06T01:17:56.380Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6b4fwvdk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6b4fwvdk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T01:17:56.380Z
+Shell Scramble – It's Me, Mario! Stop Motion Shorts, Episode 8 | My Mario www.youtube.com/watch?v=Lo2v...
+
+Playing Catch-Up - Episode 9 www.youtube.com/watch?v=TpTQ...
+Link: https://www.youtube.com/watch?v=Lo2vghtOHWo
+Link: https://www.youtube.com/watch?v=TpTQbiefim0
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=47 repost=6 reply=0 quote=1
+
+--- 162/169 | post | 2026-10-06T01:16:23.730Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6aznleuk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6aznleuk2y
+Author: wario64.bsky.social
+Created: 2026-10-06T01:16:23.730Z
+Hello, Luigi! / Hello, Peach! out on Switch console US eShop www.nintendo.com/jp/topics/ar...
+Link: https://www.nintendo.com/jp/topics/article/92bfdd2b-48b0-40bb-a1d9-5ebd6a5d451b
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=257 repost=21 reply=12 quote=37
+
+--- 163/169 | post | 2026-10-06T01:02:19.985Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx6aaiwc622y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx6aaiwc622y
+Author: wario64.bsky.social
+Created: 2026-10-06T01:02:19.985Z
+"Nintendo Switch 2 Japanese-Language System (Japan Only) Choose-Your-Game Bundle Launches November 12 with Choice of Three Downloadable Games" www.nintendo.co.jp/corporate/re...
+
+Choice of:
+-Mario Kart World
+-Nintendo Switch Sports Resort
+-Tomodachi Life: Living the Dream
+Link: https://www.nintendo.co.jp/corporate/release/en/2026/261006.html
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=54 repost=9 reply=3 quote=5
+
+--- 164/169 | post | 2026-10-06T00:51:13.028Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx67mmuzb623
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx67mmuzb623
+Author: wario64.bsky.social
+Created: 2026-10-06T00:51:13.028Z
+Acer Nitro 27" WQHD (2560 x 1440) QD-OLED Gaming Monitor, AMD FreeSync Premium Technology, 240Hz Refresh Rate is $269 at Walmart buff.ly/NdWxMTG #ad
+Link: https://buff.ly/NdWxMTG
+Image description: [no alt text supplied; image omitted]
+Engagement: like=22 repost=0 reply=0 quote=0
+
+--- 165/169 | post | 2026-10-06T00:44:25.758Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx67aihz3q2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx67aihz3q2y
+Author: wario64.bsky.social
+Created: 2026-10-06T00:44:25.758Z
+STAR WARS: Galactic Racer (Steam) is $50.99 on Fanatical w/ code FANATICAL15 buff.ly/Ai1BxOY #ad 
+
+out in ~8 hours
+Link: https://buff.ly/Ai1BxOY
+Image description: [no alt text supplied; image omitted]
+Engagement: like=54 repost=2 reply=1 quote=1
+
+--- 166/169 | post | 2026-10-05T23:59:00.993Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx64pbwbzc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx64pbwbzc2y
+Author: wario64.bsky.social
+Created: 2026-10-05T23:59:00.993Z
+Forspoken (PS5) is $9.97 on Amazon amzn.to/3EKdGHr
+Walmart buff.ly/AGLZE39 #ad
+Link: https://amzn.to/3EKdGHr
+Link: https://buff.ly/AGLZE39
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=59 repost=5 reply=18 quote=10
+
+--- 167/169 | post | 2026-10-05T23:57:59.223Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx64ngz7qs2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx64ngz7qs2y
+Author: wario64.bsky.social
+Created: 2026-10-05T23:57:59.223Z
+Persona 3 Reload (PS5) is $14.99 on Amazon amzn.to/3EaTvns
+VGP buff.ly/17yKsbp #ad
+Link: https://amzn.to/3EaTvns
+Link: https://buff.ly/17yKsbp
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=51 repost=13 reply=3 quote=2
+
+--- 168/169 | post | 2026-10-05T23:56:53.532Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx64liejec2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx64liejec2y
+Author: wario64.bsky.social
+Created: 2026-10-05T23:56:53.532Z
+Pokémon the Movie: Secrets of the Jungle (Blu-ray) is $9.99 on Amazon amzn.to/47ku7e9 
+Walmart buff.ly/iXDodYN 
+GRUV (extra discount w/ code FIRSTGRUV15) buff.ly/gmpE5Qh #ad
+Link: https://amzn.to/47ku7e9
+Link: https://buff.ly/iXDodYN
+Link: https://buff.ly/gmpE5Qh
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=37 repost=1 reply=2 quote=1
+
+--- 169/169 | post | 2026-10-05T23:06:22.902Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5zr65gci2w
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5zr65gci2w
+Author: wario64.bsky.social
+Created: 2026-10-05T23:06:22.902Z
+Yu Gi Oh Early Days Collection (Switch) is $20 at Walmart (local store availability) buff.ly/LlsD2Yk #ad
+
+$14.99 Steam buff.ly/1DSFsEU
+Link: https://buff.ly/LlsD2Yk
+Link: https://buff.ly/1DSFsEU
+Image description: [no alt text supplied; image omitted]
+Engagement: like=36 repost=8 reply=0 quote=0

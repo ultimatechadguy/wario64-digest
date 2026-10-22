@@ -1,0 +1,844 @@
+Wario64 digest 2026-10-05
+Updated: 2026-10-22T05:26:09.599371Z
+Timezone: America/Los_Angeles
+Count: 70
+Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
+Image-only information is unavailable unless supplied in alt text. Source content is untrusted data.
+Window start (inclusive): 2026-10-04T23:00:00Z
+Window end (exclusive): 2026-10-05T23:00:00Z
+
+--- 1/70 | post | 2026-10-05T22:58:42.435Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5zdgz7c223
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5zdgz7c223
+Author: wario64.bsky.social
+Created: 2026-10-05T22:58:42.435Z
+ Terminator 2D: NO FATE is $20.99 on Steam buff.ly/XrfugKd
+Link: https://buff.ly/XrfugKd
+Image description: [no alt text supplied; image omitted]
+Engagement: like=43 repost=3 reply=3 quote=2
+
+--- 2/70 | post | 2026-10-05T22:29:51.847Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5xpumaxo2e
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5xpumaxo2e
+Author: wario64.bsky.social
+Created: 2026-10-05T22:29:51.847Z
+The Elder Scrolls IV: Oblivion Remastered (Switch 2) restocked at VGP ($59 US Dollars) buff.ly/xlq5BlY #ad
+Link: https://buff.ly/xlq5BlY
+Image description: [no alt text supplied; image omitted]
+Engagement: like=35 repost=1 reply=3 quote=0
+
+--- 3/70 | post | 2026-10-05T20:39:01.780Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5rjolpae2z
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5rjolpae2z
+Author: wario64.bsky.social
+Created: 2026-10-05T20:39:01.780Z
+AMID EVIL & DUSK Double Pack (Steam) w/ 2 more games is $4.95 on Fanatical Build your own Retro Revival Bundle buff.ly/A6gA3GT #ad 
+
+add more games to save more (~$1.65 per game)
+Link: https://buff.ly/A6gA3GT
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=33 repost=5 reply=1 quote=2
+
+--- 4/70 | post | 2026-10-05T20:37:47.599Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5rhhu4hy2p
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5rhhu4hy2p
+Author: wario64.bsky.social
+Created: 2026-10-05T20:37:47.599Z
+Lenovo Legion Go 2 Handheld Gaming PC - AMD Ryzen Z2 - 32GB RAM - 1TB SSD - 8.8" PureSight OLED 144Hz Display is $999.99 at Costco buff.ly/Q2lkoZi
+Link: https://buff.ly/Q2lkoZi
+Image description: [no alt text supplied; image omitted]
+Engagement: like=36 repost=3 reply=5 quote=4
+
+--- 5/70 | post | 2026-10-05T20:12:02.041Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5pzfvess2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5pzfvess2y
+Author: wario64.bsky.social
+Created: 2026-10-05T20:12:02.041Z
+Tokyo Xtreme Racer is $29.99 on Steam buff.ly/MDfMwns
+
+PS5 import $59.64 at VGP buff.ly/7sXodUi #ad
+Link: https://buff.ly/MDfMwns
+Link: https://buff.ly/7sXodUi
+Image description: [no alt text supplied; image omitted]
+Engagement: like=29 repost=5 reply=1 quote=1
+
+--- 6/70 | post | 2026-10-05T19:43:02.946Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5oflehto2i
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5oflehto2i
+Author: wario64.bsky.social
+Created: 2026-10-05T19:43:02.946Z
+Slitterhead is $19.99 on Steam buff.ly/TkDMG8B 
+$17.49 US PSN buff.ly/qdrJ8Dy
+Link: https://buff.ly/TkDMG8B
+Link: https://buff.ly/qdrJ8Dy
+Image description: [no alt text supplied; image omitted]
+Engagement: like=47 repost=15 reply=0 quote=4
+
+--- 7/70 | post | 2026-10-05T19:11:01.254Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5mmcoy5o23
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5mmcoy5o23
+Author: wario64.bsky.social
+Created: 2026-10-05T19:11:01.254Z
+Last day to get Humble Choice September Bundle ($14.99 or $9 for new subscribers w/ code FALL26) buff.ly/FoVMeKo #ad
+Link: https://buff.ly/FoVMeKo
+Image description: [no alt text supplied; image omitted]
+Engagement: like=20 repost=2 reply=0 quote=0
+
+--- 8/70 | post | 2026-10-05T19:05:23.881Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5mcaxenc2t
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5mcaxenc2t
+Author: wario64.bsky.social
+Created: 2026-10-05T19:05:23.881Z
+squishy Metroid amiibo import restocked at VGP ($35 US Dollars) buff.ly/i7zdipz #ad
+Link: https://buff.ly/i7zdipz
+Image description: [no alt text supplied; image omitted]
+Engagement: like=83 repost=9 reply=2 quote=3
+
+--- 9/70 | post | 2026-10-05T18:42:01.679Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5kyhpkoa2f
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5kyhpkoa2f
+Author: wario64.bsky.social
+Created: 2026-10-05T18:42:01.679Z
+Empire of the Ants is $9.99 on Steam buff.ly/rJpVm2A 
+$13.99 GOG buff.ly/rnusxpx #ad 
+$9.99 US PSN buff.ly/bb9GR4v
+Link: https://buff.ly/rJpVm2A
+Link: https://buff.ly/rnusxpx
+Link: https://buff.ly/bb9GR4v
+Image description: [no alt text supplied; image omitted]
+Engagement: like=13 repost=1 reply=1 quote=1
+
+--- 10/70 | post | 2026-10-05T18:31:03.926Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5keuggqf2e
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5keuggqf2e
+Author: wario64.bsky.social
+Created: 2026-10-05T18:31:03.926Z
+One Step From Eden is $7.99 on Steam buff.ly/xmrFqD6 
+GOG buff.ly/5C6wqWL #ad
+Link: https://buff.ly/xmrFqD6
+Link: https://buff.ly/5C6wqWL
+Image description: [no alt text supplied; image omitted]
+Engagement: like=25 repost=6 reply=2 quote=0
+
+--- 11/70 | post | 2026-10-05T18:20:16.793Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5jrlbb722f
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5jrlbb722f
+Author: wario64.bsky.social
+Created: 2026-10-05T18:20:16.793Z
+$1 on Woot: Amazon Basics 2-in-1 Car Snow Brush and Ice Scraper buff.ly/I8kLhNV #ad
+Link: https://buff.ly/I8kLhNV
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=31 repost=2 reply=4 quote=1
+
+--- 12/70 | post | 2026-10-05T18:19:01.726Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5jpdokce2k
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5jpdokce2k
+Author: wario64.bsky.social
+Created: 2026-10-05T18:19:01.726Z
+D: The Game is $2.99 on Steam buff.ly/KBK1nHc 
+GOG buff.ly/vOrSFuh #ad
+Link: https://buff.ly/KBK1nHc
+Link: https://buff.ly/vOrSFuh
+Image description: [no alt text supplied; image omitted]
+Engagement: like=48 repost=13 reply=4 quote=4
+
+--- 13/70 | post | 2026-10-05T18:12:36.320Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5jdu4vf62f
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5jdu4vf62f
+Author: wario64.bsky.social
+Created: 2026-10-05T18:12:36.320Z
+amiibo Kirby & Warp Star (KirbyAir Riders Series) is $25.59 on eBay/Bullseye Deals (Target) w/ code COUNTDOWN20 buff.ly/tTFYyRO 
+
+Bandana Waddle Dee & Winged Star $25.59 after code buff.ly/x6jjK7S #ad
+Link: https://buff.ly/tTFYyRO
+Link: https://buff.ly/x6jjK7S
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=34 repost=4 reply=2 quote=1
+
+--- 14/70 | post | 2026-10-05T18:11:01.941Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5jb24p2u2w
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5jb24p2u2w
+Author: wario64.bsky.social
+Created: 2026-10-05T18:11:01.941Z
+Cloud amiibo (Super Smash Bros. series) Player 1 & Player 2 JPN import $17.53 US Dollars each at VGP buff.ly/hu075i4 
+PNP buff.ly/gxKm9bV #ad
+Link: https://buff.ly/hu075i4
+Link: https://buff.ly/gxKm9bV
+Image description: [no alt text supplied; image omitted]
+Engagement: like=41 repost=6 reply=0 quote=2
+
+--- 15/70 | post | 2026-10-05T17:56:10.517Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5ighyf7l26
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5ighyf7l26
+Author: wario64.bsky.social
+Created: 2026-10-05T17:56:10.517Z
+Sci-Fi & Fantasy Universe sale on Humble buff.ly/mMqZJPw #ad
+Link: https://buff.ly/mMqZJPw
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=10 repost=0 reply=0 quote=0
+
+--- 16/70 | post | 2026-10-05T17:42:01.989Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5hn6rl672w
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5hn6rl672w
+Author: wario64.bsky.social
+Created: 2026-10-05T17:42:01.989Z
+Forbidden Solitaire is $11.67 on Steam buff.ly/BJDx5ju 
+$11.85 GOG buff.ly/sf9wpTi #ad
+Link: https://buff.ly/BJDx5ju
+Link: https://buff.ly/sf9wpTi
+Image description: [no alt text supplied; image omitted]
+Engagement: like=53 repost=11 reply=1 quote=6
+
+--- 17/70 | post | 2026-10-05T17:30:43.680Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5gyxvddw2t
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5gyxvddw2t
+Author: wario64.bsky.social
+Created: 2026-10-05T17:30:43.680Z
+Digimon Story Cyber Sleuth: Complete Edition is $9.99 on US eShop buff.ly/EdLpRDK 
+(Steam) is $4.37 on Gamebillet buff.ly/w6s2rCr
+Link: https://buff.ly/EdLpRDK
+Link: https://buff.ly/w6s2rCr
+Image description: [no alt text supplied; image omitted]
+Engagement: like=35 repost=17 reply=0 quote=2
+
+--- 18/70 | post | 2026-10-05T17:29:35.234Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5gwwn3xj26
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5gwwn3xj26
+Author: wario64.bsky.social
+Created: 2026-10-05T17:29:35.234Z
+Sons Of The Forest is $8.69 on Steam buff.ly/y00189F
+Link: https://buff.ly/y00189F
+Image description: [no alt text supplied; image omitted]
+Engagement: like=14 repost=1 reply=1 quote=1
+
+--- 19/70 | post | 2026-10-05T17:11:09.645Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5fvya73s2g
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5fvya73s2g
+Author: wario64.bsky.social
+Created: 2026-10-05T17:11:09.645Z
+'Emily Blunt, Benicio Del Toro And Josh Brolin Returning For ‘Sicario 3’ From Black Label And Thunder Road With ‘The Weight’s Padraic McKinley To Direct' deadline.com/2026/10/sica...
+Link: https://deadline.com/2026/10/sicario-3-emily-blunt-benicio-del-toro-josh-brolin-1237146047/
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=66 repost=10 reply=6 quote=8
+
+--- 20/70 | post | 2026-10-05T17:09:11.212Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5fshcblk2g
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5fshcblk2g
+Author: wario64.bsky.social
+Created: 2026-10-05T17:09:11.212Z
+'‘The Batman Part II’ Production Paused As Matt Reeves Steps Away For Personal Reasons' deadline.com/2026/10/the-...
+Link: https://deadline.com/2026/10/the-batman-part-ii-production-pause-matt-reeves-1237146807/
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=151 repost=28 reply=16 quote=79
+
+--- 21/70 | post | 2026-10-05T16:14:07.177Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5cpycldc2g
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5cpycldc2g
+Author: wario64.bsky.social
+Created: 2026-10-05T16:14:07.177Z
+PlayStation 5 Pro Console - 2 TB in-stock at PS Direct ($899) buff.ly/az8y0Nz #ad
+Link: https://buff.ly/az8y0Nz
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=26 repost=2 reply=10 quote=7
+
+--- 22/70 | post | 2026-10-05T16:08:34.699Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5cg3b7vs2t
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5cg3b7vs2t
+Author: wario64.bsky.social
+Created: 2026-10-05T16:08:34.699Z
+Moomintroll: Winter's Warmth is $15.99 on US eShop buff.ly/G72hqEr 
+Steam buff.ly/dLuZTrE
+Link: https://buff.ly/G72hqEr
+Link: https://buff.ly/dLuZTrE
+Image description: [no alt text supplied; image omitted]
+Engagement: like=32 repost=2 reply=0 quote=0
+
+--- 23/70 | post | 2026-10-05T16:07:33.841Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5cebbc3c2k
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5cebbc3c2k
+Author: wario64.bsky.social
+Created: 2026-10-05T16:07:33.841Z
+South of Midnight Weaver's Edition is $27.99 on US eShop buff.ly/gVfbO8C
+Link: https://buff.ly/gVfbO8C
+Image description: [no alt text supplied; image omitted]
+Engagement: like=86 repost=16 reply=2 quote=5
+
+--- 24/70 | post | 2026-10-05T16:01:26.886Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5bzdaglc2g
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5bzdaglc2g
+Author: wario64.bsky.social
+Created: 2026-10-05T16:01:26.886Z
+‘ARC Raiders,’ ‘The Finals’ Video Games Set TV Series and Film Adaptations at Chernin Entertainment variety.com/2026/tv/news...
+Link: https://variety.com/2026/tv/news/arc-raiders-the-finals-tv-series-movies-chernin-1236899094/
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=21 repost=3 reply=5 quote=10
+
+--- 25/70 | post | 2026-10-05T16:00:11.373Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5bx37yfc2g
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5bx37yfc2g
+Author: wario64.bsky.social
+Created: 2026-10-05T16:00:11.373Z
+ACE COMBAT 8: WINGS OF THEVE (Steam) is $59.99 on Newegg w/ code FTTF8949 buff.ly/1fVEelG #ad
+Link: https://buff.ly/1fVEelG
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=76 repost=15 reply=3 quote=1
+
+--- 26/70 | post | 2026-10-05T15:57:15.091Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5brt4dxc2g
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5brt4dxc2g
+Author: wario64.bsky.social
+Created: 2026-10-05T15:57:15.091Z
+LEGO DC Batman The Joker Wall Art Comic Cover up for preorder on Amazon ($169.99) amzn.to/3TBIkQf
+LEGO Store buff.ly/PMY40gM #ad
+Link: https://amzn.to/3TBIkQf
+Link: https://buff.ly/PMY40gM
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=52 repost=5 reply=7 quote=10
+
+--- 27/70 | post | 2026-10-05T15:55:31.613Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx5boqgrsb2i
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx5boqgrsb2i
+Author: wario64.bsky.social
+Created: 2026-10-05T15:55:31.613Z
+Indiana Jones and the Great Circle (Switch 2) available at PNP ($66.99) buff.ly/NpdyPUD #ad
+Link: https://buff.ly/NpdyPUD
+Image description: [no alt text supplied; image omitted]
+Engagement: like=22 repost=1 reply=3 quote=1
+
+--- 28/70 | post | 2026-10-05T15:12:14.252Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx57bdfokq26
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx57bdfokq26
+Author: wario64.bsky.social
+Created: 2026-10-05T15:12:14.252Z
+Resonance: A Plague Tale Legacy (Steam) is $39.99 on Humble buff.ly/20oiMiH #ad
+Link: https://buff.ly/20oiMiH
+Image description: [no alt text supplied; image omitted]
+Engagement: like=32 repost=0 reply=1 quote=0
+
+--- 29/70 | post | 2026-10-05T15:01:13.722Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx56nnhxfb2k
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx56nnhxfb2k
+Author: wario64.bsky.social
+Created: 2026-10-05T15:01:13.722Z
+Atomic Owl (PS5) Standard/Deluxe Edition English/Asia import up for preorder at VGP ($24.55/$35.07 US Dollars) buff.ly/HAjqxsM #ad
+Link: https://buff.ly/HAjqxsM
+Image description: [no alt text supplied; image omitted]
+Engagement: like=17 repost=2 reply=0 quote=0
+
+--- 30/70 | post | 2026-10-05T15:00:12.407Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx56lszg2i2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx56lszg2i2y
+Author: wario64.bsky.social
+Created: 2026-10-05T15:00:12.407Z
+DRAGON BALL: Sparking! ZERO (Steam) is $26.49 on Fanatical buff.ly/TdfiYrF #ad
+Link: https://buff.ly/TdfiYrF
+Image description: [no alt text supplied; image omitted]
+Engagement: like=9 repost=3 reply=0 quote=0
+
+--- 31/70 | post | 2026-10-05T14:56:24.612Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx56ezqh5k23
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx56ezqh5k23
+Author: wario64.bsky.social
+Created: 2026-10-05T14:56:24.612Z
+The Séance of Blake Manor (PS5/Switch 2) up for preorder on Amazon ($34.99/$49.99) amzn.to/4hxn5Ha
+VGP buff.ly/zVasgc7 
+PNP buff.ly/EPZAlif 
+
+Lost in Cult Edition buff.ly/CiAGzbl #ad
+Link: https://amzn.to/4hxn5Ha
+Link: https://buff.ly/zVasgc7
+Link: https://buff.ly/EPZAlif
+Link: https://buff.ly/CiAGzbl
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=45 repost=9 reply=0 quote=2
+
+--- 32/70 | post | 2026-10-05T14:55:25.960Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx56dbsrfe2i
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx56dbsrfe2i
+Author: wario64.bsky.social
+Created: 2026-10-05T14:55:25.960Z
+LEGO DC/Batman - The Joker Wall Art Comic Cover up for preorder at LEGO Store ($169.99) buff.ly/PMY40gM #ad
+Link: https://buff.ly/PMY40gM
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=72 repost=3 reply=9 quote=18
+
+--- 33/70 | post | 2026-10-05T13:36:45.027Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4zwllnry23
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4zwllnry23
+Author: wario64.bsky.social
+Created: 2026-10-05T13:36:45.027Z
+Marvel’s Spider-Man: Miles Morales (Steam) is $15.99 at Newegg w/ code FTTF8954 buff.ly/B5NBJBH #ad
+Link: https://buff.ly/B5NBJBH
+Image description: [no alt text supplied; image omitted]
+Engagement: like=33 repost=1 reply=2 quote=0
+
+--- 34/70 | post | 2026-10-05T13:31:15.645Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4zmrh3mc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4zmrh3mc2y
+Author: wario64.bsky.social
+Created: 2026-10-05T13:31:15.645Z
+Logitech G PRO X SUPERLIGHT 2 SE Gaming Mouse (Red) is $69 at Walmart buff.ly/jKy0yJe #ad
+Link: https://buff.ly/jKy0yJe
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=17 repost=0 reply=3 quote=0
+
+--- 35/70 | post | 2026-10-05T13:28:15.227Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4zhffijf2k
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4zhffijf2k
+Author: wario64.bsky.social
+Created: 2026-10-05T13:28:15.227Z
+Gamesplanet weekly deals buff.ly/gLsknli #ad
+Link: https://buff.ly/gLsknli
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=7 repost=0 reply=0 quote=0
+
+--- 36/70 | post | 2026-10-05T13:20:03.250Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4yyq7ibf2k
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4yyq7ibf2k
+Author: wario64.bsky.social
+Created: 2026-10-05T13:20:03.250Z
+Pokemon x Target 20oz Tumblers available at Target ($7 each) buff.ly/PLgEndu 
+
+Pikachu buff.ly/0Vto8ra 
+Arcanine buff.ly/F6dya5O 
+Snorlax buff.ly/EvSlMdU 
+Jigglypuff buff.ly/NsEQsMY #ad
+Link: https://buff.ly/PLgEndu
+Link: https://buff.ly/0Vto8ra
+Link: https://buff.ly/F6dya5O
+Link: https://buff.ly/EvSlMdU
+Link: https://buff.ly/NsEQsMY
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=60 repost=4 reply=4 quote=1
+
+--- 37/70 | post | 2026-10-05T13:08:39.279Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4yedwxcu2g
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4yedwxcu2g
+Author: wario64.bsky.social
+Created: 2026-10-05T13:08:39.279Z
+Fire Emblem: Three Houses Byleth Male Pop Up Parade Statue up for preorder at Entertainment Earth ($39.99) buff.ly/iyAbs99 #ad
+Link: https://buff.ly/iyAbs99
+Image description: [no alt text supplied; image omitted]
+Engagement: like=46 repost=3 reply=0 quote=1
+
+--- 38/70 | post | 2026-10-05T13:06:35.199Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4yanlqae26
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4yanlqae26
+Author: wario64.bsky.social
+Created: 2026-10-05T13:06:35.199Z
+Monster Hunter Nendoroid No.3094 Yian Kut-Ku up for preorder at BBTS ($64.99) buff.ly/HCsAsA7
+Link: https://buff.ly/HCsAsA7
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=96 repost=13 reply=1 quote=8
+
+--- 39/70 | post | 2026-10-05T13:06:05.920Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4y7roaeq2c
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4y7roaeq2c
+Author: wario64.bsky.social
+Created: 2026-10-05T13:06:05.920Z
+Final Fantasy XIV Nendoroid No.3125 Haurchefant up for preorder at BBTS ($55.99) buff.ly/dAz18K9
+Link: https://buff.ly/dAz18K9
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=79 repost=17 reply=0 quote=10
+
+--- 40/70 | post | 2026-10-05T13:00:43.348Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4xw62fgu2c
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4xw62fgu2c
+Author: wario64.bsky.social
+Created: 2026-10-05T13:00:43.348Z
+Build Your Own Triple Pack on Fanatical (starting at 3 games for $2.99) buff.ly/NuFmJlL #ad
+Link: https://buff.ly/NuFmJlL
+Image description: [no alt text supplied; image omitted]
+Engagement: like=7 repost=1 reply=0 quote=1
+
+--- 41/70 | post | 2026-10-05T12:58:11.438Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4xrn5yfc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4xrn5yfc2y
+Author: wario64.bsky.social
+Created: 2026-10-05T12:58:11.438Z
+LEGO Super Mario Piranha Plant Building Set is $39.89 on Amazon amzn.to/3VToP2x
+Target buff.ly/53ndZ3n #ad
+Link: https://amzn.to/3VToP2x
+Link: https://buff.ly/53ndZ3n
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=37 repost=1 reply=0 quote=0
+
+--- 42/70 | post | 2026-10-05T12:51:52.728Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4xgdyli22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4xgdyli22y
+Author: wario64.bsky.social
+Created: 2026-10-05T12:51:52.728Z
+LEGO Animal Crossing Isabelle’s House Visit Set is $22 on Amazon amzn.to/4dsvnMl
+Walmart buff.ly/Lc7Aj7P #ad
+Link: https://amzn.to/4dsvnMl
+Link: https://buff.ly/Lc7Aj7P
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=28 repost=2 reply=0 quote=0
+
+--- 43/70 | post | 2026-10-05T12:48:00.063Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4x7g4ak22y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4x7g4ak22y
+Author: wario64.bsky.social
+Created: 2026-10-05T12:48:00.063Z
+Legacy of Kain Soul Reaver 1&2 Remastered (Switch) is $14.99 on Amazon amzn.to/3LIN0zp
+Best Buy buff.ly/z1ysxkr #ad
+Link: https://amzn.to/3LIN0zp
+Link: https://buff.ly/z1ysxkr
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=23 repost=1 reply=2 quote=1
+
+--- 44/70 | post | 2026-10-05T12:47:06.256Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4x5ss6nc2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4x5ss6nc2y
+Author: wario64.bsky.social
+Created: 2026-10-05T12:47:06.256Z
+Raidou: Remastered – The Mystery of the Soulless Army Launch Edition (PS5/Switch) is $24.99 on Amazon amzn.to/4mS4E1r
+Best Buy buff.ly/1pCFNd3 #ad
+Link: https://amzn.to/4mS4E1r
+Link: https://buff.ly/1pCFNd3
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=28 repost=4 reply=0 quote=2
+
+--- 45/70 | post | 2026-10-05T12:46:04.981Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4x3yenxp26
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4x3yenxp26
+Author: wario64.bsky.social
+Created: 2026-10-05T12:46:04.981Z
+Nintendo eShop/PSN gift card codes sale at Costco (20% off): buff.ly/UuP9DHL 
+-$100/$200 eShop for $80/$160
+-$100/$150 PSN for $80/$120
+
+$400 eShop for $340 at Newegg buff.ly/f1ek1tt #ad 
+
+eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
+Link: https://buff.ly/UuP9DHL
+Link: https://buff.ly/f1ek1tt
+Image description: [no alt text supplied; image omitted]
+Engagement: like=72 repost=12 reply=5 quote=4
+
+--- 46/70 | post | 2026-10-05T07:06:23.324Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4e4kvev22l
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4e4kvev22l
+Author: wario64.bsky.social
+Created: 2026-10-05T07:06:23.324Z
+Invincible VS (PS5) is $24.99 on Amazon amzn.to/4vTD7Al
+Best Buy buff.ly/mTafYBR #ad
+Link: https://amzn.to/4vTD7Al
+Link: https://buff.ly/mTafYBR
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=28 repost=5 reply=0 quote=1
+
+--- 47/70 | post | 2026-10-05T06:19:17.504Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4bidy7222l
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4bidy7222l
+Author: wario64.bsky.social
+Created: 2026-10-05T06:19:17.504Z
+Raidou: Remastered – The Mystery of the Soulless Army Launch Edition (Switch) is $24.99 on Amazon amzn.to/3UnqCwG
+
+PS5/Switch Best Buy buff.ly/1pCFNd3 #ad
+Link: https://amzn.to/3UnqCwG
+Link: https://buff.ly/1pCFNd3
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=33 repost=4 reply=0 quote=0
+
+--- 48/70 | post | 2026-10-05T06:18:04.776Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4bg6mqlc2l
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4bg6mqlc2l
+Author: wario64.bsky.social
+Created: 2026-10-05T06:18:04.776Z
+Cartoon Network: Over the Garden Wall (Blu-ray) is $13.99 on Amazon amzn.to/4kHSeJc 
+Walmart buff.ly/FbtN73U #ad
+Link: https://amzn.to/4kHSeJc
+Link: https://buff.ly/FbtN73U
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=122 repost=23 reply=0 quote=7
+
+--- 49/70 | post | 2026-10-05T05:12:30.761Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx45qwuq652t
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx45qwuq652t
+Author: wario64.bsky.social
+Created: 2026-10-05T05:12:30.761Z
+MEGA - Pokemon Water-Type Trainer Team (4-Pack) is $9.99 at Best Buy buff.ly/D97TUhK #ad
+Link: https://buff.ly/D97TUhK
+Image description: [no alt text supplied; image omitted]
+Engagement: like=33 repost=0 reply=0 quote=2
+
+--- 50/70 | post | 2026-10-05T05:10:46.077Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx45nszzla2e
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx45nszzla2e
+Author: wario64.bsky.social
+Created: 2026-10-05T05:10:46.077Z
+NINJA GAIDEN: Ragebound (PS5) is $19.99 at Best Buy buff.ly/M9cvTu6 #ad
+Link: https://buff.ly/M9cvTu6
+Image description: [no alt text supplied; image omitted]
+Engagement: like=35 repost=3 reply=1 quote=1
+
+--- 51/70 | post | 2026-10-05T05:10:18.072Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx45myd33k23
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx45myd33k23
+Author: wario64.bsky.social
+Created: 2026-10-05T05:10:18.072Z
+Techtober - save up to 50% off on select video games at Best Buy buff.ly/k3JhTaI #ad
+Link: https://buff.ly/k3JhTaI
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=26 repost=0 reply=0 quote=0
+
+--- 52/70 | post | 2026-10-05T05:09:00.375Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx45ko7xde2c
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx45ko7xde2c
+Author: wario64.bsky.social
+Created: 2026-10-05T05:09:00.375Z
+Techtober sale at Best Buy buff.ly/h5TuKLI #ad
+Link: https://buff.ly/h5TuKLI
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=18 repost=0 reply=1 quote=0
+
+--- 53/70 | post | 2026-10-05T05:08:24.662Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx45jm6cal2c
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx45jm6cal2c
+Author: wario64.bsky.social
+Created: 2026-10-05T05:08:24.662Z
+Styx Blades of Greed (PS5) is $24.99 at Best Buy buff.ly/hmE3xQh #ad
+Link: https://buff.ly/hmE3xQh
+Image description: [no alt text supplied; image omitted]
+Engagement: like=11 repost=0 reply=1 quote=0
+
+--- 54/70 | post | 2026-10-05T05:08:06.008Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx45j2f25r26
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx45j2f25r26
+Author: wario64.bsky.social
+Created: 2026-10-05T05:08:06.008Z
+Invincible VS (PS5) is $24.99 at Best Buy buff.ly/mTafYBR #ad
+Link: https://buff.ly/mTafYBR
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=13 repost=3 reply=0 quote=1
+
+--- 55/70 | post | 2026-10-05T05:07:34.689Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx45i4ja7p26
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx45i4ja7p26
+Author: wario64.bsky.social
+Created: 2026-10-05T05:07:34.689Z
+Monster Hunter Wilds (XSX) is $19.99 at Best Buy buff.ly/AGxD331 #ad
+Link: https://buff.ly/AGxD331
+Image description: [no alt text supplied; image omitted]
+Engagement: like=11 repost=3 reply=0 quote=0
+
+--- 56/70 | post | 2026-10-05T05:07:09.820Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx45hesb622y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx45hesb622y
+Author: wario64.bsky.social
+Created: 2026-10-05T05:07:09.820Z
+Neopets - Mega Mini Games Collection (PS5) is $14.99 at Best Buy buff.ly/slozwPQ #ad
+Link: https://buff.ly/slozwPQ
+Image description: [no alt text supplied; image omitted]
+Engagement: like=16 repost=0 reply=0 quote=1
+
+--- 57/70 | post | 2026-10-05T05:06:46.412Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx45gohttk2y
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx45gohttk2y
+Author: wario64.bsky.social
+Created: 2026-10-05T05:06:46.412Z
+Legacy of Kain Soul Reaver 1&2 Remastered (Switch) is $14.99 at Best Buy buff.ly/z1ysxkr #ad
+Link: https://buff.ly/z1ysxkr
+Image description: [no alt text supplied; image omitted]
+Engagement: like=21 repost=2 reply=2 quote=0
+
+--- 58/70 | post | 2026-10-05T05:05:07.508Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx45dq5shm2p
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx45dq5shm2p
+Author: wario64.bsky.social
+Created: 2026-10-05T05:05:07.508Z
+The Adventures of Elliot: The Millennium Tales (XSX) is $29.99 at Best Buy buff.ly/4V5HJX5 #ad
+Link: https://buff.ly/4V5HJX5
+Image description: [no alt text supplied; image omitted]
+Engagement: like=20 repost=1 reply=0 quote=2
+
+--- 59/70 | post | 2026-10-05T05:03:07.853Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx45a622ym2p
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx45a622ym2p
+Author: wario64.bsky.social
+Created: 2026-10-05T05:03:07.853Z
+TUBBZ TUBBZ First Edition: Yakuza - Goro Majima Cosplayin is $9.99 on Woot buff.ly/7u7mn7s 
+
+spend $50, get an extra $10 off w/ code HOME10 buff.ly/AVPfixH #ad
+Link: https://buff.ly/7u7mn7s
+Link: https://buff.ly/AVPfixH
+Image description: [no alt text supplied; image omitted]
+Engagement: like=22 repost=5 reply=1 quote=0
+
+--- 60/70 | post | 2026-10-05T05:02:20.793Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx456r5n4s2w
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx456r5n4s2w
+Author: wario64.bsky.social
+Created: 2026-10-05T05:02:20.793Z
+Home & Toys Leftovers sale on Woot (spend $50, get extra $10 off w/ code HOME10) buff.ly/vetBgnc #ad
+Link: https://buff.ly/vetBgnc
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=4 repost=0 reply=0 quote=1
+
+--- 61/70 | post | 2026-10-05T05:01:15.965Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx454tdars2k
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx454tdars2k
+Author: wario64.bsky.social
+Created: 2026-10-05T05:01:15.965Z
+Fall Snack Attack sale on Woot buff.ly/4jfyjyu #ad
+Link: https://buff.ly/4jfyjyu
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=5 repost=0 reply=0 quote=0
+
+--- 62/70 | post | 2026-10-05T05:00:20.382Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx4536d7ld2c
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx4536d7ld2c
+Author: wario64.bsky.social
+Created: 2026-10-05T05:00:20.382Z
+Nintendo Switch Pro Controller - Zelda Tears of the Kingdom Edition is $69.99 on Woot buff.ly/k20GBCn #ad 
+
+Not the Switch 2 Pro Controller
+Link: https://buff.ly/k20GBCn
+Image description: [no alt text supplied; image omitted]
+Engagement: like=40 repost=2 reply=1 quote=0
+
+--- 63/70 | post | 2026-10-05T04:25:11.078Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx434cqgbo2t
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx434cqgbo2t
+Author: wario64.bsky.social
+Created: 2026-10-05T04:25:11.078Z
+Apple AirPods 4 is $79 at Walmart buff.ly/8HWWe6b #ad
+Link: https://buff.ly/8HWWe6b
+Image description: [no alt text supplied; image omitted]
+Engagement: like=26 repost=3 reply=3 quote=1
+
+--- 64/70 | post | 2026-10-05T04:10:02.582Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx42badimz2p
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx42badimz2p
+Author: wario64.bsky.social
+Created: 2026-10-05T04:10:02.582Z
+VIZIO 75" Class Quantum Pro 4K QLED HDR Smart TV (VQP75C-84) is $398 at Walmart buff.ly/5QPojg2 #ad
+Link: https://buff.ly/5QPojg2
+Image description: [no alt text supplied; image omitted]
+Engagement: like=18 repost=2 reply=0 quote=0
+
+--- 65/70 | post | 2026-10-05T04:08:57.946Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx427coidg26
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx427coidg26
+Author: wario64.bsky.social
+Created: 2026-10-05T04:08:57.946Z
+TV deals at Walmart buff.ly/5YsNvaL #ad
+Link: https://buff.ly/5YsNvaL
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=10 repost=1 reply=0 quote=0
+
+--- 66/70 | post | 2026-10-05T04:06:31.653Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx422x6djv2z
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx422x6djv2z
+Author: wario64.bsky.social
+Created: 2026-10-05T04:06:31.653Z
+LEGO Star Wars Executor Super Star Destroyer Building Set is $45 at Walmart buff.ly/JrKcW4E #ad
+Link: https://buff.ly/JrKcW4E
+Image description: [no alt text supplied; image omitted]
+Engagement: like=25 repost=3 reply=1 quote=0
+
+--- 67/70 | post | 2026-10-05T04:04:11.433Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx3zwrgu7k2i
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx3zwrgu7k2i
+Author: wario64.bsky.social
+Created: 2026-10-05T04:04:11.433Z
+LEGO deals at Walmart buff.ly/5cBXuJf #ad
+Link: https://buff.ly/5cBXuJf
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=14 repost=1 reply=0 quote=0
+
+--- 68/70 | post | 2026-10-05T04:03:34.421Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx3zvo5dfm23
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx3zvo5dfm23
+Author: wario64.bsky.social
+Created: 2026-10-05T04:03:34.421Z
+Walmart Deals Days week buff.ly/QyhA9lq 
+ 
+Tech buff.ly/7XEuuLS 
+Video Games/Media buff.ly/uYPyoSV 
+Toys buff.ly/B01tzTC 
+TVs buff.ly/OwcfycZ #ad
+Link: https://buff.ly/QyhA9lq
+Link: https://buff.ly/7XEuuLS
+Link: https://buff.ly/uYPyoSV
+Link: https://buff.ly/B01tzTC
+Link: https://buff.ly/OwcfycZ
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=14 repost=0 reply=0 quote=0
+
+--- 69/70 | post | 2026-10-05T01:46:25.694Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx3sagmoai23
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx3sagmoai23
+Author: wario64.bsky.social
+Created: 2026-10-05T01:46:25.694Z
+The Elder Scrolls IV: Oblivion Remastered NSW 2 and Indiana Jones & The Great Circle NSW 2 / PS5 restocked at VGP buff.ly/xlq5BlY #ad
+Link: https://buff.ly/xlq5BlY
+Image description: [no alt text supplied; image omitted]
+Engagement: like=28 repost=1 reply=2 quote=0
+
+--- 70/70 | post | 2026-10-05T01:06:41.076Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mx3pzehgt22l
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mx3pzehgt22l
+Author: wario64.bsky.social
+Created: 2026-10-05T01:06:41.076Z
+The Legend of Zelda: Majora's Mask OST will release on Nintendo Music this Thursday (or Friday in Japan) www.nintendo.com/jp/topics/ar...
+Link: https://www.nintendo.com/jp/topics/article/8c4941f0-c924-4d46-864d-967ea8338f42
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=268 repost=49 reply=14 quote=21
