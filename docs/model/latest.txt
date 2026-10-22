@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-10-21
-Updated: 2026-10-22T10:20:03.045789Z
+Updated: 2026-10-22T15:25:35.276592Z
 Timezone: America/Los_Angeles
 Count: 69
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -16,7 +16,7 @@ IGN: 'Mass Effect TV Series Remains Active at Prime Video Despite BioWare Closur
 Link: https://www.ign.com/articles/mass-effect-tv-series-prime-video-bioware-closure
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=145 repost=26 reply=23 quote=50
+Engagement: like=154 repost=26 reply=24 quote=51
 
 --- 2/69 | post | 2026-10-21T22:36:53.006Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg7l5mlkh25
@@ -26,7 +26,7 @@ Created: 2026-10-21T22:36:53.006Z
 Lynked: Banner of the Spark is $3.74 on US eShop buff.ly/zqTuXGn
 Link: https://buff.ly/zqTuXGn
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=5 reply=5 quote=1
+Engagement: like=39 repost=6 reply=5 quote=1
 
 --- 3/69 | post | 2026-10-21T22:35:29.966Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg7iofuxk2c
@@ -39,7 +39,7 @@ Link: https://amzn.to/3WEDBy5
 Link: https://buff.ly/XvzPL1m
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=62 repost=3 reply=4 quote=0
+Engagement: like=63 repost=3 reply=5 quote=0
 
 --- 4/69 | post | 2026-10-21T21:57:34.980Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg5eutbrb27
@@ -49,7 +49,7 @@ Created: 2026-10-21T21:57:34.980Z
 Horizon Chase 2 is $9.99 on US eShop buff.ly/q4odtsk
 Link: https://buff.ly/q4odtsk
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=5 reply=1 quote=0
+Engagement: like=31 repost=5 reply=1 quote=0
 
 --- 5/69 | post | 2026-10-21T21:40:04.963Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg4flhck22f
@@ -75,7 +75,7 @@ Link: https://buff.ly/bK83hPk
 Link: https://buff.ly/abpNYRR
 Link: https://buff.ly/p3s7Kld
 Image description: [no alt text supplied; image omitted]
-Engagement: like=48 repost=8 reply=1 quote=0
+Engagement: like=50 repost=8 reply=1 quote=0
 
 --- 7/69 | post | 2026-10-21T21:02:34.101Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg2ciuh2o2f
@@ -87,7 +87,7 @@ Pokemon TCG / NeeDoh up on Walmart drawing (closes in 1 hour - 3 PM PT) buff.ly/
 you may have to scroll for the Pokemon TCG
 Link: https://buff.ly/g45TdKI
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=0 reply=1 quote=0
+Engagement: like=15 repost=0 reply=1 quote=0
 
 --- 8/69 | post | 2026-10-21T20:45:59.318Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfzeu5riz2y
@@ -100,7 +100,7 @@ add more games to save more (~$1.65 per game)
 Link: https://buff.ly/qol0cNY
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=2 reply=0 quote=1
+Engagement: like=21 repost=2 reply=0 quote=1
 
 --- 9/69 | post | 2026-10-21T20:22:49.851Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfy3h2xti2z
@@ -112,7 +112,7 @@ $10.49 GOG buff.ly/qtTzIaL #ad
 Link: https://buff.ly/CXkQ43S
 Link: https://buff.ly/qtTzIaL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=0 reply=0 quote=1
+Engagement: like=27 repost=0 reply=0 quote=1
 
 --- 10/69 | post | 2026-10-21T20:06:30.792Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfx6bdwu22c
@@ -126,7 +126,7 @@ Link: https://amzn.to/47xFjDY
 Link: https://amzn.to/4BhxrnD
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=0 reply=1 quote=0
+Engagement: like=19 repost=0 reply=1 quote=0
 
 --- 11/69 | post | 2026-10-21T19:54:01.708Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfwhwy67r24
@@ -136,7 +136,7 @@ Created: 2026-10-21T19:54:01.708Z
 Yakuza Kiwami is $9.99/$14.99 on US eShop buff.ly/FLjyxxu
 Link: https://buff.ly/FLjyxxu
 Image description: [no alt text supplied; image omitted]
-Engagement: like=48 repost=8 reply=2 quote=0
+Engagement: like=50 repost=8 reply=2 quote=0
 
 --- 12/69 | post | 2026-10-21T19:51:09.493Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfwcsqljr2j
@@ -146,7 +146,7 @@ Created: 2026-10-21T19:51:09.493Z
 The Elder Scrolls III: Morrowind GOTY Edition is $5.99 on GOG (preservation program) buff.ly/wVwAwzp #ad
 Link: https://buff.ly/wVwAwzp
 Image description: [no alt text supplied; image omitted]
-Engagement: like=70 repost=13 reply=1 quote=4
+Engagement: like=73 repost=14 reply=1 quote=4
 
 --- 13/69 | post | 2026-10-21T19:46:23.944Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfw2cgfyg26
@@ -156,7 +156,7 @@ Created: 2026-10-21T19:46:23.944Z
 Everybody's Golf is $4.99 on US PSN buff.ly/3CefRr2
 Link: https://buff.ly/3CefRr2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=4 reply=3 quote=2
+Engagement: like=43 repost=4 reply=3 quote=2
 
 --- 14/69 | post | 2026-10-21T19:12:45.485Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfu65hiwj26
@@ -167,7 +167,7 @@ Centum (Steam) w/ 17 more games is $12 on Humble Serenity Forge Bundle buff.ly/m
 Link: https://buff.ly/msH2e0q
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=9 repost=0 reply=0 quote=0
+Engagement: like=10 repost=0 reply=0 quote=0
 
 --- 15/69 | post | 2026-10-21T19:10:03.986Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myftzdgt4k2c
@@ -181,7 +181,7 @@ Link: https://amzn.to/42UDoHC
 Link: https://amzn.to/4BhxrnD
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=1 reply=0 quote=2
+Engagement: like=27 repost=1 reply=0 quote=2
 
 --- 16/69 | post | 2026-10-21T18:39:55.644Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfsdguzt22f
@@ -191,7 +191,7 @@ Created: 2026-10-21T18:39:55.644Z
 Death Stranding Director's Cut Digital Deluxe Edition is $14.99 on US PSN buff.ly/fnr5Nel
 Link: https://buff.ly/fnr5Nel
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=4 reply=0 quote=0
+Engagement: like=24 repost=4 reply=0 quote=0
 
 --- 17/69 | post | 2026-10-21T18:38:39.928Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfsb6nwq22c
@@ -202,7 +202,7 @@ The Legend of Heroes: Trails beyond the Horizon: Deluxe Edition (Switch 2 KC/Swi
 Link: https://amzn.to/4ld6ad3
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=1 reply=0 quote=0
+Engagement: like=16 repost=1 reply=0 quote=0
 
 --- 18/69 | post | 2026-10-21T18:26:38.667Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfrlossbs2c
@@ -213,7 +213,7 @@ Octopath Traveler TRPG Rulebook is $51.81 on Amazon amzn.to/4senNMC #ad
 Link: https://amzn.to/4senNMC
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=6 reply=1 quote=4
+Engagement: like=53 repost=6 reply=1 quote=4
 
 --- 19/69 | post | 2026-10-21T18:04:21.768Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfqdtttus2c
@@ -230,7 +230,7 @@ news.xbox.com/en-us/2026/1...
 Link: https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=151 repost=34 reply=90 quote=261
+Engagement: like=158 repost=34 reply=93 quote=262
 
 --- 20/69 | post | 2026-10-21T18:00:58.643Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfq5s4yls2c
@@ -241,7 +241,7 @@ Humble Games Bundle: Sci-Fi Exposure ($25 for all including Marathon) buff.ly/Df
 Link: https://buff.ly/Df9qJZN
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=92 repost=28 reply=15 quote=21
+Engagement: like=98 repost=28 reply=15 quote=21
 
 --- 21/69 | post | 2026-10-21T17:44:50.741Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfpax3i4j23
@@ -251,7 +251,7 @@ Created: 2026-10-21T17:44:50.741Z
 Resident Evil Requiem - Leon amiibo import in-stock at VGP ($35.54 US Dollars) buff.ly/WLi97Qm #ad
 Link: https://buff.ly/WLi97Qm
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=4 reply=9 quote=5
+Engagement: like=40 repost=4 reply=9 quote=5
 
 --- 22/69 | post | 2026-10-21T17:38:20.821Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfovd7yrn2y
@@ -261,7 +261,7 @@ Created: 2026-10-21T17:38:20.821Z
 Granblue Fantasy: Relink is $23.99 on Steam buff.ly/33W4OzD
 Link: https://buff.ly/33W4OzD
 Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=11 reply=0 quote=6
+Engagement: like=54 repost=11 reply=0 quote=6
 
 --- 23/69 | post | 2026-10-21T17:36:09.493Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myforfxx3q23
@@ -274,7 +274,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=9 repost=0 reply=0 quote=0
+Engagement: like=10 repost=0 reply=0 quote=0
 
 --- 24/69 | post | 2026-10-21T17:19:30.370Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfntn4wik2c
@@ -296,7 +296,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=134 repost=35 reply=28 quote=34
+Engagement: like=135 repost=36 reply=29 quote=34
 
 --- 25/69 | post | 2026-10-21T17:15:39.470Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfnmqwg7k2c
@@ -313,7 +313,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=4706 repost=2098 reply=111 quote=1097
+Engagement: like=4783 repost=2119 reply=114 quote=1112
 
 --- 26/69 | post | 2026-10-21T17:12:07.391Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfnggoatk2c
@@ -331,7 +331,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=300 repost=77 reply=19 quote=38
+Engagement: like=301 repost=78 reply=19 quote=38
 
 --- 27/69 | post | 2026-10-21T17:09:47.372Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfncb5aj22c
@@ -342,7 +342,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=800 repost=256 reply=66 quote=626
+Engagement: like=806 repost=257 reply=66 quote=627
 
 --- 28/69 | post | 2026-10-21T17:07:21.676Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfn5w76lr26
@@ -364,7 +364,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=1 reply=0 quote=0
+Engagement: like=16 repost=1 reply=0 quote=0
 
 --- 29/69 | post | 2026-10-21T17:05:57.853Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfn3gblxg24
@@ -374,7 +374,7 @@ Created: 2026-10-21T17:05:57.853Z
 squishy Metroid amiibo import restocked at VGP ($35 US Dollars) buff.ly/i7zdipz #ad
 Link: https://buff.ly/i7zdipz
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=4 reply=2 quote=0
+Engagement: like=54 repost=4 reply=2 quote=0
 
 --- 30/69 | post | 2026-10-21T16:46:47.701Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myflz5ezkc2c
@@ -387,7 +387,7 @@ Link: https://amzn.to/47wwpqk
 Link: https://buff.ly/fjGSJvd
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=8 repost=0 reply=3 quote=0
+Engagement: like=9 repost=0 reply=3 quote=0
 
 --- 31/69 | post | 2026-10-21T16:46:25.525Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myflyiaohl2k
@@ -400,7 +400,7 @@ Link: https://buff.ly/40mdiwN
 Link: https://buff.ly/2maIbQr
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=65 repost=16 reply=2 quote=4
+Engagement: like=69 repost=16 reply=2 quote=5
 
 --- 32/69 | post | 2026-10-21T16:32:43.638Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfl7ygf6k2c
@@ -417,7 +417,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=181 repost=72 reply=6 quote=33
+Engagement: like=186 repost=73 reply=7 quote=33
 
 --- 33/69 | post | 2026-10-21T16:11:49.399Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfk2mcemm2b
@@ -427,7 +427,7 @@ Created: 2026-10-21T16:11:49.399Z
 Irem Collection Volume 1+2 is $11.99 on US eShop buff.ly/BiSuy2O
 Link: https://buff.ly/BiSuy2O
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=7 reply=2 quote=2
+Engagement: like=27 repost=7 reply=2 quote=2
 
 --- 34/69 | post | 2026-10-21T16:07:08.794Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfjsaol5s2c
@@ -444,7 +444,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=0 reply=0 quote=3
+Engagement: like=33 repost=0 reply=0 quote=3
 
 --- 35/69 | post | 2026-10-21T15:55:53.678Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfj64tn7k2c
@@ -454,7 +454,7 @@ Created: 2026-10-21T15:55:53.678Z
 Free Hot or Iced Coffee at Dunkin w/ code SIZEDOESNTMATTER (redeem in app on rewards section)
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=81 repost=17 reply=10 quote=7
+Engagement: like=83 repost=17 reply=10 quote=7
 
 --- 36/69 | post | 2026-10-21T15:50:54.847Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfiv7ubkg2o
@@ -467,7 +467,7 @@ Switch 2 confirmed physical on cart
 Link: https://buff.ly/UkmE8A3
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=65 repost=16 reply=0 quote=3
+Engagement: like=66 repost=16 reply=0 quote=3
 
 --- 37/69 | post | 2026-10-21T15:48:06.049Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfiq6upc22c
@@ -483,7 +483,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=249 repost=56 reply=8 quote=23
+Engagement: like=251 repost=57 reply=9 quote=23
 
 --- 38/69 | post | 2026-10-21T15:36:02.837Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfi2n6kn72f
@@ -569,7 +569,7 @@ eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
 Wallet limit is $800
 Link: https://buff.ly/pXbtEkL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=3 reply=1 quote=0
+Engagement: like=37 repost=4 reply=1 quote=0
 
 --- 45/69 | post | 2026-10-21T13:41:30.306Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfbnszjhx26
@@ -592,7 +592,7 @@ PS4 physical $56.86 at VGP buff.ly/0rQW2cF #ad
 Link: https://buff.ly/4e4atn4
 Link: https://buff.ly/0rQW2cF
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=14 reply=0 quote=3
+Engagement: like=56 repost=14 reply=0 quote=3
 
 --- 47/69 | post | 2026-10-21T13:34:27.862Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfbba53jk2c
@@ -618,7 +618,7 @@ A New Physical Pokémon Retail Destination Is Coming to London by 2029
 Link: https://www.pokemon.com/uk/news/a-new-physical-pokemon-retail-destination-is-coming-to-london
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=131 repost=16 reply=4 quote=5
+Engagement: like=132 repost=16 reply=4 quote=5
 
 --- 49/69 | post | 2026-10-21T13:19:20.539Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfag6trvs2c

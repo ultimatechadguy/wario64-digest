@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-18
-Updated: 2026-10-22T10:20:03.045789Z
+Updated: 2026-10-22T15:25:35.276592Z
 Timezone: America/Los_Angeles
 Count: 43
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -27,7 +27,7 @@ US eShop buff.ly/PhLgYt2
 Link: https://buff.ly/GG5W3Vn
 Link: https://buff.ly/PhLgYt2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=101 repost=54 reply=0 quote=21
+Engagement: like=101 repost=55 reply=0 quote=21
 
 --- 3/43 | post | 2026-10-18T22:11:06.873Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3my6mqcq6pv2f
@@ -218,7 +218,7 @@ Link: https://amzn.to/4rTlkaQ
 Link: https://buff.ly/iUyW1eR
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=3 reply=0 quote=0
+Engagement: like=40 repost=3 reply=0 quote=0
 
 --- 19/43 | post | 2026-10-18T17:41:42.600Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3my65olb5dc22
@@ -434,7 +434,7 @@ Link: https://buff.ly/qYH9610
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=5 reply=0 quote=1
+Engagement: like=27 repost=5 reply=0 quote=1
 
 --- 28/43 | post | 2026-10-18T15:28:39.074Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3my5wanlaak22

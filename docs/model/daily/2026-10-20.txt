@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-20
-Updated: 2026-10-22T10:20:03.045789Z
+Updated: 2026-10-22T15:25:35.276592Z
 Timezone: America/Los_Angeles
 Count: 82
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -159,7 +159,7 @@ Link: https://fortune.com/2026/10/20/the-non-gamer-ceo-racing-to-save-microsofts
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=538 repost=103 reply=183 quote=858
+Engagement: like=538 repost=103 reply=185 quote=860
 
 --- 12/82 | post | 2026-10-20T18:38:14.106Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mydbrim3dt2p
@@ -210,7 +210,7 @@ Humble Book Bundle: The EC Archives Tales from the Crypt and Other Stories ($18 
 "The comics in this bundle are available in PDF format"
 Link: https://buff.ly/NkyPleN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=14 reply=5 quote=2
+Engagement: like=55 repost=14 reply=5 quote=2
 
 --- 16/82 | post | 2026-10-20T18:02:46.243Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myd7s3bxp22w
@@ -221,7 +221,7 @@ DreamWorks Shrek 2 Remastered coming to Switch/Switch 2/PS5/Xbox/Steam/EGS on No
 Link: https://www.youtube.com/watch?v=6qjCMqy1fAk
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=180 repost=43 reply=10 quote=41
+Engagement: like=180 repost=43 reply=10 quote=43
 
 --- 17/82 | post | 2026-10-20T18:01:45.261Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myd7qb5yb72p
@@ -243,7 +243,7 @@ DreamWorks Shrek 2 Remastered preorder is $26.99 on Steam (10% off - Nov 10) buf
 also coming to PS5/Xbox (known so far)
 Link: https://buff.ly/DXLJM6c
 Image description: [no alt text supplied; image omitted]
-Engagement: like=82 repost=9 reply=9 quote=17
+Engagement: like=82 repost=9 reply=9 quote=18
 
 --- 19/82 | post | 2026-10-20T17:47:50.504Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myd6xf2zzc2p
