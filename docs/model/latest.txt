@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-10-21
-Updated: 2026-10-22T19:27:03.631367Z
+Updated: 2026-10-22T22:44:00.717387Z
 Timezone: America/Los_Angeles
 Count: 69
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -16,7 +16,7 @@ IGN: 'Mass Effect TV Series Remains Active at Prime Video Despite BioWare Closur
 Link: https://www.ign.com/articles/mass-effect-tv-series-prime-video-bioware-closure
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=160 repost=26 reply=24 quote=51
+Engagement: like=159 repost=26 reply=24 quote=51
 
 --- 2/69 | post | 2026-10-21T22:36:53.006Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg7l5mlkh25
@@ -39,7 +39,7 @@ Link: https://amzn.to/3WEDBy5
 Link: https://buff.ly/XvzPL1m
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=64 repost=3 reply=5 quote=0
+Engagement: like=65 repost=3 reply=5 quote=0
 
 --- 4/69 | post | 2026-10-21T21:57:34.980Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg5eutbrb27
@@ -49,7 +49,7 @@ Created: 2026-10-21T21:57:34.980Z
 Horizon Chase 2 is $9.99 on US eShop buff.ly/q4odtsk
 Link: https://buff.ly/q4odtsk
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=5 reply=1 quote=0
+Engagement: like=32 repost=5 reply=1 quote=0
 
 --- 5/69 | post | 2026-10-21T21:40:04.963Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg4flhck22f
@@ -100,7 +100,7 @@ add more games to save more (~$1.65 per game)
 Link: https://buff.ly/qol0cNY
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=3 reply=0 quote=1
+Engagement: like=26 repost=3 reply=0 quote=1
 
 --- 9/69 | post | 2026-10-21T20:22:49.851Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfy3h2xti2z
@@ -230,7 +230,7 @@ news.xbox.com/en-us/2026/1...
 Link: https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=163 repost=35 reply=93 quote=263
+Engagement: like=164 repost=36 reply=93 quote=268
 
 --- 20/69 | post | 2026-10-21T18:00:58.643Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfq5s4yls2c
@@ -241,7 +241,7 @@ Humble Games Bundle: Sci-Fi Exposure ($25 for all including Marathon) buff.ly/Df
 Link: https://buff.ly/Df9qJZN
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=102 repost=28 reply=15 quote=21
+Engagement: like=103 repost=28 reply=15 quote=21
 
 --- 21/69 | post | 2026-10-21T17:44:50.741Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfpax3i4j23
@@ -261,7 +261,7 @@ Created: 2026-10-21T17:38:20.821Z
 Granblue Fantasy: Relink is $23.99 on Steam buff.ly/33W4OzD
 Link: https://buff.ly/33W4OzD
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=11 reply=1 quote=6
+Engagement: like=56 repost=11 reply=1 quote=6
 
 --- 23/69 | post | 2026-10-21T17:36:09.493Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myforfxx3q23
@@ -313,7 +313,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=4841 repost=2129 reply=115 quote=1115
+Engagement: like=4872 repost=2136 reply=116 quote=1121
 
 --- 26/69 | post | 2026-10-21T17:12:07.391Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfnggoatk2c
@@ -342,7 +342,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=814 repost=258 reply=66 quote=628
+Engagement: like=817 repost=258 reply=66 quote=628
 
 --- 28/69 | post | 2026-10-21T17:07:21.676Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfn5w76lr26
@@ -417,7 +417,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=190 repost=75 reply=7 quote=34
+Engagement: like=190 repost=75 reply=7 quote=35
 
 --- 33/69 | post | 2026-10-21T16:11:49.399Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfk2mcemm2b
@@ -454,7 +454,7 @@ Created: 2026-10-21T15:55:53.678Z
 Free Hot or Iced Coffee at Dunkin w/ code SIZEDOESNTMATTER (redeem in app on rewards section)
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=83 repost=17 reply=10 quote=7
+Engagement: like=84 repost=17 reply=10 quote=7
 
 --- 36/69 | post | 2026-10-21T15:50:54.847Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfiv7ubkg2o
@@ -493,7 +493,7 @@ Created: 2026-10-21T15:36:02.837Z
 Nintendo Switch Online Family Membership 12 Month Code is $31.49 on Newegg w/ code EMCF3473 buff.ly/jqwPzbf #ad
 Link: https://buff.ly/jqwPzbf
 Image description: [no alt text supplied; image omitted]
-Engagement: like=49 repost=8 reply=1 quote=1
+Engagement: like=50 repost=8 reply=1 quote=1
 
 --- 39/69 | post | 2026-10-21T15:34:11.648Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfhxd4sks26
@@ -555,7 +555,7 @@ Created: 2026-10-21T14:44:05.821Z
 Shadow of the Colossus (2018) is $4.99 on US PSN buff.ly/3VnvHpp
 Link: https://buff.ly/3VnvHpp
 Image description: [no alt text supplied; image omitted]
-Engagement: like=81 repost=16 reply=1 quote=7
+Engagement: like=80 repost=16 reply=1 quote=7
 
 --- 44/69 | post | 2026-10-21T14:41:26.693Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfeyysndc2l
@@ -569,7 +569,7 @@ eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
 Wallet limit is $800
 Link: https://buff.ly/pXbtEkL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=4 reply=1 quote=0
+Engagement: like=38 repost=4 reply=1 quote=0
 
 --- 45/69 | post | 2026-10-21T13:41:30.306Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfbnszjhx26
@@ -675,7 +675,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=0 reply=1 quote=0
+Engagement: like=12 repost=0 reply=1 quote=0
 
 --- 54/69 | post | 2026-10-21T13:05:42.318Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myf7nsk5vd2y
