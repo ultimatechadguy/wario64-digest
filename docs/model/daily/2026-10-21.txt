@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-21
-Updated: 2026-10-23T11:31:04.061881Z
+Updated: 2026-10-23T15:54:17.090643Z
 Timezone: America/Los_Angeles
 Count: 69
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -61,7 +61,7 @@ $15.99 GOG buff.ly/k5GhW8u #ad
 Link: https://buff.ly/zITVuOq
 Link: https://buff.ly/k5GhW8u
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=0 reply=0 quote=4
+Engagement: like=33 repost=0 reply=0 quote=4
 
 --- 6/69 | post | 2026-10-21T21:08:11.268Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg2mkfurh2w
@@ -230,7 +230,7 @@ news.xbox.com/en-us/2026/1...
 Link: https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=168 repost=36 reply=94 quote=270
+Engagement: like=169 repost=36 reply=95 quote=270
 
 --- 20/69 | post | 2026-10-21T18:00:58.643Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfq5s4yls2c
@@ -241,7 +241,7 @@ Humble Games Bundle: Sci-Fi Exposure ($25 for all including Marathon) buff.ly/Df
 Link: https://buff.ly/Df9qJZN
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=103 repost=29 reply=16 quote=21
+Engagement: like=104 repost=29 reply=16 quote=21
 
 --- 21/69 | post | 2026-10-21T17:44:50.741Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfpax3i4j23
@@ -313,7 +313,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=4916 repost=2146 reply=117 quote=1124
+Engagement: like=4923 repost=2147 reply=117 quote=1126
 
 --- 26/69 | post | 2026-10-21T17:12:07.391Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfnggoatk2c
@@ -417,7 +417,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=192 repost=77 reply=7 quote=36
+Engagement: like=193 repost=77 reply=7 quote=36
 
 --- 33/69 | post | 2026-10-21T16:11:49.399Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfk2mcemm2b
@@ -454,7 +454,7 @@ Created: 2026-10-21T15:55:53.678Z
 Free Hot or Iced Coffee at Dunkin w/ code SIZEDOESNTMATTER (redeem in app on rewards section)
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=84 repost=17 reply=10 quote=7
+Engagement: like=83 repost=17 reply=11 quote=7
 
 --- 36/69 | post | 2026-10-21T15:50:54.847Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfiv7ubkg2o
@@ -483,7 +483,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=256 repost=57 reply=9 quote=23
+Engagement: like=257 repost=57 reply=9 quote=23
 
 --- 38/69 | post | 2026-10-21T15:36:02.837Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfi2n6kn72f
@@ -579,7 +579,7 @@ Created: 2026-10-21T13:41:30.306Z
 Cyberpunk: Edgerunners Qset+ David & Lucy (To The Moon) Figure (Reissue) up for preorder at BBTS ($41.99) buff.ly/TkY7kHZ
 Link: https://buff.ly/TkY7kHZ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=93 repost=8 reply=3 quote=1
+Engagement: like=94 repost=8 reply=3 quote=1
 
 --- 46/69 | post | 2026-10-21T13:38:24.000Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfbibdywz26
@@ -652,7 +652,7 @@ Hi-Fi RUSH Rhythm Edition (XSX) $46.20 at VGP buff.ly/oOnGKIg #ad
 Link: https://buff.ly/SxidYLd
 Link: https://buff.ly/oOnGKIg
 Image description: [no alt text supplied; image omitted]
-Engagement: like=48 repost=12 reply=1 quote=2
+Engagement: like=49 repost=13 reply=2 quote=2
 
 --- 52/69 | post | 2026-10-21T13:10:11.290Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myf7vt2iu32k
