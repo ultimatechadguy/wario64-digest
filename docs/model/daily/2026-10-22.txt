@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-22
-Updated: 2026-10-23T19:56:17.411138Z
+Updated: 2026-10-23T23:05:21.646956Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -19,7 +19,7 @@ Link: https://link.amazon/B0ev4GDo2
 Link: https://link.amazon/B02X9Hw8u
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=193 repost=61 reply=14 quote=23
+Engagement: like=195 repost=62 reply=14 quote=23
 
 --- 2/66 | post | 2026-10-22T22:07:15.657Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myiof42gdc2i
@@ -30,7 +30,7 @@ Disguise Steve Minecraft Mask, One Size is $11.14 on Amazon amzn.to/4izABvs #ad
 Link: https://amzn.to/4izABvs
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=5 reply=1 quote=5
+Engagement: like=43 repost=5 reply=1 quote=5
 
 --- 3/66 | post | 2026-10-22T21:59:47.064Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myinxqagas2i
@@ -43,7 +43,7 @@ Users no longer need to download AC8 to play it on Steam
 Link: https://store.steampowered.com/app/5370600/ACE_COMBAT_ZERO_THE_BELKAN_WAR/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=231 repost=50 reply=5 quote=21
+Engagement: like=232 repost=50 reply=6 quote=21
 
 --- 4/66 | post | 2026-10-22T21:35:55.989Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myimn3hj2c2i
@@ -232,7 +232,7 @@ LEGO Lucky Cat is $17.99 on Amazon amzn.to/4dVd4ma #ad
 Link: https://amzn.to/4dVd4ma
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=111 repost=8 reply=2 quote=2
+Engagement: like=112 repost=8 reply=2 quote=2
 
 --- 19/66 | post | 2026-10-22T18:20:42.310Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myibpygffk2i
@@ -320,7 +320,7 @@ Languages: en
 Card title: From the masseffect community on Reddit: Mass Effect: Universe Trailer
 Card description: Explore this post and more from the masseffect community
 Card uri: https://www.reddit.com/r/masseffect/comments/1xclmpu/mass_effect_universe_trailer/
-Engagement: like=5727 repost=1575 reply=237 quote=855
+Engagement: like=5768 repost=1581 reply=239 quote=856
 
 --- 26/66 | post | 2026-10-22T17:25:53.842Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi6nyci7u2u
@@ -433,7 +433,7 @@ STAR WARS: Galactic Racer - Quality-of-Life Update steamcommunity.com/games/4078
 Link: https://steamcommunity.com/games/4078430/announcements/detail/708912427613294911
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=116 repost=14 reply=5 quote=5
+Engagement: like=117 repost=14 reply=5 quote=5
 
 --- 35/66 | repost | 2026-10-22T16:52:05.564Z ---
 ID: at://did:plc:f6jharuhwg5szxe22rfijybf/app.bsky.feed.post/3myi4ikvyms2q#repost:2026-10-22T16:52:05.564Z
@@ -444,7 +444,7 @@ Rumor: Canceled Mass Effect: Universe trailer leaks www.gematsu.com/2026/10/rumo
 Link: https://www.gematsu.com/2026/10/rumor-canceled-mass-effect-universe-trailer-leaks
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=290 repost=77 reply=8 quote=81
+Engagement: like=289 repost=76 reply=8 quote=81
 
 --- 36/66 | post | 2026-10-22T16:43:46.621Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi4co5sup2n
@@ -584,7 +584,7 @@ Created: 2026-10-22T15:04:07.955Z
 Link: https://www.flatpanelshd.com/news.php?subaction=showfull&id=1792667456
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=450 repost=98 reply=47 quote=223
+Engagement: like=449 repost=100 reply=48 quote=223
 
 --- 47/66 | post | 2026-10-22T15:02:53.002Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhwoayf7z2k
@@ -632,7 +632,7 @@ We made it bigger. It's the size of a full sequel, plus a soundtrack of over 30+
 More updates to come. Thanks for your continued support!
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=1460 repost=439 reply=57 quote=86
+Engagement: like=1469 repost=440 reply=57 quote=86
 
 --- 51/66 | post | 2026-10-22T14:14:07.589Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhtx33doc2i
@@ -704,7 +704,7 @@ Persona 4 Revival Funko Pop Figures available for preorder on Amazon link.amazon
 Link: https://link.amazon/B0bXr4mMF
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=8 reply=7 quote=14
+Engagement: like=41 repost=9 reply=7 quote=14
 
 --- 57/66 | post | 2026-10-22T13:13:04.886Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhqjw2la22i
@@ -770,7 +770,7 @@ Link: https://buff.ly/9o6xhEa
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=161 repost=43 reply=7 quote=13
+Engagement: like=162 repost=44 reply=7 quote=13
 
 --- 62/66 | post | 2026-10-22T05:01:57.459Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mygv3pq5352r
@@ -827,4 +827,4 @@ Humble Games Bundle: Sci-Fi Exposure ($25 for all including Marathon) buff.ly/Df
 Link: https://buff.ly/Df9qJZN
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=106 repost=29 reply=16 quote=21
+Engagement: like=107 repost=29 reply=16 quote=21
