@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-19
-Updated: 2026-10-23T05:59:47.453360Z
+Updated: 2026-10-23T11:31:04.061881Z
 Timezone: America/Los_Angeles
 Count: 75
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -135,7 +135,7 @@ The Medium (Steam) w/ 7 more games is $12 on Humble Halloween Bundle buff.ly/pxo
 Link: https://buff.ly/pxo5AAr
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=0 reply=0 quote=2
+Engagement: like=17 repost=0 reply=0 quote=2
 
 --- 12/75 | post | 2026-10-19T18:43:01.704Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myarl5g4r62g
@@ -560,7 +560,7 @@ Shout Factory 4K/Blu-ray sale on Amazon amzn.to/4eIwKdd #ad
 Link: https://amzn.to/4eIwKdd
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=1 reply=1 quote=0
+Engagement: like=24 repost=1 reply=1 quote=0
 
 --- 46/75 | post | 2026-10-19T13:15:29.828Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mya7bhvk722y

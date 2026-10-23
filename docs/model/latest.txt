@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-10-22
-Updated: 2026-10-23T05:59:47.453360Z
+Updated: 2026-10-23T11:31:04.061881Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -19,7 +19,7 @@ Link: https://link.amazon/B0ev4GDo2
 Link: https://link.amazon/B02X9Hw8u
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=162 repost=53 reply=14 quote=19
+Engagement: like=174 repost=56 reply=14 quote=21
 
 --- 2/66 | post | 2026-10-22T22:07:15.657Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myiof42gdc2i
@@ -30,7 +30,7 @@ Disguise Steve Minecraft Mask, One Size is $11.14 on Amazon amzn.to/4izABvs #ad
 Link: https://amzn.to/4izABvs
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=5 reply=1 quote=5
+Engagement: like=42 repost=5 reply=1 quote=5
 
 --- 3/66 | post | 2026-10-22T21:59:47.064Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myinxqagas2i
@@ -43,7 +43,7 @@ Users no longer need to download AC8 to play it on Steam
 Link: https://store.steampowered.com/app/5370600/ACE_COMBAT_ZERO_THE_BELKAN_WAR/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=208 repost=46 reply=5 quote=18
+Engagement: like=220 repost=48 reply=5 quote=20
 
 --- 4/66 | post | 2026-10-22T21:35:55.989Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myimn3hj2c2i
@@ -54,7 +54,7 @@ Dragon Age: The Veilguard (PS5) is $8 on Amazon amzn.to/4BnOCUA #ad
 Link: https://amzn.to/4BnOCUA
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=91 repost=17 reply=14 quote=10
+Engagement: like=95 repost=17 reply=15 quote=10
 
 --- 5/66 | post | 2026-10-22T21:27:07.161Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myim5d52f22i
@@ -68,7 +68,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=60 repost=5 reply=0 quote=1
+Engagement: like=64 repost=5 reply=0 quote=1
 
 --- 6/66 | post | 2026-10-22T21:05:54.659Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myikxflrxu2f
@@ -110,7 +110,7 @@ Samurai Spirits Video Game Movie in the Works From ‘Altered Carbon’ Creator 
 Link: https://www.hollywoodreporter.com/movies/movie-news/samurai-spirits-video-game-movie-1236738377/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=62 repost=12 reply=1 quote=21
+Engagement: like=66 repost=12 reply=1 quote=22
 
 --- 9/66 | post | 2026-10-22T20:08:54.881Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myihriaezi2f
@@ -122,7 +122,7 @@ US PSN buff.ly/TO8pK8s
 Link: https://buff.ly/91bTGOn
 Link: https://buff.ly/TO8pK8s
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=10 reply=4 quote=1
+Engagement: like=41 repost=10 reply=4 quote=1
 
 --- 10/66 | post | 2026-10-22T19:35:16.196Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myifvd3odd2y
@@ -132,7 +132,7 @@ Created: 2026-10-22T19:35:16.196Z
 UNBEATABLE (Steam) is $16.35 on Gamesplanet buff.ly/pWTKiZY #ad
 Link: https://buff.ly/pWTKiZY
 Image description: [no alt text supplied; image omitted]
-Engagement: like=46 repost=17 reply=2 quote=3
+Engagement: like=47 repost=17 reply=2 quote=3
 
 --- 11/66 | post | 2026-10-22T19:30:10.236Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myifm7bkzj2a
@@ -143,7 +143,7 @@ Stardew Valley - The Board Game available at VGP ($49.84 US Dollars) buff.ly/JSu
 Link: https://buff.ly/JSurtzZ
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=34 repost=2 reply=0 quote=2
+Engagement: like=35 repost=2 reply=0 quote=2
 
 --- 12/66 | post | 2026-10-22T19:15:56.712Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myiesrc3ka2f
@@ -154,7 +154,7 @@ Costume Quest (Steam) w/ 10 more games is $8 on Humble Double Fine Bundle buff.l
 Link: https://buff.ly/t0KsJdp
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=41 repost=5 reply=1 quote=1
+Engagement: like=43 repost=5 reply=1 quote=1
 
 --- 13/66 | post | 2026-10-22T19:01:55.636Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myidzp6hfp2r
@@ -178,7 +178,7 @@ will cost $9.99 after Nov 4th. Claim it even if you don't have the game
 Link: https://buff.ly/JCqVPnC
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=108 repost=22 reply=0 quote=3
+Engagement: like=109 repost=22 reply=0 quote=3
 
 --- 15/66 | post | 2026-10-22T18:55:43.555Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myidomdchsnc
@@ -205,7 +205,7 @@ Switch $9.99 buff.ly/p3s7Kld
 Link: https://buff.ly/RjK8Dos
 Link: https://buff.ly/p3s7Kld
 Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=18 reply=1 quote=1
+Engagement: like=53 repost=18 reply=1 quote=1
 
 --- 17/66 | post | 2026-10-22T18:46:09.948Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myid5jcqgr2k
@@ -232,7 +232,7 @@ LEGO Lucky Cat is $17.99 on Amazon amzn.to/4dVd4ma #ad
 Link: https://amzn.to/4dVd4ma
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=108 repost=8 reply=2 quote=2
+Engagement: like=109 repost=8 reply=2 quote=2
 
 --- 19/66 | post | 2026-10-22T18:20:42.310Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myibpygffk2i
@@ -246,7 +246,7 @@ Link: https://amzn.to/3VYo7VG
 Link: https://amzn.to/4BhxrnD
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=49 repost=5 reply=2 quote=7
+Engagement: like=51 repost=5 reply=2 quote=7
 
 --- 20/66 | post | 2026-10-22T18:11:22.395Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myib7chqfo2m
@@ -283,7 +283,7 @@ Humble Book Bundle: Blue Lock: The Perfect Shot Bundle ($30 for all) buff.ly/Jbp
 "The comics in this bundle are available in PDF, and ePub formats"
 Link: https://buff.ly/JbpBRMT
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=2 reply=0 quote=1
+Engagement: like=24 repost=2 reply=0 quote=1
 
 --- 23/66 | post | 2026-10-22T17:54:57.295Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myiabwyapk2i
@@ -297,7 +297,7 @@ Link: https://www.danganronpa.com/pages/2x2/en/
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=251 repost=51 reply=6 quote=17
+Engagement: like=254 repost=52 reply=6 quote=17
 
 --- 24/66 | post | 2026-10-22T17:43:39.932Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi7nqzdmk2r
@@ -307,7 +307,7 @@ Created: 2026-10-22T17:43:39.932Z
 Mina the Hollower (Steam/DRM-free) is $17.99 on Humble buff.ly/4SEH3Sm #ad
 Link: https://buff.ly/4SEH3Sm
 Image description: [no alt text supplied; image omitted]
-Engagement: like=135 repost=31 reply=1 quote=7
+Engagement: like=138 repost=32 reply=1 quote=7
 
 --- 25/66 | repost | 2026-10-22T17:42:23.341Z ---
 ID: at://did:plc:2mkgbhbhqvappkkorf2bzyrp/app.bsky.feed.post/3myi6wo57ns2f#repost:2026-10-22T17:42:23.341Z
@@ -320,7 +320,7 @@ Languages: en
 Card title: From the masseffect community on Reddit: Mass Effect: Universe Trailer
 Card description: Explore this post and more from the masseffect community
 Card uri: https://www.reddit.com/r/masseffect/comments/1xclmpu/mass_effect_universe_trailer/
-Engagement: like=5251 repost=1464 reply=222 quote=791
+Engagement: like=5439 repost=1505 reply=227 quote=818
 
 --- 26/66 | post | 2026-10-22T17:25:53.842Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi6nyci7u2u
@@ -333,7 +333,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=3 reply=0 quote=0
+Engagement: like=16 repost=3 reply=0 quote=0
 
 --- 27/66 | post | 2026-10-22T17:09:58.283Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi5rizgty2m
@@ -356,7 +356,7 @@ Created: 2026-10-22T17:08:06.712Z
 Digimon Story Time Stranger (Steam) is $33.96 on Gamesplanet buff.ly/jDzHbNN #ad
 Link: https://buff.ly/jDzHbNN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=13 reply=0 quote=0
+Engagement: like=24 repost=13 reply=0 quote=0
 
 --- 29/66 | post | 2026-10-22T17:06:44.862Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi5lqkq752f
@@ -376,7 +376,7 @@ Created: 2026-10-22T17:05:52.638Z
 Monster Prom franchise sale on Steam buff.ly/F5lkNoi
 Link: https://buff.ly/F5lkNoi
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=10 reply=1 quote=1
+Engagement: like=30 repost=12 reply=1 quote=1
 
 --- 31/66 | post | 2026-10-22T17:05:08.509Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi5iunwub2r
@@ -422,7 +422,7 @@ Free Prime Gaming/Amazon Luna titles added: buff.ly/5ZTxAeJ
 -Time Travel: Escape Room Game (Legacy)
 Link: https://buff.ly/5ZTxAeJ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=2 reply=1 quote=0
+Engagement: like=18 repost=2 reply=1 quote=0
 
 --- 34/66 | post | 2026-10-22T16:54:13.444Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi4vdwrh22i
@@ -433,7 +433,7 @@ STAR WARS: Galactic Racer - Quality-of-Life Update steamcommunity.com/games/4078
 Link: https://steamcommunity.com/games/4078430/announcements/detail/708912427613294911
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=115 repost=13 reply=5 quote=5
+Engagement: like=116 repost=14 reply=5 quote=5
 
 --- 35/66 | repost | 2026-10-22T16:52:05.564Z ---
 ID: at://did:plc:f6jharuhwg5szxe22rfijybf/app.bsky.feed.post/3myi4ikvyms2q#repost:2026-10-22T16:52:05.564Z
@@ -444,7 +444,7 @@ Rumor: Canceled Mass Effect: Universe trailer leaks www.gematsu.com/2026/10/rumo
 Link: https://www.gematsu.com/2026/10/rumor-canceled-mass-effect-universe-trailer-leaks
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=284 repost=75 reply=8 quote=78
+Engagement: like=287 repost=76 reply=8 quote=79
 
 --- 36/66 | post | 2026-10-22T16:43:46.621Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi4co5sup2n
@@ -547,7 +547,7 @@ Created: 2026-10-22T15:26:08.794Z
 Link: https://variety.com/2026/gaming/news/dispatch-adhoc-5-million-copies-sold-live-concert-1236908475/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=158 repost=20 reply=1 quote=4
+Engagement: like=159 repost=20 reply=1 quote=4
 
 --- 44/66 | post | 2026-10-22T15:23:43.462Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhxtjivms2i
@@ -561,7 +561,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=70 repost=10 reply=1 quote=1
+Engagement: like=70 repost=11 reply=1 quote=1
 
 --- 45/66 | post | 2026-10-22T15:12:23.020Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhx7alwjk2k
@@ -584,7 +584,7 @@ Created: 2026-10-22T15:04:07.955Z
 Link: https://www.flatpanelshd.com/news.php?subaction=showfull&id=1792667456
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=430 repost=93 reply=47 quote=210
+Engagement: like=440 repost=97 reply=47 quote=217
 
 --- 47/66 | post | 2026-10-22T15:02:53.002Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhwoayf7z2k
@@ -632,7 +632,7 @@ We made it bigger. It's the size of a full sequel, plus a soundtrack of over 30+
 More updates to come. Thanks for your continued support!
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=1360 repost=416 reply=57 quote=86
+Engagement: like=1402 repost=422 reply=57 quote=87
 
 --- 51/66 | post | 2026-10-22T14:14:07.589Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhtx33doc2i
@@ -648,7 +648,7 @@ Link: https://www.youtube.com/watch?v=t5rwOE3zpc8
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=251 repost=44 reply=3 quote=27
+Engagement: like=253 repost=45 reply=3 quote=27
 
 --- 52/66 | post | 2026-10-22T14:04:15.158Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhtfg6c762k
@@ -660,7 +660,7 @@ PS Direct buff.ly/IyRKtFB #ad
 Link: https://buff.ly/GCnfrkQ
 Link: https://buff.ly/IyRKtFB
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=0 reply=5 quote=10
+Engagement: like=27 repost=0 reply=5 quote=10
 
 --- 53/66 | post | 2026-10-22T13:58:57.374Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myht3x2at52g
@@ -672,7 +672,7 @@ PNP buff.ly/LggQ9OH #ad
 Link: https://buff.ly/HMjnVl8
 Link: https://buff.ly/LggQ9OH
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=0 reply=1 quote=2
+Engagement: like=23 repost=0 reply=1 quote=2
 
 --- 54/66 | post | 2026-10-22T13:50:44.868Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhsnberfr2a
@@ -770,7 +770,7 @@ Link: https://buff.ly/9o6xhEa
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=158 repost=43 reply=7 quote=13
+Engagement: like=159 repost=43 reply=7 quote=13
 
 --- 62/66 | post | 2026-10-22T05:01:57.459Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mygv3pq5352r
