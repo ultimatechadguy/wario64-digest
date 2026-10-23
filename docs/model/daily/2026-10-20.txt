@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-20
-Updated: 2026-10-23T01:02:56.335659Z
+Updated: 2026-10-23T05:59:47.453360Z
 Timezone: America/Los_Angeles
 Count: 82
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -17,7 +17,7 @@ $7.49 US PSN buff.ly/puQDdZw
 Link: https://buff.ly/8E3DIrM
 Link: https://buff.ly/puQDdZw
 Image description: [no alt text supplied; image omitted]
-Engagement: like=73 repost=21 reply=0 quote=3
+Engagement: like=82 repost=25 reply=0 quote=3
 
 --- 2/82 | post | 2026-10-20T21:43:02.286Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mydm3x45gz2g
@@ -159,7 +159,7 @@ Link: https://fortune.com/2026/10/20/the-non-gamer-ceo-racing-to-save-microsofts
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=539 repost=104 reply=186 quote=860
+Engagement: like=539 repost=104 reply=186 quote=859
 
 --- 12/82 | post | 2026-10-20T18:38:14.106Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mydbrim3dt2p
@@ -283,7 +283,7 @@ Link: https://buff.ly/WZMao2i
 Link: http://buff.ly/9BSxPX4
 Link: https://buff.ly/3747ooP
 Image description: [no alt text supplied; image omitted]
-Engagement: like=57 repost=6 reply=1 quote=0
+Engagement: like=58 repost=6 reply=1 quote=0
 
 --- 22/82 | post | 2026-10-20T17:08:33.986Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myd4r5ptf426
@@ -605,7 +605,7 @@ Created: 2026-10-20T15:02:55.775Z
 Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil (Switch / Switch 2 - pending cart info English/JPN import) up for preorder at VGP ($28.35/$35.44 US Dollars)  buff.ly/UkmE8A3 #ad
 Link: https://buff.ly/UkmE8A3
 Image description: [no alt text supplied; image omitted]
-Engagement: like=90 repost=14 reply=0 quote=8
+Engagement: like=91 repost=14 reply=0 quote=8
 
 --- 47/82 | post | 2026-10-20T14:12:14.306Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mycsvu5mkm2w
@@ -764,7 +764,7 @@ out this week (will likely go back to full price once released)
 Link: https://amzn.to/3SgD4Al
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=4 reply=1 quote=0
+Engagement: like=39 repost=4 reply=1 quote=0
 
 --- 58/82 | post | 2026-10-20T12:52:03.655Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mycogiefpo23
