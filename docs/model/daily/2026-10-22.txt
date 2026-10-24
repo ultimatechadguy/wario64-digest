@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-22
-Updated: 2026-10-24T06:26:15.744945Z
+Updated: 2026-10-24T11:34:40.179149Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -132,7 +132,7 @@ Created: 2026-10-22T19:35:16.196Z
 UNBEATABLE (Steam) is $16.35 on Gamesplanet buff.ly/pWTKiZY #ad
 Link: https://buff.ly/pWTKiZY
 Image description: [no alt text supplied; image omitted]
-Engagement: like=68 repost=26 reply=2 quote=5
+Engagement: like=70 repost=28 reply=2 quote=7
 
 --- 11/66 | post | 2026-10-22T19:30:10.236Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myifm7bkzj2a
@@ -320,7 +320,7 @@ Languages: en
 Card title: From the masseffect community on Reddit: Mass Effect: Universe Trailer
 Card description: Explore this post and more from the masseffect community
 Card uri: https://www.reddit.com/r/masseffect/comments/1xclmpu/mass_effect_universe_trailer/
-Engagement: like=5796 repost=1593 reply=239 quote=858
+Engagement: like=5819 repost=1595 reply=239 quote=861
 
 --- 26/66 | post | 2026-10-22T17:25:53.842Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi6nyci7u2u
@@ -632,7 +632,7 @@ We made it bigger. It's the size of a full sequel, plus a soundtrack of over 30+
 More updates to come. Thanks for your continued support!
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=1480 repost=444 reply=57 quote=87
+Engagement: like=1483 repost=446 reply=57 quote=87
 
 --- 51/66 | post | 2026-10-22T14:14:07.589Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhtx33doc2i
