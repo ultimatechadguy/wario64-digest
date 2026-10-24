@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-23
-Updated: 2026-10-24T20:43:33.094483Z
+Updated: 2026-10-24T22:45:54.404333Z
 Timezone: America/Los_Angeles
 Count: 57
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -89,7 +89,7 @@ Link: https://buff.ly/7Ttnnb3
 Link: https://buff.ly/hlrEz27
 Link: https://buff.ly/P7kc0kw
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=0 reply=0 quote=0
+Engagement: like=21 repost=0 reply=0 quote=0
 
 --- 7/57 | post | 2026-10-23T20:26:09.507Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykz7aeyp22s
@@ -156,7 +156,7 @@ Created: 2026-10-23T19:39:16.831Z
 Pikmin - Nature Is Alive t-shirt (by Lil Curto) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=11 reply=0 quote=0
+Engagement: like=45 repost=11 reply=0 quote=0
 
 --- 13/57 | post | 2026-10-23T19:10:07.596Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykuxbszng2y
@@ -339,7 +339,7 @@ Created: 2026-10-23T16:03:55.506Z
 Look Outside coming to PS4/PS5/Switch/Switch 2 on October 30th
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=256 repost=67 reply=6 quote=18
+Engagement: like=257 repost=67 reply=6 quote=18
 
 --- 27/57 | post | 2026-10-23T15:59:39.377Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykkcozebl2k
@@ -446,7 +446,7 @@ Created: 2026-10-23T14:20:11.312Z
 Link: https://www.gematsu.com/2026/10/report-arkane-studios-has-until-november-13-to-find-a-buyer
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=248 repost=76 reply=12 quote=64
+Engagement: like=251 repost=77 reply=12 quote=64
 
 --- 36/57 | post | 2026-10-23T14:09:30.394Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myke5q7ado2a
@@ -528,7 +528,7 @@ Created: 2026-10-23T13:07:28.963Z
 Tomb Raider 30th Anniversary Sale on GOG buff.ly/t7GCESL #ad
 Link: https://buff.ly/t7GCESL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=3 reply=0 quote=0
+Engagement: like=26 repost=3 reply=0 quote=0
 
 --- 43/57 | post | 2026-10-23T13:07:15.577Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykaogf77c24
@@ -705,7 +705,7 @@ www.youtube.com/watch?v=BaCw...
 Link: https://www.youtube.com/watch?v=BaCwCoEFzbk
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=429 repost=85 reply=30 quote=149
+Engagement: like=430 repost=85 reply=30 quote=150
 
 --- 57/57 | post | 2026-10-23T01:00:32.949Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myiy2xolsc2i
@@ -716,4 +716,4 @@ ARMS OST added to Nintendo Music music.nintendo.com/en-US/playli...
 Link: https://music.nintendo.com/en-US/playlist/70ed225f-265c-4152-a6e6-4dc6dc75a647/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=142 repost=27 reply=4 quote=24
+Engagement: like=145 repost=29 reply=4 quote=24

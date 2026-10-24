@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-22
-Updated: 2026-10-24T20:43:33.094483Z
+Updated: 2026-10-24T22:45:54.404333Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -110,7 +110,7 @@ Samurai Spirits Video Game Movie in the Works From ‘Altered Carbon’ Creator 
 Link: https://www.hollywoodreporter.com/movies/movie-news/samurai-spirits-video-game-movie-1236738377/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=66 repost=12 reply=1 quote=23
+Engagement: like=67 repost=12 reply=1 quote=23
 
 --- 9/66 | post | 2026-10-22T20:08:54.881Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myihriaezi2f
@@ -132,7 +132,7 @@ Created: 2026-10-22T19:35:16.196Z
 UNBEATABLE (Steam) is $16.35 on Gamesplanet buff.ly/pWTKiZY #ad
 Link: https://buff.ly/pWTKiZY
 Image description: [no alt text supplied; image omitted]
-Engagement: like=74 repost=30 reply=2 quote=7
+Engagement: like=75 repost=31 reply=2 quote=7
 
 --- 11/66 | post | 2026-10-22T19:30:10.236Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myifm7bkzj2a
@@ -320,7 +320,7 @@ Languages: en
 Card title: From the masseffect community on Reddit: Mass Effect: Universe Trailer
 Card description: Explore this post and more from the masseffect community
 Card uri: https://www.reddit.com/r/masseffect/comments/1xclmpu/mass_effect_universe_trailer/
-Engagement: like=5857 repost=1605 reply=240 quote=862
+Engagement: like=5862 repost=1605 reply=242 quote=862
 
 --- 26/66 | post | 2026-10-22T17:25:53.842Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi6nyci7u2u
@@ -632,7 +632,7 @@ We made it bigger. It's the size of a full sequel, plus a soundtrack of over 30+
 More updates to come. Thanks for your continued support!
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=1486 repost=447 reply=57 quote=88
+Engagement: like=1489 repost=448 reply=57 quote=88
 
 --- 51/66 | post | 2026-10-22T14:14:07.589Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhtx33doc2i
