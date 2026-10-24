@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-21
-Updated: 2026-10-24T01:33:44.817498Z
+Updated: 2026-10-24T06:26:15.744945Z
 Timezone: America/Los_Angeles
 Count: 69
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -75,7 +75,7 @@ Link: https://buff.ly/bK83hPk
 Link: https://buff.ly/abpNYRR
 Link: https://buff.ly/p3s7Kld
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=8 reply=1 quote=0
+Engagement: like=50 repost=8 reply=1 quote=0
 
 --- 7/69 | post | 2026-10-21T21:02:34.101Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myg2ciuh2o2f
@@ -313,7 +313,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=4935 repost=2151 reply=117 quote=1128
+Engagement: like=4939 repost=2151 reply=117 quote=1129
 
 --- 26/69 | post | 2026-10-21T17:12:07.391Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfnggoatk2c
@@ -342,7 +342,7 @@ Bloomberg: Electronic Arts to Cut 400 Jobs, Shut Down BioWare www.bloomberg.com/
 Link: https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts-to-cut-400-jobs-shut-down-bioware?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjYwMjI4MCwiZXhwIjoxNzkzMjA3MDgwLCJhcnRpY2xlSWQiOiJUTjlPUkZLSVVQU08wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.BPLdBqixyN47DHZvtrfHyRsF_Np3UKIKzGi_WqMA-I4&leadSource=article-gifting
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=823 repost=259 reply=67 quote=629
+Engagement: like=824 repost=259 reply=67 quote=629
 
 --- 28/69 | post | 2026-10-21T17:07:21.676Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfn5w76lr26
@@ -569,7 +569,7 @@ eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
 Wallet limit is $800
 Link: https://buff.ly/pXbtEkL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=4 reply=1 quote=0
+Engagement: like=39 repost=4 reply=1 quote=0
 
 --- 45/69 | post | 2026-10-21T13:41:30.306Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfbnszjhx26
@@ -851,7 +851,7 @@ www.theinformation.com/articles/pri...
 Link: https://www.theinformation.com/articles/private-equity-firms-weighed-100-billion-plus-buyout-microsofts-xbox
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=118 repost=23 reply=19 quote=33
+Engagement: like=118 repost=23 reply=18 quote=33
 
 --- 68/69 | post | 2026-10-21T00:21:20.195Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myduwyz6df2s

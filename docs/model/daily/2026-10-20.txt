@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-20
-Updated: 2026-10-24T01:33:44.817498Z
+Updated: 2026-10-24T06:26:15.744945Z
 Timezone: America/Los_Angeles
 Count: 82
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -159,7 +159,7 @@ Link: https://fortune.com/2026/10/20/the-non-gamer-ceo-racing-to-save-microsofts
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=539 repost=104 reply=186 quote=859
+Engagement: like=539 repost=104 reply=186 quote=858
 
 --- 12/82 | post | 2026-10-20T18:38:14.106Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mydbrim3dt2p
