@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-10-23
-Updated: 2026-10-24T14:52:44.379697Z
+Updated: 2026-10-24T18:04:46.490730Z
 Timezone: America/Los_Angeles
 Count: 57
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -21,7 +21,7 @@ Link: https://buff.ly/1ZH83AX
 Link: https://buff.ly/ePWWp66
 Link: https://buff.ly/Zb5WF5B
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=7 reply=0 quote=1
+Engagement: like=33 repost=7 reply=0 quote=1
 
 --- 2/57 | post | 2026-10-23T22:51:15.020Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mylbcommlt2y
@@ -31,7 +31,7 @@ Created: 2026-10-23T22:51:15.020Z
 Until Dawn 2015 is $4.99 on US PSN buff.ly/53XnC1R
 Link: https://buff.ly/53XnC1R
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=4 reply=2 quote=3
+Engagement: like=37 repost=4 reply=2 quote=3
 
 --- 3/57 | post | 2026-10-23T22:14:06.463Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myl7abcp3h2g
@@ -59,7 +59,7 @@ Link: https://buff.ly/d2N6D1a
 Link: https://buff.ly/zoYNZuK
 Link: https://buff.ly/WAXZciG
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=5 reply=1 quote=3
+Engagement: like=45 repost=5 reply=1 quote=3
 
 --- 5/57 | post | 2026-10-23T21:17:00.897Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myl426giuo2f
@@ -89,7 +89,7 @@ Link: https://buff.ly/7Ttnnb3
 Link: https://buff.ly/hlrEz27
 Link: https://buff.ly/P7kc0kw
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=0 reply=0 quote=0
+Engagement: like=22 repost=0 reply=0 quote=0
 
 --- 7/57 | post | 2026-10-23T20:26:09.507Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykz7aeyp22s
@@ -101,7 +101,7 @@ Link: https://steamcommunity.com/games/593110/announcements/detail/7100370594698
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=165 repost=28 reply=3 quote=4
+Engagement: like=168 repost=28 reply=3 quote=5
 
 --- 8/57 | post | 2026-10-23T20:09:11.246Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykyavc3ac2s
@@ -156,7 +156,7 @@ Created: 2026-10-23T19:39:16.831Z
 Pikmin - Nature Is Alive t-shirt (by Lil Curto) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=10 reply=0 quote=0
+Engagement: like=44 repost=11 reply=0 quote=0
 
 --- 13/57 | post | 2026-10-23T19:10:07.596Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykuxbszng2y
@@ -180,7 +180,7 @@ Link: https://amzn.to/3TAi1WT
 Link: https://buff.ly/8g6qaJC
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=2 reply=1 quote=3
+Engagement: like=45 repost=2 reply=1 quote=3
 
 --- 15/57 | post | 2026-10-23T18:18:04.085Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myks26z4wh2r
@@ -201,7 +201,7 @@ Humble Games Bundle: Puzzlers to Puzzle You ($15 for all) buff.ly/EAyYU8m #ad
 Link: https://buff.ly/EAyYU8m
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=1 reply=1 quote=2
+Engagement: like=24 repost=3 reply=1 quote=2
 
 --- 17/57 | post | 2026-10-23T18:00:48.449Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykr3ddfjc24
@@ -237,7 +237,7 @@ Link: https://buff.ly/6KIFfOB
 Link: https://buff.ly/CIwU5QN
 Link: https://buff.ly/wZL0IKo
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=1 reply=0 quote=0
+Engagement: like=27 repost=2 reply=0 quote=0
 
 --- 20/57 | post | 2026-10-23T17:05:24.117Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myknyazlgv2d
@@ -295,7 +295,7 @@ Created: 2026-10-23T16:42:39.323Z
 Pikmin/Chocobo - A Budding Friendship t-shirt (by Pop Culture Wizard) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=139 repost=28 reply=0 quote=0
+Engagement: like=140 repost=28 reply=0 quote=0
 
 --- 24/57 | post | 2026-10-23T16:23:10.253Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myklmqjgyc24
@@ -339,7 +339,7 @@ Created: 2026-10-23T16:03:55.506Z
 Look Outside coming to PS4/PS5/Switch/Switch 2 on October 30th
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=252 repost=63 reply=5 quote=17
+Engagement: like=255 repost=67 reply=6 quote=17
 
 --- 27/57 | post | 2026-10-23T15:59:39.377Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykkcozebl2k
@@ -351,7 +351,7 @@ Croc 2 Kingdom of the Gobbos (PS5/Switch 2E) & Croc: Legend of the Gobbos Platin
 published by PM Studios. Switch 1 + 2 on cart
 Link: https://buff.ly/PTFQtGa
 Image description: [no alt text supplied; image omitted]
-Engagement: like=60 repost=7 reply=3 quote=9
+Engagement: like=62 repost=7 reply=3 quote=9
 
 --- 28/57 | post | 2026-10-23T15:39:57.054Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykj7himce2q
@@ -379,7 +379,7 @@ Kid Katana buff.ly/FhpmDml
 Link: https://buff.ly/4lZpg66
 Link: https://buff.ly/FhpmDml
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=2 reply=0 quote=0
+Engagement: like=38 repost=3 reply=0 quote=0
 
 --- 30/57 | post | 2026-10-23T15:01:10.709Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykh24vgr42w
@@ -424,7 +424,7 @@ US eShop buff.ly/N2uhQdM
 Link: https://buff.ly/1KqWU1R
 Link: https://buff.ly/N2uhQdM
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=7 reply=0 quote=2
+Engagement: like=44 repost=7 reply=0 quote=2
 
 --- 34/57 | post | 2026-10-23T14:39:43.203Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykftqzcps24
@@ -705,7 +705,7 @@ www.youtube.com/watch?v=BaCw...
 Link: https://www.youtube.com/watch?v=BaCwCoEFzbk
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=427 repost=85 reply=30 quote=149
+Engagement: like=429 repost=85 reply=30 quote=149
 
 --- 57/57 | post | 2026-10-23T01:00:32.949Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myiy2xolsc2i
@@ -716,4 +716,4 @@ ARMS OST added to Nintendo Music music.nintendo.com/en-US/playli...
 Link: https://music.nintendo.com/en-US/playlist/70ed225f-265c-4152-a6e6-4dc6dc75a647/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=141 repost=27 reply=4 quote=24
+Engagement: like=142 repost=27 reply=4 quote=24
