@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-22
-Updated: 2026-10-24T18:04:46.490730Z
+Updated: 2026-10-24T20:43:33.094483Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -110,7 +110,7 @@ Samurai Spirits Video Game Movie in the Works From ‘Altered Carbon’ Creator 
 Link: https://www.hollywoodreporter.com/movies/movie-news/samurai-spirits-video-game-movie-1236738377/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=66 repost=12 reply=1 quote=22
+Engagement: like=66 repost=12 reply=1 quote=23
 
 --- 9/66 | post | 2026-10-22T20:08:54.881Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myihriaezi2f
@@ -132,7 +132,7 @@ Created: 2026-10-22T19:35:16.196Z
 UNBEATABLE (Steam) is $16.35 on Gamesplanet buff.ly/pWTKiZY #ad
 Link: https://buff.ly/pWTKiZY
 Image description: [no alt text supplied; image omitted]
-Engagement: like=73 repost=29 reply=2 quote=7
+Engagement: like=74 repost=30 reply=2 quote=7
 
 --- 11/66 | post | 2026-10-22T19:30:10.236Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myifm7bkzj2a
@@ -178,7 +178,7 @@ will cost $9.99 after Nov 4th. Claim it even if you don't have the game
 Link: https://buff.ly/JCqVPnC
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=110 repost=22 reply=0 quote=3
+Engagement: like=111 repost=22 reply=0 quote=3
 
 --- 15/66 | post | 2026-10-22T18:55:43.555Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myidomdchsnc
@@ -221,7 +221,7 @@ Link: https://buff.ly/SG2jn23
 Link: https://buff.ly/qbVdQar
 Link: https://buff.ly/aFbfiN3
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=2 reply=8 quote=2
+Engagement: like=31 repost=2 reply=8 quote=2
 
 --- 18/66 | post | 2026-10-22T18:35:52.284Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myicl4alv22i
@@ -320,7 +320,7 @@ Languages: en
 Card title: From the masseffect community on Reddit: Mass Effect: Universe Trailer
 Card description: Explore this post and more from the masseffect community
 Card uri: https://www.reddit.com/r/masseffect/comments/1xclmpu/mass_effect_universe_trailer/
-Engagement: like=5847 repost=1603 reply=239 quote=862
+Engagement: like=5857 repost=1605 reply=240 quote=862
 
 --- 26/66 | post | 2026-10-22T17:25:53.842Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi6nyci7u2u
@@ -547,7 +547,7 @@ Created: 2026-10-22T15:26:08.794Z
 Link: https://variety.com/2026/gaming/news/dispatch-adhoc-5-million-copies-sold-live-concert-1236908475/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=160 repost=20 reply=1 quote=4
+Engagement: like=161 repost=20 reply=1 quote=4
 
 --- 44/66 | post | 2026-10-22T15:23:43.462Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhxtjivms2i
@@ -584,7 +584,7 @@ Created: 2026-10-22T15:04:07.955Z
 Link: https://www.flatpanelshd.com/news.php?subaction=showfull&id=1792667456
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=452 repost=102 reply=48 quote=224
+Engagement: like=453 repost=102 reply=48 quote=225
 
 --- 47/66 | post | 2026-10-22T15:02:53.002Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhwoayf7z2k
@@ -816,7 +816,7 @@ Phantom Blade Zero - Official Launch Trailer (PS5 physical edition coming in 202
 Link: https://www.youtube.com/watch?v=qgJBFa952mY
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=113 repost=15 reply=15 quote=15
+Engagement: like=115 repost=16 reply=15 quote=15
 
 --- 66/66 | repost | 2026-10-22T00:19:12.441Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myfq5s4yls2c#repost:2026-10-22T00:19:12.441Z
@@ -827,4 +827,4 @@ Humble Games Bundle: Sci-Fi Exposure ($25 for all including Marathon) buff.ly/Df
 Link: https://buff.ly/Df9qJZN
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=107 repost=29 reply=16 quote=21
+Engagement: like=109 repost=29 reply=16 quote=21
