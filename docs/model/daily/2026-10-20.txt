@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-20
-Updated: 2026-10-25T00:36:02.638696Z
+Updated: 2026-10-25T05:18:09.139139Z
 Timezone: America/Los_Angeles
 Count: 82
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -253,7 +253,7 @@ Created: 2026-10-20T17:47:50.504Z
 Mycopunk is $7.49 on Steam buff.ly/nSljJ3a
 Link: https://buff.ly/nSljJ3a
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=3 reply=1 quote=1
+Engagement: like=20 repost=3 reply=1 quote=1
 
 --- 20/82 | post | 2026-10-20T17:46:03.071Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myd6u6mqau2f
@@ -655,7 +655,7 @@ Xenoblade Chronicles 2 + Expansion Pass DLC Bundle (Switch Digital) is $39.94 at
 If you get a cancellation, that's Walmart likely thinking it's a fraud order. Try again via site/app or try changing payment method
 Link: https://buff.ly/JYDnyHp
 Image description: [no alt text supplied; image omitted]
-Engagement: like=102 repost=41 reply=1 quote=8
+Engagement: like=103 repost=41 reply=1 quote=8
 
 --- 51/82 | post | 2026-10-20T13:37:43.165Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mycqy4xghq23
@@ -704,7 +704,7 @@ Link: https://buff.ly/vbcqOkK
 Link: https://buff.ly/oHXiawy
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=105 repost=23 reply=2 quote=1
+Engagement: like=104 repost=23 reply=2 quote=1
 
 --- 54/82 | post | 2026-10-20T13:15:10.161Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mycppsmyiz23
