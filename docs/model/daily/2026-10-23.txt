@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-23
-Updated: 2026-10-25T17:43:05.754511Z
+Updated: 2026-10-25T20:01:25.835741Z
 Timezone: America/Los_Angeles
 Count: 57
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -339,7 +339,7 @@ Created: 2026-10-23T16:03:55.506Z
 Look Outside coming to PS4/PS5/Switch/Switch 2 on October 30th
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=257 repost=67 reply=6 quote=18
+Engagement: like=258 repost=67 reply=6 quote=18
 
 --- 27/57 | post | 2026-10-23T15:59:39.377Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mykkcozebl2k
@@ -650,7 +650,7 @@ Created: 2026-10-23T05:28:58.736Z
 iPhone Duo 512GB - shipped by Oct 24 (Verizon/AT&T) at Best Buy buff.ly/ipT9tXP #ad
 Link: https://buff.ly/ipT9tXP
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=1 reply=7 quote=1
+Engagement: like=21 repost=1 reply=6 quote=1
 
 --- 53/57 | post | 2026-10-23T05:07:08.674Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myjftvyrnk2m

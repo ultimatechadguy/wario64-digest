@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-22
-Updated: 2026-10-25T17:43:05.754511Z
+Updated: 2026-10-25T20:01:25.835741Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -320,7 +320,7 @@ Languages: en
 Card title: From the masseffect community on Reddit: Mass Effect: Universe Trailer
 Card description: Explore this post and more from the masseffect community
 Card uri: https://www.reddit.com/r/masseffect/comments/1xclmpu/mass_effect_universe_trailer/
-Engagement: like=5882 repost=1613 reply=242 quote=863
+Engagement: like=5887 repost=1616 reply=242 quote=863
 
 --- 26/66 | post | 2026-10-22T17:25:53.842Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi6nyci7u2u
@@ -632,7 +632,7 @@ We made it bigger. It's the size of a full sequel, plus a soundtrack of over 30+
 More updates to come. Thanks for your continued support!
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=1493 repost=448 reply=57 quote=89
+Engagement: like=1494 repost=449 reply=57 quote=89
 
 --- 51/66 | post | 2026-10-22T14:14:07.589Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhtx33doc2i
