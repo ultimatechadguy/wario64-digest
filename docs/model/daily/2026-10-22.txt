@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-22
-Updated: 2026-10-24T22:45:54.404333Z
+Updated: 2026-10-25T00:36:02.638696Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -320,7 +320,7 @@ Languages: en
 Card title: From the masseffect community on Reddit: Mass Effect: Universe Trailer
 Card description: Explore this post and more from the masseffect community
 Card uri: https://www.reddit.com/r/masseffect/comments/1xclmpu/mass_effect_universe_trailer/
-Engagement: like=5862 repost=1605 reply=242 quote=862
+Engagement: like=5866 repost=1608 reply=242 quote=862
 
 --- 26/66 | post | 2026-10-22T17:25:53.842Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi6nyci7u2u
@@ -594,7 +594,7 @@ Created: 2026-10-22T15:02:53.002Z
 TCG - Weiss Schwarz - Metaphor: Refantazio Booster Box up for preorder at VGP ($49.84 US Dollars) buff.ly/vPf0ov5 #ad
 Link: https://buff.ly/vPf0ov5
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=1 reply=0 quote=0
+Engagement: like=24 repost=1 reply=0 quote=0
 
 --- 48/66 | post | 2026-10-22T15:01:32.375Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhwlu3t4o2r
