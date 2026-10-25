@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-20
-Updated: 2026-10-25T09:56:35.027561Z
+Updated: 2026-10-25T14:19:38.409917Z
 Timezone: America/Los_Angeles
 Count: 82
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -655,7 +655,7 @@ Xenoblade Chronicles 2 + Expansion Pass DLC Bundle (Switch Digital) is $39.94 at
 If you get a cancellation, that's Walmart likely thinking it's a fraud order. Try again via site/app or try changing payment method
 Link: https://buff.ly/JYDnyHp
 Image description: [no alt text supplied; image omitted]
-Engagement: like=104 repost=41 reply=1 quote=8
+Engagement: like=105 repost=41 reply=1 quote=8
 
 --- 51/82 | post | 2026-10-20T13:37:43.165Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mycqy4xghq23

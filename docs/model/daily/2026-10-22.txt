@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-22
-Updated: 2026-10-25T09:56:35.027561Z
+Updated: 2026-10-25T14:19:38.409917Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -320,7 +320,7 @@ Languages: en
 Card title: From the masseffect community on Reddit: Mass Effect: Universe Trailer
 Card description: Explore this post and more from the masseffect community
 Card uri: https://www.reddit.com/r/masseffect/comments/1xclmpu/mass_effect_universe_trailer/
-Engagement: like=5874 repost=1610 reply=242 quote=863
+Engagement: like=5876 repost=1611 reply=242 quote=863
 
 --- 26/66 | post | 2026-10-22T17:25:53.842Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi6nyci7u2u
@@ -376,7 +376,7 @@ Created: 2026-10-22T17:05:52.638Z
 Monster Prom franchise sale on Steam buff.ly/F5lkNoi
 Link: https://buff.ly/F5lkNoi
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=12 reply=1 quote=1
+Engagement: like=33 repost=12 reply=1 quote=1
 
 --- 31/66 | post | 2026-10-22T17:05:08.509Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi5iunwub2r
@@ -547,7 +547,7 @@ Created: 2026-10-22T15:26:08.794Z
 Link: https://variety.com/2026/gaming/news/dispatch-adhoc-5-million-copies-sold-live-concert-1236908475/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=161 repost=20 reply=1 quote=4
+Engagement: like=162 repost=20 reply=2 quote=4
 
 --- 44/66 | post | 2026-10-22T15:23:43.462Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhxtjivms2i
@@ -632,7 +632,7 @@ We made it bigger. It's the size of a full sequel, plus a soundtrack of over 30+
 More updates to come. Thanks for your continued support!
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=1489 repost=448 reply=57 quote=88
+Engagement: like=1491 repost=448 reply=57 quote=88
 
 --- 51/66 | post | 2026-10-22T14:14:07.589Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myhtx33doc2i
