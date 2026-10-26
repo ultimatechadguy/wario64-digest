@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-10-25
-Updated: 2026-10-26T05:28:18.227534Z
+Updated: 2026-10-26T11:31:05.983777Z
 Timezone: America/Los_Angeles
 Count: 44
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -19,7 +19,7 @@ Link: https://buff.ly/QL9bthS
 Link: https://buff.ly/Inz5rOP
 Link: https://buff.ly/5LEyuJy
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=3 reply=0 quote=1
+Engagement: like=25 repost=3 reply=0 quote=1
 
 --- 2/44 | post | 2026-10-25T21:38:01.643Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myq65loucc2o
@@ -38,7 +38,7 @@ Link: https://buff.ly/cJkznND
 Link: https://buff.ly/ifPloSn
 Link: https://buff.ly/KG4EYQ8
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=5 reply=0 quote=2
+Engagement: like=31 repost=5 reply=0 quote=2
 
 --- 3/44 | post | 2026-10-25T21:26:01.554Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myq5i4xk522b
@@ -50,7 +50,7 @@ $2.84 US PS+ buff.ly/Fy3jSiR
 Link: https://buff.ly/FaEZxdB
 Link: https://buff.ly/Fy3jSiR
 Image description: [no alt text supplied; image omitted]
-Engagement: like=58 repost=17 reply=3 quote=1
+Engagement: like=67 repost=18 reply=3 quote=1
 
 --- 4/44 | post | 2026-10-25T21:13:01.591Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myq4qv4mtk2a
@@ -61,7 +61,7 @@ Rivals of Aether (Steam) w/ 7 more games is $16 on Humble Indie Fighters Bundle 
 Link: https://buff.ly/JGujkHX
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=1 reply=0 quote=1
+Engagement: like=22 repost=1 reply=0 quote=1
 
 --- 5/44 | post | 2026-10-25T20:37:01.513Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myq2qj4lfm2m
@@ -73,7 +73,7 @@ Xbox buff.ly/3vKNc9z
 Link: https://buff.ly/AtxvbVT
 Link: https://buff.ly/3vKNc9z
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=4 reply=1 quote=1
+Engagement: like=33 repost=4 reply=1 quote=1
 
 --- 6/44 | post | 2026-10-25T20:21:02.525Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypztwk3n22j
@@ -101,7 +101,7 @@ add more games to save more (~$3.33 per game)
 Link: https://buff.ly/zgnl0bq
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=33 repost=5 reply=1 quote=0
+Engagement: like=34 repost=5 reply=1 quote=0
 
 --- 8/44 | post | 2026-10-25T20:02:43.823Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypyt6qmp22i
@@ -113,7 +113,7 @@ Link: https://buff.ly/l7vjGPJ
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=56 repost=10 reply=2 quote=3
+Engagement: like=59 repost=10 reply=2 quote=3
 
 --- 9/44 | post | 2026-10-25T19:45:04.379Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypxtmf7cj2t
@@ -128,7 +128,7 @@ Link: https://buff.ly/bETDM3O
 Link: https://buff.ly/Qv0i9D0
 Link: https://buff.ly/q7wCjEv
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=7 reply=0 quote=2
+Engagement: like=30 repost=7 reply=0 quote=2
 
 --- 10/44 | post | 2026-10-25T19:37:49.534Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypxgnp3k22a
@@ -141,7 +141,7 @@ Hobby-Genki $36.65 buff.ly/WOrUDJC #ad
 Link: https://buff.ly/gVTHGmw
 Link: https://buff.ly/WOrUDJC
 Image description: [no alt text supplied; image omitted]
-Engagement: like=100 repost=12 reply=3 quote=3
+Engagement: like=104 repost=12 reply=3 quote=3
 
 --- 11/44 | post | 2026-10-25T19:17:22.594Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypwc3l75k2u
@@ -160,7 +160,7 @@ Link: https://buff.ly/WKriAw3
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=48 repost=7 reply=0 quote=0
+Engagement: like=49 repost=7 reply=0 quote=0
 
 --- 12/44 | post | 2026-10-25T19:13:01.232Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypw2cdgsw2a
@@ -170,7 +170,7 @@ Created: 2026-10-25T19:13:01.232Z
 Last day to get Humble Games Bundle: Programming Puzzles ($14 for all) buff.ly/VWO59rx #ad
 Link: https://buff.ly/VWO59rx
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=0 reply=0 quote=0
+Engagement: like=16 repost=0 reply=0 quote=0
 
 --- 13/44 | post | 2026-10-25T18:41:01.496Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypub3jpmh2x
@@ -180,7 +180,7 @@ Created: 2026-10-25T18:41:01.496Z
 Kirby - Night Beats t-shirt (by ilustrata) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=95 repost=14 reply=0 quote=3
+Engagement: like=97 repost=14 reply=0 quote=3
 
 --- 14/44 | post | 2026-10-25T18:26:03.655Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myptgdbjpk2u
@@ -198,7 +198,7 @@ Link: https://amzn.to/47rvoiH
 Link: https://buff.ly/bZYyRyf
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=8 reply=5 quote=2
+Engagement: like=55 repost=8 reply=5 quote=2
 
 --- 15/44 | post | 2026-10-25T17:51:32.456Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myprilzdm22j
@@ -209,7 +209,7 @@ Final Fantasy VII: Advent Children Complete (4K UHD + Blu-ray + Digital) is $15.
 Link: https://amzn.to/3rQ0gm8
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=63 repost=12 reply=4 quote=6
+Engagement: like=64 repost=12 reply=4 quote=6
 
 --- 16/44 | post | 2026-10-25T17:45:15.995Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypr5eynvs2j
@@ -233,7 +233,7 @@ All VGP deals buff.ly/B2wm2B6 #ad
 Link: https://buff.ly/407b9VA
 Link: https://buff.ly/B2wm2B6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=41 repost=9 reply=2 quote=2
+Engagement: like=42 repost=9 reply=3 quote=2
 
 --- 18/44 | post | 2026-10-25T17:29:21.084Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypqawdmqp2v
@@ -245,7 +245,7 @@ Team Newegg 128GB microSDXC is $12 on Newegg Doorbuster buff.ly/QI5spwU #ad
 not Switch 2 compatible
 Link: https://buff.ly/QI5spwU
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=3 reply=3 quote=0
+Engagement: like=34 repost=3 reply=3 quote=0
 
 --- 19/44 | post | 2026-10-25T17:20:31.022Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myppr4tdsp2a
@@ -306,7 +306,7 @@ Link: https://buff.ly/eh60fng
 Link: https://buff.ly/V5IFIqI
 Link: https://buff.ly/X2slsvW
 Image description: [no alt text supplied; image omitted]
-Engagement: like=46 repost=9 reply=2 quote=1
+Engagement: like=47 repost=9 reply=2 quote=1
 
 --- 23/44 | post | 2026-10-25T16:12:24.231Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myplxddv5k2j
@@ -316,7 +316,7 @@ Created: 2026-10-25T16:12:24.231Z
 new Tomb Raider: Legacy of Atlantis sneak peek
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=103 repost=10 reply=16 quote=13
+Engagement: like=104 repost=10 reply=16 quote=13
 
 --- 24/44 | post | 2026-10-25T16:01:33.896Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypldx5qc62a
@@ -331,7 +331,7 @@ Link: https://buff.ly/7gnlN5Q
 Link: https://buff.ly/qec8HZN
 Link: https://buff.ly/7N1Wzta
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=3 reply=1 quote=2
+Engagement: like=24 repost=3 reply=1 quote=2
 
 --- 25/44 | post | 2026-10-25T15:48:15.515Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypkm5qrl42a
@@ -428,7 +428,7 @@ Created: 2026-10-25T14:48:26.993Z
 Luto Special Edition (PS5 new) in-stock at GameFly ($34.99) buff.ly/1v0pvxJ #ad
 Link: https://buff.ly/1v0pvxJ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=3 reply=0 quote=3
+Engagement: like=24 repost=3 reply=0 quote=3
 
 --- 33/44 | post | 2026-10-25T14:47:12.811Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myph6yq5yb2s
@@ -453,7 +453,7 @@ Shuten Order (Switch 2E used) is $34.99 at GameFly buff.ly/3Rgi2mv #ad
 Switch 1 & 2 on cart
 Link: https://buff.ly/3Rgi2mv
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=6 reply=1 quote=0
+Engagement: like=29 repost=6 reply=1 quote=0
 
 --- 35/44 | post | 2026-10-25T14:37:30.574Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypgnnhd6s2j
