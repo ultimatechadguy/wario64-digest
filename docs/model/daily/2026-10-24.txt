@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-24
-Updated: 2026-10-26T17:38:19.690036Z
+Updated: 2026-10-26T21:56:04.703153Z
 Timezone: America/Los_Angeles
 Count: 51
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -19,7 +19,7 @@ Link: https://buff.ly/dDPl1oS
 Link: https://buff.ly/qPuglBP
 Link: https://buff.ly/W6CdqHZ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=111 repost=36 reply=1 quote=3
+Engagement: like=112 repost=36 reply=1 quote=3
 
 --- 2/51 | post | 2026-10-24T22:26:38.774Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mynqfm7v5t2t
@@ -89,7 +89,7 @@ Shin Chan Complete English Series (Blu-ray) is $42.99 on Amazon amzn.to/4fAa7XG 
 Link: https://amzn.to/4fAa7XG
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=97 repost=13 reply=2 quote=2
+Engagement: like=97 repost=13 reply=2 quote=3
 
 --- 8/51 | post | 2026-10-24T21:13:01.282Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mynmbxeh4g2x
@@ -265,7 +265,7 @@ Created: 2026-10-24T17:26:59.207Z
 SAW 10-FILM COLLECTION (BUNDLE) Digital is $9.99 on Fandango (MoviesAnywhere eligible) buff.ly/r3Ygf3D
 Link: https://buff.ly/r3Ygf3D
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=2 reply=5 quote=5
+Engagement: like=35 repost=2 reply=5 quote=5
 
 --- 23/51 | post | 2026-10-24T17:19:01.396Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myn77jvfni2v
@@ -450,7 +450,7 @@ Link: https://buff.ly/DEegJQA
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=9 repost=0 reply=1 quote=0
+Engagement: like=8 repost=0 reply=1 quote=0
 
 --- 36/51 | post | 2026-10-24T14:55:25.889Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mymx6rj4g22c
@@ -514,7 +514,7 @@ Created: 2026-10-24T05:18:18.629Z
 Resident Evil 2 - 1998 (GOG) is $1.74 on Fanatical buff.ly/YAIXpVc #ad
 Link: https://buff.ly/YAIXpVc
 Image description: [no alt text supplied; image omitted]
-Engagement: like=128 repost=23 reply=3 quote=3
+Engagement: like=128 repost=23 reply=3 quote=4
 
 --- 41/51 | post | 2026-10-24T05:05:14.417Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mylw7ginm22a
@@ -569,7 +569,7 @@ Link: https://buff.ly/CzTC4k3
 Link: https://buff.ly/yd1yL36
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=2 reply=3 quote=6
+Engagement: like=47 repost=2 reply=3 quote=7
 
 --- 46/51 | post | 2026-10-24T02:52:57.812Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mylosvka322s
