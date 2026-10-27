@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-22
-Updated: 2026-10-27T06:48:05.795186Z
+Updated: 2026-10-27T12:46:56.529231Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -165,7 +165,7 @@ Return to Silent Hill Pyramid Head (Deluxe Ver.) 1/6 Scale Action Figure up for 
 Link: https://buff.ly/sDWMrhh
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=2 reply=1 quote=1
+Engagement: like=15 repost=3 reply=1 quote=1
 
 --- 14/66 | post | 2026-10-22T18:57:15.700Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myidre7dt22i
@@ -246,7 +246,7 @@ Link: https://amzn.to/3VYo7VG
 Link: https://amzn.to/4BhxrnD
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=5 reply=2 quote=7
+Engagement: like=53 repost=6 reply=2 quote=7
 
 --- 20/66 | post | 2026-10-22T18:11:22.395Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myib7chqfo2m
@@ -271,7 +271,7 @@ Link: https://buff.ly/VjtHDDa
 Link: https://buff.ly/plC26zr
 Link: https://buff.ly/Y6iVKUl
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=10 reply=0 quote=0
+Engagement: like=56 repost=10 reply=0 quote=0
 
 --- 22/66 | post | 2026-10-22T18:03:45.034Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myiaroc3v62m
@@ -320,7 +320,7 @@ Languages: en
 Card title: From the masseffect community on Reddit: Mass Effect: Universe Trailer
 Card description: Explore this post and more from the masseffect community
 Card uri: https://www.reddit.com/r/masseffect/comments/1xclmpu/mass_effect_universe_trailer/
-Engagement: like=5899 repost=1621 reply=243 quote=862
+Engagement: like=5900 repost=1621 reply=243 quote=862
 
 --- 26/66 | post | 2026-10-22T17:25:53.842Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myi6nyci7u2u
