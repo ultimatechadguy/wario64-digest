@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-25
-Updated: 2026-10-27T18:24:06.271374Z
+Updated: 2026-10-27T22:35:15.715739Z
 Timezone: America/Los_Angeles
 Count: 44
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -220,7 +220,7 @@ John Wick: Chapter 4 [Blu-ray] is $7.50 on Amazon amzn.to/4Bo33YC #ad
 Link: https://amzn.to/4Bo33YC
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=2 reply=2 quote=1
+Engagement: like=25 repost=2 reply=2 quote=1
 
 --- 17/44 | post | 2026-10-25T17:40:18.305Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypquj4f222a
@@ -453,7 +453,7 @@ Shuten Order (Switch 2E used) is $34.99 at GameFly buff.ly/3Rgi2mv #ad
 Switch 1 & 2 on cart
 Link: https://buff.ly/3Rgi2mv
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=6 reply=1 quote=0
+Engagement: like=30 repost=7 reply=1 quote=0
 
 --- 35/44 | post | 2026-10-25T14:37:30.574Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mypgnnhd6s2j

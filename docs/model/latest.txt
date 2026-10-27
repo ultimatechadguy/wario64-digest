@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-10-26
-Updated: 2026-10-27T18:24:06.271374Z
+Updated: 2026-10-27T22:35:15.715739Z
 Timezone: America/Los_Angeles
 Count: 80
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -20,7 +20,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=2 reply=8 quote=1
+Engagement: like=32 repost=2 reply=8 quote=1
 
 --- 2/80 | post | 2026-10-26T22:27:09.485Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mysreegnbz2o
@@ -110,7 +110,7 @@ Created: 2026-10-26T20:52:58.475Z
 XBOX Wireless Controller - X25 Special Edition (Open-Box Excellent) is $63.99 at Best Buy buff.ly/0sAUpKo #ad
 Link: https://buff.ly/0sAUpKo
 Image description: [no alt text supplied; image omitted]
-Engagement: like=41 repost=2 reply=3 quote=0
+Engagement: like=42 repost=2 reply=3 quote=0
 
 --- 10/80 | post | 2026-10-26T20:44:38.440Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mysln2dfp32t
@@ -157,7 +157,7 @@ Link: https://buff.ly/7j9VOi9
 Link: https://buff.ly/9MuSldH
 Link: https://buff.ly/VY7tI18
 Image description: [no alt text supplied; image omitted]
-Engagement: like=56 repost=11 reply=2 quote=2
+Engagement: like=57 repost=11 reply=2 quote=2
 
 --- 13/80 | post | 2026-10-26T20:33:57.816Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myskzxevpc2k
@@ -169,7 +169,7 @@ Link: https://www.youtube.com/watch?v=dBO8s_McKjU
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=429 repost=113 reply=2 quote=27
+Engagement: like=433 repost=113 reply=2 quote=28
 
 --- 14/80 | post | 2026-10-26T20:25:49.630Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mysklft3ox2c
@@ -194,7 +194,7 @@ Created: 2026-10-26T20:12:01.662Z
 Outer Wilds (Steam) is $9.76 on Gamebillet buff.ly/VdhRjyX
 Link: https://buff.ly/VdhRjyX
 Image description: [no alt text supplied; image omitted]
-Engagement: like=35 repost=8 reply=0 quote=5
+Engagement: like=36 repost=8 reply=0 quote=5
 
 --- 16/80 | post | 2026-10-26T20:06:20.361Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mysjikplrd2s
@@ -211,7 +211,7 @@ Link: https://buff.ly/GXg1tn0
 Link: https://buff.ly/zvIj2qD
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=91 repost=16 reply=2 quote=8
+Engagement: like=92 repost=16 reply=2 quote=8
 
 --- 17/80 | post | 2026-10-26T19:45:48.858Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mysidub35c2a
@@ -242,7 +242,7 @@ Created: 2026-10-26T19:24:17.924Z
 Best Buy essentials - 65W Dual Port USB-C and USB Wall Charger is $11.99 at Best Buy buff.ly/0OirwIF #ad
 Link: https://buff.ly/0OirwIF
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=0 reply=0 quote=1
+Engagement: like=32 repost=0 reply=0 quote=1
 
 --- 20/80 | post | 2026-10-26T19:11:02.853Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mysgfovbsm2o
@@ -268,7 +268,7 @@ Link: https://buff.ly/3WvgjsQ
 Link: https://buff.ly/9I2TuKM
 Link: https://buff.ly/6RugL1B
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=15 reply=3 quote=7
+Engagement: like=52 repost=15 reply=3 quote=7
 
 --- 22/80 | post | 2026-10-26T18:26:23.784Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mysdvtwv7o2o
@@ -347,7 +347,7 @@ Link: https://amzn.to/4eqlFOj
 Link: https://buff.ly/bn4U59r
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=63 repost=8 reply=2 quote=2
+Engagement: like=64 repost=8 reply=2 quote=2
 
 --- 29/80 | post | 2026-10-26T17:24:01.604Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mysagd4pfu2b
@@ -468,7 +468,7 @@ aftermath.site/sucker-punch...
 Link: https://aftermath.site/sucker-punch-layoffs-sony-ghost-of-yotei/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=390 repost=102 reply=21 quote=66
+Engagement: like=391 repost=103 reply=21 quote=66
 
 --- 38/80 | post | 2026-10-26T16:02:43.212Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mys3uwpgpk2k
@@ -513,7 +513,7 @@ out this week
 Link: https://buff.ly/SCQis1o
 Link: https://buff.ly/plC26zr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=53 repost=3 reply=3 quote=2
+Engagement: like=54 repost=3 reply=3 quote=2
 
 --- 42/80 | post | 2026-10-26T15:05:43.800Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myryozpgll2v
@@ -571,7 +571,7 @@ Created: 2026-10-26T14:36:46.546Z
 Persona 3 Reload, Persona 5 Tactica and Persona 5 Royal Xbox One / Xbox Series X  in stock at VGP buff.ly/C0tVHqu #ad
 Link: https://buff.ly/C0tVHqu
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=2 reply=0 quote=0
+Engagement: like=23 repost=3 reply=0 quote=0
 
 --- 47/80 | post | 2026-10-26T14:01:08.093Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myrv3jkmqp2i
@@ -685,7 +685,7 @@ XBOX Game Pass Is Coming to Eligible T-Mobile Customers news.xbox.com/en-us/2026
 Link: https://news.xbox.com/en-us/2026/10/26/xbox-game-pass-t-mobile/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=64 repost=5 reply=8 quote=15
+Engagement: like=65 repost=5 reply=8 quote=15
 
 --- 56/80 | post | 2026-10-26T12:51:56.034Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myrr7rt7yk2a
@@ -698,7 +698,7 @@ Link: https://amzn.to/4BsAY2i
 Link: https://buff.ly/AeURmzf
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=1 reply=0 quote=0
+Engagement: like=21 repost=1 reply=0 quote=0
 
 --- 57/80 | post | 2026-10-26T12:50:29.496Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myrr57cca22a
@@ -756,7 +756,7 @@ Link: https://buff.ly/Qp3hKWF
 Link: https://buff.ly/4DDTpRI
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=0 reply=0 quote=0
+Engagement: like=14 repost=0 reply=0 quote=0
 
 --- 61/80 | post | 2026-10-26T12:29:37.676Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myrpxvhqrs2a
@@ -829,7 +829,7 @@ Link: https://amzn.to/4eqlFOj
 Link: https://buff.ly/bn4U59r
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=63 repost=8 reply=2 quote=2
+Engagement: like=64 repost=8 reply=2 quote=2
 
 --- 66/80 | post | 2026-10-26T05:16:15.059Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myqxqxhz6s2o
@@ -958,7 +958,7 @@ out this week
 Link: https://buff.ly/SCQis1o
 Link: https://buff.ly/plC26zr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=53 repost=3 reply=3 quote=2
+Engagement: like=54 repost=3 reply=3 quote=2
 
 --- 78/80 | post | 2026-10-26T00:23:24.039Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myqhfcfvus2j
