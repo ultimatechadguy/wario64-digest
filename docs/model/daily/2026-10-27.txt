@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-27
-Updated: 2026-10-28T14:29:31.528888Z
+Updated: 2026-10-28T19:51:22.273254Z
 Timezone: America/Los_Angeles
 Count: 60
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -15,7 +15,7 @@ Created: 2026-10-27T22:40:22.225Z
 Acer Nitro 27" WQHD (2560 x 1440) QD-OLED Gaming Monitor, AMD FreeSync Premium Technology, 240Hz Refresh Rate is $269 at Walmart buff.ly/NdWxMTG #ad
 Link: https://buff.ly/NdWxMTG
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=0 reply=0 quote=1
+Engagement: like=21 repost=0 reply=0 quote=1
 
 --- 2/60 | post | 2026-10-27T22:30:22.135Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myvbyzmod727
@@ -64,7 +64,7 @@ Created: 2026-10-27T21:34:17.752Z
 Final Fantasy IX - trance rat t-shirt (by Caitlin Rose Boyle) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=139 repost=38 reply=2 quote=1
+Engagement: like=141 repost=38 reply=2 quote=1
 
 --- 6/60 | repost | 2026-10-27T21:32:47.674Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuaek3vu32a#repost:2026-10-27T21:32:47.674Z
@@ -149,7 +149,7 @@ $9.99 US PSN buff.ly/nMx9KNr
 Link: https://buff.ly/m3gSRYk
 Link: https://buff.ly/nMx9KNr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=73 repost=26 reply=2 quote=4
+Engagement: like=74 repost=26 reply=2 quote=4
 
 --- 12/60 | post | 2026-10-27T19:39:03.023Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuygop2ow2a
@@ -224,7 +224,7 @@ $12.59 US PSN buff.ly/7bVGxMN
 Link: https://buff.ly/066hr5U
 Link: https://buff.ly/7bVGxMN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=127 repost=48 reply=0 quote=7
+Engagement: like=129 repost=51 reply=0 quote=7
 
 --- 18/60 | post | 2026-10-27T18:12:45.098Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myutmendcn2a
@@ -246,7 +246,7 @@ Created: 2026-10-27T18:11:57.007Z
 Sly Cooper - Smooth Thief t-shirt (by Henrique Torres) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=123 repost=24 reply=1 quote=1
+Engagement: like=128 repost=24 reply=1 quote=1
 
 --- 20/60 | post | 2026-10-27T17:55:25.738Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myusnfgpyw27
@@ -256,7 +256,7 @@ Created: 2026-10-27T17:55:25.738Z
 Inscryption Soundtrack Deluxe Triple Vinyl repress up for preorder at Devolver Store ($62) buff.ly/DFOXEld
 Link: https://buff.ly/DFOXEld
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=1 reply=0 quote=0
+Engagement: like=22 repost=1 reply=0 quote=0
 
 --- 21/60 | post | 2026-10-27T17:43:03.575Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myurxbnkdb2c
@@ -266,7 +266,7 @@ Created: 2026-10-27T17:43:03.575Z
 Lobotomy Corporation | Monster Management Simulation is $8.49 on Steam buff.ly/BV5olhE
 Link: https://buff.ly/BV5olhE
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=21 reply=0 quote=4
+Engagement: like=50 repost=22 reply=0 quote=4
 
 --- 22/60 | post | 2026-10-27T17:39:33.687Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myurqzibic2v
@@ -286,7 +286,7 @@ Created: 2026-10-27T17:28:36.941Z
 Grand Theft Auto VI reported to be 210 GB download
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=417 repost=75 reply=115 quote=503
+Engagement: like=429 repost=77 reply=118 quote=521
 
 --- 24/60 | post | 2026-10-27T17:23:03.548Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuqtj7mwa2i
@@ -298,7 +298,7 @@ GMG XP Signup buff.ly/plC26zr
 Link: https://buff.ly/QYEcC0s
 Link: https://buff.ly/plC26zr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=1 reply=0 quote=1
+Engagement: like=28 repost=2 reply=0 quote=1
 
 --- 25/60 | post | 2026-10-27T17:15:52.249Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuqgnvig72i
@@ -308,7 +308,7 @@ Created: 2026-10-27T17:15:52.249Z
 Sekai Project publisher sale on Steam buff.ly/LrqJsBy?
 Link: https://buff.ly/LrqJsBy
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=18 reply=0 quote=5
+Engagement: like=38 repost=19 reply=0 quote=5
 
 --- 26/60 | post | 2026-10-27T17:11:58.939Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuq7pf2qv2v
@@ -350,7 +350,7 @@ Created: 2026-10-27T16:51:53.402Z
 Castlevania merch up for order at Fangamer buff.ly/S0FQUfr
 Link: https://buff.ly/S0FQUfr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=49 repost=5 reply=1 quote=1
+Engagement: like=50 repost=5 reply=1 quote=1
 
 --- 29/60 | post | 2026-10-27T16:51:16.419Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myup2ogfl42s
@@ -379,7 +379,7 @@ Created: 2026-10-27T16:17:14.354Z
 Yu-Gi-Oh! EARLY DAYS COLLECTION (Switch) is $20 at Best Buy buff.ly/6QWPOse #ad
 Link: https://buff.ly/6QWPOse
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=10 reply=0 quote=1
+Engagement: like=40 repost=11 reply=0 quote=1
 
 --- 31/60 | post | 2026-10-27T16:16:13.561Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myun3yyrub2o
@@ -410,7 +410,7 @@ Created: 2026-10-27T16:01:43.117Z
 Over the Garden Wall Chapter 1 Glow-in-the-Dark Variant Figure Set - Entertainment Earth Exclusive up for preorder at Entertainment Earth ($149.99) buff.ly/1NhCvdZ #ad
 Link: https://buff.ly/1NhCvdZ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=134 repost=31 reply=5 quote=6
+Engagement: like=136 repost=31 reply=5 quote=6
 
 --- 34/60 | post | 2026-10-27T16:00:36.514Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuma3e7xa27
@@ -430,7 +430,7 @@ Created: 2026-10-27T15:46:10.782Z
 The Elder Scrolls IV Oblivion Remastered Deluxe Edition (Switch 2) restocked at PNP ($64.99) buff.ly/rjq1JsX #ad
 Link: https://buff.ly/rjq1JsX
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=0 reply=0 quote=0
+Engagement: like=18 repost=0 reply=0 quote=0
 
 --- 36/60 | post | 2026-10-27T15:44:40.739Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuldlu6r22m
@@ -500,7 +500,7 @@ Created: 2026-10-27T13:48:25.453Z
 Nintendo - Indie World Showcase announced for tomorrow, Oct 28 at 7 AM PT. Approximately 15 minutes long
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=390 repost=93 reply=27 quote=87
+Engagement: like=391 repost=93 reply=27 quote=87
 
 --- 43/60 | post | 2026-10-27T13:25:37.186Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myudkwt5lx2a
@@ -510,7 +510,7 @@ Created: 2026-10-27T13:25:37.186Z
 Fuga: Melodies of Steel 1 / 2 / 3 (Steam) is $20.99/$20.99/$24.68 on Gamesplanet buff.ly/GH7TDHb #ad
 Link: https://buff.ly/GH7TDHb
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=15 reply=0 quote=4
+Engagement: like=45 repost=15 reply=0 quote=4
 
 --- 44/60 | post | 2026-10-27T13:04:57.967Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myucfyytd22o
@@ -571,7 +571,7 @@ Created: 2026-10-27T12:30:28.317Z
 Sony PlayStation Store $100 Gift Card Code is $85 on Newegg DOTD w/ code GTWF2793 buff.ly/WplZ2ve #ad
 Link: https://buff.ly/WplZ2ve
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=0 reply=3 quote=0
+Engagement: like=31 repost=0 reply=3 quote=0
 
 --- 49/60 | post | 2026-10-27T12:29:38.898Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuaguivoh2x
@@ -651,7 +651,7 @@ Link: https://unite.pokemon.com/en-us/news/unite-end-of-service/
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=418 repost=133 reply=30 quote=247
+Engagement: like=421 repost=135 reply=30 quote=246
 
 --- 55/60 | post | 2026-10-27T05:08:51.906Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mythsobvrc2x
@@ -685,7 +685,7 @@ Everything updated, rebuilt on a newer version of its engine store.steampowered.
 Link: https://store.steampowered.com/news/app/582270/view/701031128264348494?l=english
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=308 repost=41 reply=7 quote=7
+Engagement: like=308 repost=42 reply=7 quote=7
 
 --- 58/60 | post | 2026-10-27T02:22:48.017Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myt6jpy4s52a
