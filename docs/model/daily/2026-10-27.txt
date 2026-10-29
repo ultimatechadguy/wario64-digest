@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-27
-Updated: 2026-10-28T23:48:05.699197Z
+Updated: 2026-10-29T02:56:52.120560Z
 Timezone: America/Los_Angeles
 Count: 60
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -64,7 +64,7 @@ Created: 2026-10-27T21:34:17.752Z
 Final Fantasy IX - trance rat t-shirt (by Caitlin Rose Boyle) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=144 repost=38 reply=2 quote=1
+Engagement: like=146 repost=39 reply=2 quote=1
 
 --- 6/60 | repost | 2026-10-27T21:32:47.674Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuaek3vu32a#repost:2026-10-27T21:32:47.674Z
@@ -286,7 +286,7 @@ Created: 2026-10-27T17:28:36.941Z
 Grand Theft Auto VI reported to be 210 GB download
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=435 repost=77 reply=118 quote=532
+Engagement: like=437 repost=77 reply=122 quote=535
 
 --- 24/60 | post | 2026-10-27T17:23:03.548Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuqtj7mwa2i
@@ -400,7 +400,7 @@ Dune: Part Three | Final Trailer www.youtube.com/watch?v=uJqa...
 Link: https://www.youtube.com/watch?v=uJqaGLmZpGo
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=78 repost=14 reply=1 quote=20
+Engagement: like=77 repost=14 reply=1 quote=20
 
 --- 33/60 | post | 2026-10-27T16:01:43.117Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myumc2um532n
@@ -470,7 +470,7 @@ Created: 2026-10-27T15:12:32.484Z
 CONTROL Resonant (PS5) Steelbook instock at VGP ($71 US Dollars) buff.ly/7umzK2d #ad
 Link: https://buff.ly/7umzK2d
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=3 reply=3 quote=0
+Engagement: like=41 repost=3 reply=3 quote=0
 
 --- 40/60 | post | 2026-10-27T14:47:50.766Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myui5xueoz2v
@@ -613,7 +613,7 @@ Created: 2026-10-27T05:23:32.913Z
 Amazon Basics 27" Gaming Monitor, FHD 1080P, 165Hz, VESA Compatible is $67.99 on Woot buff.ly/sIoTzo9 #ad
 Link: https://buff.ly/sIoTzo9
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=1 reply=2 quote=3
+Engagement: like=20 repost=1 reply=2 quote=3
 
 --- 52/60 | post | 2026-10-27T05:18:33.889Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mytidzcujy2m
@@ -623,7 +623,7 @@ Created: 2026-10-27T05:18:33.889Z
 Amazon Basics 24 Inch (23.8 inch viewable) Gaming Monitor, FHD 1080P, 165Hz, VESA Compatible is  $69.99 on Woot buff.ly/fuZhb40 #ad
 Link: https://buff.ly/fuZhb40
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=2 reply=0 quote=0
+Engagement: like=12 repost=2 reply=0 quote=0
 
 --- 53/60 | post | 2026-10-27T05:14:20.806Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myti4hwvvk26
@@ -639,7 +639,7 @@ Something from Far Far Away is coming to a shelf near you soon!
 
 Physical Pre-Orders open on Nov 10, 2026.
 Image description: [no alt text supplied; image omitted]
-Engagement: like=122 repost=19 reply=5 quote=2
+Engagement: like=123 repost=19 reply=5 quote=2
 
 --- 54/60 | post | 2026-10-27T05:09:50.229Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mythufvjl22a
@@ -664,7 +664,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=0 reply=0 quote=0
+Engagement: like=12 repost=0 reply=0 quote=0
 
 --- 56/60 | post | 2026-10-27T05:07:48.886Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mythqs6xvx2c

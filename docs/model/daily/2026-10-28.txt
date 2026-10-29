@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-28
-Updated: 2026-10-28T23:48:05.699197Z
+Updated: 2026-10-29T02:56:52.120560Z
 Timezone: America/Los_Angeles
 Count: 75
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -19,7 +19,7 @@ Link: https://buff.ly/eIeRIZ8
 Link: https://buff.ly/RZ0QKHM
 Link: https://buff.ly/5zHBQ6x
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=11 reply=2 quote=1
+Engagement: like=42 repost=15 reply=3 quote=2
 
 --- 2/75 | post | 2026-10-28T22:16:54.696Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxrpv2g4v2a
@@ -34,7 +34,7 @@ Link: https://buff.ly/gYJSMR5
 Link: https://buff.ly/4gkU7YR
 Link: https://buff.ly/2ySmVIL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=9 reply=1 quote=3
+Engagement: like=49 repost=11 reply=2 quote=3
 
 --- 3/75 | post | 2026-10-28T22:10:43.531Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxret3bwt2a
@@ -44,7 +44,7 @@ Created: 2026-10-28T22:10:43.531Z
 Keeper is $11.99 on GOG buff.ly/Uq0XHgD #ad
 Link: https://buff.ly/Uq0XHgD
 Image description: [no alt text supplied; image omitted]
-Engagement: like=33 repost=6 reply=0 quote=0
+Engagement: like=40 repost=6 reply=0 quote=0
 
 --- 4/75 | post | 2026-10-28T21:22:30.351Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxoolwkpy2v
@@ -56,7 +56,7 @@ GOG buff.ly/4aIsCan #ad
 Link: https://buff.ly/2VKLcmv
 Link: https://buff.ly/4aIsCan
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=2 reply=0 quote=0
+Engagement: like=32 repost=2 reply=0 quote=0
 
 --- 5/75 | post | 2026-10-28T21:04:18.700Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxno2tw6q2c
@@ -66,7 +66,7 @@ Created: 2026-10-28T21:04:18.700Z
 Pokemon TCG & more up on Walmart drawing (closes in 1 hour / 3 PM PT) buff.ly/q0qrjLt #ad
 Link: https://buff.ly/q0qrjLt
 Image description: [no alt text supplied; image omitted]
-Engagement: like=9 repost=0 reply=2 quote=0
+Engagement: like=10 repost=0 reply=2 quote=0
 
 --- 6/75 | post | 2026-10-28T20:49:15.446Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxmt5gxcq27
@@ -81,7 +81,7 @@ If you get a cancellation, that's Walmart likely thinking it's a fraud order. Tr
 Link: https://buff.ly/lrdvPYh
 Link: https://buff.ly/AyMIA6h
 Image description: [no alt text supplied; image omitted]
-Engagement: like=48 repost=14 reply=0 quote=1
+Engagement: like=54 repost=15 reply=0 quote=1
 
 --- 7/75 | post | 2026-10-28T20:29:35.278Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxlpxwszf2t
@@ -94,7 +94,7 @@ add more games to save more (~$3.33 per game)
 Link: https://buff.ly/zgnl0bq
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=4 reply=2 quote=4
+Engagement: like=32 repost=5 reply=2 quote=5
 
 --- 8/75 | post | 2026-10-28T20:24:27.285Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxlgs7sgp2b
@@ -104,7 +104,7 @@ Created: 2026-10-28T20:24:27.285Z
 Sun Haven is $6.99 on Steam buff.ly/9oOy8Xp
 Link: https://buff.ly/9oOy8Xp
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=2 reply=1 quote=2
+Engagement: like=26 repost=3 reply=1 quote=2
 
 --- 9/75 | post | 2026-10-28T20:18:27.115Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxl42q7rc2s
@@ -114,7 +114,7 @@ Created: 2026-10-28T20:18:27.115Z
 Gradius Origins Classic Edition (PS5/Xbox/Switch) available at VGP ($78.28 US Dollars) buff.ly/a3MHQV9 #ad
 Link: https://buff.ly/a3MHQV9
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=3 reply=0 quote=0
+Engagement: like=22 repost=3 reply=0 quote=0
 
 --- 10/75 | post | 2026-10-28T20:06:51.693Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxkhdjmtf2a
@@ -130,7 +130,7 @@ Link: https://buff.ly/xi70Q84
 Link: https://buff.ly/a6Bo7On
 Link: https://buff.ly/5i6piKS
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=2 reply=0 quote=0
+Engagement: like=32 repost=3 reply=1 quote=0
 
 --- 11/75 | post | 2026-10-28T19:47:18.458Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxjeenel62v
@@ -147,7 +147,7 @@ Link: https://buff.ly/LIhW9yS
 Link: https://buff.ly/s0ut7cg
 Link: https://buff.ly/SkZnzRw
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=2 reply=0 quote=1
+Engagement: like=21 repost=2 reply=0 quote=1
 
 --- 12/75 | post | 2026-10-28T19:44:41.948Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxj7pegv22x
@@ -160,7 +160,7 @@ If you get a cancellation, that's Walmart likely thinking it's a fraud order. Tr
 Link: https://buff.ly/JYDnyHp
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=8 reply=1 quote=1
+Engagement: like=30 repost=9 reply=2 quote=1
 
 --- 13/75 | post | 2026-10-28T19:28:59.365Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxidmhqjd2b
@@ -170,7 +170,7 @@ Created: 2026-10-28T19:28:59.365Z
 Kena: Bridge of Spirits is $15.99 on GOG buff.ly/wiLgCTZ #ad
 Link: https://buff.ly/wiLgCTZ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=34 repost=5 reply=0 quote=0
+Engagement: like=35 repost=5 reply=0 quote=0
 
 --- 14/75 | post | 2026-10-28T19:19:45.841Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxht4lhho27
@@ -188,7 +188,7 @@ Link: https://buff.ly/aa5FtU3
 Link: https://buff.ly/9kZWzpa
 Link: https://buff.ly/7z0S7BC
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=7 reply=3 quote=7
+Engagement: like=37 repost=8 reply=3 quote=7
 
 --- 15/75 | post | 2026-10-28T19:18:10.333Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxhqbijhr2v
@@ -199,7 +199,7 @@ Brutal Legend (Steam) w/ 10 more games is $8 on Humble Double Fine Bundle buff.l
 Link: https://buff.ly/5jl7PIU
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=5 reply=0 quote=1
+Engagement: like=40 repost=6 reply=0 quote=1
 
 --- 16/75 | post | 2026-10-28T18:47:12.805Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxfyvzlk72a
@@ -209,7 +209,7 @@ Created: 2026-10-28T18:47:12.805Z
 CONTROL Ultimate Edition (PS5) is $19.99 at GameStop buff.ly/AbPH71K #ad
 Link: https://buff.ly/AbPH71K
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=8 reply=1 quote=2
+Engagement: like=40 repost=8 reply=1 quote=2
 
 --- 17/75 | post | 2026-10-28T18:37:04.083Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxfgritj62m
@@ -219,7 +219,7 @@ Created: 2026-10-28T18:37:04.083Z
 Crab Champions is $6.99 on Steam early access buff.ly/hZPMJsE
 Link: https://buff.ly/hZPMJsE
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=3 reply=2 quote=4
+Engagement: like=33 repost=3 reply=2 quote=4
 
 --- 18/75 | post | 2026-10-28T18:18:36.333Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxefr2npy27
@@ -233,7 +233,7 @@ Link: https://buff.ly/r5qgxGL
 Link: https://buff.ly/9o6xhEa
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=103 repost=22 reply=4 quote=4
+Engagement: like=104 repost=22 reply=5 quote=4
 
 --- 19/75 | post | 2026-10-28T18:01:47.066Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxdhojyok2x
@@ -265,7 +265,7 @@ Created: 2026-10-28T17:46:29.284Z
 Genesis Noir - Collector's Edition (Switch) is $19.99 at Serenity Forge Store (MSRP $119.99) buff.ly/21wfluN #ad
 Link: https://buff.ly/21wfluN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=2 reply=3 quote=1
+Engagement: like=31 repost=2 reply=3 quote=1
 
 --- 22/75 | post | 2026-10-28T17:45:39.460Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxcktrdih2v
@@ -302,7 +302,7 @@ EXODUS Gameplay | Liberating the Kay Mission Demo (40 mins) www.youtube.com/watc
 Link: https://www.youtube.com/watch?v=U_csy-zJhtM
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=67 repost=10 reply=6 quote=7
+Engagement: like=70 repost=10 reply=6 quote=7
 
 --- 25/75 | post | 2026-10-28T17:34:51.336Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxbxjoho22a
@@ -312,7 +312,7 @@ Created: 2026-10-28T17:34:51.336Z
 Stranglehold is $4.99 on GOG (preservation program) buff.ly/3U3LZTF #ad
 Link: https://buff.ly/3U3LZTF
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=11 reply=2 quote=0
+Engagement: like=37 repost=11 reply=2 quote=0
 
 --- 26/75 | post | 2026-10-28T17:09:30.188Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxak6ypmw27
@@ -370,7 +370,7 @@ Link: https://buff.ly/vcC29UR
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=0 reply=2 quote=0
+Engagement: like=25 repost=0 reply=2 quote=0
 
 --- 30/75 | post | 2026-10-28T16:04:24.951Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myx4vsnqa22x
@@ -381,7 +381,7 @@ Cronos: Lazarus | Story Trailer & Release Date Announcement (December 3 / Switch
 Link: https://www.youtube.com/watch?v=z-AV1E9KRpM
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=80 repost=14 reply=2 quote=6
+Engagement: like=82 repost=14 reply=2 quote=6
 
 --- 31/75 | post | 2026-10-28T16:02:03.456Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myx4rlpnjc2x
@@ -392,7 +392,7 @@ Grandma’s Mini Cookies, Vanilla Sandwich Crème Cookies, 3.71 oz Cookie Bag, (
 Link: https://amzn.to/47MzD9b
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=1 reply=2 quote=2
+Engagement: like=32 repost=1 reply=2 quote=3
 
 --- 32/75 | post | 2026-10-28T15:52:33.288Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myx4alxitc2x
@@ -403,7 +403,7 @@ Tremors (4K UHD) is $17.47 on Amazon amzn.to/4g5ddTV #ad
 Link: https://amzn.to/4g5ddTV
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=73 repost=10 reply=3 quote=5
+Engagement: like=75 repost=10 reply=4 quote=5
 
 --- 33/75 | post | 2026-10-28T15:32:47.053Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myx35aogb22x
@@ -420,7 +420,7 @@ blog.playstation.com/2026/10/28/p...
 Link: https://blog.playstation.com/2026/10/28/playstation-plus-monthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=95 repost=12 reply=5 quote=7
+Engagement: like=97 repost=12 reply=5 quote=7
 
 --- 34/75 | post | 2026-10-28T15:28:46.355Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myx2w34wls2x
@@ -446,7 +446,7 @@ Witchbrook - Release Date Trailer (out Jan 28th for PS5/Switch/Switch 2/Xbox/PC)
 Link: https://www.youtube.com/watch?v=upnkhFNuD_w
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=177 repost=32 reply=3 quote=9
+Engagement: like=178 repost=33 reply=3 quote=9
 
 --- 36/75 | post | 2026-10-28T15:17:36.678Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myx2c4hz5k2n
@@ -462,7 +462,7 @@ Link: https://amzn.to/4jKBC59
 Link: https://link.amazon/B0g3Cg2FX
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=60 repost=7 reply=2 quote=1
+Engagement: like=61 repost=7 reply=2 quote=1
 
 --- 37/75 | post | 2026-10-28T15:13:15.414Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myx22dd7b22t
@@ -488,7 +488,7 @@ Preorders begin Nov 10th at 7 AM PT on PS Direct. Releases Feb 4th and also avai
 Link: https://blog.playstation.com/2026/10/28/first-look-inside-the-prism-collection-with-three-new-transparent-designs-for-ps5-accessories/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=62 repost=5 reply=18 quote=15
+Engagement: like=61 repost=5 reply=18 quote=15
 
 --- 39/75 | post | 2026-10-28T15:01:18.928Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywzey22aj2v
@@ -510,7 +510,7 @@ Link: https://buff.ly/dUJoCX0
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=1 reply=0 quote=0
+Engagement: like=23 repost=1 reply=0 quote=0
 
 --- 41/75 | post | 2026-10-28T14:52:16.223Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywyushfss2n
@@ -556,7 +556,7 @@ Created: 2026-10-28T14:22:07.021Z
 yet another indie world without silksong
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=976 repost=159 reply=11 quote=5
+Engagement: like=1003 repost=164 reply=12 quote=5
 
 --- 45/75 | post | 2026-10-28T14:20:51.031Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywx4spay22j
@@ -572,7 +572,7 @@ Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3my
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=3 reply=0 quote=4
+Engagement: like=48 repost=3 reply=0 quote=4
 
 --- 46/75 | post | 2026-10-28T14:20:51.030Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywx4mm3uc2j
@@ -590,7 +590,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=86 repost=7 reply=1 quote=1
+Engagement: like=88 repost=7 reply=1 quote=1
 
 --- 47/75 | post | 2026-10-28T14:17:40.932Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywwwxcnes2x
@@ -602,7 +602,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=85 repost=14 reply=1 quote=5
+Engagement: like=86 repost=14 reply=1 quote=5
 
 --- 48/75 | post | 2026-10-28T14:16:22.177Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywwum7e422j
@@ -615,7 +615,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=140 repost=29 reply=1 quote=10
+Engagement: like=144 repost=31 reply=1 quote=10
 
 --- 49/75 | post | 2026-10-28T14:15:32.976Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywwt5bscc2x
@@ -628,7 +628,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=113 repost=14 reply=2 quote=22
+Engagement: like=114 repost=14 reply=2 quote=22
 
 --- 50/75 | post | 2026-10-28T14:14:13.286Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywwqrbuz22j
@@ -641,7 +641,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=9 reply=3 quote=6
+Engagement: like=56 repost=9 reply=3 quote=6
 
 --- 51/75 | post | 2026-10-28T14:12:59.748Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywwol5nlc2j
@@ -665,7 +665,7 @@ Kitsune The Journey of Adashina out Spring 2027
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=97 repost=22 reply=1 quote=10
+Engagement: like=97 repost=23 reply=1 quote=10
 
 --- 53/75 | post | 2026-10-28T14:11:33.027Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywwlygy7s2j
@@ -676,7 +676,7 @@ Haunted Paws out May 2027
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=7 reply=2 quote=2
+Engagement: like=62 repost=7 reply=2 quote=2
 
 --- 54/75 | post | 2026-10-28T14:10:59.041Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywwkxzups2j
@@ -698,7 +698,7 @@ Super Battle Golf out March 25, 2027 for Switch 2
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=72 repost=17 reply=1 quote=2
+Engagement: like=73 repost=17 reply=1 quote=2
 
 --- 56/75 | post | 2026-10-28T14:09:43.202Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywwippg7s2j
@@ -732,7 +732,7 @@ Threads of Time coming Summer 2027
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=235 repost=57 reply=4 quote=20
+Engagement: like=240 repost=58 reply=5 quote=20
 
 --- 59/75 | post | 2026-10-28T14:06:02.476Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywwc57ig22j
@@ -744,7 +744,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=102 repost=15 reply=1 quote=9
+Engagement: like=103 repost=16 reply=1 quote=9
 
 --- 60/75 | post | 2026-10-28T14:05:27.416Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywwb3ri6k2j
@@ -757,7 +757,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=416 repost=59 reply=5 quote=21
+Engagement: like=426 repost=61 reply=5 quote=22
 
 --- 61/75 | post | 2026-10-28T14:03:20.866Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myww5d3i722j
@@ -770,7 +770,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=76 repost=12 reply=1 quote=6
+Engagement: like=77 repost=12 reply=1 quote=6
 
 --- 62/75 | post | 2026-10-28T14:01:16.648Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywvzmmsgs2j
@@ -783,7 +783,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=405 repost=109 reply=8 quote=89
+Engagement: like=409 repost=109 reply=9 quote=90
 
 --- 63/75 | post | 2026-10-28T13:25:07.623Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywtyy374s2j
@@ -829,7 +829,7 @@ Rayman Legends Retold - Astro Bot Outfit Trailer www.youtube.com/watch?v=QGG8...
 Link: https://www.youtube.com/watch?v=QGG8OnznPe8
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=118 repost=17 reply=5 quote=9
+Engagement: like=121 repost=17 reply=5 quote=9
 
 --- 66/75 | post | 2026-10-28T12:35:08.187Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywr7llubc2j
@@ -846,7 +846,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=106 repost=11 reply=2 quote=9
+Engagement: like=107 repost=11 reply=2 quote=9
 
 --- 67/75 | post | 2026-10-28T12:31:16.859Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywqyoy5522j
@@ -864,7 +864,7 @@ Link: https://buff.ly/n01IVqA
 Link: https://buff.ly/VKtBszU
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=87 repost=17 reply=4 quote=2
+Engagement: like=88 repost=18 reply=4 quote=2
 
 --- 68/75 | post | 2026-10-28T12:26:07.456Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywqphwhta2i
@@ -888,7 +888,7 @@ eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
 Wallet limit is $800
 Link: https://buff.ly/EV05L5Z
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=2 reply=1 quote=2
+Engagement: like=31 repost=2 reply=1 quote=2
 
 --- 70/75 | repost | 2026-10-28T05:16:36.671Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuau5gg4n2a#repost:2026-10-28T05:16:36.671Z
@@ -939,7 +939,7 @@ Link: https://buff.ly/TVnXvGv
 Link: https://buff.ly/bLw9IQQ
 Link: https://buff.ly/rQhSKnO
 Image description: [no alt text supplied; image omitted]
-Engagement: like=45 repost=9 reply=3 quote=5
+Engagement: like=46 repost=9 reply=3 quote=5
 
 --- 74/75 | post | 2026-10-28T00:37:41.200Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myvj4orv622a

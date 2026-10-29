@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-26
-Updated: 2026-10-28T23:48:05.699197Z
+Updated: 2026-10-29T02:56:52.120560Z
 Timezone: America/Los_Angeles
 Count: 82
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -481,7 +481,7 @@ aftermath.site/sucker-punch...
 Link: https://aftermath.site/sucker-punch-layoffs-sony-ghost-of-yotei/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=393 repost=103 reply=21 quote=65
+Engagement: like=393 repost=103 reply=21 quote=66
 
 --- 39/82 | post | 2026-10-26T16:02:43.212Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mys3uwpgpk2k
@@ -631,7 +631,7 @@ Link: https://amzn.to/4jC0SKL
 Link: https://buff.ly/N0y08Yc
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=1 reply=1 quote=1
+Engagement: like=13 repost=1 reply=1 quote=1
 
 --- 52/82 | post | 2026-10-26T13:29:10.195Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myrtceinvr2b
@@ -876,7 +876,7 @@ Created: 2026-10-26T05:13:35.722Z
 Death Stranding 2: On The Beach (PS5) is $39.99 at Best Buy buff.ly/0zRYlli #ad
 Link: https://buff.ly/0zRYlli
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=3 reply=2 quote=0
+Engagement: like=25 repost=4 reply=2 quote=0
 
 --- 70/82 | post | 2026-10-26T05:11:45.818Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myqxiwosuh2a
@@ -896,7 +896,7 @@ Created: 2026-10-26T05:10:45.380Z
 Silent Hill f (PS5) is $29.99 at Best Buy buff.ly/VruG9dG #ad
 Link: https://buff.ly/VruG9dG
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=6 reply=1 quote=0
+Engagement: like=43 repost=6 reply=1 quote=0
 
 --- 72/82 | post | 2026-10-26T05:10:04.477Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myqxfw2d452s
@@ -997,7 +997,7 @@ Link: https://amzn.to/4jBE0Lm
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=41 repost=1 reply=1 quote=0
+Engagement: like=42 repost=1 reply=1 quote=0
 
 --- 81/82 | post | 2026-10-25T23:04:12.828Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myqcxpcnl22v
