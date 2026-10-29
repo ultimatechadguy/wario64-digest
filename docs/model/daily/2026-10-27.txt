@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-27
-Updated: 2026-10-29T09:51:02.878189Z
+Updated: 2026-10-29T16:32:40.802372Z
 Timezone: America/Los_Angeles
 Count: 60
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -64,7 +64,7 @@ Created: 2026-10-27T21:34:17.752Z
 Final Fantasy IX - trance rat t-shirt (by Caitlin Rose Boyle) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=147 repost=39 reply=2 quote=1
+Engagement: like=148 repost=39 reply=2 quote=1
 
 --- 6/60 | repost | 2026-10-27T21:32:47.674Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuaek3vu32a#repost:2026-10-27T21:32:47.674Z
@@ -127,7 +127,7 @@ US PSN buff.ly/XzPB1tB
 Link: https://buff.ly/9hD1HFz
 Link: https://buff.ly/XzPB1tB
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=5 reply=0 quote=0
+Engagement: like=41 repost=5 reply=0 quote=0
 
 --- 10/60 | post | 2026-10-27T20:39:01.988Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myv3rwwq7y2n
@@ -137,7 +137,7 @@ Created: 2026-10-27T20:39:01.988Z
 Twisted Tower is $9.89 on Steam buff.ly/ntmbZT2
 Link: https://buff.ly/ntmbZT2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=2 reply=1 quote=0
+Engagement: like=25 repost=2 reply=1 quote=0
 
 --- 11/60 | post | 2026-10-27T20:12:01.609Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myv2bnmqpk27
@@ -149,7 +149,7 @@ $9.99 US PSN buff.ly/nMx9KNr
 Link: https://buff.ly/m3gSRYk
 Link: https://buff.ly/nMx9KNr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=74 repost=26 reply=2 quote=4
+Engagement: like=73 repost=26 reply=2 quote=4
 
 --- 12/60 | post | 2026-10-27T19:39:03.023Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuygop2ow2a
@@ -286,7 +286,7 @@ Created: 2026-10-27T17:28:36.941Z
 Grand Theft Auto VI reported to be 210 GB download
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=438 repost=77 reply=123 quote=538
+Engagement: like=439 repost=78 reply=125 quote=543
 
 --- 24/60 | post | 2026-10-27T17:23:03.548Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuqtj7mwa2i
@@ -298,7 +298,7 @@ GMG XP Signup buff.ly/plC26zr
 Link: https://buff.ly/QYEcC0s
 Link: https://buff.ly/plC26zr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=2 reply=0 quote=1
+Engagement: like=27 repost=2 reply=0 quote=1
 
 --- 25/60 | post | 2026-10-27T17:15:52.249Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuqgnvig72i
@@ -500,7 +500,7 @@ Created: 2026-10-27T13:48:25.453Z
 Nintendo - Indie World Showcase announced for tomorrow, Oct 28 at 7 AM PT. Approximately 15 minutes long
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=391 repost=93 reply=27 quote=86
+Engagement: like=391 repost=93 reply=27 quote=85
 
 --- 43/60 | post | 2026-10-27T13:25:37.186Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myudkwt5lx2a
@@ -651,7 +651,7 @@ Link: https://unite.pokemon.com/en-us/news/unite-end-of-service/
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=422 repost=135 reply=30 quote=247
+Engagement: like=422 repost=136 reply=30 quote=247
 
 --- 55/60 | post | 2026-10-27T05:08:51.906Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mythsobvrc2x
