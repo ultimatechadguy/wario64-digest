@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-27
-Updated: 2026-10-29T02:56:52.120560Z
+Updated: 2026-10-29T09:51:02.878189Z
 Timezone: America/Los_Angeles
 Count: 60
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -64,7 +64,7 @@ Created: 2026-10-27T21:34:17.752Z
 Final Fantasy IX - trance rat t-shirt (by Caitlin Rose Boyle) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=146 repost=39 reply=2 quote=1
+Engagement: like=147 repost=39 reply=2 quote=1
 
 --- 6/60 | repost | 2026-10-27T21:32:47.674Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuaek3vu32a#repost:2026-10-27T21:32:47.674Z
@@ -246,7 +246,7 @@ Created: 2026-10-27T18:11:57.007Z
 Sly Cooper - Smooth Thief t-shirt (by Henrique Torres) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=130 repost=24 reply=1 quote=1
+Engagement: like=131 repost=24 reply=1 quote=1
 
 --- 20/60 | post | 2026-10-27T17:55:25.738Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myusnfgpyw27
@@ -266,7 +266,7 @@ Created: 2026-10-27T17:43:03.575Z
 Lobotomy Corporation | Monster Management Simulation is $8.49 on Steam buff.ly/BV5olhE
 Link: https://buff.ly/BV5olhE
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=22 reply=0 quote=4
+Engagement: like=51 repost=22 reply=0 quote=4
 
 --- 22/60 | post | 2026-10-27T17:39:33.687Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myurqzibic2v
@@ -286,7 +286,7 @@ Created: 2026-10-27T17:28:36.941Z
 Grand Theft Auto VI reported to be 210 GB download
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=437 repost=77 reply=122 quote=535
+Engagement: like=438 repost=77 reply=123 quote=538
 
 --- 24/60 | post | 2026-10-27T17:23:03.548Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuqtj7mwa2i
@@ -400,7 +400,7 @@ Dune: Part Three | Final Trailer www.youtube.com/watch?v=uJqa...
 Link: https://www.youtube.com/watch?v=uJqaGLmZpGo
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=77 repost=14 reply=1 quote=20
+Engagement: like=78 repost=15 reply=1 quote=20
 
 --- 33/60 | post | 2026-10-27T16:01:43.117Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myumc2um532n
@@ -500,7 +500,7 @@ Created: 2026-10-27T13:48:25.453Z
 Nintendo - Indie World Showcase announced for tomorrow, Oct 28 at 7 AM PT. Approximately 15 minutes long
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=391 repost=93 reply=27 quote=87
+Engagement: like=391 repost=93 reply=27 quote=86
 
 --- 43/60 | post | 2026-10-27T13:25:37.186Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myudkwt5lx2a
@@ -561,7 +561,7 @@ Created: 2026-10-27T12:33:38.746Z
 Final Fantasy XIV Online: 60 Day Time Card Code is $24.99 on Newegg DOTD w/ code SSF74347 buff.ly/z6P9H68 #ad
 Link: https://buff.ly/z6P9H68
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=5 reply=0 quote=0
+Engagement: like=21 repost=5 reply=0 quote=0
 
 --- 48/60 | post | 2026-10-27T12:30:28.317Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuaidalhh2s
@@ -651,7 +651,7 @@ Link: https://unite.pokemon.com/en-us/news/unite-end-of-service/
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=422 repost=135 reply=30 quote=246
+Engagement: like=422 repost=135 reply=30 quote=247
 
 --- 55/60 | post | 2026-10-27T05:08:51.906Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mythsobvrc2x

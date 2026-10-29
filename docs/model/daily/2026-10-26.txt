@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-26
-Updated: 2026-10-29T02:56:52.120560Z
+Updated: 2026-10-29T09:51:02.878189Z
 Timezone: America/Los_Angeles
 Count: 82
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -309,7 +309,7 @@ Humble Games Bundle: Ultimate Digital Board Game Night ($15 for all) buff.ly/uPI
 Link: https://buff.ly/uPIzp4o
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=1 reply=0 quote=0
+Engagement: like=12 repost=1 reply=0 quote=0
 
 --- 26/82 | post | 2026-10-26T17:46:03.786Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mysbnq2f2x2v
@@ -466,7 +466,7 @@ Created: 2026-10-26T16:33:30.908Z
 Nintendo Switch™ 2 – The Legend of Zelda™ – 40th Anniversary Edition available at Nintendo Store ($519.99) buff.ly/QjLXju7
 Link: https://buff.ly/QjLXju7
 Image description: [no alt text supplied; image omitted]
-Engagement: like=103 repost=13 reply=14 quote=7
+Engagement: like=104 repost=13 reply=14 quote=7
 
 --- 38/82 | post | 2026-10-26T16:23:39.511Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mys52eslas2k

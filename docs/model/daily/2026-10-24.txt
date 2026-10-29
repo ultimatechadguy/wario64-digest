@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-24
-Updated: 2026-10-29T02:56:52.120560Z
+Updated: 2026-10-29T09:51:02.878189Z
 Timezone: America/Los_Angeles
 Count: 52
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -159,7 +159,7 @@ Lonely Mountains: Snow Riders (Steam) w/ 6 more games is $16 on Digiphile Social
 Link: https://buff.ly/2kVEteU
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=8 repost=0 reply=0 quote=1
+Engagement: like=9 repost=0 reply=0 quote=1
 
 --- 14/52 | post | 2026-10-24T19:56:01.363Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mynhybhzbe2c
