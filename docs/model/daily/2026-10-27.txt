@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-27
-Updated: 2026-10-29T16:32:40.802372Z
+Updated: 2026-10-29T21:24:55.649681Z
 Timezone: America/Los_Angeles
 Count: 60
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -64,7 +64,7 @@ Created: 2026-10-27T21:34:17.752Z
 Final Fantasy IX - trance rat t-shirt (by Caitlin Rose Boyle) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=148 repost=39 reply=2 quote=1
+Engagement: like=149 repost=39 reply=2 quote=1
 
 --- 6/60 | repost | 2026-10-27T21:32:47.674Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuaek3vu32a#repost:2026-10-27T21:32:47.674Z
@@ -224,7 +224,7 @@ $12.59 US PSN buff.ly/7bVGxMN
 Link: https://buff.ly/066hr5U
 Link: https://buff.ly/7bVGxMN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=130 repost=51 reply=0 quote=7
+Engagement: like=131 repost=51 reply=0 quote=7
 
 --- 18/60 | post | 2026-10-27T18:12:45.098Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myutmendcn2a
@@ -266,7 +266,7 @@ Created: 2026-10-27T17:43:03.575Z
 Lobotomy Corporation | Monster Management Simulation is $8.49 on Steam buff.ly/BV5olhE
 Link: https://buff.ly/BV5olhE
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=22 reply=0 quote=4
+Engagement: like=52 repost=23 reply=0 quote=4
 
 --- 22/60 | post | 2026-10-27T17:39:33.687Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myurqzibic2v
@@ -286,7 +286,7 @@ Created: 2026-10-27T17:28:36.941Z
 Grand Theft Auto VI reported to be 210 GB download
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=439 repost=78 reply=125 quote=543
+Engagement: like=440 repost=78 reply=128 quote=543
 
 --- 24/60 | post | 2026-10-27T17:23:03.548Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuqtj7mwa2i
@@ -350,7 +350,7 @@ Created: 2026-10-27T16:51:53.402Z
 Castlevania merch up for order at Fangamer buff.ly/S0FQUfr
 Link: https://buff.ly/S0FQUfr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=5 reply=1 quote=1
+Engagement: like=51 repost=5 reply=1 quote=1
 
 --- 29/60 | post | 2026-10-27T16:51:16.419Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myup2ogfl42s
@@ -410,7 +410,7 @@ Created: 2026-10-27T16:01:43.117Z
 Over the Garden Wall Chapter 1 Glow-in-the-Dark Variant Figure Set - Entertainment Earth Exclusive up for preorder at Entertainment Earth ($149.99) buff.ly/1NhCvdZ #ad
 Link: https://buff.ly/1NhCvdZ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=136 repost=32 reply=5 quote=6
+Engagement: like=137 repost=32 reply=5 quote=6
 
 --- 34/60 | post | 2026-10-27T16:00:36.514Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuma3e7xa27
