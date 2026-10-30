@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-27
-Updated: 2026-10-29T21:24:55.649681Z
+Updated: 2026-10-30T01:20:04.680129Z
 Timezone: America/Los_Angeles
 Count: 60
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -54,7 +54,7 @@ Link: https://amzn.to/3A91X8A
 Link: https://buff.ly/bkuhNlU
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=2 reply=3 quote=1
+Engagement: like=30 repost=2 reply=3 quote=1
 
 --- 5/60 | post | 2026-10-27T21:34:17.752Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myv6ur3z5l2v
@@ -286,7 +286,7 @@ Created: 2026-10-27T17:28:36.941Z
 Grand Theft Auto VI reported to be 210 GB download
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=440 repost=78 reply=128 quote=543
+Engagement: like=440 repost=78 reply=129 quote=543
 
 --- 24/60 | post | 2026-10-27T17:23:03.548Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuqtj7mwa2i
@@ -651,7 +651,7 @@ Link: https://unite.pokemon.com/en-us/news/unite-end-of-service/
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=422 repost=136 reply=30 quote=247
+Engagement: like=423 repost=136 reply=30 quote=247
 
 --- 55/60 | post | 2026-10-27T05:08:51.906Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mythsobvrc2x
