@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-10-29
-Updated: 2026-10-30T07:23:48.828986Z
+Updated: 2026-10-30T14:30:11.916057Z
 Timezone: America/Los_Angeles
 Count: 74
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -41,7 +41,7 @@ includes Dolby Vision
 Link: https://amzn.to/4eoy7vn
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=1 reply=0 quote=0
+Engagement: like=29 repost=1 reply=0 quote=0
 
 --- 4/74 | post | 2026-10-29T22:03:08.060Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2bg6676s27
@@ -53,7 +53,7 @@ Crimson Desert Enhanced: Charting the Unknown DLC (Steam) is $21.24 on Fanatical
 out now
 Link: https://buff.ly/mzJzqSY
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=0 reply=0 quote=0
+Engagement: like=17 repost=0 reply=0 quote=0
 
 --- 5/74 | post | 2026-10-29T21:29:05.577Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz27jccltg2i
@@ -105,7 +105,7 @@ physical $28.59 at VGP buff.ly/bDzrrXY #ad
 Link: https://buff.ly/wZ3ceUG
 Link: https://buff.ly/bDzrrXY
 Image description: [no alt text supplied; image omitted]
-Engagement: like=46 repost=8 reply=1 quote=2
+Engagement: like=47 repost=8 reply=1 quote=2
 
 --- 9/74 | post | 2026-10-29T20:25:27.599Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz23xj75wb2n
@@ -126,7 +126,7 @@ Created: 2026-10-29T20:10:19.722Z
 Link: https://deadline.com/2026/10/sony-mouthwashing-videogame-movie-karyn-kusama-1237208566/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=222 repost=47 reply=8 quote=90
+Engagement: like=226 repost=47 reply=8 quote=94
 
 --- 11/74 | post | 2026-10-29T19:57:05.121Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz22erlnf62o
@@ -138,7 +138,7 @@ $6.29 GOG buff.ly/ioorTkM #ad
 Link: https://buff.ly/smjN0U0
 Link: https://buff.ly/ioorTkM
 Image description: [no alt text supplied; image omitted]
-Engagement: like=49 repost=7 reply=0 quote=0
+Engagement: like=50 repost=8 reply=0 quote=0
 
 --- 12/74 | post | 2026-10-29T19:36:53.638Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzzao7ivk2t
@@ -215,7 +215,7 @@ Link: https://buff.ly/PTFQtGa
 Link: https://buff.ly/9mA2488
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=0 reply=4 quote=0
+Engagement: like=23 repost=0 reply=4 quote=0
 
 --- 17/74 | post | 2026-10-29T19:09:45.639Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzxq5mw4s2t
@@ -253,7 +253,7 @@ Created: 2026-10-29T18:32:54.229Z
 CODE VEIN II (Steam) is $29.81 on Gamesplanet buff.ly/pgB6trO #ad
 Link: https://buff.ly/pgB6trO
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=4 reply=0 quote=1
+Engagement: like=32 repost=4 reply=0 quote=1
 
 --- 20/74 | post | 2026-10-29T18:11:13.870Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzuhikv2h2t
@@ -323,7 +323,7 @@ Link: https://buff.ly/qvTlcDv
 Link: https://buff.ly/x5nh4sN
 Link: https://buff.ly/8v2Ybky
 Image description: [no alt text supplied; image omitted]
-Engagement: like=45 repost=12 reply=0 quote=2
+Engagement: like=46 repost=12 reply=0 quote=2
 
 --- 25/74 | post | 2026-10-29T17:15:03.720Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzrd2jh3c2t
@@ -398,7 +398,7 @@ Created: 2026-10-29T17:05:57.874Z
 Mina the Hollower is $15.99 on Steam buff.ly/wMwqbZx
 Link: https://buff.ly/wMwqbZx
 Image description: [no alt text supplied; image omitted]
-Engagement: like=125 repost=35 reply=7 quote=8
+Engagement: like=126 repost=35 reply=7 quote=8
 
 --- 30/74 | post | 2026-10-29T17:04:20.175Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzqpusqps2b
@@ -471,7 +471,7 @@ www.theverge.com/tech/1022023...
 Link: https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=238 repost=44 reply=26 quote=88
+Engagement: like=237 repost=45 reply=26 quote=89
 
 --- 36/74 | post | 2026-10-29T16:15:41.356Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myznyv7fnz2a
@@ -617,7 +617,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=95 repost=16 reply=4 quote=5
+Engagement: like=96 repost=16 reply=4 quote=5
 
 --- 48/74 | post | 2026-10-29T14:32:04.972Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzi7msetl2o
@@ -629,7 +629,7 @@ Shikhondo: Blue Pieta (PS5/Switch/Switch 2) Standard/LE English/Asia import up f
 game on cart
 Link: https://buff.ly/LohlbcS
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=0 reply=1 quote=0
+Engagement: like=21 repost=0 reply=1 quote=0
 
 --- 49/74 | post | 2026-10-29T14:23:49.059Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzhqttmik2c
@@ -643,7 +643,7 @@ Link: https://www.dominos.com/minecraft-dungeons-ii
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=45 repost=3 reply=4 quote=0
+Engagement: like=44 repost=3 reply=4 quote=0
 
 --- 50/74 | post | 2026-10-29T14:12:20.770Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzh4dhdlo2s
@@ -677,7 +677,7 @@ Created: 2026-10-29T14:01:28.114Z
 The Duskbloods delayed to 2027
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=678 repost=132 reply=31 quote=105
+Engagement: like=684 repost=133 reply=31 quote=105
 
 --- 53/74 | post | 2026-10-29T14:00:24.626Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzggyigau2i
@@ -771,7 +771,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=156 repost=46 reply=8 quote=20
+Engagement: like=157 repost=46 reply=8 quote=20
 
 --- 60/74 | post | 2026-10-29T12:43:52.668Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzc65b3dn2n
@@ -812,7 +812,7 @@ Pokémon Legends: Z-A OST added to Nintendo Music music.nintendo.com/en-US/playl
 Link: https://music.nintendo.com/en-US/playlist/2cde8f86-1a27-4006-9403-92b0be9bebc7/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=91 repost=16 reply=0 quote=1
+Engagement: like=92 repost=16 reply=0 quote=1
 
 --- 64/74 | post | 2026-10-29T12:24:51.844Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzb45b7us2c
@@ -843,7 +843,7 @@ Created: 2026-10-29T12:14:40.055Z
 Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition Console System expected to be sold at Target in-stores on November 5th. Online on November 6th buff.ly/sCPIBRd #ad
 Link: https://buff.ly/sCPIBRd
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=4 reply=2 quote=4
+Engagement: like=62 repost=4 reply=2 quote=4
 
 --- 66/74 | post | 2026-10-29T12:04:38.315Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myz7xxx6z22c
@@ -872,7 +872,7 @@ RESONANCE OF FATE™/END OF ETERNITY™ ENHANCED REMASTER DLC listed on Steam fo
 Link: https://buff.ly/6A4WOnr
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=411 repost=126 reply=19 quote=81
+Engagement: like=412 repost=126 reply=19 quote=82
 
 --- 68/74 | post | 2026-10-29T02:14:12.589Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myy6y7efl42a
