@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-26
-Updated: 2026-10-30T01:20:04.680129Z
+Updated: 2026-10-30T07:23:48.828986Z
 Timezone: America/Los_Angeles
 Count: 82
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -90,7 +90,7 @@ $7.49 US eShop buff.ly/JUoe3i5
 Link: https://buff.ly/In7wKM7
 Link: https://buff.ly/JUoe3i5
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=5 reply=0 quote=0
+Engagement: like=30 repost=5 reply=0 quote=0
 
 --- 8/82 | post | 2026-10-26T21:01:59.126Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mysmm2sxrb2v

@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-27
-Updated: 2026-10-30T01:20:04.680129Z
+Updated: 2026-10-30T07:23:48.828986Z
 Timezone: America/Los_Angeles
 Count: 60
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -64,7 +64,7 @@ Created: 2026-10-27T21:34:17.752Z
 Final Fantasy IX - trance rat t-shirt (by Caitlin Rose Boyle) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=149 repost=39 reply=2 quote=1
+Engagement: like=150 repost=39 reply=2 quote=1
 
 --- 6/60 | repost | 2026-10-27T21:32:47.674Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuaek3vu32a#repost:2026-10-27T21:32:47.674Z
@@ -149,7 +149,7 @@ $9.99 US PSN buff.ly/nMx9KNr
 Link: https://buff.ly/m3gSRYk
 Link: https://buff.ly/nMx9KNr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=73 repost=26 reply=2 quote=4
+Engagement: like=74 repost=26 reply=2 quote=4
 
 --- 12/60 | post | 2026-10-27T19:39:03.023Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuygop2ow2a
@@ -162,7 +162,7 @@ PS5 $19.99 / Switch 2 KC $34.99 Amazon link.amazon/B0961JjJq #ad
 Link: https://buff.ly/DQDV0KS
 Link: https://link.amazon/B0961JjJq
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=12 reply=0 quote=1
+Engagement: like=39 repost=12 reply=0 quote=1
 
 --- 13/60 | post | 2026-10-27T19:38:09.975Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuyf44c4z2a
@@ -224,7 +224,7 @@ $12.59 US PSN buff.ly/7bVGxMN
 Link: https://buff.ly/066hr5U
 Link: https://buff.ly/7bVGxMN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=131 repost=51 reply=0 quote=7
+Engagement: like=133 repost=51 reply=0 quote=7
 
 --- 18/60 | post | 2026-10-27T18:12:45.098Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myutmendcn2a
@@ -256,7 +256,7 @@ Created: 2026-10-27T17:55:25.738Z
 Inscryption Soundtrack Deluxe Triple Vinyl repress up for preorder at Devolver Store ($62) buff.ly/DFOXEld
 Link: https://buff.ly/DFOXEld
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=1 reply=0 quote=0
+Engagement: like=23 repost=1 reply=0 quote=0
 
 --- 21/60 | post | 2026-10-27T17:43:03.575Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myurxbnkdb2c
@@ -276,7 +276,7 @@ Created: 2026-10-27T17:39:33.687Z
 Luto Special Edition (PS5) is in-stock at VGP, $28.39 US Dollars buff.ly/oP1pUh8 #ad
 Link: https://buff.ly/oP1pUh8
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=0 reply=0 quote=2
+Engagement: like=23 repost=0 reply=0 quote=2
 
 --- 23/60 | post | 2026-10-27T17:28:36.941Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myur5h5i7k2e
@@ -286,7 +286,7 @@ Created: 2026-10-27T17:28:36.941Z
 Grand Theft Auto VI reported to be 210 GB download
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=440 repost=78 reply=129 quote=543
+Engagement: like=443 repost=78 reply=129 quote=543
 
 --- 24/60 | post | 2026-10-27T17:23:03.548Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuqtj7mwa2i

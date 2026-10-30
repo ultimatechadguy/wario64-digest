@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-28
-Updated: 2026-10-30T01:20:04.680129Z
+Updated: 2026-10-30T07:23:48.828986Z
 Timezone: America/Los_Angeles
 Count: 75
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -81,7 +81,7 @@ If you get a cancellation, that's Walmart likely thinking it's a fraud order. Tr
 Link: https://buff.ly/lrdvPYh
 Link: https://buff.ly/AyMIA6h
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=16 reply=0 quote=1
+Engagement: like=62 repost=16 reply=0 quote=1
 
 --- 7/75 | post | 2026-10-28T20:29:35.278Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxlpxwszf2t
@@ -462,7 +462,7 @@ Link: https://amzn.to/4jKBC59
 Link: https://link.amazon/B0g3Cg2FX
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=66 repost=7 reply=2 quote=1
+Engagement: like=67 repost=8 reply=2 quote=1
 
 --- 37/75 | post | 2026-10-28T15:13:15.414Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myx22dd7b22t
@@ -556,7 +556,7 @@ Created: 2026-10-28T14:22:07.021Z
 yet another indie world without silksong
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=1055 repost=170 reply=13 quote=5
+Engagement: like=1057 repost=170 reply=13 quote=5
 
 --- 45/75 | post | 2026-10-28T14:20:51.031Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywx4spay22j
@@ -572,7 +572,7 @@ Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3my
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=49 repost=3 reply=0 quote=4
+Engagement: like=50 repost=3 reply=0 quote=4
 
 --- 46/75 | post | 2026-10-28T14:20:51.030Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywx4mm3uc2j
@@ -590,7 +590,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=92 repost=7 reply=1 quote=1
+Engagement: like=93 repost=7 reply=1 quote=1
 
 --- 47/75 | post | 2026-10-28T14:17:40.932Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywwwxcnes2x
@@ -641,7 +641,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=58 repost=9 reply=3 quote=8
+Engagement: like=59 repost=9 reply=3 quote=8
 
 --- 51/75 | post | 2026-10-28T14:12:59.748Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywwol5nlc2j
@@ -757,7 +757,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=469 repost=64 reply=5 quote=22
+Engagement: like=474 repost=64 reply=5 quote=22
 
 --- 61/75 | post | 2026-10-28T14:03:20.866Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myww5d3i722j
@@ -783,7 +783,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=417 repost=109 reply=9 quote=92
+Engagement: like=419 repost=109 reply=9 quote=92
 
 --- 63/75 | post | 2026-10-28T13:25:07.623Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywtyy374s2j

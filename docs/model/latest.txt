@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-10-29
-Updated: 2026-10-30T01:20:04.680129Z
+Updated: 2026-10-30T07:23:48.828986Z
 Timezone: America/Los_Angeles
 Count: 74
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -18,7 +18,7 @@ PNP available in-stock buff.ly/3RzX9t1
 Link: https://buff.ly/LRTx5SG
 Link: https://buff.ly/3RzX9t1
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=1 reply=1 quote=1
+Engagement: like=18 repost=1 reply=1 quote=1
 
 --- 2/74 | post | 2026-10-29T22:22:17.290Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2cig656x2a
@@ -41,7 +41,7 @@ includes Dolby Vision
 Link: https://amzn.to/4eoy7vn
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=1 reply=0 quote=0
+Engagement: like=28 repost=1 reply=0 quote=0
 
 --- 4/74 | post | 2026-10-29T22:03:08.060Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2bg6676s27
@@ -53,7 +53,7 @@ Crimson Desert Enhanced: Charting the Unknown DLC (Steam) is $21.24 on Fanatical
 out now
 Link: https://buff.ly/mzJzqSY
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=0 reply=0 quote=0
+Engagement: like=16 repost=0 reply=0 quote=0
 
 --- 5/74 | post | 2026-10-29T21:29:05.577Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz27jccltg2i
@@ -71,7 +71,7 @@ Link: https://buff.ly/lcYJ9g8
 Link: https://buff.ly/X3dt13t
 Link: https://buff.ly/NbeCBKT
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=4 reply=1 quote=1
+Engagement: like=24 repost=5 reply=1 quote=1
 
 --- 6/74 | post | 2026-10-29T21:20:59.728Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz272sx2622t
@@ -82,7 +82,7 @@ Starfield (PS5) is $32.86 on Amazon amzn.to/3U3YaU3 #ad
 Link: https://amzn.to/3U3YaU3
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=0 reply=1 quote=1
+Engagement: like=25 repost=0 reply=1 quote=1
 
 --- 7/74 | post | 2026-10-29T21:01:49.855Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz25ykfc5i2a
@@ -92,7 +92,7 @@ Created: 2026-10-29T21:01:49.855Z
 GRANDIA HD Collection is $19.99 on US eShop buff.ly/htVavXF
 Link: https://buff.ly/htVavXF
 Image description: [no alt text supplied; image omitted]
-Engagement: like=65 repost=9 reply=1 quote=1
+Engagement: like=74 repost=11 reply=1 quote=1
 
 --- 8/74 | post | 2026-10-29T20:31:12.363Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz24bryng42v
@@ -105,7 +105,7 @@ physical $28.59 at VGP buff.ly/bDzrrXY #ad
 Link: https://buff.ly/wZ3ceUG
 Link: https://buff.ly/bDzrrXY
 Image description: [no alt text supplied; image omitted]
-Engagement: like=45 repost=7 reply=1 quote=2
+Engagement: like=46 repost=8 reply=1 quote=2
 
 --- 9/74 | post | 2026-10-29T20:25:27.599Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz23xj75wb2n
@@ -115,7 +115,7 @@ Created: 2026-10-29T20:25:27.599Z
 AOC G27MC36N 27" Gaming Monitor FHD 180Hz Monitor HDMI & DP Port is $69.98 at Walmart buff.ly/ZhkvRbh #ad
 Link: https://buff.ly/ZhkvRbh
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=1 reply=1 quote=0
+Engagement: like=15 repost=1 reply=2 quote=0
 
 --- 10/74 | post | 2026-10-29T20:10:19.722Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz234hedck2t
@@ -126,7 +126,7 @@ Created: 2026-10-29T20:10:19.722Z
 Link: https://deadline.com/2026/10/sony-mouthwashing-videogame-movie-karyn-kusama-1237208566/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=202 repost=45 reply=8 quote=84
+Engagement: like=222 repost=47 reply=8 quote=90
 
 --- 11/74 | post | 2026-10-29T19:57:05.121Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz22erlnf62o
@@ -138,7 +138,7 @@ $6.29 GOG buff.ly/ioorTkM #ad
 Link: https://buff.ly/smjN0U0
 Link: https://buff.ly/ioorTkM
 Image description: [no alt text supplied; image omitted]
-Engagement: like=45 repost=7 reply=0 quote=0
+Engagement: like=49 repost=7 reply=0 quote=0
 
 --- 12/74 | post | 2026-10-29T19:36:53.638Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzzao7ivk2t
@@ -161,7 +161,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=48 repost=3 reply=6 quote=4
+Engagement: like=51 repost=3 reply=6 quote=4
 
 --- 13/74 | post | 2026-10-29T19:23:53.922Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzyjgn72r2i
@@ -177,7 +177,7 @@ Link: https://buff.ly/MPZ2rcZ
 Link: https://buff.ly/Il0IoaC
 Link: https://buff.ly/yYxonmP
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=2 reply=0 quote=0
+Engagement: like=36 repost=2 reply=0 quote=0
 
 --- 14/74 | post | 2026-10-29T19:20:16.266Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzycx2ih52v
@@ -190,7 +190,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=0 reply=1 quote=2
+Engagement: like=27 repost=0 reply=1 quote=2
 
 --- 15/74 | post | 2026-10-29T19:12:09.441Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzxugs2dc2o
@@ -200,7 +200,7 @@ Created: 2026-10-29T19:12:09.441Z
 RV There Yet? is $4.79 on Steam buff.ly/BpwQ6gv
 Link: https://buff.ly/BpwQ6gv
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=2 reply=1 quote=0
+Engagement: like=17 repost=2 reply=1 quote=0
 
 --- 16/74 | post | 2026-10-29T19:11:06.134Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzxskfgjk2t
@@ -230,7 +230,7 @@ Link: https://buff.ly/PTFQtGa
 Link: https://buff.ly/9mA2488
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=1 reply=2 quote=3
+Engagement: like=16 repost=1 reply=2 quote=3
 
 --- 18/74 | post | 2026-10-29T18:35:24.615Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzvsq3ie22t
@@ -253,7 +253,7 @@ Created: 2026-10-29T18:32:54.229Z
 CODE VEIN II (Steam) is $29.81 on Gamesplanet buff.ly/pgB6trO #ad
 Link: https://buff.ly/pgB6trO
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=3 reply=0 quote=1
+Engagement: like=31 repost=4 reply=0 quote=1
 
 --- 20/74 | post | 2026-10-29T18:11:13.870Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzuhikv2h2t
@@ -266,7 +266,7 @@ amiibo available at Best Buy buff.ly/hsn4KKB
 Link: https://buff.ly/I94AE5Y
 Link: https://buff.ly/hsn4KKB
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=1 reply=0 quote=2
+Engagement: like=41 repost=1 reply=0 quote=2
 
 --- 21/74 | post | 2026-10-29T18:06:48.123Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzu7l4liu2s
@@ -287,7 +287,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=6 reply=0 quote=0
+Engagement: like=17 repost=6 reply=0 quote=0
 
 --- 22/74 | post | 2026-10-29T17:42:53.197Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzsusnsqc2t
@@ -298,7 +298,7 @@ PUBG live-action series in development at Netflix - Directed, written, executive
 Link: https://www.gematsu.com/2026/10/pubg-live-action-series-in-development-at-netflix
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=85 repost=7 reply=17 quote=62
+Engagement: like=86 repost=7 reply=17 quote=62
 
 --- 23/74 | post | 2026-10-29T17:37:02.331Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzske32hi27
@@ -308,7 +308,7 @@ Created: 2026-10-29T17:37:02.331Z
 Fantavision 202X PS5 and The Eternal Castle PS4 available on VGP (VGP ESRB exclusive) buff.ly/eKEE4YC #ad
 Link: https://buff.ly/eKEE4YC
 Image description: [no alt text supplied; image omitted]
-Engagement: like=10 repost=0 reply=1 quote=0
+Engagement: like=11 repost=0 reply=1 quote=0
 
 --- 24/74 | post | 2026-10-29T17:34:55.903Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzsgljala2a
@@ -323,7 +323,7 @@ Link: https://buff.ly/qvTlcDv
 Link: https://buff.ly/x5nh4sN
 Link: https://buff.ly/8v2Ybky
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=12 reply=0 quote=2
+Engagement: like=45 repost=12 reply=0 quote=2
 
 --- 25/74 | post | 2026-10-29T17:15:03.720Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzrd2jh3c2t
@@ -344,7 +344,7 @@ Created: 2026-10-29T17:12:56.702Z
 Gothic franchise sale on Steam buff.ly/xvhFQQI
 Link: https://buff.ly/xvhFQQI
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=2 reply=1 quote=0
+Engagement: like=27 repost=2 reply=1 quote=0
 
 --- 27/74 | post | 2026-10-29T17:12:22.408Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzr6aovn62s
@@ -388,7 +388,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=0 reply=0 quote=1
+Engagement: like=18 repost=0 reply=0 quote=1
 
 --- 29/74 | post | 2026-10-29T17:05:57.874Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzqsryan52m
@@ -398,7 +398,7 @@ Created: 2026-10-29T17:05:57.874Z
 Mina the Hollower is $15.99 on Steam buff.ly/wMwqbZx
 Link: https://buff.ly/wMwqbZx
 Image description: [no alt text supplied; image omitted]
-Engagement: like=118 repost=34 reply=7 quote=8
+Engagement: like=125 repost=35 reply=7 quote=8
 
 --- 30/74 | post | 2026-10-29T17:04:20.175Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzqpusqps2b
@@ -408,7 +408,7 @@ Created: 2026-10-29T17:04:20.175Z
 Hexologic is free to own on Steam (offer ends Oct 31st) buff.ly/Ea9vfxC
 Link: https://buff.ly/Ea9vfxC
 Image description: [no alt text supplied; image omitted]
-Engagement: like=72 repost=25 reply=0 quote=0
+Engagement: like=75 repost=26 reply=0 quote=0
 
 --- 31/74 | post | 2026-10-29T17:03:52.132Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzqp22jb32a
@@ -431,7 +431,7 @@ Created: 2026-10-29T16:49:47.741Z
 PaRappa t-shirts available for $20 each on The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=3 reply=0 quote=2
+Engagement: like=26 repost=4 reply=0 quote=2
 
 --- 33/74 | post | 2026-10-29T16:31:53.024Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzovttnk22z
@@ -445,7 +445,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=138 repost=31 reply=5 quote=19
+Engagement: like=141 repost=31 reply=6 quote=21
 
 --- 34/74 | post | 2026-10-29T16:27:10.601Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzongj4dr2v
@@ -456,7 +456,7 @@ Evercade Game Restocks at VGP buff.ly/CLzpZoJ #ad
 Link: https://buff.ly/CLzpZoJ
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=1 reply=0 quote=0
+Engagement: like=16 repost=1 reply=1 quote=0
 
 --- 35/74 | post | 2026-10-29T16:19:37.750Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzo7wmvis2z
@@ -471,7 +471,7 @@ www.theverge.com/tech/1022023...
 Link: https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=234 repost=43 reply=26 quote=88
+Engagement: like=238 repost=44 reply=26 quote=88
 
 --- 36/74 | post | 2026-10-29T16:15:41.356Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myznyv7fnz2a
@@ -481,7 +481,7 @@ Created: 2026-10-29T16:15:41.356Z
 Nintendo Switch™ 2 – The Legend of Zelda™ – 40th Anniversary Edition at Nintendo Store ($519.99) buff.ly/7L30N4h
 Link: https://buff.ly/7L30N4h
 Image description: [no alt text supplied; image omitted]
-Engagement: like=57 repost=3 reply=16 quote=2
+Engagement: like=57 repost=3 reply=17 quote=2
 
 --- 37/74 | post | 2026-10-29T16:06:02.138Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myznhmt6qq2s
@@ -493,7 +493,7 @@ GOG buff.ly/filoBbY #ad
 Link: https://buff.ly/KqyLN70
 Link: https://buff.ly/filoBbY
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=7 reply=2 quote=3
+Engagement: like=43 repost=7 reply=2 quote=3
 
 --- 38/74 | post | 2026-10-29T16:04:16.514Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myznei3u3j2a
@@ -503,7 +503,7 @@ Created: 2026-10-29T16:04:16.514Z
 Moonlighter 2: The Endless Vault (Steam) is $15.59 on Fanatical buff.ly/UsMbfFh #ad
 Link: https://buff.ly/UsMbfFh
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=0 reply=0 quote=0
+Engagement: like=17 repost=0 reply=0 quote=0
 
 --- 39/74 | post | 2026-10-29T16:02:49.298Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myznbuve4k2z
@@ -542,7 +542,7 @@ Android buff.ly/fYRA75d
 Link: https://buff.ly/Bh1iOhn
 Link: https://buff.ly/fYRA75d
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=0 reply=1 quote=0
+Engagement: like=24 repost=0 reply=1 quote=0
 
 --- 42/74 | post | 2026-10-29T15:17:21.288Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzkqlb3u22z
@@ -586,7 +586,7 @@ VIRTUA FIGHTER CROSSROADS: Lionel Rafale Announcement Trailer www.youtube.com/wa
 Link: https://www.youtube.com/watch?v=i-pDJQknmds
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=130 repost=33 reply=7 quote=26
+Engagement: like=134 repost=34 reply=7 quote=26
 
 --- 46/74 | post | 2026-10-29T15:00:48.512Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzjsyiopi2n
@@ -596,7 +596,7 @@ Created: 2026-10-29T15:00:48.512Z
 Sorry We're Closed is free on Epic Games Store. Flotsam is the next free title buff.ly/3sdwUd1
 Link: https://buff.ly/3sdwUd1
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=11 reply=5 quote=2
+Engagement: like=57 repost=11 reply=5 quote=3
 
 --- 47/74 | post | 2026-10-29T14:48:06.084Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzj4beu4n2i
@@ -617,7 +617,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=94 repost=16 reply=4 quote=5
+Engagement: like=95 repost=16 reply=4 quote=5
 
 --- 48/74 | post | 2026-10-29T14:32:04.972Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzi7msetl2o
@@ -629,7 +629,7 @@ Shikhondo: Blue Pieta (PS5/Switch/Switch 2) Standard/LE English/Asia import up f
 game on cart
 Link: https://buff.ly/LohlbcS
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=0 reply=1 quote=0
+Engagement: like=20 repost=0 reply=1 quote=0
 
 --- 49/74 | post | 2026-10-29T14:23:49.059Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzhqttmik2c
@@ -643,7 +643,7 @@ Link: https://www.dominos.com/minecraft-dungeons-ii
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=3 reply=4 quote=0
+Engagement: like=45 repost=3 reply=4 quote=0
 
 --- 50/74 | post | 2026-10-29T14:12:20.770Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzh4dhdlo2s
@@ -677,7 +677,7 @@ Created: 2026-10-29T14:01:28.114Z
 The Duskbloods delayed to 2027
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=660 repost=128 reply=30 quote=105
+Engagement: like=678 repost=132 reply=31 quote=105
 
 --- 53/74 | post | 2026-10-29T14:00:24.626Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzggyigau2i
@@ -715,7 +715,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=7 reply=1 quote=5
+Engagement: like=53 repost=7 reply=1 quote=5
 
 --- 56/74 | post | 2026-10-29T13:30:51.602Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzes5lpsf2b
@@ -725,7 +725,7 @@ Created: 2026-10-29T13:30:51.602Z
 Onimusha: Warlords / Okami HD (PS4 ESRB) physical reprint in-stock at VGP ($21.44 US Dollars each) buff.ly/m4oxQWm #ad
 Link: https://buff.ly/m4oxQWm
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=3 reply=1 quote=0
+Engagement: like=28 repost=3 reply=1 quote=0
 
 --- 57/74 | post | 2026-10-29T13:15:18.344Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzdwdlclo2o
@@ -754,7 +754,7 @@ Darkest Dungeon / Darkest Dungeon II is $3.74/$12.39 on US eShop buff.ly/F7oj202
 Link: https://buff.ly/F7oj202
 Link: https://buff.ly/9UJOtke
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=6 reply=0 quote=0
+Engagement: like=19 repost=7 reply=0 quote=0
 
 --- 59/74 | post | 2026-10-29T12:48:02.359Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzcflefns2c
@@ -771,7 +771,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=155 repost=46 reply=8 quote=20
+Engagement: like=156 repost=46 reply=8 quote=20
 
 --- 60/74 | post | 2026-10-29T12:43:52.668Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzc65b3dn2n
@@ -812,7 +812,7 @@ Pokémon Legends: Z-A OST added to Nintendo Music music.nintendo.com/en-US/playl
 Link: https://music.nintendo.com/en-US/playlist/2cde8f86-1a27-4006-9403-92b0be9bebc7/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=88 repost=16 reply=0 quote=1
+Engagement: like=91 repost=16 reply=0 quote=1
 
 --- 64/74 | post | 2026-10-29T12:24:51.844Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzb45b7us2c
@@ -833,7 +833,7 @@ Quoted created: 2026-10-29T12:14:40.055Z
 Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition Console System expected to be sold at Target in-stores on November 5th. Online on November 6th buff.ly/sCPIBRd #ad
 Link: https://buff.ly/sCPIBRd
 Image description: [no alt text supplied; image omitted]
-Engagement: like=95 repost=24 reply=9 quote=5
+Engagement: like=97 repost=24 reply=9 quote=5
 
 --- 65/74 | post | 2026-10-29T12:14:40.055Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzajvtfyq2o
@@ -843,7 +843,7 @@ Created: 2026-10-29T12:14:40.055Z
 Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition Console System expected to be sold at Target in-stores on November 5th. Online on November 6th buff.ly/sCPIBRd #ad
 Link: https://buff.ly/sCPIBRd
 Image description: [no alt text supplied; image omitted]
-Engagement: like=60 repost=4 reply=2 quote=4
+Engagement: like=61 repost=4 reply=2 quote=4
 
 --- 66/74 | post | 2026-10-29T12:04:38.315Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myz7xxx6z22c
@@ -861,7 +861,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=6 reply=3 quote=6
+Engagement: like=43 repost=6 reply=3 quote=6
 
 --- 67/74 | post | 2026-10-29T03:22:22.512Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myycs3snwh2c
@@ -872,7 +872,7 @@ RESONANCE OF FATE™/END OF ETERNITY™ ENHANCED REMASTER DLC listed on Steam fo
 Link: https://buff.ly/6A4WOnr
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=408 repost=126 reply=19 quote=81
+Engagement: like=411 repost=126 reply=19 quote=81
 
 --- 68/74 | post | 2026-10-29T02:14:12.589Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myy6y7efl42a
