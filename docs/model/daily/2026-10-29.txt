@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-29
-Updated: 2026-10-31T19:14:36.247653Z
+Updated: 2026-10-31T22:36:28.211517Z
 Timezone: America/Los_Angeles
 Count: 74
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -471,7 +471,7 @@ www.theverge.com/tech/1022023...
 Link: https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=239 repost=44 reply=26 quote=88
+Engagement: like=239 repost=44 reply=26 quote=89
 
 --- 36/74 | post | 2026-10-29T16:15:41.356Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myznyv7fnz2a
@@ -677,7 +677,7 @@ Created: 2026-10-29T14:01:28.114Z
 The Duskbloods delayed to 2027
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=692 repost=134 reply=31 quote=106
+Engagement: like=693 repost=135 reply=31 quote=106
 
 --- 53/74 | post | 2026-10-29T14:00:24.626Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzggyigau2i

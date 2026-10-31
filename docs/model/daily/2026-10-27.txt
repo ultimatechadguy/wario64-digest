@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-27
-Updated: 2026-10-31T19:14:36.247653Z
+Updated: 2026-10-31T22:36:28.211517Z
 Timezone: America/Los_Angeles
 Count: 60
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -246,7 +246,7 @@ Created: 2026-10-27T18:11:57.007Z
 Sly Cooper - Smooth Thief t-shirt (by Henrique Torres) is $20 at The Yetee (today only) buff.ly/QAmmMqs #ad
 Link: https://buff.ly/QAmmMqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=131 repost=24 reply=1 quote=1
+Engagement: like=132 repost=24 reply=1 quote=1
 
 --- 20/60 | post | 2026-10-27T17:55:25.738Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myusnfgpyw27
@@ -308,7 +308,7 @@ Created: 2026-10-27T17:15:52.249Z
 Sekai Project publisher sale on Steam buff.ly/LrqJsBy?
 Link: https://buff.ly/LrqJsBy
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=19 reply=0 quote=5
+Engagement: like=38 repost=19 reply=0 quote=4
 
 --- 26/60 | post | 2026-10-27T17:11:58.939Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myuq7pf2qv2v
@@ -369,7 +369,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=10 reply=0 quote=4
+Engagement: like=39 repost=11 reply=0 quote=4
 
 --- 30/60 | post | 2026-10-27T16:17:14.354Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myun5sxwpq2a
