@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-28
-Updated: 2026-10-31T14:57:05.515624Z
+Updated: 2026-10-31T19:14:36.247653Z
 Timezone: America/Los_Angeles
 Count: 75
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -233,7 +233,7 @@ Link: https://buff.ly/r5qgxGL
 Link: https://buff.ly/9o6xhEa
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=109 repost=23 reply=5 quote=4
+Engagement: like=110 repost=24 reply=5 quote=4
 
 --- 19/75 | post | 2026-10-28T18:01:47.066Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxdhojyok2x
@@ -291,7 +291,7 @@ Escape Academy (Steam) w/ 7 more games for $15 on Humble Puzzle Bundle buff.ly/K
 Link: https://buff.ly/zl5RreQ
 Link: https://buff.ly/K271emf
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=1 reply=0 quote=1
+Engagement: like=15 repost=1 reply=0 quote=1
 
 --- 24/75 | post | 2026-10-28T17:37:36.606Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myxc4hbguc2x
@@ -783,7 +783,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=420 repost=111 reply=9 quote=92
+Engagement: like=420 repost=112 reply=9 quote=92
 
 --- 63/75 | post | 2026-10-28T13:25:07.623Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mywtyy374s2j
