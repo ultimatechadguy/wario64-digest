@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-30
-Updated: 2026-10-31T22:36:28.211517Z
+Updated: 2026-11-01T01:28:14.974077Z
 Timezone: America/Los_Angeles
 Count: 118
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -515,7 +515,7 @@ Hitman: Absolution (Switch 2E) up for preorder at LRG ($39.99) buff.ly/KBgwuXL #
 Switch 1 + 2 on cart
 Link: https://buff.ly/KBgwuXL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=1 reply=0 quote=1
+Engagement: like=41 repost=1 reply=0 quote=1
 
 --- 36/118 | post | 2026-10-30T15:46:19.915Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz44tcsjrs2t
@@ -591,7 +591,7 @@ Created: 2026-10-30T15:28:56.293Z
 Atelier Ryza 1, 2 & 3 (Switch ESRB) reprints up for order at VGP ($39.31/$46.46 US Dollars) buff.ly/hDr68yA #ad
 Link: https://buff.ly/hDr68yA
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=1 reply=0 quote=0
+Engagement: like=21 repost=1 reply=0 quote=0
 
 --- 42/118 | post | 2026-10-30T15:28:11.512Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz43sutrap2x
@@ -616,7 +616,7 @@ Geek Squad Refurbished Good - Nintendo Switch OLED Model w/Joy-Con is $179.99 at
 this is Switch 1, not Switch 2
 Link: https://buff.ly/VA2cphj
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=10 reply=2 quote=2
+Engagement: like=51 repost=10 reply=2 quote=2
 
 --- 44/118 | repost | 2026-10-30T15:14:05.806Z ---
 ID: at://did:plc:je236u337zd6tdgsh5ft4gpb/app.bsky.feed.post/3mz4277my2s2q#repost:2026-10-30T15:14:05.806Z
@@ -676,7 +676,7 @@ Link: https://amzn.to/47QDPol
 Link: https://buff.ly/W0pJcMM
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=4 reply=0 quote=0
+Engagement: like=26 repost=4 reply=0 quote=0
 
 --- 48/118 | post | 2026-10-30T14:54:10.746Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz3zw2mako2o
@@ -774,7 +774,7 @@ Created: 2026-10-30T14:13:37.622Z
 Ys VIII: Lacrimosa of DANA – Special Edition (Switch 2 KC) up for preorder at VGP ($50 US Dollars) buff.ly/b8VUTFu #ad
 Link: https://buff.ly/b8VUTFu
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=2 reply=2 quote=0
+Engagement: like=24 repost=2 reply=2 quote=0
 
 --- 54/118 | post | 2026-10-30T14:12:29.803Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz3xljj4kk2t
@@ -1064,7 +1064,7 @@ Quoted created: 2026-10-30T05:05:23.579Z
 (NEW) Nintendo Switch 2 - Choose Your Game Bundle is $479 on Woot w/ code SAVETOBER (or $459 for new customers) buff.ly/1gXcsXY #ad
 Link: https://buff.ly/1gXcsXY
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=11 reply=0 quote=0
+Engagement: like=28 repost=11 reply=0 quote=0
 
 --- 73/118 | post | 2026-10-30T12:28:00.173Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz3rqod7yc2t
@@ -1750,7 +1750,7 @@ Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mz2n7mivrs2t
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mz2n7mivrs2t
 Image description: [no alt text supplied; image omitted]
-Engagement: like=557 repost=120 reply=13 quote=185
+Engagement: like=558 repost=121 reply=13 quote=185
 
 --- 110/118 | post | 2026-10-30T01:37:01.009Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2nemm64kwj
