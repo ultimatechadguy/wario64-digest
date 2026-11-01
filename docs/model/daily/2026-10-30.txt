@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-30
-Updated: 2026-11-01T01:28:14.974077Z
+Updated: 2026-11-01T08:06:06.230689Z
 Timezone: America/Los_Angeles
 Count: 118
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -300,7 +300,7 @@ Created: 2026-10-30T18:44:02.911Z
 Kirby t-shirts $20 each at The Yetee (today only) buff.ly/sba8xFE #ad
 Link: https://buff.ly/sba8xFE
 Image description: [no alt text supplied; image omitted]
-Engagement: like=41 repost=8 reply=0 quote=0
+Engagement: like=42 repost=8 reply=0 quote=0
 
 --- 21/118 | post | 2026-10-30T18:36:55.059Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz4gedswz72a
@@ -415,7 +415,7 @@ Created: 2026-10-30T17:06:18.744Z
 DELTARUNE Piano Collections Vol. 2 - 2xLP Vinyl / CD / Sheet music up for order at Materia Store (code WARIO64 for extra discount) buff.ly/t9zOLfL #ad
 Link: https://buff.ly/t9zOLfL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=4 reply=1 quote=0
+Engagement: like=30 repost=5 reply=1 quote=0
 
 --- 29/118 | post | 2026-10-30T17:02:08.388Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz4b2ullgs2s
@@ -477,7 +477,7 @@ PNP buff.ly/78CGF6h #ad
 Link: https://buff.ly/Z5W2Lvz
 Link: https://buff.ly/78CGF6h
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=0 reply=1 quote=0
+Engagement: like=15 repost=0 reply=1 quote=0
 
 --- 33/118 | post | 2026-10-30T16:22:52.950Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz46uobxh42c
@@ -631,7 +631,7 @@ Mention: did:plc:knj5sw5al3sukl6vhkpi7637
 Link: https://www.rpgsite.net/interview/21655-suda-51-interview-grasshopper-manufacture-new-romeo-is-a-dead-man-switch-2-game-development-film-wario64-coffee
 Languages: en
 Image description: https://www.rpgsite.net/interview/21655-suda-51-interview-grasshopper-manufacture-new-romeo-is-a-dead-man-switch-2-game-development-film-wario64-coffee
-Engagement: like=82 repost=29 reply=1 quote=3
+Engagement: like=83 repost=29 reply=1 quote=3
 
 --- 45/118 | post | 2026-10-30T15:10:36.164Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz42tgegx227
@@ -650,7 +650,7 @@ Link: https://www.dominos.com/minecraft-dungeons-ii
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=1 reply=14 quote=0
+Engagement: like=30 repost=1 reply=14 quote=0
 
 --- 46/118 | post | 2026-10-30T15:08:07.585Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz42oyors52a
@@ -742,7 +742,7 @@ www.videogameschronicle.com/news/john-ro...
 Link: https://www.videogameschronicle.com/news/john-romero-confirms-his-axed-xbox-game-has-a-new-publisher-and-hes-rehired-some-staff/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=764 repost=123 reply=11 quote=17
+Engagement: like=764 repost=122 reply=11 quote=17
 
 --- 52/118 | post | 2026-10-30T14:19:51.376Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz3xyomu6s2t
@@ -1043,7 +1043,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=9 reply=3 quote=44
+Engagement: like=41 repost=9 reply=3 quote=44
 
 --- 72/118 | post | 2026-10-30T12:32:21.492Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz3ryhk2d22z
@@ -1313,7 +1313,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=2 reply=0 quote=0
+Engagement: like=10 repost=2 reply=0 quote=0
 
 --- 86/118 | post | 2026-10-30T05:16:46.007Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2znkscrk2z
@@ -1489,7 +1489,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=2 reply=0 quote=0
+Engagement: like=21 repost=2 reply=0 quote=0
 
 --- 94/118 | post | 2026-10-30T05:09:52.995Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2zbaw7ps2z
@@ -1567,7 +1567,7 @@ Created: 2026-10-30T05:06:59.943Z
 20% off daily deals on Woot w/ code SAVETOBER (up to $40 off or $60 off for new customers) buff.ly/H6iwAmd #ad
 Link: https://buff.ly/H6iwAmd
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=0 reply=0 quote=0
+Engagement: like=10 repost=0 reply=0 quote=0
 
 --- 98/118 | post | 2026-10-30T05:06:14.819Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2z2qtz7s2z
@@ -1643,7 +1643,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=2 reply=0 quote=0
+Engagement: like=14 repost=2 reply=0 quote=0
 
 --- 102/118 | post | 2026-10-30T05:02:19.989Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2ytqvl2c2z
@@ -1680,7 +1680,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=9 reply=3 quote=44
+Engagement: like=41 repost=9 reply=3 quote=44
 
 --- 104/118 | post | 2026-10-30T03:55:44.328Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2v4odpdc2t
@@ -1691,7 +1691,7 @@ Gamera: The Heisei Era Collection (4-Disc Special Edition) [Blu-ray] is $40 on A
 Link: https://amzn.to/4ifovaR
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=58 repost=12 reply=1 quote=5
+Engagement: like=60 repost=14 reply=1 quote=5
 
 --- 105/118 | post | 2026-10-30T03:46:30.371Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2um62wem2x
@@ -1750,7 +1750,7 @@ Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mz2n7mivrs2t
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mz2n7mivrs2t
 Image description: [no alt text supplied; image omitted]
-Engagement: like=558 repost=121 reply=13 quote=185
+Engagement: like=559 repost=122 reply=13 quote=185
 
 --- 110/118 | post | 2026-10-30T01:37:01.009Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2nemm64kwj
@@ -1775,7 +1775,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=482 repost=91 reply=10 quote=37
+Engagement: like=483 repost=91 reply=10 quote=37
 
 --- 112/118 | post | 2026-10-30T01:29:43.691Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2mxlktzw2t
@@ -1843,7 +1843,7 @@ Created: 2026-10-30T01:03:19.647Z
 Olympia Tools Foldable Push Cart Dolly - 600 Lb. Capacity is $19.99 on Woot buff.ly/j3inWvn #ad
 Link: https://buff.ly/j3inWvn
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=3 reply=3 quote=4
+Engagement: like=35 repost=3 reply=3 quote=4
 
 --- 118/118 | post | 2026-10-30T01:02:41.444Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2lhahjzg2x
