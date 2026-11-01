@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-30
-Updated: 2026-11-01T08:06:06.230689Z
+Updated: 2026-11-01T15:04:56.502742Z
 Timezone: America/Los_Angeles
 Count: 118
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -89,7 +89,7 @@ Link: https://buff.ly/7VWDcBQ
 Link: https://buff.ly/yezc7nK
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=80 repost=12 reply=1 quote=1
+Engagement: like=81 repost=12 reply=1 quote=1
 
 --- 6/118 | post | 2026-10-30T21:25:23.572Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz4prlzod22x
@@ -131,7 +131,7 @@ Link: https://buff.ly/4eSn4PF
 Link: https://buff.ly/CgBdjL8
 Link: https://buff.ly/jA2Hrij
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=2 reply=0 quote=1
+Engagement: like=18 repost=2 reply=0 quote=1
 
 --- 8/118 | post | 2026-10-30T20:50:54.700Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz4ntwzcfd2t
@@ -212,7 +212,7 @@ Link: https://link.amazon/B016jjnyL
 Link: https://buff.ly/DG6Y9FT
 Link: https://buff.ly/6GZQOjf
 Image description: [no alt text supplied; image omitted]
-Engagement: like=10 repost=0 reply=2 quote=0
+Engagement: like=9 repost=0 reply=2 quote=0
 
 --- 14/118 | post | 2026-10-30T19:36:07.343Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz4jo7jgws2t
@@ -223,7 +223,7 @@ Probably Stolen - Cyberpunk Shopkeeper Sim has sold 500k copies in ~2 days store
 Link: https://store.steampowered.com/news/app/4348910/view/676261964507253115?l=english
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=66 repost=5 reply=2 quote=1
+Engagement: like=67 repost=5 reply=2 quote=1
 
 --- 15/118 | post | 2026-10-30T19:29:24.743Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz4jc7lsmf2v
@@ -571,7 +571,7 @@ Created: 2026-10-30T15:36:41.282Z
 BERSERK and the Band of the Hawk (Steam) is $19.99 on Newegg w/ code EPF56939  buff.ly/QbqPkKm #ad
 Link: https://buff.ly/QbqPkKm
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=1 reply=1 quote=1
+Engagement: like=20 repost=1 reply=1 quote=1
 
 --- 40/118 | post | 2026-10-30T15:33:37.276Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz444ljaoj2a
@@ -663,7 +663,7 @@ Geek Squad Refurbished Good - PlayStation 4 (500GB) $79.99 buff.ly/nZn2vWs #ad
 Link: https://buff.ly/bdGsugb
 Link: https://buff.ly/nZn2vWs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=9 reply=6 quote=7
+Engagement: like=54 repost=9 reply=6 quote=7
 
 --- 47/118 | post | 2026-10-30T15:03:30.844Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz42gqqpf22t
@@ -822,7 +822,7 @@ Created: 2026-10-30T14:02:14.515Z
 Build your own Resident Evil Bundle: Demonic Edition on Fanatical (starting at 2 games for $12.99) buff.ly/I6mYWS8 #ad
 Link: https://buff.ly/I6mYWS8
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=4 reply=2 quote=0
+Engagement: like=15 repost=4 reply=2 quote=0
 
 --- 58/118 | post | 2026-10-30T13:53:47.333Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz3wk32i2q2a
@@ -835,7 +835,7 @@ Link: https://buff.ly/HgH2Svt
 Link: https://buff.ly/ETT3gL7
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=1 reply=1 quote=0
+Engagement: like=29 repost=1 reply=1 quote=0
 
 --- 59/118 | post | 2026-10-30T13:44:51.259Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz3w23sgn22t
@@ -1043,7 +1043,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=41 repost=9 reply=3 quote=44
+Engagement: like=43 repost=9 reply=3 quote=44
 
 --- 72/118 | post | 2026-10-30T12:32:21.492Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz3ryhk2d22z
@@ -1680,7 +1680,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=41 repost=9 reply=3 quote=44
+Engagement: like=43 repost=9 reply=3 quote=44
 
 --- 104/118 | post | 2026-10-30T03:55:44.328Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz2v4odpdc2t

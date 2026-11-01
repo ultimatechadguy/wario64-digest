@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-29
-Updated: 2026-11-01T08:06:06.230689Z
+Updated: 2026-11-01T15:04:56.502742Z
 Timezone: America/Los_Angeles
 Count: 74
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -398,7 +398,7 @@ Created: 2026-10-29T17:05:57.874Z
 Mina the Hollower is $15.99 on Steam buff.ly/wMwqbZx
 Link: https://buff.ly/wMwqbZx
 Image description: [no alt text supplied; image omitted]
-Engagement: like=136 repost=38 reply=7 quote=11
+Engagement: like=137 repost=38 reply=7 quote=11
 
 --- 30/74 | post | 2026-10-29T17:04:20.175Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzqpusqps2b
@@ -872,7 +872,7 @@ RESONANCE OF FATE™/END OF ETERNITY™ ENHANCED REMASTER DLC listed on Steam fo
 Link: https://buff.ly/6A4WOnr
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=414 repost=127 reply=19 quote=82
+Engagement: like=413 repost=127 reply=19 quote=82
 
 --- 68/74 | post | 2026-10-29T02:14:12.589Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myy6y7efl42a
