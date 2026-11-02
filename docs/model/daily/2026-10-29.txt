@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-29
-Updated: 2026-11-02T02:37:24.032398Z
+Updated: 2026-11-02T10:06:10.838778Z
 Timezone: America/Los_Angeles
 Count: 74
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -445,7 +445,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=143 repost=32 reply=6 quote=21
+Engagement: like=142 repost=32 reply=6 quote=21
 
 --- 34/74 | post | 2026-10-29T16:27:10.601Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzongj4dr2v
