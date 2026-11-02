@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-29
-Updated: 2026-11-01T23:08:59.647091Z
+Updated: 2026-11-02T02:37:24.032398Z
 Timezone: America/Los_Angeles
 Count: 74
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -126,7 +126,7 @@ Created: 2026-10-29T20:10:19.722Z
 Link: https://deadline.com/2026/10/sony-mouthwashing-videogame-movie-karyn-kusama-1237208566/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=237 repost=51 reply=8 quote=96
+Engagement: like=238 repost=51 reply=9 quote=97
 
 --- 11/74 | post | 2026-10-29T19:57:05.121Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz22erlnf62o
@@ -298,7 +298,7 @@ PUBG live-action series in development at Netflix - Directed, written, executive
 Link: https://www.gematsu.com/2026/10/pubg-live-action-series-in-development-at-netflix
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=87 repost=7 reply=17 quote=63
+Engagement: like=86 repost=7 reply=17 quote=63
 
 --- 23/74 | post | 2026-10-29T17:37:02.331Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myzske32hi27
@@ -471,7 +471,7 @@ www.theverge.com/tech/1022023...
 Link: https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=239 repost=44 reply=26 quote=89
+Engagement: like=238 repost=44 reply=26 quote=89
 
 --- 36/74 | post | 2026-10-29T16:15:41.356Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3myznyv7fnz2a

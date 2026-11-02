@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-31
-Updated: 2026-11-01T23:08:59.647091Z
+Updated: 2026-11-02T02:37:24.032398Z
 Timezone: America/Los_Angeles
 Count: 69
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -25,7 +25,7 @@ Created: 2026-10-31T22:13:01.357Z
 MOTORSLICE is $15.99 on GOG buff.ly/P6f4MMP #ad
 Link: https://buff.ly/P6f4MMP
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=2 reply=0 quote=2
+Engagement: like=51 repost=2 reply=0 quote=2
 
 --- 3/69 | post | 2026-10-31T22:08:12.650Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz7cn3ku7q2i
@@ -408,7 +408,7 @@ Created: 2026-10-31T16:33:30.812Z
 Star Wars: Galactic Racer Biddy Blas t-shirts $20 each on The Yetee (today only) buff.ly/sba8xFE #ad
 Link: https://buff.ly/sba8xFE
 Image description: [no alt text supplied; image omitted]
-Engagement: like=195 repost=34 reply=2 quote=6
+Engagement: like=196 repost=34 reply=2 quote=6
 
 --- 31/69 | post | 2026-10-31T16:27:06.310Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz6pl5ddfk2o
@@ -459,7 +459,7 @@ Link: https://buff.ly/edqh6Mx
 Link: https://buff.ly/dsbH4G3
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=24 repost=3 reply=1 quote=1
+Engagement: like=24 repost=3 reply=1 quote=2
 
 --- 35/69 | post | 2026-10-31T16:05:48.284Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz6of2jril2a
@@ -493,7 +493,7 @@ All VGP deals buff.ly/B2wm2B6 #ad
 Link: https://buff.ly/SYlG0vB
 Link: https://buff.ly/B2wm2B6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=2 reply=1 quote=0
+Engagement: like=25 repost=2 reply=1 quote=0
 
 --- 38/69 | post | 2026-10-31T15:44:02.343Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz6n652w4s2o
@@ -659,7 +659,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=142 repost=18 reply=6 quote=17
+Engagement: like=143 repost=18 reply=6 quote=17
 
 --- 49/69 | post | 2026-10-31T14:20:12.538Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz6iiabj522o
@@ -709,7 +709,7 @@ eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
 Wallet limit is $800
 Link: https://buff.ly/SGL0snK
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=1 reply=0 quote=2
+Engagement: like=25 repost=1 reply=0 quote=1
 
 --- 53/69 | post | 2026-10-31T14:03:54.502Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz6hl3kbsk2o
@@ -799,7 +799,7 @@ You can buy about 2595 bananas with your $519 Walmart gift card, but the max you
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=931 repost=189 reply=26 quote=17
+Engagement: like=933 repost=189 reply=26 quote=17
 
 --- 61/69 | post | 2026-10-31T02:01:55.339Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz57a367rs2f
