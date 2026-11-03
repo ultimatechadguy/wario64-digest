@@ -1,5 +1,5 @@
 Wario64 digest 2026-10-31
-Updated: 2026-11-02T20:20:31.023488Z
+Updated: 2026-11-03T02:29:25.367383Z
 Timezone: America/Los_Angeles
 Count: 69
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -25,7 +25,7 @@ Created: 2026-10-31T22:13:01.357Z
 MOTORSLICE is $15.99 on GOG buff.ly/P6f4MMP #ad
 Link: https://buff.ly/P6f4MMP
 Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=2 reply=0 quote=2
+Engagement: like=53 repost=2 reply=0 quote=2
 
 --- 3/69 | post | 2026-10-31T22:08:12.650Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz7cn3ku7q2i
@@ -659,7 +659,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=147 repost=20 reply=6 quote=18
+Engagement: like=146 repost=20 reply=6 quote=19
 
 --- 49/69 | post | 2026-10-31T14:20:12.538Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz6iiabj522o
@@ -765,7 +765,7 @@ If it’s with a credit card, those are pre auths. Money doesn’t move until or
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mz57km66p22x
 Reply parent: https://bsky.app/profile/did:plc:o4cee6rejzb3pbt7ntpxsow5/post/3mz5gpw23622g
-Engagement: like=6 repost=0 reply=1 quote=0
+Engagement: like=7 repost=0 reply=1 quote=0
 
 --- 58/69 | post | 2026-10-31T04:10:48.132Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz5ggjqjck2u
@@ -776,7 +776,7 @@ Money doesn’t transact on cancelled orders (but if they did because they used 
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mz57km66p22x
 Reply parent: https://bsky.app/profile/did:plc:5uvoebletoexrnksv5y7od4n/post/3mz5gbylves2j
-Engagement: like=12 repost=0 reply=1 quote=0
+Engagement: like=13 repost=0 reply=1 quote=0
 
 --- 59/69 | post | 2026-10-31T02:24:27.018Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz5aieacpk2x
@@ -799,7 +799,7 @@ You can buy about 2595 bananas with your $519 Walmart gift card, but the max you
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=1199 repost=263 reply=30 quote=23
+Engagement: like=1242 repost=271 reply=31 quote=23
 
 --- 61/69 | post | 2026-10-31T02:01:55.339Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mz57a367rs2f
