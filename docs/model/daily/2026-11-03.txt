@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-03
-Updated: 2026-11-04T09:58:57.776618Z
+Updated: 2026-11-04T17:57:29.761666Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -15,7 +15,7 @@ Created: 2026-11-03T23:46:04.038Z
 Yu-Gi-Oh! EARLY DAYS COLLECTION (Steam) is $11.49 on Fanatical buff.ly/0kaYiki #ad
 Link: https://buff.ly/0kaYiki
 Image description: [no alt text supplied; image omitted]
-Engagement: like=33 repost=5 reply=1 quote=1
+Engagement: like=35 repost=5 reply=1 quote=1
 
 --- 2/66 | post | 2026-11-03T23:41:58.088Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgzbisaze2t
@@ -25,7 +25,7 @@ Created: 2026-11-03T23:41:58.088Z
 FATAL FURY: City of the Wolves (Steam) is $4.99 on Humble buff.ly/17PwcxG #ad
 Link: https://buff.ly/17PwcxG
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=4 reply=1 quote=10
+Engagement: like=42 repost=4 reply=1 quote=11
 
 --- 3/66 | post | 2026-11-03T22:38:01.557Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgvp5ynlf2s
@@ -35,7 +35,7 @@ Created: 2026-11-03T22:38:01.557Z
 Yakuza 3 Remastered is $11.99 on GOG buff.ly/YC3V8eL #ad
 Link: https://buff.ly/YC3V8eL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=14 reply=1 quote=2
+Engagement: like=62 repost=14 reply=1 quote=4
 
 --- 4/66 | post | 2026-11-03T22:21:53.218Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzguscjbik2a
@@ -45,7 +45,7 @@ Created: 2026-11-03T22:21:53.218Z
 Meccha Chameleon (Switch 2 English/JPN import) up for preorder at PNP ($21.99) buff.ly/Vjw2O1Z #ad
 Link: https://buff.ly/Vjw2O1Z
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=2 reply=2 quote=1
+Engagement: like=44 repost=2 reply=2 quote=1
 
 --- 5/66 | post | 2026-11-03T22:14:21.873Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgueu3evf2o
@@ -55,7 +55,7 @@ Created: 2026-11-03T22:14:21.873Z
 Marvel's Wolverine (PS5 preowned) is $38.99 at GameStop buff.ly/emCI337 #ad
 Link: https://buff.ly/emCI337
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=1 reply=6 quote=1
+Engagement: like=31 repost=1 reply=6 quote=2
 
 --- 6/66 | post | 2026-11-03T22:12:01.364Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzguao3dbj2i
@@ -85,7 +85,7 @@ Link: https://buff.ly/W288947
 Link: https://buff.ly/jpwW3JJ
 Link: https://buff.ly/kOJIBts
 Image description: [no alt text supplied; image omitted]
-Engagement: like=49 repost=17 reply=1 quote=3
+Engagement: like=50 repost=17 reply=1 quote=3
 
 --- 8/66 | post | 2026-11-03T21:14:01.382Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgqyxcger2o
@@ -98,7 +98,7 @@ add more games to save more (~$6.50 per game)
 Link: https://buff.ly/YoNTkJ6
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=34 repost=5 reply=0 quote=0
+Engagement: like=36 repost=5 reply=0 quote=0
 
 --- 9/66 | repost | 2026-11-03T20:55:58.485Z ---
 ID: at://did:plc:2mkgbhbhqvappkkorf2bzyrp/app.bsky.feed.post/3mzgpi5tlbk2z#repost:2026-11-03T20:55:58.485Z
@@ -111,7 +111,7 @@ Languages: en
 Card title: Xbox’s Arkane Studios Attracts Multiple Bidders, Including Ubisoft
 Card description: Microsoft’s gaming unit is looking to divest the French company behind ‘Dishonored’ and ‘Marvel’s Blade’
 Card uri: https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczODc4NywiZXhwIjoxNzk0MzQzNTg3LCJhcnRpY2xlSWQiOiJUTlkxTDNWVFRDWk4wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.ix5loaB0Yf6oezkpCA7U-aWqZrr-beJQjpgNiY0OlJ8
-Engagement: like=839 repost=121 reply=53 quote=96
+Engagement: like=879 repost=125 reply=55 quote=97
 
 --- 10/66 | post | 2026-11-03T20:42:12.748Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgpa33s3o2b
@@ -134,7 +134,7 @@ Switch physical $21.99 at PNP buff.ly/Wf47w7g #ad
 Link: https://buff.ly/HoTbn3I
 Link: https://buff.ly/Wf47w7g
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=7 reply=0 quote=1
+Engagement: like=24 repost=8 reply=0 quote=2
 
 --- 12/66 | post | 2026-11-03T20:35:38.477Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgoud3nto27
@@ -164,7 +164,7 @@ Link: https://buff.ly/8fXQtox
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=0 reply=0 quote=0
+Engagement: like=16 repost=0 reply=0 quote=0
 
 --- 14/66 | post | 2026-11-03T20:07:36.331Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgnc6ucbm2v
@@ -175,7 +175,7 @@ Ornaments available for order at Fangamer buff.ly/7qNgbEa
 Link: https://buff.ly/7qNgbEa
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=5 reply=0 quote=1
+Engagement: like=53 repost=5 reply=0 quote=1
 
 --- 15/66 | post | 2026-11-03T19:42:01.936Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgluhling2n
@@ -198,7 +198,7 @@ GMG XP Signup buff.ly/plC26zr
 Link: https://buff.ly/bcA3BR8
 Link: https://buff.ly/plC26zr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=14 reply=1 quote=2
+Engagement: like=51 repost=14 reply=1 quote=1
 
 --- 17/66 | post | 2026-11-03T19:28:48.461Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgl4stdfk2o
@@ -258,7 +258,7 @@ Premium:
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzgh2hajrs2u
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzgh2hajrs2u
-Engagement: like=15 repost=1 reply=2 quote=1
+Engagement: like=16 repost=1 reply=2 quote=1
 
 --- 21/66 | post | 2026-11-03T18:15:54.251Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgh2hajrs2u
@@ -282,7 +282,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=2 reply=3 quote=2
+Engagement: like=32 repost=2 reply=4 quote=2
 
 --- 22/66 | post | 2026-11-03T18:06:55.394Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzggkfei5e2a
@@ -310,7 +310,7 @@ Created: 2026-11-03T18:05:36.407Z
 No More Robots publisher sale on Steam buff.ly/XqtOETf
 Link: https://buff.ly/XqtOETf
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=9 reply=0 quote=3
+Engagement: like=44 repost=10 reply=0 quote=3
 
 --- 24/66 | post | 2026-11-03T18:00:22.198Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgg6oekqs2u
@@ -328,7 +328,7 @@ Humble Choice November Bundle is up ($14.99) buff.ly/zMgkzN2 #ad
 Link: https://buff.ly/zMgkzN2
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=9 reply=15 quote=12
+Engagement: like=61 repost=9 reply=17 quote=12
 
 --- 25/66 | post | 2026-11-03T17:39:00.713Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgeyib7ix2a
@@ -359,7 +359,7 @@ Created: 2026-11-03T17:26:54.728Z
 FATAL FURY: City of the Wolves (Steam) is $4 on GMG XP Offer buff.ly/EjbxB0R #ad
 Link: https://buff.ly/EjbxB0R
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=6 reply=7 quote=30
+Engagement: like=44 repost=6 reply=7 quote=30
 
 --- 28/66 | post | 2026-11-03T17:06:03.057Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgd5k7lrk2u
@@ -372,7 +372,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=288 repost=25 reply=93 quote=232
+Engagement: like=296 repost=27 reply=95 quote=232
 
 --- 29/66 | post | 2026-11-03T17:04:59.087Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgd3n7rbz2v
@@ -384,7 +384,7 @@ Link: https://buff.ly/xQeVHJ5
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=74 repost=8 reply=3 quote=12
+Engagement: like=74 repost=8 reply=3 quote=13
 
 --- 30/66 | post | 2026-11-03T17:02:38.834Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgcxhi2ug2a
@@ -420,7 +420,7 @@ Created: 2026-11-03T16:05:54.580Z
 Pokémon - Trading Card Game: Mega Evolution - Delta Reign Booster Box available by invitation at Best Buy buff.ly/oxONX0g #ad
 Link: https://buff.ly/oxONX0g
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=0 reply=0 quote=0
+Engagement: like=17 repost=0 reply=0 quote=0
 
 --- 33/66 | post | 2026-11-03T16:00:16.656Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzg7hwnli22i
@@ -448,7 +448,7 @@ Thank you for 40 years of shared memories. We can’t wait to make even more tog
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:di67i73hkgm6iadhgozt2de5/post/3mzg5ouwizc2p
 Reply parent: https://bsky.app/profile/did:plc:di67i73hkgm6iadhgozt2de5/post/3mzg5ouwizc2p
-Engagement: like=1744 repost=236 reply=98 quote=43
+Engagement: like=1778 repost=237 reply=98 quote=43
 
 --- 35/66 | post | 2026-11-03T15:55:26.493Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzg77bvtcs2u
@@ -479,7 +479,7 @@ Walmart buff.ly/FRMU6z0 #ad
 Link: https://amzn.to/4qiXeFJ
 Link: https://buff.ly/FRMU6z0
 Image description: [no alt text supplied; image omitted]
-Engagement: like=35 repost=4 reply=2 quote=3
+Engagement: like=36 repost=4 reply=2 quote=3
 
 --- 37/66 | post | 2026-11-03T15:38:36.665Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzg6b6v2d527
@@ -501,7 +501,7 @@ PNP buff.ly/OGvpkdI #ad
 Link: https://buff.ly/hNy4u4p
 Link: https://buff.ly/OGvpkdI
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=1 reply=0 quote=0
+Engagement: like=21 repost=1 reply=0 quote=0
 
 --- 39/66 | repost | 2026-11-03T15:31:45.576Z ---
 ID: at://did:plc:di67i73hkgm6iadhgozt2de5/app.bsky.feed.post/3mzg5pmb4mk2p#repost:2026-11-03T15:31:45.576Z
@@ -512,7 +512,7 @@ Thank you for 40 years of shared memories. We can’t wait to make even more tog
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:di67i73hkgm6iadhgozt2de5/post/3mzg5ouwizc2p
 Reply parent: https://bsky.app/profile/did:plc:di67i73hkgm6iadhgozt2de5/post/3mzg5ouwizc2p
-Engagement: like=431 repost=33 reply=29 quote=26
+Engagement: like=441 repost=34 reply=29 quote=26
 
 --- 40/66 | post | 2026-11-03T15:30:03.168Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzg5rv63q22a
@@ -537,7 +537,7 @@ Hyrule Warriors: Definitive Edition (Switch Digital) is $25.23 at Walmart buff.l
 Runs in 60 FPS on Switch 2
 Link: https://buff.ly/pLr3WpN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=137 repost=29 reply=10 quote=7
+Engagement: like=138 repost=29 reply=10 quote=7
 
 --- 42/66 | post | 2026-11-03T15:03:32.943Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzg4cilr6sx6
@@ -561,7 +561,7 @@ The Elder Scrolls VI Sentinel title confirmed www.youtube.com/watch?v=uvcf...
 Link: https://www.youtube.com/watch?v=uvcfI8RPZYc
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=447 repost=95 reply=54 quote=192
+Engagement: like=453 repost=95 reply=55 quote=196
 
 --- 44/66 | post | 2026-11-03T14:11:03.890Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzfzengrev27
@@ -576,7 +576,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=306 repost=49 reply=23 quote=93
+Engagement: like=308 repost=50 reply=23 quote=93
 
 --- 45/66 | post | 2026-11-03T14:06:32.560Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzfz4knxg2xy
@@ -602,7 +602,7 @@ Link: https://www.gematsu.com/2026/11/bill-teds-excellent-adventure-arcade-annou
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=160 repost=25 reply=4 quote=23
+Engagement: like=163 repost=25 reply=4 quote=25
 
 --- 47/66 | post | 2026-11-03T13:37:27.937Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzfxikubzcxy
@@ -634,7 +634,7 @@ Created: 2026-11-03T13:33:10.847Z
 Free Original Glazed doughnut at Krispy Kreme
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=263 repost=84 reply=2 quote=16
+Engagement: like=265 repost=84 reply=2 quote=16
 
 --- 50/66 | post | 2026-11-03T13:17:40.944Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzfwf6u46s2e
@@ -653,7 +653,7 @@ eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
 Wallet limit is $800
 Link: https://buff.ly/dsNllOJ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=98 repost=20 reply=5 quote=1
+Engagement: like=99 repost=20 reply=5 quote=1
 
 --- 51/66 | post | 2026-11-03T13:08:22.895Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzfvukodwp2m
@@ -677,7 +677,7 @@ GMG XP Signup buff.ly/plC26zr
 Link: https://buff.ly/bcA3BR8
 Link: https://buff.ly/plC26zr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=14 reply=1 quote=2
+Engagement: like=51 repost=14 reply=1 quote=1
 
 --- 53/66 | post | 2026-11-03T12:12:34.390Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzfsqrcetl2t
@@ -689,7 +689,7 @@ Hyrule Warriors: Definitive Edition (Switch Digital) is $25.23 at Walmart buff.l
 Runs in 60 FPS on Switch 2
 Link: https://buff.ly/pLr3WpN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=137 repost=29 reply=10 quote=7
+Engagement: like=138 repost=29 reply=10 quote=7
 
 --- 54/66 | post | 2026-11-03T08:09:53.189Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzff6snvs52t

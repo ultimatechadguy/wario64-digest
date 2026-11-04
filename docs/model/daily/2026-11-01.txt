@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-01
-Updated: 2026-11-04T09:58:57.776618Z
+Updated: 2026-11-04T17:57:29.761666Z
 Timezone: America/Los_Angeles
 Count: 59
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -15,7 +15,7 @@ Created: 2026-11-01T23:32:01.424Z
 The Wonderful 101: Remastered is $17.99 on Steam buff.ly/nRQrJOV
 Link: https://buff.ly/nRQrJOV
 Image description: [no alt text supplied; image omitted]
-Engagement: like=86 repost=37 reply=1 quote=9
+Engagement: like=87 repost=37 reply=2 quote=9
 
 --- 2/59 | post | 2026-11-01T23:25:25.799Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzbxg3km3v2a

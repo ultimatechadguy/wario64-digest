@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-02
-Updated: 2026-11-04T09:58:57.776618Z
+Updated: 2026-11-04T17:57:29.761666Z
 Timezone: America/Los_Angeles
 Count: 92
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -20,7 +20,7 @@ Xbox disc to digital eligible
 Link: https://buff.ly/UYD8ADX
 Link: https://buff.ly/B2wm2B6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=7 reply=1 quote=3
+Engagement: like=53 repost=7 reply=1 quote=3
 
 --- 2/92 | post | 2026-11-02T23:13:02.770Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzeh6ugi3y2m
@@ -486,7 +486,7 @@ Created: 2026-11-02T17:08:42.351Z
 PARANORMASIGHT: The Mermaid's Curse is $16.24 on US eShop buff.ly/oDKuy0t
 Link: https://buff.ly/oDKuy0t
 Image description: [no alt text supplied; image omitted]
-Engagement: like=48 repost=12 reply=0 quote=3
+Engagement: like=49 repost=12 reply=0 quote=3
 
 --- 41/92 | post | 2026-11-02T17:08:05.804Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzdssbt5t62a
@@ -630,7 +630,7 @@ Created: 2026-11-02T16:03:48.042Z
 Until Dawn 2 exclusive gameplay showcase coming to Alamo Drafthouse on Dec 11th. Will also be livestreamed
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=58 repost=2 reply=2 quote=16
+Engagement: like=59 repost=3 reply=2 quote=16
 
 --- 51/92 | post | 2026-11-02T16:01:26.797Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzdp343k7e2a
