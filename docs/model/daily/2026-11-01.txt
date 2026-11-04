@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-01
-Updated: 2026-11-03T22:36:07.153973Z
+Updated: 2026-11-04T02:42:25.469069Z
 Timezone: America/Los_Angeles
 Count: 59
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -370,7 +370,7 @@ Created: 2026-11-01T17:43:02.354Z
 The Legend of Zelda: Twilight Princess - I know the way...maybe t-shirt (by VO-Roberto) is $20 at The Yetee (today only) buff.ly/sba8xFE #ad
 Link: https://buff.ly/sba8xFE
 Image description: [no alt text supplied; image omitted]
-Engagement: like=133 repost=26 reply=0 quote=0
+Engagement: like=134 repost=27 reply=0 quote=0
 
 --- 28/59 | post | 2026-11-01T17:37:27.991Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzbdxuvkqs2h

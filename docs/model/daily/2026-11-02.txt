@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-02
-Updated: 2026-11-03T22:36:07.153973Z
+Updated: 2026-11-04T02:42:25.469069Z
 Timezone: America/Los_Angeles
 Count: 92
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -55,7 +55,7 @@ Created: 2026-11-02T22:46:25.864Z
 Etrian Odyssey Origins Collection (Switch English/Asia import) is $34.99 at Play-Asia buff.ly/RhOQYZi #ad
 Link: https://buff.ly/RhOQYZi
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=3 reply=1 quote=3
+Engagement: like=40 repost=3 reply=1 quote=3
 
 --- 5/92 | post | 2026-11-02T22:34:07.913Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzeezbpkuo2a
@@ -100,7 +100,7 @@ Link: https://buff.ly/3ILMe1b
 Link: https://buff.ly/WAT6aUB
 Link: https://buff.ly/06gfQta
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=14 reply=0 quote=1
+Engagement: like=42 repost=14 reply=0 quote=1
 
 --- 8/92 | post | 2026-11-02T21:35:42.305Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzebqsi4s22z
@@ -151,7 +151,7 @@ FINAL FANTASY VII REBIRTH $7.49 buff.ly/DWYi6xs
 Link: https://buff.ly/TnwzzaX
 Link: https://buff.ly/DWYi6xs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=278 repost=146 reply=22 quote=101
+Engagement: like=278 repost=147 reply=22 quote=101
 
 --- 12/92 | post | 2026-11-02T21:12:03.285Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzeagj7lhv2t
@@ -185,7 +185,7 @@ PowerA Slim Case for Nintendo Switch 2 - Metroid Prime 4: Beyond is $12.03 on Am
 Link: https://link.amazon/B01y7QaU4
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=2 reply=2 quote=2
+Engagement: like=27 repost=2 reply=2 quote=2
 
 --- 15/92 | post | 2026-11-02T20:39:15.568Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mze6lunwk62i
@@ -195,7 +195,7 @@ Created: 2026-11-02T20:39:15.568Z
 Fallout: New Vegas (Steam) will be free via Lenovo on December 2nd buff.ly/aFuoUxy
 Link: https://buff.ly/aFuoUxy
 Image description: [no alt text supplied; image omitted]
-Engagement: like=64 repost=16 reply=0 quote=4
+Engagement: like=65 repost=16 reply=0 quote=4
 
 --- 16/92 | post | 2026-11-02T20:38:01.247Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mze6jnrt5m2a
@@ -509,7 +509,7 @@ FINAL FANTASY VII REBIRTH $7.49 buff.ly/DWYi6xs
 Link: https://buff.ly/TnwzzaX
 Link: https://buff.ly/DWYi6xs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=278 repost=146 reply=22 quote=101
+Engagement: like=278 repost=147 reply=22 quote=101
 
 --- 43/92 | post | 2026-11-02T16:35:46.518Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzdqyieczkxw
@@ -531,7 +531,7 @@ You can buy about 2595 bananas with your $519 Walmart gift card, but the max you
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=1288 repost=281 reply=32 quote=23
+Engagement: like=1289 repost=281 reply=32 quote=23
 
 --- 45/92 | post | 2026-11-02T16:32:07.886Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzdqrxu6ac2o
@@ -620,7 +620,7 @@ Digital Deluxe Edition $22.19 buff.ly/UQSo9Su #ad
 Link: https://buff.ly/R5jeLla
 Link: https://buff.ly/UQSo9Su
 Image description: [no alt text supplied; image omitted]
-Engagement: like=161 repost=55 reply=8 quote=16
+Engagement: like=162 repost=56 reply=8 quote=16
 
 --- 50/92 | post | 2026-11-02T16:03:48.042Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzdp7crd4k2o
@@ -915,7 +915,7 @@ Ask the Developer Vol. 24: The Legend of Zelda: Ocarina of Time www.nintendo.com
 Link: https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-1/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=117 repost=23 reply=1 quote=6
+Engagement: like=118 repost=23 reply=1 quote=6
 
 --- 75/92 | post | 2026-11-02T13:32:14.456Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzdgqcgua22z
@@ -1097,7 +1097,7 @@ Digital Deluxe Edition $22.19 buff.ly/UQSo9Su #ad
 Link: https://buff.ly/R5jeLla
 Link: https://buff.ly/UQSo9Su
 Image description: [no alt text supplied; image omitted]
-Engagement: like=161 repost=55 reply=8 quote=16
+Engagement: like=162 repost=56 reply=8 quote=16
 
 --- 91/92 | post | 2026-11-02T01:14:38.269Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzc5jehxrl2v
