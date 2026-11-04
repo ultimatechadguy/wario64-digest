@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-02
-Updated: 2026-11-04T02:42:25.469069Z
+Updated: 2026-11-04T09:58:57.776618Z
 Timezone: America/Los_Angeles
 Count: 92
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -20,7 +20,7 @@ Xbox disc to digital eligible
 Link: https://buff.ly/UYD8ADX
 Link: https://buff.ly/B2wm2B6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=7 reply=1 quote=3
+Engagement: like=52 repost=7 reply=1 quote=3
 
 --- 2/92 | post | 2026-11-02T23:13:02.770Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzeh6ugi3y2m
@@ -45,7 +45,7 @@ Switch/PS5 physical $39 at VGP buff.ly/QQPph6G #ad
 Link: https://buff.ly/50EWiMf
 Link: https://buff.ly/QQPph6G
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=4 reply=0 quote=1
+Engagement: like=41 repost=4 reply=0 quote=1
 
 --- 4/92 | post | 2026-11-02T22:46:25.864Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzefpbic7w2o
@@ -83,7 +83,7 @@ Created: 2026-11-02T22:13:01.451Z
 Crashout Crew (Steam) is $3.75 on Fanatical buff.ly/67PdZDL #ad
 Link: https://buff.ly/67PdZDL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=5 reply=0 quote=0
+Engagement: like=25 repost=5 reply=0 quote=0
 
 --- 7/92 | post | 2026-11-02T21:43:24.498Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzec6lbw3h2a
@@ -111,7 +111,7 @@ BRAZILIAN DRUG DEALER BEFORE 4: DEMONS FROM THE PORTAL TO HELL I OPENED ARE STIL
 Link: https://buff.ly/ZG7Ne5D
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=303 repost=99 reply=13 quote=18
+Engagement: like=306 repost=99 reply=13 quote=18
 
 --- 9/92 | post | 2026-11-02T21:32:52.004Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzeblq3oia2n
@@ -126,7 +126,7 @@ Link: https://buff.ly/zAVNDRB
 Link: https://link.amazon/B06uOThxu
 Link: https://buff.ly/S2UXJeZ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=72 repost=9 reply=4 quote=2
+Engagement: like=73 repost=9 reply=4 quote=2
 
 --- 10/92 | post | 2026-11-02T21:25:58.174Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzeb7fgn3t2a
@@ -151,7 +151,7 @@ FINAL FANTASY VII REBIRTH $7.49 buff.ly/DWYi6xs
 Link: https://buff.ly/TnwzzaX
 Link: https://buff.ly/DWYi6xs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=278 repost=147 reply=22 quote=101
+Engagement: like=278 repost=147 reply=21 quote=101
 
 --- 12/92 | post | 2026-11-02T21:12:03.285Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzeagj7lhv2t
@@ -220,7 +220,7 @@ Link: https://buff.ly/4TZKeJP
 Link: https://link.amazon/B0e6Q6rlq
 Link: https://buff.ly/VqZXPC6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=11 reply=0 quote=6
+Engagement: like=38 repost=11 reply=0 quote=6
 
 --- 18/92 | post | 2026-11-02T20:12:02.674Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mze537foq52s
@@ -241,7 +241,7 @@ Created: 2026-11-02T20:05:36.240Z
 DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition (Switch/Switch 2) is $19.99 on US eShop buff.ly/baxBba9
 Link: https://buff.ly/baxBba9
 Image description: [no alt text supplied; image omitted]
-Engagement: like=70 repost=14 reply=5 quote=5
+Engagement: like=71 repost=14 reply=5 quote=5
 
 --- 20/92 | post | 2026-11-02T19:39:02.135Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mze3a6mpzx2o
@@ -254,7 +254,7 @@ XSX $14.31 at VGP buff.ly/WqZynLb
 Link: https://buff.ly/mA8WUmY
 Link: https://buff.ly/WqZynLb
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=6 reply=4 quote=1
+Engagement: like=55 repost=6 reply=4 quote=1
 
 --- 21/92 | post | 2026-11-02T19:30:09.847Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mze2qcybrd2o
@@ -486,7 +486,7 @@ Created: 2026-11-02T17:08:42.351Z
 PARANORMASIGHT: The Mermaid's Curse is $16.24 on US eShop buff.ly/oDKuy0t
 Link: https://buff.ly/oDKuy0t
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=11 reply=0 quote=3
+Engagement: like=48 repost=12 reply=0 quote=3
 
 --- 41/92 | post | 2026-11-02T17:08:05.804Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzdssbt5t62a
@@ -509,7 +509,7 @@ FINAL FANTASY VII REBIRTH $7.49 buff.ly/DWYi6xs
 Link: https://buff.ly/TnwzzaX
 Link: https://buff.ly/DWYi6xs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=278 repost=147 reply=22 quote=101
+Engagement: like=278 repost=147 reply=21 quote=101
 
 --- 43/92 | post | 2026-11-02T16:35:46.518Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzdqyieczkxw
