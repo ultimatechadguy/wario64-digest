@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-02
-Updated: 2026-11-05T11:39:03.956390Z
+Updated: 2026-11-05T19:05:16.159262Z
 Timezone: America/Los_Angeles
 Count: 92
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -111,7 +111,7 @@ BRAZILIAN DRUG DEALER BEFORE 4: DEMONS FROM THE PORTAL TO HELL I OPENED ARE STIL
 Link: https://buff.ly/ZG7Ne5D
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=306 repost=99 reply=13 quote=18
+Engagement: like=307 repost=99 reply=13 quote=18
 
 --- 9/92 | post | 2026-11-02T21:32:52.004Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzeblq3oia2n
@@ -704,7 +704,7 @@ Thief: The Dark Project (PS5/Switch 2) Standard/Steelbook/Trapezoid Editions up 
 Switch 2 on cart
 Link: https://buff.ly/Hj3gO5j
 Image description: [no alt text supplied; image omitted]
-Engagement: like=119 repost=21 reply=3 quote=20
+Engagement: like=120 repost=21 reply=3 quote=20
 
 --- 58/92 | post | 2026-11-02T15:11:48.578Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzdmcdsmps2g
@@ -941,7 +941,7 @@ Link: https://amzn.to/4ktLm3N
 Link: https://buff.ly/bWDjmsA
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=6 reply=4 quote=4
+Engagement: like=39 repost=6 reply=4 quote=4
 
 --- 77/92 | post | 2026-11-02T08:13:47.730Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzcuwutu4k2w
