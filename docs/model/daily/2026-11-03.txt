@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-03
-Updated: 2026-11-06T07:02:05.891239Z
+Updated: 2026-11-06T14:57:48.607809Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -35,7 +35,7 @@ Created: 2026-11-03T22:38:01.557Z
 Yakuza 3 Remastered is $11.99 on GOG buff.ly/YC3V8eL #ad
 Link: https://buff.ly/YC3V8eL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=62 repost=14 reply=1 quote=4
+Engagement: like=63 repost=14 reply=1 quote=4
 
 --- 4/66 | post | 2026-11-03T22:21:53.218Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzguscjbik2a
@@ -111,7 +111,7 @@ Languages: en
 Card title: Xbox’s Arkane Studios Attracts Multiple Bidders, Including Ubisoft
 Card description: Microsoft’s gaming unit is looking to divest the French company behind ‘Dishonored’ and ‘Marvel’s Blade’
 Card uri: https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczODc4NywiZXhwIjoxNzk0MzQzNTg3LCJhcnRpY2xlSWQiOiJUTlkxTDNWVFRDWk4wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.ix5loaB0Yf6oezkpCA7U-aWqZrr-beJQjpgNiY0OlJ8
-Engagement: like=902 repost=125 reply=56 quote=100
+Engagement: like=902 repost=125 reply=57 quote=100
 
 --- 10/66 | post | 2026-11-03T20:42:12.748Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgpa33s3o2b
@@ -448,7 +448,7 @@ Thank you for 40 years of shared memories. We can’t wait to make even more tog
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:di67i73hkgm6iadhgozt2de5/post/3mzg5ouwizc2p
 Reply parent: https://bsky.app/profile/did:plc:di67i73hkgm6iadhgozt2de5/post/3mzg5ouwizc2p
-Engagement: like=1804 repost=240 reply=98 quote=43
+Engagement: like=1808 repost=240 reply=98 quote=43
 
 --- 35/66 | post | 2026-11-03T15:55:26.493Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzg77bvtcs2u
@@ -501,7 +501,7 @@ PNP buff.ly/OGvpkdI #ad
 Link: https://buff.ly/hNy4u4p
 Link: https://buff.ly/OGvpkdI
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=1 reply=0 quote=0
+Engagement: like=22 repost=1 reply=0 quote=0
 
 --- 39/66 | repost | 2026-11-03T15:31:45.576Z ---
 ID: at://did:plc:di67i73hkgm6iadhgozt2de5/app.bsky.feed.post/3mzg5pmb4mk2p#repost:2026-11-03T15:31:45.576Z
@@ -576,7 +576,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=308 repost=50 reply=24 quote=93
+Engagement: like=309 repost=50 reply=24 quote=93
 
 --- 45/66 | post | 2026-11-03T14:06:32.560Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzfz4knxg2xy
