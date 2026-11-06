@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-03
-Updated: 2026-11-05T19:05:16.159262Z
+Updated: 2026-11-06T00:11:23.255532Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -111,7 +111,7 @@ Languages: en
 Card title: Xbox’s Arkane Studios Attracts Multiple Bidders, Including Ubisoft
 Card description: Microsoft’s gaming unit is looking to divest the French company behind ‘Dishonored’ and ‘Marvel’s Blade’
 Card uri: https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczODc4NywiZXhwIjoxNzk0MzQzNTg3LCJhcnRpY2xlSWQiOiJUTlkxTDNWVFRDWk4wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.ix5loaB0Yf6oezkpCA7U-aWqZrr-beJQjpgNiY0OlJ8
-Engagement: like=901 repost=125 reply=56 quote=99
+Engagement: like=902 repost=125 reply=56 quote=99
 
 --- 10/66 | post | 2026-11-03T20:42:12.748Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgpa33s3o2b
@@ -175,7 +175,7 @@ Ornaments available for order at Fangamer buff.ly/7qNgbEa
 Link: https://buff.ly/7qNgbEa
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=5 reply=0 quote=1
+Engagement: like=56 repost=5 reply=0 quote=1
 
 --- 15/66 | post | 2026-11-03T19:42:01.936Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgluhling2n
@@ -328,7 +328,7 @@ Humble Choice November Bundle is up ($14.99) buff.ly/zMgkzN2 #ad
 Link: https://buff.ly/zMgkzN2
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=67 repost=9 reply=17 quote=12
+Engagement: like=68 repost=10 reply=18 quote=12
 
 --- 25/66 | post | 2026-11-03T17:39:00.713Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgeyib7ix2a
@@ -372,7 +372,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=299 repost=29 reply=94 quote=234
+Engagement: like=300 repost=29 reply=94 quote=234
 
 --- 29/66 | post | 2026-11-03T17:04:59.087Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgd3n7rbz2v
@@ -448,7 +448,7 @@ Thank you for 40 years of shared memories. We can’t wait to make even more tog
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:di67i73hkgm6iadhgozt2de5/post/3mzg5ouwizc2p
 Reply parent: https://bsky.app/profile/did:plc:di67i73hkgm6iadhgozt2de5/post/3mzg5ouwizc2p
-Engagement: like=1801 repost=239 reply=98 quote=43
+Engagement: like=1803 repost=240 reply=98 quote=43
 
 --- 35/66 | post | 2026-11-03T15:55:26.493Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzg77bvtcs2u
@@ -664,7 +664,7 @@ WB Build Your Own Bundle Blowout digital movie sale on Fanflix (5 films for $5) 
 Link: https://buff.ly/G7SCx6q
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=2 reply=2 quote=0
+Engagement: like=26 repost=2 reply=2 quote=0
 
 --- 52/66 | post | 2026-11-03T12:55:29.448Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzfv5j2uik2a
