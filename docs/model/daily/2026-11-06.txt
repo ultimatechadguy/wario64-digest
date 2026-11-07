@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-06
-Updated: 2026-11-07T18:17:03.305663Z
+Updated: 2026-11-07T22:03:18.990943Z
 Timezone: America/Los_Angeles
 Count: 74
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -15,7 +15,7 @@ Created: 2026-11-06T23:55:52.574Z
 Chrono Trigger Form-ism Crono/Marle figures $64.19 each at VGP (free shipping) buff.ly/ijyFyfy #ad
 Link: https://buff.ly/ijyFyfy
 Image description: [no alt text supplied; image omitted]
-Engagement: like=200 repost=26 reply=5 quote=6
+Engagement: like=203 repost=26 reply=5 quote=6
 
 --- 2/74 | post | 2026-11-06T23:45:53.921Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzokvc3ant2z
@@ -109,7 +109,7 @@ Link: https://buff.ly/7jg4qaM
 Link: https://buff.ly/wOsQaRc
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=30 repost=9 reply=1 quote=0
+Engagement: like=31 repost=9 reply=1 quote=0
 
 --- 8/74 | post | 2026-11-06T21:06:20.595Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzobxyafur2q
@@ -245,7 +245,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=3 reply=0 quote=0
+Engagement: like=23 repost=3 reply=0 quote=0
 
 --- 15/74 | post | 2026-11-06T20:03:30.685Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo6hmxj4c2c
@@ -331,7 +331,7 @@ Created: 2026-11-06T19:14:47.954Z
 Metroid Ravenous amiibo preorder $21.39/$39.23 US Dollars at VGP buff.ly/XDDaerx #ad
 Link: https://buff.ly/XDDaerx
 Image description: [no alt text supplied; image omitted]
-Engagement: like=80 repost=6 reply=2 quote=3
+Engagement: like=81 repost=6 reply=2 quote=3
 
 --- 20/74 | post | 2026-11-06T19:06:07.308Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo3az3zac2u
@@ -368,7 +368,7 @@ eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
 Link: https://buff.ly/mQrEaAm
 Link: https://buff.ly/VHmbVOA
 Image description: [no alt text supplied; image omitted]
-Engagement: like=68 repost=15 reply=3 quote=2
+Engagement: like=69 repost=15 reply=3 quote=2
 
 --- 23/74 | post | 2026-11-06T18:26:08.094Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznyzj2c7r2s
@@ -384,7 +384,7 @@ Link: https://buff.ly/A3ae8wr
 Link: https://buff.ly/HIg1hf9
 Link: https://buff.ly/nsClXgm
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=4 reply=0 quote=1
+Engagement: like=28 repost=4 reply=0 quote=1
 
 --- 24/74 | post | 2026-11-06T18:24:27.344Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznywixlfr2s
@@ -444,7 +444,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=12 repost=1 reply=0 quote=0
+Engagement: like=13 repost=1 reply=0 quote=0
 
 --- 27/74 | post | 2026-11-06T17:57:12.964Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznxfscbdx2s
@@ -465,7 +465,7 @@ The Mound: Omen of Cthulhu (PS5/XSX) is $29.99 on Amazon Lightning Deal amzn.to/
 Link: https://amzn.to/4iJgwSB
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=0 reply=0 quote=0
+Engagement: like=16 repost=0 reply=0 quote=0
 
 --- 29/74 | post | 2026-11-06T17:47:25.069Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznwubn6vv2s
@@ -477,7 +477,7 @@ $8.99 US PSN buff.ly/XsgLtpz
 Link: https://buff.ly/gbhXq9L
 Link: https://buff.ly/XsgLtpz
 Image description: [no alt text supplied; image omitted]
-Engagement: like=56 repost=14 reply=2 quote=2
+Engagement: like=57 repost=14 reply=2 quote=2
 
 --- 30/74 | post | 2026-11-06T17:32:20.493Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznvzcxp422s
@@ -510,7 +510,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=2 reply=1 quote=2
+Engagement: like=18 repost=2 reply=1 quote=2
 
 --- 33/74 | post | 2026-11-06T17:00:29.173Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznuae6urg2u
@@ -608,7 +608,7 @@ Created: 2026-11-06T16:16:52.650Z
 Nintendo Switch Online 12-Month Individual Membership Code is $17.99 at Newegg w/ code EMCF3479 buff.ly/Zzio5j2 #ad
 Link: https://buff.ly/Zzio5j2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=4 reply=0 quote=0
+Engagement: like=52 repost=4 reply=0 quote=0
 
 --- 40/74 | post | 2026-11-06T16:01:14.526Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznqwg7kqc25
@@ -618,7 +618,7 @@ Created: 2026-11-06T16:01:14.526Z
 Star Fox Plush in-stock at VGP ($24.96 US Dollars each or $92.73 in bundle) buff.ly/X3NkHz1 #ad
 Link: https://buff.ly/X3NkHz1
 Image description: [no alt text supplied; image omitted]
-Engagement: like=105 repost=20 reply=1 quote=1
+Engagement: like=106 repost=20 reply=1 quote=1
 
 --- 41/74 | post | 2026-11-06T16:00:14.666Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznqun52ga2c
@@ -709,7 +709,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=2 reply=1 quote=1
+Engagement: like=19 repost=2 reply=1 quote=1
 
 --- 46/74 | post | 2026-11-06T14:35:43.403Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznm5irozs2z
@@ -727,7 +727,7 @@ Link: https://www.rangerrumble.com/
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=167 repost=30 reply=31 quote=54
+Engagement: like=168 repost=30 reply=31 quote=55
 
 --- 47/74 | post | 2026-11-06T14:27:08.429Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznlo5nvr22z
@@ -970,7 +970,7 @@ eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
 Link: https://buff.ly/mQrEaAm
 Link: https://buff.ly/VHmbVOA
 Image description: [no alt text supplied; image omitted]
-Engagement: like=68 repost=15 reply=3 quote=2
+Engagement: like=69 repost=15 reply=3 quote=2
 
 --- 61/74 | post | 2026-11-06T13:14:09.451Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznhlnk5z22z
@@ -1045,7 +1045,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=108 repost=25 reply=3 quote=44
+Engagement: like=111 repost=26 reply=3 quote=47
 
 --- 64/74 | post | 2026-11-06T06:05:53.359Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzmpntu4zg2o
@@ -1120,7 +1120,7 @@ R-Type Tactics I • II Cosmos (Switch) is $35.53 on Amazon amzn.to/4zAyQ7E #ad
 Link: https://amzn.to/4zAyQ7E
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=0 reply=0 quote=0
+Engagement: like=21 repost=0 reply=1 quote=0
 
 --- 71/74 | post | 2026-11-06T03:54:13.376Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzmicftvs42c
@@ -1160,7 +1160,7 @@ Reuters - 'Gaming software provider Unity Software has held recent talks to be a
 Link: https://www.reuters.com/world/silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-2026-11-05/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=575 repost=225 reply=119 quote=586
+Engagement: like=575 repost=225 reply=120 quote=585
 
 --- 74/74 | post | 2026-11-06T00:17:52.131Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzm47jxzoi2v

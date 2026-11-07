@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-05
-Updated: 2026-11-07T18:17:03.305663Z
+Updated: 2026-11-07T22:03:18.990943Z
 Timezone: America/Los_Angeles
 Count: 85
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -467,7 +467,7 @@ Created: 2026-11-05T17:59:53.102Z
 Ultima games are up on Steam buff.ly/mNlahoP
 Link: https://buff.ly/mNlahoP
 Image description: [no alt text supplied; image omitted]
-Engagement: like=168 repost=54 reply=4 quote=22
+Engagement: like=168 repost=54 reply=4 quote=23
 
 --- 35/85 | post | 2026-11-05T17:58:59.736Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlh22ofmh2n
@@ -487,7 +487,7 @@ Created: 2026-11-05T17:57:39.158Z
 Road Rash: 30th Anniversary Edition is up on Steam ($9.99) buff.ly/z5tkU7Y
 Link: https://buff.ly/z5tkU7Y
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=11 reply=1 quote=22
+Engagement: like=62 repost=11 reply=2 quote=22
 
 --- 37/85 | post | 2026-11-05T17:41:45.479Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlg3ad37s2a
@@ -1020,7 +1020,7 @@ Link: https://buff.ly/9o6xhEa
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=235 repost=60 reply=12 quote=12
+Engagement: like=236 repost=60 reply=12 quote=12
 
 --- 78/85 | post | 2026-11-05T06:47:50.162Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzkbjwlnls2c
