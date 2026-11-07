@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-03
-Updated: 2026-11-07T00:32:20.225423Z
+Updated: 2026-11-07T06:33:47.284075Z
 Timezone: America/Los_Angeles
 Count: 66
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -111,7 +111,7 @@ Languages: en
 Card title: Xbox’s Arkane Studios Attracts Multiple Bidders, Including Ubisoft
 Card description: Microsoft’s gaming unit is looking to divest the French company behind ‘Dishonored’ and ‘Marvel’s Blade’
 Card uri: https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzczODc4NywiZXhwIjoxNzk0MzQzNTg3LCJhcnRpY2xlSWQiOiJUTlkxTDNWVFRDWk4wMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.ix5loaB0Yf6oezkpCA7U-aWqZrr-beJQjpgNiY0OlJ8
-Engagement: like=903 repost=125 reply=57 quote=100
+Engagement: like=905 repost=125 reply=57 quote=101
 
 --- 10/66 | post | 2026-11-03T20:42:12.748Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgpa33s3o2b
@@ -359,7 +359,7 @@ Created: 2026-11-03T17:26:54.728Z
 FATAL FURY: City of the Wolves (Steam) is $4 on GMG XP Offer buff.ly/EjbxB0R #ad
 Link: https://buff.ly/EjbxB0R
 Image description: [no alt text supplied; image omitted]
-Engagement: like=45 repost=6 reply=7 quote=30
+Engagement: like=45 repost=6 reply=7 quote=29
 
 --- 28/66 | post | 2026-11-03T17:06:03.057Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzgd5k7lrk2u
@@ -561,7 +561,7 @@ The Elder Scrolls VI Sentinel title confirmed www.youtube.com/watch?v=uvcf...
 Link: https://www.youtube.com/watch?v=uvcfI8RPZYc
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=455 repost=95 reply=54 quote=196
+Engagement: like=454 repost=95 reply=54 quote=196
 
 --- 44/66 | post | 2026-11-03T14:11:03.890Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzfzengrev27
@@ -576,7 +576,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=309 repost=50 reply=24 quote=93
+Engagement: like=308 repost=50 reply=24 quote=93
 
 --- 45/66 | post | 2026-11-03T14:06:32.560Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzfz4knxg2xy
