@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-04
-Updated: 2026-11-07T06:33:47.284075Z
+Updated: 2026-11-07T13:31:35.878492Z
 Timezone: America/Los_Angeles
 Count: 82
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -101,7 +101,7 @@ Created: 2026-11-04T21:48:10.245Z
 All I Wah t-shirt is $28 at The Yetee buff.ly/m6VLMCZ #ad
 Link: https://buff.ly/m6VLMCZ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=123 repost=27 reply=6 quote=7
+Engagement: like=123 repost=28 reply=6 quote=7
 
 --- 9/82 | post | 2026-11-04T21:36:21.620Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzjcpswaes2x
@@ -747,7 +747,7 @@ The Art of Kingdom Come Deliverance II hardcover book is $52.91 on Amazon amzn.t
 Link: https://amzn.to/4yZmRiK
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=1 reply=0 quote=0
+Engagement: like=19 repost=1 reply=0 quote=0
 
 --- 61/82 | post | 2026-11-04T13:10:47.721Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzighsac4224

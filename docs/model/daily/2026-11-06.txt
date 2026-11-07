@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-06
-Updated: 2026-11-07T06:33:47.284075Z
+Updated: 2026-11-07T13:31:35.878492Z
 Timezone: America/Los_Angeles
 Count: 74
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -15,7 +15,7 @@ Created: 2026-11-06T23:55:52.574Z
 Chrono Trigger Form-ism Crono/Marle figures $64.19 each at VGP (free shipping) buff.ly/ijyFyfy #ad
 Link: https://buff.ly/ijyFyfy
 Image description: [no alt text supplied; image omitted]
-Engagement: like=179 repost=22 reply=3 quote=5
+Engagement: like=192 repost=22 reply=3 quote=5
 
 --- 2/74 | post | 2026-11-06T23:45:53.921Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzokvc3ant2z
@@ -27,7 +27,7 @@ $6.49 GOG buff.ly/EZTEaqV
 Link: https://buff.ly/6es5fev
 Link: https://buff.ly/EZTEaqV
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=2 reply=0 quote=1
+Engagement: like=25 repost=2 reply=0 quote=1
 
 --- 3/74 | post | 2026-11-06T23:40:20.000Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzokldmrzk26
@@ -37,7 +37,7 @@ Created: 2026-11-06T23:40:20.000Z
 TRIMUI BRICK Handheld Game Console is ~$50 at AliExpress w/ code USD1107 (free shipping from US) buff.ly/Wky1ClU #ad
 Link: https://buff.ly/Wky1ClU
 Image description: [no alt text supplied; image omitted]
-Engagement: like=56 repost=3 reply=1 quote=5
+Engagement: like=60 repost=5 reply=1 quote=5
 
 --- 4/74 | post | 2026-11-06T22:53:39.478Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzohxutmau26
@@ -62,7 +62,7 @@ $1.19 Steam buff.ly/wbY5wC1
 Link: https://buff.ly/C6QpyKX
 Link: https://buff.ly/wbY5wC1
 Image description: [no alt text supplied; image omitted]
-Engagement: like=63 repost=17 reply=3 quote=6
+Engagement: like=65 repost=18 reply=3 quote=6
 
 --- 6/74 | post | 2026-11-06T22:13:24.665Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzofpvuvpc2c
@@ -90,7 +90,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=6 reply=2 quote=1
+Engagement: like=31 repost=6 reply=3 quote=1
 
 --- 7/74 | post | 2026-11-06T21:38:38.216Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzodrq3ius2c
@@ -109,7 +109,7 @@ Link: https://buff.ly/7jg4qaM
 Link: https://buff.ly/wOsQaRc
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=27 repost=9 reply=1 quote=0
+Engagement: like=28 repost=9 reply=1 quote=0
 
 --- 8/74 | post | 2026-11-06T21:06:20.595Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzobxyafur2q
@@ -124,7 +124,7 @@ Link: https://buff.ly/ABVyutf
 Link: https://buff.ly/HxUZzTJ
 Link: https://buff.ly/Pz0tDqy
 Image description: [no alt text supplied; image omitted]
-Engagement: like=33 repost=7 reply=0 quote=4
+Engagement: like=35 repost=8 reply=0 quote=4
 
 --- 9/74 | post | 2026-11-06T20:47:53.120Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzoawy2lc22c
@@ -152,7 +152,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=74 repost=16 reply=4 quote=3
+Engagement: like=77 repost=16 reply=4 quote=3
 
 --- 10/74 | post | 2026-11-06T20:46:07.918Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzoattqat72s
@@ -182,7 +182,7 @@ Link: https://buff.ly/7LEiAGG
 Link: https://buff.ly/Goqe6aA
 Link: https://buff.ly/UEP3Zmt
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=5 reply=1 quote=3
+Engagement: like=31 repost=5 reply=1 quote=3
 
 --- 12/74 | post | 2026-11-06T20:23:47.866Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo7lvr4lm2a
@@ -219,7 +219,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=7 reply=5 quote=1
+Engagement: like=42 repost=8 reply=5 quote=1
 
 --- 14/74 | post | 2026-11-06T20:05:47.200Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo6lp5lks2c
@@ -245,7 +245,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=2 reply=0 quote=0
+Engagement: like=21 repost=3 reply=0 quote=0
 
 --- 15/74 | post | 2026-11-06T20:03:30.685Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo6hmxj4c2c
@@ -283,7 +283,7 @@ Created: 2026-11-06T19:42:04.730Z
 SUPER BOMBERMAN COLLECTION (Steam) is $12.19 on Fanatical buff.ly/uFGAYkH #ad
 Link: https://buff.ly/uFGAYkH
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=5 reply=0 quote=1
+Engagement: like=41 repost=5 reply=0 quote=1
 
 --- 17/74 | post | 2026-11-06T19:39:59.492Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo55l5rqv2q
@@ -293,7 +293,7 @@ Created: 2026-11-06T19:39:59.492Z
 Xenoblade Chronicles t-shirts $20 each at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=58 repost=8 reply=0 quote=2
+Engagement: like=60 repost=8 reply=0 quote=2
 
 --- 18/74 | post | 2026-11-06T19:28:36.017Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo4j7dcvc2c
@@ -331,7 +331,7 @@ Created: 2026-11-06T19:14:47.954Z
 Metroid Ravenous amiibo preorder $21.39/$39.23 US Dollars at VGP buff.ly/XDDaerx #ad
 Link: https://buff.ly/XDDaerx
 Image description: [no alt text supplied; image omitted]
-Engagement: like=75 repost=6 reply=2 quote=3
+Engagement: like=77 repost=6 reply=2 quote=3
 
 --- 20/74 | post | 2026-11-06T19:06:07.308Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo3az3zac2u
@@ -384,7 +384,7 @@ Link: https://buff.ly/A3ae8wr
 Link: https://buff.ly/HIg1hf9
 Link: https://buff.ly/nsClXgm
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=4 reply=0 quote=1
+Engagement: like=27 repost=4 reply=0 quote=1
 
 --- 24/74 | post | 2026-11-06T18:24:27.344Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznywixlfr2s
@@ -422,7 +422,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=125 repost=24 reply=5 quote=10
+Engagement: like=126 repost=24 reply=5 quote=10
 
 --- 26/74 | post | 2026-11-06T18:07:36.530Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznxyexqps2c
@@ -510,7 +510,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=2 reply=1 quote=2
+Engagement: like=17 repost=2 reply=1 quote=2
 
 --- 33/74 | post | 2026-11-06T17:00:29.173Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznuae6urg2u
@@ -583,7 +583,7 @@ Created: 2026-11-06T16:26:34.568Z
 Metroid Dread and Metroid Prime Remastered (Switch ESRB) restocked at VGP ($67.76 / $39.23 US Dollars) buff.ly/fUKt4aq #ad
 Link: https://buff.ly/fUKt4aq
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=17 reply=2 quote=4
+Engagement: like=56 repost=17 reply=2 quote=4
 
 --- 38/74 | post | 2026-11-06T16:23:14.112Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzns5qo5p72p
@@ -598,7 +598,7 @@ iBUYPOWER - Slate Gaming Desktop PC is $899.99 at Best Buy buff.ly/dzcNuMZ #ad
 -1TB NVMe SSD
 Link: https://buff.ly/dzcNuMZ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=46 repost=3 reply=3 quote=5
+Engagement: like=47 repost=3 reply=3 quote=5
 
 --- 39/74 | post | 2026-11-06T16:16:52.650Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznrseuvmq2q
@@ -608,7 +608,7 @@ Created: 2026-11-06T16:16:52.650Z
 Nintendo Switch Online 12-Month Individual Membership Code is $17.99 at Newegg w/ code EMCF3479 buff.ly/Zzio5j2 #ad
 Link: https://buff.ly/Zzio5j2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=3 reply=0 quote=0
+Engagement: like=51 repost=4 reply=0 quote=0
 
 --- 40/74 | post | 2026-11-06T16:01:14.526Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznqwg7kqc25
@@ -727,7 +727,7 @@ Link: https://www.rangerrumble.com/
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=166 repost=28 reply=31 quote=54
+Engagement: like=167 repost=29 reply=31 quote=54
 
 --- 47/74 | post | 2026-11-06T14:27:08.429Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznlo5nvr22z
@@ -831,7 +831,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=4 reply=2 quote=3
+Engagement: like=39 repost=4 reply=2 quote=3
 
 --- 52/74 | post | 2026-11-06T14:04:22.174Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznkfgpboe26
@@ -1045,7 +1045,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=100 repost=22 reply=1 quote=42
+Engagement: like=103 repost=23 reply=1 quote=42
 
 --- 64/74 | post | 2026-11-06T06:05:53.359Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzmpntu4zg2o
@@ -1078,7 +1078,7 @@ Created: 2026-11-06T06:03:11.122Z
 Save up to 50% on select Ultra PRO trading card accessories on Best Buy DOTD buff.ly/1YJcwLe #ad
 Link: https://buff.ly/1YJcwLe
 Image description: [no alt text supplied; image omitted]
-Engagement: like=9 repost=0 reply=1 quote=0
+Engagement: like=9 repost=1 reply=1 quote=0
 
 --- 67/74 | post | 2026-11-06T06:02:07.171Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzmph452lk2a
@@ -1160,7 +1160,7 @@ Reuters - 'Gaming software provider Unity Software has held recent talks to be a
 Link: https://www.reuters.com/world/silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-2026-11-05/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=560 repost=222 reply=116 quote=585
+Engagement: like=570 repost=223 reply=119 quote=587
 
 --- 74/74 | post | 2026-11-06T00:17:52.131Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzm47jxzoi2v
