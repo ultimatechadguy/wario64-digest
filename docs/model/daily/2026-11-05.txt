@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-05
-Updated: 2026-11-07T13:31:35.878492Z
+Updated: 2026-11-07T18:17:03.305663Z
 Timezone: America/Los_Angeles
 Count: 85
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -176,7 +176,7 @@ Created: 2026-11-05T20:28:26.783Z
 Zelda t-shirts $18 each at Draculabyte w/ code WARIO64 buff.ly/FYcGp3h #ad
 Link: https://buff.ly/FYcGp3h
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=5 reply=0 quote=3
+Engagement: like=43 repost=5 reply=0 quote=3
 
 --- 15/85 | post | 2026-11-05T20:19:39.612Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlovlkzhc2a
@@ -207,7 +207,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=5 reply=1 quote=0
+Engagement: like=14 repost=4 reply=1 quote=0
 
 --- 17/85 | post | 2026-11-05T20:05:18.792Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlo3wlves2s
@@ -487,7 +487,7 @@ Created: 2026-11-05T17:57:39.158Z
 Road Rash: 30th Anniversary Edition is up on Steam ($9.99) buff.ly/z5tkU7Y
 Link: https://buff.ly/z5tkU7Y
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=11 reply=1 quote=21
+Engagement: like=61 repost=11 reply=1 quote=22
 
 --- 37/85 | post | 2026-11-05T17:41:45.479Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlg3ad37s2a
@@ -1002,7 +1002,7 @@ Walmart may have caught on early again, looks like price went up to $69 MSRP bef
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzkf4hr4ke2x
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzkf4hr4ke2x
-Engagement: like=47 repost=1 reply=6 quote=1
+Engagement: like=48 repost=1 reply=6 quote=1
 
 --- 77/85 | post | 2026-11-05T07:51:53.355Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzkf4hr4ke2x
@@ -1070,7 +1070,7 @@ The Legend of Zelda: Ocarina of Time - ocarina sheet music www.nintendo.com/jp/g
 Link: https://www.nintendo.com/jp/games/switch2/aa9ja/melody/index.html
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=388 repost=68 reply=4 quote=6
+Engagement: like=390 repost=69 reply=4 quote=6
 
 --- 82/85 | post | 2026-11-05T01:11:31.826Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzjoqkzoek24
