@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-04
-Updated: 2026-11-08T01:22:54.462006Z
+Updated: 2026-11-08T07:55:39.755852Z
 Timezone: America/Los_Angeles
 Count: 82
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -527,7 +527,7 @@ Created: 2026-11-04T17:01:08.044Z
 God of War Laufey delayed to May 20th, 2027
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=437 repost=60 reply=28 quote=94
+Engagement: like=438 repost=61 reply=28 quote=94
 
 --- 42/82 | post | 2026-11-04T16:37:49.233Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzirzydmov2s

@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-05
-Updated: 2026-11-08T01:22:54.462006Z
+Updated: 2026-11-08T07:55:39.755852Z
 Timezone: America/Los_Angeles
 Count: 85
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -25,7 +25,7 @@ Created: 2026-11-05T22:58:56.682Z
 Anbernic RGSP is ~$41 at AliExpress w/ code USD1107 (ships free from US) buff.ly/RPiNFvu #ad
 Link: https://buff.ly/RPiNFvu
 Image description: [no alt text supplied; image omitted]
-Engagement: like=73 repost=13 reply=4 quote=4
+Engagement: like=73 repost=13 reply=4 quote=5
 
 --- 3/85 | post | 2026-11-05T22:42:13.972Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlwujncwj27
@@ -220,7 +220,7 @@ Link: https://amzn.to/4fdBh7E
 Link: https://buff.ly/2m9vb59
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=46 repost=1 reply=4 quote=5
+Engagement: like=48 repost=2 reply=4 quote=5
 
 --- 18/85 | post | 2026-11-05T19:53:41.222Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlnh5dqoc2s
@@ -231,7 +231,7 @@ Aero GPX is $15.99 on Steam early access buff.ly/y0IFcrH
 Link: https://buff.ly/y0IFcrH
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=79 repost=24 reply=0 quote=2
+Engagement: like=79 repost=25 reply=0 quote=2
 
 --- 19/85 | post | 2026-11-05T19:42:17.659Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlmsrh4n22s
@@ -307,7 +307,7 @@ Link: https://store.steampowered.com/news/app/524220/view/760703279879422371?l=e
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=250 repost=50 reply=8 quote=23
+Engagement: like=251 repost=50 reply=8 quote=23
 
 --- 25/85 | post | 2026-11-05T18:21:55.418Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlid2lxwk2s
@@ -351,7 +351,7 @@ Today:
 Link: https://www.amazongamestudios.com/en-us/news/articles/luna-november-2026
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=2 reply=5 quote=2
+Engagement: like=31 repost=2 reply=5 quote=2
 
 --- 27/85 | post | 2026-11-05T18:17:53.759Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzli3u5pej2x
@@ -419,7 +419,7 @@ Link: https://buff.ly/IA3RgqW
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=33 repost=6 reply=9 quote=7
+Engagement: like=34 repost=6 reply=9 quote=8
 
 --- 31/85 | post | 2026-11-05T18:05:55.310Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlhggynxi27
@@ -432,7 +432,7 @@ Free titles added to Prime Gaming/Amazon Luna buff.ly/x9s2Ps0
 -WRC Generations (EGS)
 Link: https://buff.ly/x9s2Ps0
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=0 reply=0 quote=0
+Engagement: like=31 repost=0 reply=0 quote=0
 
 --- 32/85 | post | 2026-11-05T18:04:58.981Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlherboqn2s
@@ -467,7 +467,7 @@ Created: 2026-11-05T17:59:53.102Z
 Ultima games are up on Steam buff.ly/mNlahoP
 Link: https://buff.ly/mNlahoP
 Image description: [no alt text supplied; image omitted]
-Engagement: like=168 repost=54 reply=4 quote=24
+Engagement: like=169 repost=54 reply=4 quote=24
 
 --- 35/85 | post | 2026-11-05T17:58:59.736Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlh22ofmh2n
@@ -477,7 +477,7 @@ Created: 2026-11-05T17:58:59.736Z
 Wing Commander games are up on Steam buff.ly/MphQ0m3
 Link: https://buff.ly/MphQ0m3
 Image description: [no alt text supplied; image omitted]
-Engagement: like=81 repost=22 reply=4 quote=5
+Engagement: like=82 repost=22 reply=4 quote=5
 
 --- 36/85 | post | 2026-11-05T17:57:39.158Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlgxnty6q2b
@@ -487,7 +487,7 @@ Created: 2026-11-05T17:57:39.158Z
 Road Rash: 30th Anniversary Edition is up on Steam ($9.99) buff.ly/z5tkU7Y
 Link: https://buff.ly/z5tkU7Y
 Image description: [no alt text supplied; image omitted]
-Engagement: like=62 repost=11 reply=2 quote=22
+Engagement: like=64 repost=11 reply=2 quote=22
 
 --- 37/85 | post | 2026-11-05T17:41:45.479Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlg3ad37s2a
@@ -498,7 +498,7 @@ The Legend of Zelda™: Ocarina of Time Playable Ocarina up at Nintendo Store ($
 Link: https://buff.ly/4E7KA0o
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=143 repost=10 reply=24 quote=14
+Engagement: like=144 repost=10 reply=24 quote=14
 
 --- 38/85 | post | 2026-11-05T17:33:24.540Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlfmclwqi2n
@@ -665,7 +665,7 @@ Created: 2026-11-05T16:02:29.343Z
 Flotsam is free on Epic Games Store. Knightica is the next free title buff.ly/MdEraPT
 Link: https://buff.ly/MdEraPT
 Image description: [no alt text supplied; image omitted]
-Engagement: like=35 repost=1 reply=1 quote=3
+Engagement: like=36 repost=1 reply=1 quote=3
 
 --- 52/85 | post | 2026-11-05T16:00:21.675Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlafweeel2o
@@ -875,7 +875,7 @@ The company, which unveiled a price increase earlier in the year, is not conside
 Link: https://www.reuters.com/business/retail-consumer/sony-posts-45-q2-profit-rise-beating-estimates-2026-11-05/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=378 repost=59 reply=9 quote=20
+Engagement: like=379 repost=59 reply=9 quote=20
 
 --- 68/85 | post | 2026-11-05T14:00:24.501Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzkzpgm3y22a
@@ -991,7 +991,7 @@ eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
 Wallet limit is $800
 Link: https://buff.ly/ReUk3Yv
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=2 reply=0 quote=0
+Engagement: like=24 repost=2 reply=0 quote=0
 
 --- 76/85 | post | 2026-11-05T08:00:46.021Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzkfmdqagcfa
@@ -1070,7 +1070,7 @@ The Legend of Zelda: Ocarina of Time - ocarina sheet music www.nintendo.com/jp/g
 Link: https://www.nintendo.com/jp/games/switch2/aa9ja/melody/index.html
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=391 repost=69 reply=4 quote=6
+Engagement: like=393 repost=69 reply=4 quote=6
 
 --- 82/85 | post | 2026-11-05T01:11:31.826Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzjoqkzoek24
