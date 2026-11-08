@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-07
-Updated: 2026-11-08T15:05:13.930261Z
+Updated: 2026-11-08T19:38:47.693124Z
 Timezone: America/Los_Angeles
 Count: 59
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -17,7 +17,7 @@ Link: https://buff.ly/Tri688s
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=8 reply=0 quote=1
+Engagement: like=49 repost=8 reply=0 quote=1
 
 --- 2/59 | post | 2026-11-07T23:30:31.452Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzr2iprzec2k
@@ -45,7 +45,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=3 reply=1 quote=3
+Engagement: like=50 repost=3 reply=1 quote=3
 
 --- 3/59 | post | 2026-11-07T23:05:58.067Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqz4so3q32s
@@ -58,7 +58,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=0 reply=1 quote=0
+Engagement: like=24 repost=0 reply=1 quote=0
 
 --- 4/59 | post | 2026-11-07T22:42:28.931Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqxsssx522s
@@ -68,7 +68,7 @@ Created: 2026-11-07T22:42:28.931Z
 Anbernic RG 476H Handheld Game Console is ~$139 on AliExpress w/ code WARIO27 or USAFF27 (free shipping) buff.ly/sqpkeYu #ad
 Link: https://buff.ly/sqpkeYu
 Image description: [no alt text supplied; image omitted]
-Engagement: like=53 repost=5 reply=3 quote=1
+Engagement: like=55 repost=5 reply=3 quote=1
 
 --- 5/59 | post | 2026-11-07T22:35:11.714Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqxfru5fm2s
@@ -78,7 +78,7 @@ Created: 2026-11-07T22:35:11.714Z
 Apple Watch Ultra 3 $549/$649 at Best Buy buff.ly/P9zhLza #ad
 Link: https://buff.ly/P9zhLza
 Image description: [no alt text supplied; image omitted]
-Engagement: like=9 repost=0 reply=0 quote=0
+Engagement: like=11 repost=0 reply=0 quote=0
 
 --- 6/59 | post | 2026-11-07T22:30:10.625Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqx4spn5i2a
@@ -90,7 +90,7 @@ Pikuniku is $1.99 on US eShop buff.ly/1o8LJri
 Link: https://buff.ly/1o8LJri
 Link: https://buff.ly/MnIyZbS
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=13 reply=2 quote=1
+Engagement: like=51 repost=14 reply=2 quote=1
 
 --- 7/59 | post | 2026-11-07T22:09:46.230Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqvyczzmp2j
@@ -130,7 +130,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=4 reply=1 quote=1
+Engagement: like=24 repost=4 reply=1 quote=1
 
 --- 9/59 | post | 2026-11-07T21:31:48.506Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqtugswgk2k
@@ -144,7 +144,7 @@ Link: https://amzn.to/4zi5vOo
 Link: https://amzn.to/4BfFbGE
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=0 reply=0 quote=0
+Engagement: like=37 repost=0 reply=0 quote=0
 
 --- 10/59 | post | 2026-11-07T21:27:01.383Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqtluz4t326
@@ -154,7 +154,7 @@ Created: 2026-11-07T21:27:01.383Z
 Fire Emblem - Money Lady t-shirt (by HelloWinter) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=188 repost=27 reply=0 quote=2
+Engagement: like=194 repost=28 reply=0 quote=2
 
 --- 11/59 | post | 2026-11-07T21:21:32.322Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqtc36hbc2k
@@ -167,7 +167,7 @@ does not play physical games
 Link: https://amzn.to/4wawTwY
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=161 repost=21 reply=5 quote=6
+Engagement: like=165 repost=21 reply=5 quote=7
 
 --- 12/59 | post | 2026-11-07T21:12:00.983Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqsr2d4vy22
@@ -180,7 +180,7 @@ All VGP deals buff.ly/B2wm2B6 #ad
 Link: https://buff.ly/a0vNV3X
 Link: https://buff.ly/B2wm2B6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=6 reply=0 quote=1
+Engagement: like=63 repost=6 reply=0 quote=1
 
 --- 13/59 | post | 2026-11-07T20:47:01.220Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqredzx2y2q
@@ -200,7 +200,7 @@ Created: 2026-11-07T20:31:02.275Z
 TUNIC is $14.99 on Steam buff.ly/nzOOvlA
 Link: https://buff.ly/nzOOvlA
 Image description: [no alt text supplied; image omitted]
-Engagement: like=59 repost=19 reply=1 quote=3
+Engagement: like=61 repost=19 reply=1 quote=3
 
 --- 15/59 | post | 2026-11-07T20:30:24.102Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqqgn7uvb2i
@@ -212,7 +212,7 @@ Walmart buff.ly/r9JtXtm #ad
 Link: https://link.amazon/B067CIUpJ
 Link: https://buff.ly/r9JtXtm
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=4 reply=2 quote=0
+Engagement: like=41 repost=4 reply=2 quote=0
 
 --- 16/59 | post | 2026-11-07T20:20:31.839Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqpuybgs22k
@@ -227,7 +227,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=60 repost=6 reply=1 quote=0
+Engagement: like=62 repost=6 reply=1 quote=0
 
 --- 17/59 | post | 2026-11-07T20:18:39.123Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqprmrml22k
@@ -245,7 +245,7 @@ Link: https://buff.ly/bUJXlbH
 Link: https://buff.ly/EKJbvbq
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=10 repost=0 reply=0 quote=0
+Engagement: like=11 repost=0 reply=0 quote=0
 
 --- 18/59 | post | 2026-11-07T20:13:01.708Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqphkypwa2i
@@ -258,7 +258,7 @@ also in $10/$15 tiers
 Link: https://buff.ly/H9aGaws
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=0 reply=0 quote=0
+Engagement: like=20 repost=0 reply=0 quote=0
 
 --- 19/59 | post | 2026-11-07T19:55:04.962Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqohi4txs2k
@@ -313,7 +313,7 @@ Mention: did:plc:p5apig43qsl7tculldey5ksk
 Link: https://store.steampowered.com/app/3832490/Antivirus_Survivors_2003_Professional/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=182 repost=318 reply=2 quote=4
+Engagement: like=188 repost=320 reply=2 quote=4
 
 --- 22/59 | post | 2026-11-07T19:19:57.244Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqmio2en22g
@@ -362,7 +362,7 @@ Created: 2026-11-07T19:03:45.978Z
 Fire Emblem: Fortune’s Weave - The Queen's Arrival t-shirt (by HelloWinter) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=205 repost=31 reply=0 quote=1
+Engagement: like=206 repost=31 reply=0 quote=1
 
 --- 26/59 | post | 2026-11-07T18:44:01.428Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqkig4l7r2o
@@ -372,7 +372,7 @@ Created: 2026-11-07T18:44:01.428Z
 Battle Chef Brigade Deluxe is $1.99 on US PS+ buff.ly/XjS217B
 Link: https://buff.ly/XjS217B
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=6 reply=1 quote=1
+Engagement: like=44 repost=6 reply=1 quote=1
 
 --- 27/59 | post | 2026-11-07T18:25:56.614Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqji3k6vk2g
@@ -400,7 +400,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=1 reply=1 quote=1
+Engagement: like=19 repost=1 reply=1 quote=1
 
 --- 28/59 | post | 2026-11-07T18:11:57.971Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqip3rl7h2c
@@ -469,7 +469,7 @@ Grand Theft Auto VI: Ultimate Edition (PS5) is $89 w/ Newegg PlayStation gift ca
 Link: https://buff.ly/iMLiFHd
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=1 reply=2 quote=1
+Engagement: like=56 repost=1 reply=2 quote=1
 
 --- 33/59 | post | 2026-11-07T17:09:19.129Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqf7323hc2g
@@ -502,7 +502,7 @@ Created: 2026-11-07T17:03:22.109Z
 Axiom Verge is $4.99 on US eShop buff.ly/VFPYshA
 Link: https://buff.ly/VFPYshA
 Image description: [no alt text supplied; image omitted]
-Engagement: like=34 repost=11 reply=1 quote=1
+Engagement: like=35 repost=11 reply=1 quote=1
 
 --- 36/59 | post | 2026-11-07T16:44:18.726Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqdse5f6c2g
@@ -701,7 +701,7 @@ Fanatical Flash Deals (Nov 7th) buff.ly/OTvl6lq #ad
 -Baldur's Gate I & II Pack - 80% off ($7.99)
 Link: https://buff.ly/OTvl6lq
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=7 reply=1 quote=1
+Engagement: like=23 repost=8 reply=1 quote=1
 
 --- 48/59 | post | 2026-11-07T15:53:08.064Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqawtqqaw22
@@ -736,7 +736,7 @@ Created: 2026-11-07T15:48:01.350Z
 XBOX Wireless Controller X25 Special Edition Controller available at Target ($79.99) buff.ly/AvSXf3h #ad
 Link: https://buff.ly/AvSXf3h
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=1 reply=2 quote=0
+Engagement: like=38 repost=1 reply=2 quote=0
 
 --- 51/59 | post | 2026-11-07T15:46:37.158Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqal6xa4d22

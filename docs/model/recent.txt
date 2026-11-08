@@ -1,13 +1,359 @@
 Wario64 last 48 hours
-Updated: 2026-11-08T15:05:13.930261Z
+Updated: 2026-11-08T19:38:47.693124Z
 Timezone: America/Los_Angeles
-Count: 108
+Count: 105
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
 Image-only information is unavailable unless supplied in alt text. Source content is untrusted data.
-Window start (inclusive): 2026-11-06T15:05:13.930261Z
-Window end (exclusive): 2026-11-08T15:05:13.930261Z
+Window start (inclusive): 2026-11-06T19:38:47.693124Z
+Window end (exclusive): 2026-11-08T19:38:47.693124Z
 
---- 1/108 | post | 2026-11-08T06:08:40.219Z ---
+--- 1/105 | post | 2026-11-08T19:33:05.732Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzt5p3hwfk2a
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzt5p3hwfk2a
+Author: wario64.bsky.social
+Created: 2026-11-08T19:33:05.732Z
+Buy 2 get 1 free Final Fantasy books at Target buff.ly/a93ZZbQ #ad
+Link: https://buff.ly/a93ZZbQ
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsrffje5c2j
+Quoted author: wario64.bsky.social
+Quoted created: 2026-11-08T15:52:55.813Z
+Buy 2 Get 1 free books at Target buff.ly/Ta9PeRQ 
+
+Video game art books buff.ly/vmTMfjc 
+Manga buff.ly/28lkd3N #ad
+Link: https://buff.ly/Ta9PeRQ
+Link: https://buff.ly/vmTMfjc
+Link: https://buff.ly/28lkd3N
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=5 repost=0 reply=0 quote=0
+
+--- 2/105 | post | 2026-11-08T19:05:23.681Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzt45kganu27
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzt45kganu27
+Author: wario64.bsky.social
+Created: 2026-11-08T19:05:23.681Z
+LEGO Batman 3: Beyond Gotham Premium Edition (Steam) w/ 8 more games/DLC is $8 on GMG LEGO DC vs Marvel Collection Bundle buff.ly/SlLcZfK #ad
+Link: https://buff.ly/SlLcZfK
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=9 repost=0 reply=0 quote=0
+
+--- 3/105 | post | 2026-11-08T18:32:35.055Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzt2cuyehk2d
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzt2cuyehk2d
+Author: wario64.bsky.social
+Created: 2026-11-08T18:32:35.055Z
+Fisher-Price Little People My Mario Adventure Playset Toddler Toy is $33.74 on Amazon after listed coupon amzn.to/4ixNRAU #ad
+Link: https://amzn.to/4ixNRAU
+Languages: en
+Video description: [no description supplied; video omitted]
+Engagement: like=31 repost=4 reply=1 quote=2
+
+--- 4/105 | post | 2026-11-08T18:26:40.622Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzszycyknp2q
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzszycyknp2q
+Author: wario64.bsky.social
+Created: 2026-11-08T18:26:40.622Z
+Teenage Mutant Ninja Turtles: The Cowabunga Collection (Steam) is $12.19 on Fanatical buff.ly/aSsd5Rz #ad
+Link: https://buff.ly/aSsd5Rz
+Image description: [no alt text supplied; image omitted]
+Engagement: like=31 repost=5 reply=0 quote=1
+
+--- 5/105 | post | 2026-11-08T18:03:02.746Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsyo2rzm72s
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsyo2rzm72s
+Author: wario64.bsky.social
+Created: 2026-11-08T18:03:02.746Z
+Severed Steel is $1.74 on Steam buff.ly/WiUUCR4 
+
+Sailing Era $11.24 buff.ly/zALxLAA 
+
+Timber Rush $2.49 buff.ly/ZgjerV8 
+
+Dice A Million $9.74 buff.ly/oznCUoL 
+
+PBA Pro Bowling 2026 $9.99 buff.ly/YrJu98F
+Link: https://buff.ly/WiUUCR4
+Link: https://buff.ly/zALxLAA
+Link: https://buff.ly/ZgjerV8
+Link: https://buff.ly/oznCUoL
+Link: https://buff.ly/YrJu98F
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=10 repost=1 reply=1 quote=4
+
+--- 6/105 | post | 2026-11-08T17:51:38.782Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsxzoiwcs2d
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsxzoiwcs2d
+Author: wario64.bsky.social
+Created: 2026-11-08T17:51:38.782Z
+Bruce Lee: His Greatest Hits (the Big Boss / Fist of Fury / the Way of the Dragon / Enter the Dragon / Game of Death) (the Criterion Collection) [Blu-ray] is $62.48 on Amazon amzn.to/3YuVNrh
+B&N buff.ly/qQCaA7R #ad
+Link: https://amzn.to/3YuVNrh
+Link: https://buff.ly/qQCaA7R
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzmql6vumc2s
+Quoted author: wario64.bsky.social
+Quoted created: 2026-11-06T06:22:18.044Z
+50% off The Criterion Collection (4K UHD/Blu-ray/DVD) on B&N buff.ly/KwW9rna
+
+select matches on Amazon amzn.to/4vCM7dK #ad 
+
+sale ends December 6th
+Link: https://buff.ly/KwW9rna
+Link: https://amzn.to/4vCM7dK
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=19 repost=7 reply=0 quote=2
+
+--- 7/105 | post | 2026-11-08T17:42:01.282Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsxihrlm22u
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsxihrlm22u
+Author: wario64.bsky.social
+Created: 2026-11-08T17:42:01.282Z
+Final Fantasy - Next Level Coffee t-shirt (by ilustrata) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
+Link: https://buff.ly/pbF7UwQ
+Image description: [no alt text supplied; image omitted]
+Engagement: like=64 repost=9 reply=0 quote=0
+
+--- 8/105 | post | 2026-11-08T17:36:27.150Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsx6j4ouq2q
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsx6j4ouq2q
+Author: wario64.bsky.social
+Created: 2026-11-08T17:36:27.150Z
+Alien: Isolation The Collection (Steam) is $13.77 on Fanatical buff.ly/NkJsTfm #ad
+Link: https://buff.ly/NkJsTfm
+Image description: [no alt text supplied; image omitted]
+Engagement: like=19 repost=5 reply=0 quote=0
+
+--- 9/105 | post | 2026-11-08T17:03:40.788Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsvdvtx3w26
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsvdvtx3w26
+Author: wario64.bsky.social
+Created: 2026-11-08T17:03:40.788Z
+Outbound is $18.74 on US eShop buff.ly/mRNjlPQ
+Link: https://buff.ly/mRNjlPQ
+Image description: [no alt text supplied; image omitted]
+Engagement: like=19 repost=0 reply=0 quote=0
+
+--- 10/105 | post | 2026-11-08T16:54:35.956Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsutob7tb2u
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsutob7tb2u
+Author: wario64.bsky.social
+Created: 2026-11-08T16:54:35.956Z
+AVerMedia Streamline Mini+ USB-C Game Capture Card, 4K60 HDR Passthrough is $62.94 on Woot (Prime exclusive) buff.ly/JvCidkY #ad
+Link: https://buff.ly/JvCidkY
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=27 repost=3 reply=0 quote=1
+
+--- 11/105 | post | 2026-11-08T16:39:48.265Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzstz7od422d
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzstz7od422d
+Author: wario64.bsky.social
+Created: 2026-11-08T16:39:48.265Z
+SUPER MARIO Nintendo Super Mario Deluxe Bowser Battle Playset with Lights and Sounds, 2.5 Inch Bowser Action Figure Included is $17.96 on Amazon amzn.to/4zJsT8j #ad
+Link: https://amzn.to/4zJsT8j
+Languages: en
+Video description: [no description supplied; video omitted]
+Engagement: like=31 repost=1 reply=1 quote=0
+
+--- 12/105 | post | 2026-11-08T16:28:03.245Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzste7dch72z
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzste7dch72z
+Author: wario64.bsky.social
+Created: 2026-11-08T16:28:03.245Z
+Newegg Doorbuster deals in 30 minutes (9AM PT) buff.ly/yGNDB8L #ad
+Link: https://buff.ly/yGNDB8L
+Image description: [no alt text supplied; image omitted]
+Engagement: like=6 repost=0 reply=0 quote=0
+
+--- 13/105 | post | 2026-11-08T16:22:11.416Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsszpruy22d
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsszpruy22d
+Author: wario64.bsky.social
+Created: 2026-11-08T16:22:11.416Z
+The Irishman (The Criterion Collection) Blu-ray is $19.98 on Amazon amzn.to/48vMZ9F
+B&N buff.ly/Dg3P7k1 #ad
+Link: https://amzn.to/48vMZ9F
+Link: https://buff.ly/Dg3P7k1
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzmql6vumc2s
+Quoted author: wario64.bsky.social
+Quoted created: 2026-11-06T06:22:18.044Z
+50% off The Criterion Collection (4K UHD/Blu-ray/DVD) on B&N buff.ly/KwW9rna
+
+select matches on Amazon amzn.to/4vCM7dK #ad 
+
+sale ends December 6th
+Link: https://buff.ly/KwW9rna
+Link: https://amzn.to/4vCM7dK
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=19 repost=1 reply=1 quote=1
+
+--- 14/105 | post | 2026-11-08T16:15:22.962Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzssnkau4ki6
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzssnkau4ki6
+Author: wario64.bsky.social
+Created: 2026-11-08T16:15:22.962Z
+
+Languages: en
+Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznsdptune2u
+Reply parent: https://bsky.app/profile/did:plc:4qr354w55ff6egxzmykairk2/post/3mzss4t5iu22k
+Image description: [no alt text supplied; image omitted]
+Engagement: like=2 repost=0 reply=0 quote=0
+
+--- 15/105 | post | 2026-11-08T16:13:57.473Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsskyqinh25
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsskyqinh25
+Author: wario64.bsky.social
+Created: 2026-11-08T16:13:57.473Z
+El Shaddai: Zero Nine Reversi is $3.59 on Steam (10% off launch discount) buff.ly/akKHV6M
+Link: https://buff.ly/akKHV6M
+Image description: [no alt text supplied; image omitted]
+Engagement: like=27 repost=7 reply=10 quote=4
+
+--- 16/105 | post | 2026-11-08T16:13:04.457Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzssjg5zdc2d
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzssjg5zdc2d
+Author: wario64.bsky.social
+Created: 2026-11-08T16:13:04.457Z
+My Friendly Neighborhood (PS5/Switch 2) up for preorder at Target ($34.99/$49.99) buff.ly/RDWoef8
+Amazon (Switch 2) amzn.to/4BE6GKc
+VGP buff.ly/K5PW0qN
+PNP buff.ly/EPZAlif
+
+Lost in Cult Editions buff.ly/IDfGndf #ad
+Link: https://buff.ly/RDWoef8
+Link: https://amzn.to/4BE6GKc
+Link: https://buff.ly/K5PW0qN
+Link: https://buff.ly/EPZAlif
+Link: https://buff.ly/IDfGndf
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=22 repost=1 reply=1 quote=0
+
+--- 17/105 | post | 2026-11-08T16:10:34.733Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzssexethk2d
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzssexethk2d
+Author: wario64.bsky.social
+Created: 2026-11-08T16:10:34.733Z
+Thief: The Dark Project Remastered (PS5/Switch 2E) up for preorder at Target ($34.99/$44.99) buff.ly/ew6WE6H
+Amazon (PS5) amzn.to/4zzlJDF
+Best Buy buff.ly/kSnNMBY
+PNP buff.ly/bI5gSBL
+VGP (Steelbook/Trapezoid Edition) buff.ly/Hj3gO5j #ad
+Link: https://buff.ly/ew6WE6H
+Link: https://amzn.to/4zzlJDF
+Link: https://buff.ly/kSnNMBY
+Link: https://buff.ly/bI5gSBL
+Link: https://buff.ly/Hj3gO5j
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=18 repost=4 reply=0 quote=0
+
+--- 18/105 | post | 2026-11-08T16:00:48.939Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsrtiqdvp25
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsrtiqdvp25
+Author: wario64.bsky.social
+Created: 2026-11-08T16:00:48.939Z
+Fanatical Flash Deals (Nov 8th) buff.ly/OTvl6lq #ad 
+
+-Indiana Jones and the Great Circle Premium Edition - 57% off ($42.99)
+-Zombie Army Trilogy - 95% off ($2.24)
+-Remnant II - Ultimate Edition - 80% off ($13.99)
+Link: https://buff.ly/OTvl6lq
+Image description: [no alt text supplied; image omitted]
+Engagement: like=10 repost=0 reply=0 quote=0
+
+--- 19/105 | post | 2026-11-08T15:56:29.988Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsrlrrc5k2d
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsrlrrc5k2d
+Author: wario64.bsky.social
+Created: 2026-11-08T15:56:29.988Z
+Xeno Crisis (Switch/PS4) is $34.42/$38.92 on Amazon amzn.to/4irV5Xc 
+
+Bitmap Bureau Collection (Switch) $42.47 at VGP. PS5/Switch CE $70.79 buff.ly/EISxrdA #ad
+Link: https://amzn.to/4irV5Xc
+Link: https://buff.ly/EISxrdA
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=10 repost=1 reply=0 quote=0
+
+--- 20/105 | post | 2026-11-08T15:52:55.813Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsrffje5c2j
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsrffje5c2j
+Author: wario64.bsky.social
+Created: 2026-11-08T15:52:55.813Z
+Buy 2 Get 1 free books at Target buff.ly/Ta9PeRQ 
+
+Video game art books buff.ly/vmTMfjc 
+Manga buff.ly/28lkd3N #ad
+Link: https://buff.ly/Ta9PeRQ
+Link: https://buff.ly/vmTMfjc
+Link: https://buff.ly/28lkd3N
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Image description: [no alt text supplied; image omitted]
+Engagement: like=26 repost=3 reply=0 quote=1
+
+--- 21/105 | post | 2026-11-08T15:46:20.890Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsqzmuzwk2d
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsqzmuzwk2d
+Author: wario64.bsky.social
+Created: 2026-11-08T15:46:20.890Z
+Tides of Tomorrow (PS5) is $20.38 on Amazon amzn.to/3UFFjyD #ad
+Link: https://amzn.to/3UFFjyD
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=14 repost=0 reply=0 quote=2
+
+--- 22/105 | post | 2026-11-08T15:45:16.217Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsqxp7fok2d
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsqxp7fok2d
+Author: wario64.bsky.social
+Created: 2026-11-08T15:45:16.217Z
+Rambo: 1-5 (4K UHD + Digital) is $75.58 on Amazon amzn.to/4dBDha4 #ad
+Link: https://amzn.to/4dBDha4
+Languages: en
+Image description: [no alt text supplied; image omitted]
+Engagement: like=12 repost=0 reply=0 quote=0
+
+--- 23/105 | post | 2026-11-08T15:43:55.095Z ---
+ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsqvbucgq2s
+URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzsqvbucgq2s
+Author: wario64.bsky.social
+Created: 2026-11-08T15:43:55.095Z
+Xbox $50 Gift Card Code is $45 on Newegg w/ code BNWF334 buff.ly/sGNqzmy #ad
+Link: https://buff.ly/sGNqzmy
+Image description: [no alt text supplied; image omitted]
+Engagement: like=13 repost=1 reply=1 quote=0
+
+--- 24/105 | post | 2026-11-08T06:08:40.219Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzrqqnvl6525
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzrqqnvl6525
 Author: wario64.bsky.social
@@ -21,9 +367,9 @@ Link: https://buff.ly/RfDpbp8
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=2 reply=0 quote=0
+Engagement: like=15 repost=2 reply=0 quote=0
 
---- 2/108 | post | 2026-11-08T06:06:38.778Z ---
+--- 25/105 | post | 2026-11-08T06:06:38.778Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzrqn24gbm2s
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzrqn24gbm2s
 Author: wario64.bsky.social
@@ -31,9 +377,9 @@ Created: 2026-11-08T06:06:38.778Z
 Amazon Basics High-Capacity Portable Charger Power Bank with 3-Port Output, 20,000 mAh is $12.99 on Woot buff.ly/reMauVu #ad
 Link: https://buff.ly/reMauVu
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=1 reply=1 quote=0
+Engagement: like=21 repost=1 reply=1 quote=0
 
---- 3/108 | post | 2026-11-08T06:03:00.826Z ---
+--- 26/105 | post | 2026-11-08T06:03:00.826Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzrqgka3bl2s
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzrqgka3bl2s
 Author: wario64.bsky.social
@@ -42,9 +388,9 @@ Buy 1, Get 1 50% off Apparel Acc, Board Games, Housewares, TC Acc, Plush at Game
 Link: https://buff.ly/Tn0yNgG
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=8 repost=0 reply=0 quote=0
+Engagement: like=7 repost=0 reply=0 quote=0
 
---- 4/108 | post | 2026-11-08T06:01:32.504Z ---
+--- 27/105 | post | 2026-11-08T06:01:32.504Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzrqdvyy4c2s
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzrqdvyy4c2s
 Author: wario64.bsky.social
@@ -52,9 +398,9 @@ Created: 2026-11-08T06:01:32.504Z
 Amazon Basics Electronics sale on Woot buff.ly/6clGhxt #ad
 Link: https://buff.ly/6clGhxt
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=0 reply=1 quote=0
+Engagement: like=13 repost=0 reply=1 quote=0
 
---- 5/108 | post | 2026-11-08T06:00:58.576Z ---
+--- 28/105 | post | 2026-11-08T06:00:58.576Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzrqcvnd2p2a
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzrqcvnd2p2a
 Author: wario64.bsky.social
@@ -65,9 +411,9 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=8 repost=0 reply=0 quote=1
+Engagement: like=9 repost=0 reply=0 quote=1
 
---- 6/108 | post | 2026-11-08T01:15:54.790Z ---
+--- 29/105 | post | 2026-11-08T01:15:54.790Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzraf66w6c2k
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzraf66w6c2k
 Author: wario64.bsky.social
@@ -76,9 +422,9 @@ Sonic The Hedgehog Giant Metal Sonic Action Figure Toy 20-Inch Battle Set is $39
 Link: https://amzn.to/3UEemLY
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=67 repost=9 reply=1 quote=3
+Engagement: like=70 repost=9 reply=1 quote=3
 
---- 7/108 | post | 2026-11-07T23:54:17.837Z ---
+--- 30/105 | post | 2026-11-07T23:54:17.837Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzr3ta3z2x2u
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzr3ta3z2x2u
 Author: wario64.bsky.social
@@ -88,9 +434,9 @@ Link: https://buff.ly/Tri688s
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=8 reply=0 quote=1
+Engagement: like=49 repost=8 reply=0 quote=1
 
---- 8/108 | post | 2026-11-07T23:30:31.452Z ---
+--- 31/105 | post | 2026-11-07T23:30:31.452Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzr2iprzec2k
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzr2iprzec2k
 Author: wario64.bsky.social
@@ -116,9 +462,9 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=3 reply=1 quote=3
+Engagement: like=50 repost=3 reply=1 quote=3
 
---- 9/108 | post | 2026-11-07T23:05:58.067Z ---
+--- 32/105 | post | 2026-11-07T23:05:58.067Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqz4so3q32s
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqz4so3q32s
 Author: wario64.bsky.social
@@ -129,9 +475,9 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=0 reply=1 quote=0
+Engagement: like=24 repost=0 reply=1 quote=0
 
---- 10/108 | post | 2026-11-07T22:42:28.931Z ---
+--- 33/105 | post | 2026-11-07T22:42:28.931Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqxsssx522s
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqxsssx522s
 Author: wario64.bsky.social
@@ -139,9 +485,9 @@ Created: 2026-11-07T22:42:28.931Z
 Anbernic RG 476H Handheld Game Console is ~$139 on AliExpress w/ code WARIO27 or USAFF27 (free shipping) buff.ly/sqpkeYu #ad
 Link: https://buff.ly/sqpkeYu
 Image description: [no alt text supplied; image omitted]
-Engagement: like=53 repost=5 reply=3 quote=1
+Engagement: like=55 repost=5 reply=3 quote=1
 
---- 11/108 | post | 2026-11-07T22:35:11.714Z ---
+--- 34/105 | post | 2026-11-07T22:35:11.714Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqxfru5fm2s
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqxfru5fm2s
 Author: wario64.bsky.social
@@ -149,9 +495,9 @@ Created: 2026-11-07T22:35:11.714Z
 Apple Watch Ultra 3 $549/$649 at Best Buy buff.ly/P9zhLza #ad
 Link: https://buff.ly/P9zhLza
 Image description: [no alt text supplied; image omitted]
-Engagement: like=9 repost=0 reply=0 quote=0
+Engagement: like=11 repost=0 reply=0 quote=0
 
---- 12/108 | post | 2026-11-07T22:30:10.625Z ---
+--- 35/105 | post | 2026-11-07T22:30:10.625Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqx4spn5i2a
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqx4spn5i2a
 Author: wario64.bsky.social
@@ -161,9 +507,9 @@ Pikuniku is $1.99 on US eShop buff.ly/1o8LJri
 Link: https://buff.ly/1o8LJri
 Link: https://buff.ly/MnIyZbS
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=13 reply=2 quote=1
+Engagement: like=51 repost=14 reply=2 quote=1
 
---- 13/108 | post | 2026-11-07T22:09:46.230Z ---
+--- 36/105 | post | 2026-11-07T22:09:46.230Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqvyczzmp2j
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqvyczzmp2j
 Author: wario64.bsky.social
@@ -175,7 +521,7 @@ Link: https://buff.ly/SuScifx
 Image description: [no alt text supplied; image omitted]
 Engagement: like=56 repost=7 reply=2 quote=2
 
---- 14/108 | post | 2026-11-07T21:36:20.255Z ---
+--- 37/105 | post | 2026-11-07T21:36:20.255Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqu4jy2cs2k
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqu4jy2cs2k
 Author: wario64.bsky.social
@@ -201,9 +547,9 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=4 reply=1 quote=1
+Engagement: like=24 repost=4 reply=1 quote=1
 
---- 15/108 | post | 2026-11-07T21:31:48.506Z ---
+--- 38/105 | post | 2026-11-07T21:31:48.506Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqtugswgk2k
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqtugswgk2k
 Author: wario64.bsky.social
@@ -215,9 +561,9 @@ Link: https://amzn.to/4zi5vOo
 Link: https://amzn.to/4BfFbGE
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=0 reply=0 quote=0
+Engagement: like=37 repost=0 reply=0 quote=0
 
---- 16/108 | post | 2026-11-07T21:27:01.383Z ---
+--- 39/105 | post | 2026-11-07T21:27:01.383Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqtluz4t326
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqtluz4t326
 Author: wario64.bsky.social
@@ -225,9 +571,9 @@ Created: 2026-11-07T21:27:01.383Z
 Fire Emblem - Money Lady t-shirt (by HelloWinter) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=188 repost=27 reply=0 quote=2
+Engagement: like=194 repost=28 reply=0 quote=2
 
---- 17/108 | post | 2026-11-07T21:21:32.322Z ---
+--- 40/105 | post | 2026-11-07T21:21:32.322Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqtc36hbc2k
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqtc36hbc2k
 Author: wario64.bsky.social
@@ -238,9 +584,9 @@ does not play physical games
 Link: https://amzn.to/4wawTwY
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=161 repost=21 reply=5 quote=6
+Engagement: like=165 repost=21 reply=5 quote=7
 
---- 18/108 | post | 2026-11-07T21:12:00.983Z ---
+--- 41/105 | post | 2026-11-07T21:12:00.983Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqsr2d4vy22
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqsr2d4vy22
 Author: wario64.bsky.social
@@ -251,9 +597,9 @@ All VGP deals buff.ly/B2wm2B6 #ad
 Link: https://buff.ly/a0vNV3X
 Link: https://buff.ly/B2wm2B6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=6 reply=0 quote=1
+Engagement: like=63 repost=6 reply=0 quote=1
 
---- 19/108 | post | 2026-11-07T20:47:01.220Z ---
+--- 42/105 | post | 2026-11-07T20:47:01.220Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqredzx2y2q
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqredzx2y2q
 Author: wario64.bsky.social
@@ -263,7 +609,7 @@ Link: https://buff.ly/fLfO7Su
 Image description: [no alt text supplied; image omitted]
 Engagement: like=18 repost=1 reply=0 quote=1
 
---- 20/108 | post | 2026-11-07T20:31:02.275Z ---
+--- 43/105 | post | 2026-11-07T20:31:02.275Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqqhrj7tc2s
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqqhrj7tc2s
 Author: wario64.bsky.social
@@ -271,9 +617,9 @@ Created: 2026-11-07T20:31:02.275Z
 TUNIC is $14.99 on Steam buff.ly/nzOOvlA
 Link: https://buff.ly/nzOOvlA
 Image description: [no alt text supplied; image omitted]
-Engagement: like=59 repost=19 reply=1 quote=3
+Engagement: like=61 repost=19 reply=1 quote=3
 
---- 21/108 | post | 2026-11-07T20:30:24.102Z ---
+--- 44/105 | post | 2026-11-07T20:30:24.102Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqqgn7uvb2i
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqqgn7uvb2i
 Author: wario64.bsky.social
@@ -283,9 +629,9 @@ Walmart buff.ly/r9JtXtm #ad
 Link: https://link.amazon/B067CIUpJ
 Link: https://buff.ly/r9JtXtm
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=4 reply=2 quote=0
+Engagement: like=41 repost=4 reply=2 quote=0
 
---- 22/108 | post | 2026-11-07T20:20:31.839Z ---
+--- 45/105 | post | 2026-11-07T20:20:31.839Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqpuybgs22k
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqpuybgs22k
 Author: wario64.bsky.social
@@ -298,9 +644,9 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=60 repost=6 reply=1 quote=0
+Engagement: like=62 repost=6 reply=1 quote=0
 
---- 23/108 | post | 2026-11-07T20:18:39.123Z ---
+--- 46/105 | post | 2026-11-07T20:18:39.123Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqprmrml22k
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqprmrml22k
 Author: wario64.bsky.social
@@ -316,9 +662,9 @@ Link: https://buff.ly/bUJXlbH
 Link: https://buff.ly/EKJbvbq
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=10 repost=0 reply=0 quote=0
+Engagement: like=11 repost=0 reply=0 quote=0
 
---- 24/108 | post | 2026-11-07T20:13:01.708Z ---
+--- 47/105 | post | 2026-11-07T20:13:01.708Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqphkypwa2i
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqphkypwa2i
 Author: wario64.bsky.social
@@ -329,9 +675,9 @@ also in $10/$15 tiers
 Link: https://buff.ly/H9aGaws
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=0 reply=0 quote=0
+Engagement: like=20 repost=0 reply=0 quote=0
 
---- 25/108 | post | 2026-11-07T19:55:04.962Z ---
+--- 48/105 | post | 2026-11-07T19:55:04.962Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqohi4txs2k
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqohi4txs2k
 Author: wario64.bsky.social
@@ -359,7 +705,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=31 repost=4 reply=2 quote=1
 
---- 26/108 | post | 2026-11-07T19:35:14.664Z ---
+--- 49/105 | post | 2026-11-07T19:35:14.664Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqndyycl52r
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqndyycl52r
 Author: wario64.bsky.social
@@ -371,7 +717,7 @@ Link: https://buff.ly/6lLlm6X
 Image description: [no alt text supplied; image omitted]
 Engagement: like=16 repost=1 reply=0 quote=0
 
---- 27/108 | post | 2026-11-07T19:26:46.230Z ---
+--- 50/105 | post | 2026-11-07T19:26:46.230Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqmuu3mzk2g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqmuu3mzk2g
 Author: wario64.bsky.social
@@ -384,9 +730,9 @@ Mention: did:plc:p5apig43qsl7tculldey5ksk
 Link: https://store.steampowered.com/app/3832490/Antivirus_Survivors_2003_Professional/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=182 repost=318 reply=2 quote=4
+Engagement: like=188 repost=320 reply=2 quote=4
 
---- 28/108 | post | 2026-11-07T19:19:57.244Z ---
+--- 51/105 | post | 2026-11-07T19:19:57.244Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqmio2en22g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqmio2en22g
 Author: wario64.bsky.social
@@ -402,7 +748,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Engagement: like=13 repost=0 reply=0 quote=2
 
---- 29/108 | post | 2026-11-07T19:19:02.881Z ---
+--- 52/105 | post | 2026-11-07T19:19:02.881Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqmh27tz72q
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqmh27tz72q
 Author: wario64.bsky.social
@@ -412,7 +758,7 @@ Link: https://buff.ly/ebHTM7L
 Image description: [no alt text supplied; image omitted]
 Engagement: like=16 repost=2 reply=0 quote=1
 
---- 30/108 | post | 2026-11-07T19:16:17.122Z ---
+--- 53/105 | post | 2026-11-07T19:16:17.122Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqmc45ckd2i
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqmc45ckd2i
 Author: wario64.bsky.social
@@ -425,7 +771,7 @@ Link: https://buff.ly/3RzX9t1
 Image description: [no alt text supplied; image omitted]
 Engagement: like=17 repost=1 reply=0 quote=0
 
---- 31/108 | post | 2026-11-07T19:03:45.978Z ---
+--- 54/105 | post | 2026-11-07T19:03:45.978Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqllps7jr2r
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqllps7jr2r
 Author: wario64.bsky.social
@@ -433,9 +779,9 @@ Created: 2026-11-07T19:03:45.978Z
 Fire Emblem: Fortune’s Weave - The Queen's Arrival t-shirt (by HelloWinter) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=205 repost=31 reply=0 quote=1
+Engagement: like=206 repost=31 reply=0 quote=1
 
---- 32/108 | post | 2026-11-07T18:44:01.428Z ---
+--- 55/105 | post | 2026-11-07T18:44:01.428Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqkig4l7r2o
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqkig4l7r2o
 Author: wario64.bsky.social
@@ -443,9 +789,9 @@ Created: 2026-11-07T18:44:01.428Z
 Battle Chef Brigade Deluxe is $1.99 on US PS+ buff.ly/XjS217B
 Link: https://buff.ly/XjS217B
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=6 reply=1 quote=1
+Engagement: like=44 repost=6 reply=1 quote=1
 
---- 33/108 | post | 2026-11-07T18:25:56.614Z ---
+--- 56/105 | post | 2026-11-07T18:25:56.614Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqji3k6vk2g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqji3k6vk2g
 Author: wario64.bsky.social
@@ -471,9 +817,9 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=1 reply=1 quote=1
+Engagement: like=19 repost=1 reply=1 quote=1
 
---- 34/108 | post | 2026-11-07T18:11:57.971Z ---
+--- 57/105 | post | 2026-11-07T18:11:57.971Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqip3rl7h2c
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqip3rl7h2c
 Author: wario64.bsky.social
@@ -487,7 +833,7 @@ Link: https://buff.ly/VPLmlwW
 Image description: [no alt text supplied; image omitted]
 Engagement: like=20 repost=0 reply=0 quote=1
 
---- 35/108 | post | 2026-11-07T18:08:09.106Z ---
+--- 58/105 | post | 2026-11-07T18:08:09.106Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqiibigmk67
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqiibigmk67
 Author: wario64.bsky.social
@@ -498,7 +844,7 @@ Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqg
 Reply parent: https://bsky.app/profile/did:plc:ei2vbchvzgkmyijp74ttdxir/post/3mzqig3vso225
 Engagement: like=25 repost=0 reply=1 quote=0
 
---- 36/108 | post | 2026-11-07T18:03:09.024Z ---
+--- 59/105 | post | 2026-11-07T18:03:09.024Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqi7dcvnd2s
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqi7dcvnd2s
 Author: wario64.bsky.social
@@ -509,7 +855,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=12 repost=0 reply=0 quote=0
 
---- 37/108 | post | 2026-11-07T18:02:22.613Z ---
+--- 60/105 | post | 2026-11-07T18:02:22.613Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqi5x2mg22r
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqi5x2mg22r
 Author: wario64.bsky.social
@@ -531,7 +877,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=18 repost=0 reply=0 quote=0
 
---- 38/108 | post | 2026-11-07T17:26:04.449Z ---
+--- 61/105 | post | 2026-11-07T17:26:04.449Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqg4zslya25
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqg4zslya25
 Author: wario64.bsky.social
@@ -540,9 +886,9 @@ Grand Theft Auto VI: Ultimate Edition (PS5) is $89 w/ Newegg PlayStation gift ca
 Link: https://buff.ly/iMLiFHd
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=1 reply=2 quote=1
+Engagement: like=56 repost=1 reply=2 quote=1
 
---- 39/108 | post | 2026-11-07T17:09:19.129Z ---
+--- 62/105 | post | 2026-11-07T17:09:19.129Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqf7323hc2g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqf7323hc2g
 Author: wario64.bsky.social
@@ -555,7 +901,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Engagement: like=35 repost=4 reply=0 quote=0
 
---- 40/108 | post | 2026-11-07T17:07:05.084Z ---
+--- 63/105 | post | 2026-11-07T17:07:05.084Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqf337tku2p
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqf337tku2p
 Author: wario64.bsky.social
@@ -565,7 +911,7 @@ Link: https://buff.ly/vDJiaWW
 Image description: [no alt text supplied; image omitted]
 Engagement: like=39 repost=11 reply=1 quote=0
 
---- 41/108 | post | 2026-11-07T17:03:22.109Z ---
+--- 64/105 | post | 2026-11-07T17:03:22.109Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqeugl7f52s
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqeugl7f52s
 Author: wario64.bsky.social
@@ -573,9 +919,9 @@ Created: 2026-11-07T17:03:22.109Z
 Axiom Verge is $4.99 on US eShop buff.ly/VFPYshA
 Link: https://buff.ly/VFPYshA
 Image description: [no alt text supplied; image omitted]
-Engagement: like=34 repost=11 reply=1 quote=1
+Engagement: like=35 repost=11 reply=1 quote=1
 
---- 42/108 | post | 2026-11-07T16:44:18.726Z ---
+--- 65/105 | post | 2026-11-07T16:44:18.726Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqdse5f6c2g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqdse5f6c2g
 Author: wario64.bsky.social
@@ -588,7 +934,7 @@ Languages: en
 Video description: [no description supplied; video omitted]
 Engagement: like=28 repost=3 reply=4 quote=0
 
---- 43/108 | post | 2026-11-07T16:32:24.703Z ---
+--- 66/105 | post | 2026-11-07T16:32:24.703Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqd5377222g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqd5377222g
 Author: wario64.bsky.social
@@ -611,7 +957,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=24 repost=4 reply=2 quote=2
 
---- 44/108 | post | 2026-11-07T16:22:49.148Z ---
+--- 67/105 | post | 2026-11-07T16:22:49.148Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqclwd3va2p
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqclwd3va2p
 Author: wario64.bsky.social
@@ -621,7 +967,7 @@ Link: https://buff.ly/b4gzhgo
 Image description: [no alt text supplied; image omitted]
 Engagement: like=16 repost=0 reply=0 quote=0
 
---- 45/108 | post | 2026-11-07T16:20:11.297Z ---
+--- 68/105 | post | 2026-11-07T16:20:11.297Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqch7rgak2g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqch7rgak2g
 Author: wario64.bsky.social
@@ -635,7 +981,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Engagement: like=14 repost=1 reply=0 quote=0
 
---- 46/108 | post | 2026-11-07T16:15:32.553Z ---
+--- 69/105 | post | 2026-11-07T16:15:32.553Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqc6vwsdc2g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqc6vwsdc2g
 Author: wario64.bsky.social
@@ -667,7 +1013,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=28 repost=4 reply=1 quote=0
 
---- 47/108 | post | 2026-11-07T16:12:29.335Z ---
+--- 70/105 | post | 2026-11-07T16:12:29.335Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqbzh7hi22g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqbzh7hi22g
 Author: wario64.bsky.social
@@ -678,7 +1024,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Engagement: like=20 repost=0 reply=0 quote=0
 
---- 48/108 | post | 2026-11-07T16:08:46.386Z ---
+--- 71/105 | post | 2026-11-07T16:08:46.386Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqbsslmt22g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqbsslmt22g
 Author: wario64.bsky.social
@@ -693,7 +1039,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=49 repost=3 reply=0 quote=2
 
---- 49/108 | post | 2026-11-07T16:05:36.787Z ---
+--- 72/105 | post | 2026-11-07T16:05:36.787Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqbn5rhls2g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqbn5rhls2g
 Author: wario64.bsky.social
@@ -723,7 +1069,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=30 repost=7 reply=0 quote=2
 
---- 50/108 | post | 2026-11-07T16:03:10.437Z ---
+--- 73/105 | post | 2026-11-07T16:03:10.437Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqbis7n6a2i
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqbis7n6a2i
 Author: wario64.bsky.social
@@ -733,7 +1079,7 @@ Link: https://buff.ly/pP2z8Ji
 Image description: [no alt text supplied; image omitted]
 Engagement: like=7 repost=0 reply=1 quote=0
 
---- 51/108 | post | 2026-11-07T16:02:39.365Z ---
+--- 74/105 | post | 2026-11-07T16:02:39.365Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqbhumt4a2p
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqbhumt4a2p
 Author: wario64.bsky.social
@@ -748,7 +1094,7 @@ Link: https://buff.ly/racqAxo
 Image description: [no alt text supplied; image omitted]
 Engagement: like=19 repost=2 reply=2 quote=1
 
---- 52/108 | post | 2026-11-07T16:01:36.652Z ---
+--- 75/105 | post | 2026-11-07T16:01:36.652Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqbfyrhfu26
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqbfyrhfu26
 Author: wario64.bsky.social
@@ -760,7 +1106,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=12 repost=0 reply=0 quote=0
 
---- 53/108 | post | 2026-11-07T16:00:19.519Z ---
+--- 76/105 | post | 2026-11-07T16:00:19.519Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqbdp7p662r
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqbdp7p662r
 Author: wario64.bsky.social
@@ -772,9 +1118,9 @@ Fanatical Flash Deals (Nov 7th) buff.ly/OTvl6lq #ad
 -Baldur's Gate I & II Pack - 80% off ($7.99)
 Link: https://buff.ly/OTvl6lq
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=7 reply=1 quote=1
+Engagement: like=23 repost=8 reply=1 quote=1
 
---- 54/108 | post | 2026-11-07T15:53:08.064Z ---
+--- 77/105 | post | 2026-11-07T15:53:08.064Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqawtqqaw22
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqawtqqaw22
 Author: wario64.bsky.social
@@ -788,7 +1134,7 @@ Link: https://buff.ly/HF7O7H7
 Image description: [no alt text supplied; image omitted]
 Engagement: like=22 repost=0 reply=0 quote=2
 
---- 55/108 | post | 2026-11-07T15:50:58.969Z ---
+--- 78/105 | post | 2026-11-07T15:50:58.969Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqasymlhc2g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqasymlhc2g
 Author: wario64.bsky.social
@@ -799,7 +1145,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Engagement: like=22 repost=0 reply=0 quote=2
 
---- 56/108 | post | 2026-11-07T15:48:01.350Z ---
+--- 79/105 | post | 2026-11-07T15:48:01.350Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqanpao552q
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqanpao552q
 Author: wario64.bsky.social
@@ -807,9 +1153,9 @@ Created: 2026-11-07T15:48:01.350Z
 XBOX Wireless Controller X25 Special Edition Controller available at Target ($79.99) buff.ly/AvSXf3h #ad
 Link: https://buff.ly/AvSXf3h
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=1 reply=2 quote=0
+Engagement: like=38 repost=1 reply=2 quote=0
 
---- 57/108 | post | 2026-11-07T15:46:37.158Z ---
+--- 80/105 | post | 2026-11-07T15:46:37.158Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqal6xa4d22
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqal6xa4d22
 Author: wario64.bsky.social
@@ -819,7 +1165,7 @@ Link: https://link.amazon/B0bQlwQ0w
 Image description: [no alt text supplied; image omitted]
 Engagement: like=9 repost=1 reply=0 quote=0
 
---- 58/108 | post | 2026-11-07T15:44:07.608Z ---
+--- 81/105 | post | 2026-11-07T15:44:07.608Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqagqctq22g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqagqctq22g
 Author: wario64.bsky.social
@@ -836,7 +1182,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Engagement: like=23 repost=5 reply=4 quote=2
 
---- 59/108 | post | 2026-11-07T15:43:02.558Z ---
+--- 82/105 | post | 2026-11-07T15:43:02.558Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqaesbpcs2g
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzqaesbpcs2g
 Author: wario64.bsky.social
@@ -853,7 +1199,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Engagement: like=14 repost=0 reply=0 quote=0
 
---- 60/108 | post | 2026-11-07T06:01:52.415Z ---
+--- 83/105 | post | 2026-11-07T06:01:52.415Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzp7vljs6e2s
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzp7vljs6e2s
 Author: wario64.bsky.social
@@ -863,7 +1209,7 @@ Link: https://buff.ly/520MwoP
 Image description: [no alt text supplied; image omitted]
 Engagement: like=10 repost=1 reply=0 quote=0
 
---- 61/108 | post | 2026-11-07T06:01:17.044Z ---
+--- 84/105 | post | 2026-11-07T06:01:17.044Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzp7ujsfqm2q
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzp7ujsfqm2q
 Author: wario64.bsky.social
@@ -873,7 +1219,7 @@ Link: https://buff.ly/dhEIwKp
 Image description: [no alt text supplied; image omitted]
 Engagement: like=15 repost=0 reply=0 quote=0
 
---- 62/108 | post | 2026-11-07T06:00:25.352Z ---
+--- 85/105 | post | 2026-11-07T06:00:25.352Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzp7syitv42o
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzp7syitv42o
 Author: wario64.bsky.social
@@ -883,7 +1229,7 @@ Link: https://buff.ly/4UdMD8O
 Image description: [no alt text supplied; image omitted]
 Engagement: like=40 repost=7 reply=1 quote=1
 
---- 63/108 | post | 2026-11-07T05:32:01.523Z ---
+--- 86/105 | post | 2026-11-07T05:32:01.523Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzp6a7m5dz2o
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzp6a7m5dz2o
 Author: wario64.bsky.social
@@ -894,7 +1240,7 @@ Verify prices via Costco app (tap Warehouse tab-> search warehouse inventory for
 Image description: [no alt text supplied; image omitted]
 Engagement: like=76 repost=8 reply=2 quote=2
 
---- 64/108 | post | 2026-11-07T03:52:07.537Z ---
+--- 87/105 | post | 2026-11-07T03:52:07.537Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzoynlbrek2c
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzoynlbrek2c
 Author: wario64.bsky.social
@@ -911,7 +1257,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=47 repost=4 reply=4 quote=0
 
---- 65/108 | post | 2026-11-07T00:28:36.859Z ---
+--- 88/105 | post | 2026-11-07T00:28:36.859Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzonbobh522c
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzonbobh522c
 Author: wario64.bsky.social
@@ -939,7 +1285,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=92 repost=13 reply=5 quote=4
 
---- 66/108 | post | 2026-11-06T23:55:52.574Z ---
+--- 89/105 | post | 2026-11-06T23:55:52.574Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzolh4ykto2p
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzolh4ykto2p
 Author: wario64.bsky.social
@@ -947,9 +1293,9 @@ Created: 2026-11-06T23:55:52.574Z
 Chrono Trigger Form-ism Crono/Marle figures $64.19 each at VGP (free shipping) buff.ly/ijyFyfy #ad
 Link: https://buff.ly/ijyFyfy
 Image description: [no alt text supplied; image omitted]
-Engagement: like=205 repost=27 reply=5 quote=6
+Engagement: like=205 repost=27 reply=6 quote=6
 
---- 67/108 | post | 2026-11-06T23:45:53.921Z ---
+--- 90/105 | post | 2026-11-06T23:45:53.921Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzokvc3ant2z
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzokvc3ant2z
 Author: wario64.bsky.social
@@ -961,7 +1307,7 @@ Link: https://buff.ly/EZTEaqV
 Image description: [no alt text supplied; image omitted]
 Engagement: like=25 repost=2 reply=0 quote=1
 
---- 68/108 | post | 2026-11-06T23:40:20.000Z ---
+--- 91/105 | post | 2026-11-06T23:40:20.000Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzokldmrzk26
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzokldmrzk26
 Author: wario64.bsky.social
@@ -971,7 +1317,7 @@ Link: https://buff.ly/Wky1ClU
 Image description: [no alt text supplied; image omitted]
 Engagement: like=66 repost=6 reply=2 quote=5
 
---- 69/108 | post | 2026-11-06T22:53:39.478Z ---
+--- 92/105 | post | 2026-11-06T22:53:39.478Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzohxutmau26
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzohxutmau26
 Author: wario64.bsky.social
@@ -984,7 +1330,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=15 repost=1 reply=0 quote=0
 
---- 70/108 | post | 2026-11-06T22:23:06.825Z ---
+--- 93/105 | post | 2026-11-06T22:23:06.825Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzogbb3id625
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzogbb3id625
 Author: wario64.bsky.social
@@ -996,7 +1342,7 @@ Link: https://buff.ly/wbY5wC1
 Image description: [no alt text supplied; image omitted]
 Engagement: like=67 repost=18 reply=3 quote=6
 
---- 71/108 | post | 2026-11-06T22:13:24.665Z ---
+--- 94/105 | post | 2026-11-06T22:13:24.665Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzofpvuvpc2c
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzofpvuvpc2c
 Author: wario64.bsky.social
@@ -1024,7 +1370,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=32 repost=6 reply=3 quote=1
 
---- 72/108 | post | 2026-11-06T21:38:38.216Z ---
+--- 95/105 | post | 2026-11-06T21:38:38.216Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzodrq3ius2c
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzodrq3ius2c
 Author: wario64.bsky.social
@@ -1043,7 +1389,7 @@ Languages: en
 Video description: [no description supplied; video omitted]
 Engagement: like=31 repost=9 reply=1 quote=0
 
---- 73/108 | post | 2026-11-06T21:06:20.595Z ---
+--- 96/105 | post | 2026-11-06T21:06:20.595Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzobxyafur2q
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzobxyafur2q
 Author: wario64.bsky.social
@@ -1058,7 +1404,7 @@ Link: https://buff.ly/Pz0tDqy
 Image description: [no alt text supplied; image omitted]
 Engagement: like=35 repost=8 reply=0 quote=4
 
---- 74/108 | post | 2026-11-06T20:47:53.120Z ---
+--- 97/105 | post | 2026-11-06T20:47:53.120Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzoawy2lc22c
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzoawy2lc22c
 Author: wario64.bsky.social
@@ -1086,7 +1432,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=81 repost=17 reply=4 quote=3
 
---- 75/108 | post | 2026-11-06T20:46:07.918Z ---
+--- 98/105 | post | 2026-11-06T20:46:07.918Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzoattqat72s
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzoattqat72s
 Author: wario64.bsky.social
@@ -1100,7 +1446,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=19 repost=3 reply=1 quote=0
 
---- 76/108 | post | 2026-11-06T20:29:37.788Z ---
+--- 99/105 | post | 2026-11-06T20:29:37.788Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo7wdia4l2j
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzo7wdia4l2j
 Author: wario64.bsky.social
@@ -1116,7 +1462,7 @@ Link: https://buff.ly/UEP3Zmt
 Image description: [no alt text supplied; image omitted]
 Engagement: like=32 repost=5 reply=1 quote=3
 
---- 77/108 | post | 2026-11-06T20:23:47.866Z ---
+--- 100/105 | post | 2026-11-06T20:23:47.866Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo7lvr4lm2a
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzo7lvr4lm2a
 Author: wario64.bsky.social
@@ -1127,7 +1473,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=22 repost=3 reply=0 quote=1
 
---- 78/108 | post | 2026-11-06T20:07:09.212Z ---
+--- 101/105 | post | 2026-11-06T20:07:09.212Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo6o5effs2c
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzo6o5effs2c
 Author: wario64.bsky.social
@@ -1153,7 +1499,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=42 repost=8 reply=5 quote=1
 
---- 79/108 | post | 2026-11-06T20:05:47.200Z ---
+--- 102/105 | post | 2026-11-06T20:05:47.200Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo6lp5lks2c
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzo6lp5lks2c
 Author: wario64.bsky.social
@@ -1179,7 +1525,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=23 repost=3 reply=0 quote=0
 
---- 80/108 | post | 2026-11-06T20:03:30.685Z ---
+--- 103/105 | post | 2026-11-06T20:03:30.685Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo6hmxj4c2c
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzo6hmxj4c2c
 Author: wario64.bsky.social
@@ -1207,7 +1553,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Engagement: like=15 repost=3 reply=0 quote=0
 
---- 81/108 | post | 2026-11-06T19:42:04.730Z ---
+--- 104/105 | post | 2026-11-06T19:42:04.730Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo5bclpyy2p
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzo5bclpyy2p
 Author: wario64.bsky.social
@@ -1217,7 +1563,7 @@ Link: https://buff.ly/uFGAYkH
 Image description: [no alt text supplied; image omitted]
 Engagement: like=44 repost=6 reply=0 quote=2
 
---- 82/108 | post | 2026-11-06T19:39:59.492Z ---
+--- 105/105 | post | 2026-11-06T19:39:59.492Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo55l5rqv2q
 URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzo55l5rqv2q
 Author: wario64.bsky.social
@@ -1225,382 +1571,4 @@ Created: 2026-11-06T19:39:59.492Z
 Xenoblade Chronicles t-shirts $20 each at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=60 repost=8 reply=0 quote=2
-
---- 83/108 | post | 2026-11-06T19:28:36.017Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo4j7dcvc2c
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzo4j7dcvc2c
-Author: wario64.bsky.social
-Created: 2026-11-06T19:28:36.017Z
-The Silence of the Lambs (The Criterion Collection) [4K UHD + Blu-ray] is $24.99 on Amazon amzn.to/3VdfBlo
-B&N buff.ly/TfAzb9j #ad
-Link: https://amzn.to/3VdfBlo
-Link: https://buff.ly/TfAzb9j
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzmql6vumc2s
-Quoted author: wario64.bsky.social
-Quoted created: 2026-11-06T06:22:18.044Z
-50% off The Criterion Collection (4K UHD/Blu-ray/DVD) on B&N buff.ly/KwW9rna
-
-select matches on Amazon amzn.to/4vCM7dK #ad 
-
-sale ends December 6th
-Link: https://buff.ly/KwW9rna
-Link: https://amzn.to/4vCM7dK
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=2 reply=0 quote=2
-
---- 84/108 | post | 2026-11-06T19:14:47.954Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo3qjnbaf25
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzo3qjnbaf25
-Author: wario64.bsky.social
-Created: 2026-11-06T19:14:47.954Z
-Metroid Ravenous amiibo preorder $21.39/$39.23 US Dollars at VGP buff.ly/XDDaerx #ad
-Link: https://buff.ly/XDDaerx
-Image description: [no alt text supplied; image omitted]
-Engagement: like=81 repost=6 reply=2 quote=3
-
---- 85/108 | post | 2026-11-06T19:06:07.308Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo3az3zac2u
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzo3az3zac2u
-Author: wario64.bsky.social
-Created: 2026-11-06T19:06:07.308Z
-Humble Games Bundle: Unhinged & Unsettling Visual Novels ($12 for all) buff.ly/4cWjxSJ #ad
-Link: https://buff.ly/4cWjxSJ
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=4 reply=0 quote=3
-
---- 86/108 | post | 2026-11-06T19:01:43.028Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo2z52sd22z
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzo2z52sd22z
-Author: wario64.bsky.social
-Created: 2026-11-06T19:01:43.028Z
-Humble Games Bundle: Non Non Nonograms ($10 for all) buff.ly/a0SoUIU #ad
-Link: https://buff.ly/a0SoUIU
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=0 reply=0 quote=0
-
---- 87/108 | repost | 2026-11-06T18:48:05.569Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznhvvm4v32s#repost:2026-11-06T18:48:05.569Z
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznhvvm4v32s
-Author: wario64.bsky.social
-Created: 2026-11-06T13:19:53.429Z
-$100 in Nintendo eShop Gift Card Codes (4 x $25) is $79.99 at Costco buff.ly/mQrEaAm 
-
-Sam's Club (5 x $20) buff.ly/VHmbVOA #ad 
-
-eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.) - Wallet limit $800
-Link: https://buff.ly/mQrEaAm
-Link: https://buff.ly/VHmbVOA
-Image description: [no alt text supplied; image omitted]
-Engagement: like=69 repost=15 reply=3 quote=2
-
---- 88/108 | post | 2026-11-06T18:26:08.094Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznyzj2c7r2s
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznyzj2c7r2s
-Author: wario64.bsky.social
-Created: 2026-11-06T18:26:08.094Z
-Crypt Custodian is $11.99 on US eShop buff.ly/crkJndv 
-$10.99 US PS+ buff.ly/A3ae8wr 
-$11.99 Steam buff.ly/HIg1hf9 
-$11.99 GOG buff.ly/nsClXgm #ad
-Link: https://buff.ly/crkJndv
-Link: https://buff.ly/A3ae8wr
-Link: https://buff.ly/HIg1hf9
-Link: https://buff.ly/nsClXgm
-Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=4 reply=0 quote=1
-
---- 89/108 | post | 2026-11-06T18:24:27.344Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznywixlfr2s
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznywixlfr2s
-Author: wario64.bsky.social
-Created: 2026-11-06T18:24:27.344Z
-(NEW) Nintendo Switch 2 System is $469 on Woot buff.ly/68u2y9v #ad
-Link: https://buff.ly/68u2y9v
-Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=11 reply=0 quote=1
-
---- 90/108 | post | 2026-11-06T18:09:01.037Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzny2vkjhk2z
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzny2vkjhk2z
-Author: wario64.bsky.social
-Created: 2026-11-06T18:09:01.037Z
-KPop Demon Hunters (The Criterion Collection) [Blu-ray] is $19.99 on Amazon amzn.to/482ftrS
-B&N buff.ly/dtVBsZW #ad
-Link: https://amzn.to/482ftrS
-Link: https://buff.ly/dtVBsZW
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzmql6vumc2s
-Quoted author: wario64.bsky.social
-Quoted created: 2026-11-06T06:22:18.044Z
-50% off The Criterion Collection (4K UHD/Blu-ray/DVD) on B&N buff.ly/KwW9rna
-
-select matches on Amazon amzn.to/4vCM7dK #ad 
-
-sale ends December 6th
-Link: https://buff.ly/KwW9rna
-Link: https://amzn.to/4vCM7dK
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Engagement: like=128 repost=24 reply=5 quote=10
-
---- 91/108 | post | 2026-11-06T18:07:36.530Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznxyexqps2c
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznxyexqps2c
-Author: wario64.bsky.social
-Created: 2026-11-06T18:07:36.530Z
-Late Shift is $3.59 on Steam buff.ly/NXKNiPj 
-
-CaseCracker $3.99 buff.ly/vhThJuI 
-
-Sir Whoopass: Immortal Death $10.19 buff.ly/TmspggB 
-
-You Suck at Parking - Complete Edition $1.99 buff.ly/ZToU1W5
-Link: https://buff.ly/NXKNiPj
-Link: https://buff.ly/vhThJuI
-Link: https://buff.ly/TmspggB
-Link: https://buff.ly/ZToU1W5
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=1 reply=0 quote=0
-
---- 92/108 | post | 2026-11-06T17:57:12.964Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznxfscbdx2s
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznxfscbdx2s
-Author: wario64.bsky.social
-Created: 2026-11-06T17:57:12.964Z
-Sennheiser HD 800 S Over-the-Ear Audiophile Reference Headphones is $1,299.95 on Woot buff.ly/1KBWxUF #ad
-Link: https://buff.ly/1KBWxUF
-Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=1 reply=5 quote=1
-
---- 93/108 | post | 2026-11-06T17:55:44.775Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznxd66ius2z
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznxd66ius2z
-Author: wario64.bsky.social
-Created: 2026-11-06T17:55:44.775Z
-The Mound: Omen of Cthulhu (PS5/XSX) is $29.99 on Amazon Lightning Deal amzn.to/4iJgwSB #ad
-Link: https://amzn.to/4iJgwSB
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=0 reply=0 quote=0
-
---- 94/108 | post | 2026-11-06T17:47:25.069Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznwubn6vv2s
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznwubn6vv2s
-Author: wario64.bsky.social
-Created: 2026-11-06T17:47:25.069Z
-Zone of the Enders - The 2nd Runner - Mars (Steam) is $4.49 on Fanatical buff.ly/gbhXq9L #ad 
-$8.99 US PSN buff.ly/XsgLtpz
-Link: https://buff.ly/gbhXq9L
-Link: https://buff.ly/XsgLtpz
-Image description: [no alt text supplied; image omitted]
-Engagement: like=58 repost=15 reply=2 quote=2
-
---- 95/108 | post | 2026-11-06T17:32:20.493Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznvzcxp422s
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznvzcxp422s
-Author: wario64.bsky.social
-Created: 2026-11-06T17:32:20.493Z
-Switch 1st party restocks at VGP buff.ly/dNsVqOa #ad
-Link: https://buff.ly/dNsVqOa
-Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=0 reply=1 quote=0
-
---- 96/108 | post | 2026-11-06T17:09:54.622Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznur7gz7r2a
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznur7gz7r2a
-Author: wario64.bsky.social
-Created: 2026-11-06T17:09:54.622Z
-XBOX Series X | X25 Special Edition Gaming Console available by invitation on Amazon link.amazon/B0izvUYuC #ad
-Link: https://link.amazon/B0izvUYuC
-Image description: [no alt text supplied; image omitted]
-Engagement: like=58 repost=0 reply=11 quote=9
-
---- 97/108 | post | 2026-11-06T17:08:42.153Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznup2d2im2p
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznup2d2im2p
-Author: wario64.bsky.social
-Created: 2026-11-06T17:08:42.153Z
-Holiday sale on iam8bit (free domestic shipping for $150+ orders) buff.ly/e6vKGvz
-Link: https://buff.ly/e6vKGvz
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=2 reply=1 quote=2
-
---- 98/108 | post | 2026-11-06T17:00:29.173Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznuae6urg2u
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznuae6urg2u
-Author: wario64.bsky.social
-Created: 2026-11-06T17:00:29.173Z
-Hyperspace Neptunia: Unlimited (PS5/PS4/Switch 2) up for preorder at VGP ($49.93 US Dollars) buff.ly/nd931F7 #ad 
-
-Switch 2 on cart
-Link: https://buff.ly/nd931F7
-Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=2 reply=0 quote=2
-
---- 99/108 | post | 2026-11-06T16:59:45.477Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznu72ivfk2z
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznu72ivfk2z
-Author: wario64.bsky.social
-Created: 2026-11-06T16:59:45.477Z
-Shadow of the Tomb Raider Definitive Edition (Switch 2) Standard/CE up for preorder at LRG ($59.99/$99.99) buff.ly/mga0W5l #ad
-Link: https://buff.ly/mga0W5l
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=1 reply=3 quote=0
-
---- 100/108 | post | 2026-11-06T16:41:56.195Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznt76qwqk2z
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznt76qwqk2z
-Author: wario64.bsky.social
-Created: 2026-11-06T16:41:56.195Z
-Fire Emblem: Fortune's Weave Dagdan Collection (Switch 2) available at Best Buy ($119.99) buff.ly/KNWpHIG #ad
-Link: https://buff.ly/KNWpHIG
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Engagement: like=33 repost=2 reply=2 quote=0
-
---- 101/108 | post | 2026-11-06T16:32:59.163Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznsp6m3f22z
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznsp6m3f22z
-Author: wario64.bsky.social
-Created: 2026-11-06T16:32:59.163Z
-No Country for Old Men (The Criterion Collection) 4K UHD + Blu-ray is $24.99 on Amazon amzn.to/47IkeaK
-B&N buff.ly/3X3OIiK #ad
-Link: https://amzn.to/47IkeaK
-Link: https://buff.ly/3X3OIiK
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzmql6vumc2s
-Quoted author: wario64.bsky.social
-Quoted created: 2026-11-06T06:22:18.044Z
-50% off The Criterion Collection (4K UHD/Blu-ray/DVD) on B&N buff.ly/KwW9rna
-
-select matches on Amazon amzn.to/4vCM7dK #ad 
-
-sale ends December 6th
-Link: https://buff.ly/KwW9rna
-Link: https://amzn.to/4vCM7dK
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Engagement: like=35 repost=1 reply=0 quote=0
-
---- 102/108 | post | 2026-11-06T16:26:34.568Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznsdptune2u
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznsdptune2u
-Author: wario64.bsky.social
-Created: 2026-11-06T16:26:34.568Z
-Metroid Dread and Metroid Prime Remastered (Switch ESRB) restocked at VGP ($67.76 / $39.23 US Dollars) buff.ly/fUKt4aq #ad
-Link: https://buff.ly/fUKt4aq
-Image description: [no alt text supplied; image omitted]
-Engagement: like=56 repost=17 reply=2 quote=4
-
---- 103/108 | post | 2026-11-06T16:23:14.112Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzns5qo5p72p
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzns5qo5p72p
-Author: wario64.bsky.social
-Created: 2026-11-06T16:23:14.112Z
-iBUYPOWER - Slate Gaming Desktop PC is $899.99 at Best Buy buff.ly/dzcNuMZ #ad 
-
--AMD Ryzen 5 8400F 
--RTX 5060 8GB 
--16GB DDR5 
--1TB NVMe SSD
-Link: https://buff.ly/dzcNuMZ
-Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=3 reply=3 quote=5
-
---- 104/108 | post | 2026-11-06T16:16:52.650Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznrseuvmq2q
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznrseuvmq2q
-Author: wario64.bsky.social
-Created: 2026-11-06T16:16:52.650Z
-Nintendo Switch Online 12-Month Individual Membership Code is $17.99 at Newegg w/ code EMCF3479 buff.ly/Zzio5j2 #ad
-Link: https://buff.ly/Zzio5j2
-Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=4 reply=0 quote=0
-
---- 105/108 | post | 2026-11-06T16:01:14.526Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznqwg7kqc25
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznqwg7kqc25
-Author: wario64.bsky.social
-Created: 2026-11-06T16:01:14.526Z
-Star Fox Plush in-stock at VGP ($24.96 US Dollars each or $92.73 in bundle) buff.ly/X3NkHz1 #ad
-Link: https://buff.ly/X3NkHz1
-Image description: [no alt text supplied; image omitted]
-Engagement: like=106 repost=20 reply=1 quote=1
-
---- 106/108 | post | 2026-11-06T16:00:14.666Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznqun52ga2c
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznqun52ga2c
-Author: wario64.bsky.social
-Created: 2026-11-06T16:00:14.666Z
-Fanatical Flash Deals (Nov 6) buff.ly/OTvl6lq #ad 
-
--The Elder Scrolls IV: Oblivion Remastered - Deluxe Edition - 40% off ($35.99)
--Dune: Awakening - 57% off ($21.49)
--Sniper Elite V2 Remastered - 95% off ($1.74)
-Link: https://buff.ly/OTvl6lq
-Image description: [no alt text supplied; image omitted]
-Engagement: like=10 repost=0 reply=0 quote=0
-
---- 107/108 | post | 2026-11-06T15:36:16.228Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznpjrcpp22z
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznpjrcpp22z
-Author: wario64.bsky.social
-Created: 2026-11-06T15:36:16.228Z
-Seven Samurai (The Criterion Collection) [4K UHD + Blu-ray] is $29.99 on Amazon amzn.to/40v11Go
-B&N buff.ly/aLYSj2r #ad
-Link: https://amzn.to/40v11Go
-Link: https://buff.ly/aLYSj2r
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Quote: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzmql6vumc2s
-Quoted author: wario64.bsky.social
-Quoted created: 2026-11-06T06:22:18.044Z
-50% off The Criterion Collection (4K UHD/Blu-ray/DVD) on B&N buff.ly/KwW9rna
-
-select matches on Amazon amzn.to/4vCM7dK #ad 
-
-sale ends December 6th
-Link: https://buff.ly/KwW9rna
-Link: https://amzn.to/4vCM7dK
-Languages: en
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=13 reply=0 quote=4
-
---- 108/108 | post | 2026-11-06T15:15:52.679Z ---
-ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznofcgxmsnu
-URL: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mznofcgxmsnu
-Author: wario64.bsky.social
-Created: 2026-11-06T15:15:52.679Z
-It is linked
-Languages: en
-Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3mzm5luxr5cht
-Reply parent: https://bsky.app/profile/did:plc:ah5d2cldt4vbx5p7cgpsaqsl/post/3mznodie2bk2o
-Engagement: like=8 repost=0 reply=1 quote=0
+Engagement: like=61 repost=8 reply=0 quote=2

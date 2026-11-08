@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-06
-Updated: 2026-11-08T15:05:13.930261Z
+Updated: 2026-11-08T19:38:47.693124Z
 Timezone: America/Los_Angeles
 Count: 74
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -15,7 +15,7 @@ Created: 2026-11-06T23:55:52.574Z
 Chrono Trigger Form-ism Crono/Marle figures $64.19 each at VGP (free shipping) buff.ly/ijyFyfy #ad
 Link: https://buff.ly/ijyFyfy
 Image description: [no alt text supplied; image omitted]
-Engagement: like=205 repost=27 reply=5 quote=6
+Engagement: like=205 repost=27 reply=6 quote=6
 
 --- 2/74 | post | 2026-11-06T23:45:53.921Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzokvc3ant2z
@@ -293,7 +293,7 @@ Created: 2026-11-06T19:39:59.492Z
 Xenoblade Chronicles t-shirts $20 each at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=60 repost=8 reply=0 quote=2
+Engagement: like=61 repost=8 reply=0 quote=2
 
 --- 18/74 | post | 2026-11-06T19:28:36.017Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzo4j7dcvc2c
@@ -422,7 +422,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=128 repost=24 reply=5 quote=10
+Engagement: like=129 repost=24 reply=5 quote=10
 
 --- 26/74 | post | 2026-11-06T18:07:36.530Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznxyexqps2c
@@ -497,7 +497,7 @@ Created: 2026-11-06T17:09:54.622Z
 XBOX Series X | X25 Special Edition Gaming Console available by invitation on Amazon link.amazon/B0izvUYuC #ad
 Link: https://link.amazon/B0izvUYuC
 Image description: [no alt text supplied; image omitted]
-Engagement: like=58 repost=0 reply=11 quote=9
+Engagement: like=59 repost=0 reply=11 quote=9
 
 --- 32/74 | post | 2026-11-06T17:08:42.153Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznup2d2im2p
@@ -598,7 +598,7 @@ iBUYPOWER - Slate Gaming Desktop PC is $899.99 at Best Buy buff.ly/dzcNuMZ #ad
 -1TB NVMe SSD
 Link: https://buff.ly/dzcNuMZ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=3 reply=3 quote=5
+Engagement: like=48 repost=3 reply=3 quote=5
 
 --- 39/74 | post | 2026-11-06T16:16:52.650Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznrseuvmq2q
@@ -1045,7 +1045,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=113 repost=27 reply=3 quote=48
+Engagement: like=115 repost=28 reply=3 quote=50
 
 --- 64/74 | post | 2026-11-06T06:05:53.359Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzmpntu4zg2o
@@ -1160,7 +1160,7 @@ Reuters - 'Gaming software provider Unity Software has held recent talks to be a
 Link: https://www.reuters.com/world/silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-2026-11-05/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=579 repost=225 reply=120 quote=585
+Engagement: like=579 repost=225 reply=121 quote=585
 
 --- 74/74 | post | 2026-11-06T00:17:52.131Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzm47jxzoi2v
