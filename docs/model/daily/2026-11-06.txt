@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-06
-Updated: 2026-11-08T07:55:39.755852Z
+Updated: 2026-11-08T15:05:13.930261Z
 Timezone: America/Los_Angeles
 Count: 74
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -1160,7 +1160,7 @@ Reuters - 'Gaming software provider Unity Software has held recent talks to be a
 Link: https://www.reuters.com/world/silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-2026-11-05/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=577 repost=225 reply=120 quote=585
+Engagement: like=579 repost=225 reply=120 quote=585
 
 --- 74/74 | post | 2026-11-06T00:17:52.131Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzm47jxzoi2v

@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-05
-Updated: 2026-11-08T07:55:39.755852Z
+Updated: 2026-11-08T15:05:13.930261Z
 Timezone: America/Los_Angeles
 Count: 85
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -477,7 +477,7 @@ Created: 2026-11-05T17:58:59.736Z
 Wing Commander games are up on Steam buff.ly/MphQ0m3
 Link: https://buff.ly/MphQ0m3
 Image description: [no alt text supplied; image omitted]
-Engagement: like=82 repost=22 reply=4 quote=5
+Engagement: like=83 repost=22 reply=4 quote=5
 
 --- 36/85 | post | 2026-11-05T17:57:39.158Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlgxnty6q2b
