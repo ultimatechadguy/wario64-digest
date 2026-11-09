@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-11-08
-Updated: 2026-11-09T02:45:15.173327Z
+Updated: 2026-11-09T10:26:45.843744Z
 Timezone: America/Los_Angeles
 Count: 40
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -33,7 +33,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=3 reply=2 quote=1
+Engagement: like=45 repost=4 reply=2 quote=1
 
 --- 2/40 | post | 2026-11-08T22:24:51.288Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzthc7mgys2d
@@ -44,7 +44,7 @@ Echo Point Nova is $12.49 on Steam buff.ly/FURVFUo
 Link: https://buff.ly/FURVFUo
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=34 repost=5 reply=0 quote=2
+Engagement: like=45 repost=6 reply=0 quote=2
 
 --- 3/40 | post | 2026-11-08T21:25:08.609Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mztdxgvtxs2d
@@ -58,7 +58,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=135 repost=23 reply=0 quote=7
+Engagement: like=154 repost=28 reply=0 quote=7
 
 --- 4/40 | post | 2026-11-08T21:23:00.637Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mztdtmufec2d
@@ -72,7 +72,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=7 reply=0 quote=0
+Engagement: like=54 repost=8 reply=0 quote=0
 
 --- 5/40 | post | 2026-11-08T21:18:43.989Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mztdly4kat2c
@@ -82,7 +82,7 @@ Created: 2026-11-08T21:18:43.989Z
 Batman: Arkham Collection (Steam) is $7.01 on Fanatical w/ code BUNDLES10 buff.ly/ZXVxpjD #ad
 Link: https://buff.ly/ZXVxpjD
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=4 reply=0 quote=0
+Engagement: like=29 repost=4 reply=0 quote=1
 
 --- 6/40 | post | 2026-11-08T21:16:25.859Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mztdhuf7mu2c
@@ -92,7 +92,7 @@ Created: 2026-11-08T21:16:25.859Z
 Shadows Over Loathing Collector's Edition (Switch) is $49.99 at GameStop buff.ly/TBmIPPs #ad
 Link: https://buff.ly/TBmIPPs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=2 reply=0 quote=0
+Engagement: like=30 repost=3 reply=0 quote=0
 
 --- 7/40 | post | 2026-11-08T20:29:52.416Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mztaumdmc22d
@@ -105,7 +105,7 @@ Link: https://amzn.to/48G8VPT
 Link: https://buff.ly/ym6nYOv
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=0 reply=0 quote=2
+Engagement: like=40 repost=0 reply=1 quote=2
 
 --- 8/40 | post | 2026-11-08T20:28:35.501Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mztascyexk2d
@@ -133,7 +133,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=35 repost=7 reply=1 quote=0
+Engagement: like=43 repost=7 reply=1 quote=0
 
 --- 9/40 | post | 2026-11-08T20:26:10.298Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mztanyjnr22c
@@ -143,7 +143,7 @@ Created: 2026-11-08T20:26:10.298Z
 AMD Ryzen 7 9800X3D Processor is $399.99 at Newegg w/ code BFF36 buff.ly/7dZpXDl #ad
 Link: https://buff.ly/7dZpXDl
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=0 reply=0 quote=0
+Engagement: like=19 repost=1 reply=0 quote=0
 
 --- 10/40 | post | 2026-11-08T20:11:01.168Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzt7svirup23
@@ -154,7 +154,7 @@ Homgard (Steam) w/ 12 more games is $10 on Humble Non Non Nonograms Bundle buff.
 Link: https://buff.ly/yy6t0AD
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=0 reply=2 quote=1
+Engagement: like=15 repost=1 reply=2 quote=1
 
 --- 11/40 | post | 2026-11-08T19:43:01.754Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzt6atvkse23
@@ -164,7 +164,7 @@ Created: 2026-11-08T19:43:01.754Z
 Stardew Valley is $10.49 on US PSN buff.ly/KtfxdCM
 Link: https://buff.ly/KtfxdCM
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=5 reply=1 quote=0
+Engagement: like=45 repost=6 reply=1 quote=0
 
 --- 12/40 | post | 2026-11-08T19:33:05.732Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzt5p3hwfk2a
@@ -192,7 +192,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=2 reply=0 quote=1
+Engagement: like=24 repost=2 reply=0 quote=1
 
 --- 13/40 | post | 2026-11-08T19:05:23.681Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzt45kganu27
@@ -203,7 +203,7 @@ LEGO Batman 3: Beyond Gotham Premium Edition (Steam) w/ 8 more games/DLC is $8 o
 Link: https://buff.ly/SlLcZfK
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=0 reply=0 quote=0
+Engagement: like=25 repost=0 reply=0 quote=0
 
 --- 14/40 | post | 2026-11-08T18:32:35.055Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzt2cuyehk2d
@@ -214,7 +214,7 @@ Fisher-Price Little People My Mario Adventure Playset Toddler Toy is $33.74 on A
 Link: https://amzn.to/4ixNRAU
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=47 repost=5 reply=2 quote=3
+Engagement: like=52 repost=5 reply=2 quote=3
 
 --- 15/40 | post | 2026-11-08T18:26:40.622Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzszycyknp2q
@@ -224,7 +224,7 @@ Created: 2026-11-08T18:26:40.622Z
 Teenage Mutant Ninja Turtles: The Cowabunga Collection (Steam) is $12.19 on Fanatical buff.ly/aSsd5Rz #ad
 Link: https://buff.ly/aSsd5Rz
 Image description: [no alt text supplied; image omitted]
-Engagement: like=49 repost=9 reply=1 quote=1
+Engagement: like=53 repost=9 reply=1 quote=2
 
 --- 16/40 | post | 2026-11-08T18:03:02.746Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsyo2rzm72s
@@ -249,7 +249,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=2 reply=1 quote=4
+Engagement: like=14 repost=2 reply=1 quote=4
 
 --- 17/40 | post | 2026-11-08T17:51:38.782Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsxzoiwcs2d
@@ -277,7 +277,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=9 reply=0 quote=2
+Engagement: like=28 repost=9 reply=0 quote=2
 
 --- 18/40 | post | 2026-11-08T17:42:01.282Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsxihrlm22u
@@ -287,7 +287,7 @@ Created: 2026-11-08T17:42:01.282Z
 Final Fantasy - Next Level Coffee t-shirt (by ilustrata) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=83 repost=10 reply=0 quote=0
+Engagement: like=85 repost=10 reply=0 quote=1
 
 --- 19/40 | post | 2026-11-08T17:36:27.150Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsx6j4ouq2q
@@ -297,7 +297,7 @@ Created: 2026-11-08T17:36:27.150Z
 Alien: Isolation The Collection (Steam) is $13.77 on Fanatical buff.ly/NkJsTfm #ad
 Link: https://buff.ly/NkJsTfm
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=6 reply=0 quote=0
+Engagement: like=30 repost=6 reply=0 quote=0
 
 --- 20/40 | post | 2026-11-08T17:03:40.788Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsvdvtx3w26
@@ -307,7 +307,7 @@ Created: 2026-11-08T17:03:40.788Z
 Outbound is $18.74 on US eShop buff.ly/mRNjlPQ
 Link: https://buff.ly/mRNjlPQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=2 reply=0 quote=0
+Engagement: like=24 repost=2 reply=0 quote=0
 
 --- 21/40 | post | 2026-11-08T16:54:35.956Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsutob7tb2u
@@ -318,7 +318,7 @@ AVerMedia Streamline Mini+ USB-C Game Capture Card, 4K60 HDR Passthrough is $62.
 Link: https://buff.ly/JvCidkY
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=3 reply=0 quote=1
+Engagement: like=34 repost=3 reply=0 quote=1
 
 --- 22/40 | post | 2026-11-08T16:39:48.265Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzstz7od422d
@@ -329,7 +329,7 @@ SUPER MARIO Nintendo Super Mario Deluxe Bowser Battle Playset with Lights and So
 Link: https://amzn.to/4zJsT8j
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=37 repost=1 reply=1 quote=0
+Engagement: like=40 repost=2 reply=2 quote=0
 
 --- 23/40 | post | 2026-11-08T16:28:03.245Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzste7dch72z
@@ -367,7 +367,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=1 reply=1 quote=1
+Engagement: like=21 repost=1 reply=1 quote=1
 
 --- 25/40 | post | 2026-11-08T16:15:22.962Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzssnkau4ki6
@@ -410,7 +410,7 @@ Link: https://buff.ly/IDfGndf
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=1 reply=1 quote=0
+Engagement: like=25 repost=1 reply=1 quote=1
 
 --- 28/40 | post | 2026-11-08T16:10:34.733Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzssexethk2d
@@ -478,7 +478,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=4 reply=2 quote=1
+Engagement: like=33 repost=4 reply=2 quote=1
 
 --- 32/40 | post | 2026-11-08T15:46:20.890Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsqzmuzwk2d
@@ -500,7 +500,7 @@ Rambo: 1-5 (4K UHD + Digital) is $75.58 on Amazon amzn.to/4dBDha4 #ad
 Link: https://amzn.to/4dBDha4
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=0 reply=0 quote=0
+Engagement: like=14 repost=1 reply=0 quote=0
 
 --- 34/40 | post | 2026-11-08T15:43:55.095Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsqvbucgq2s
@@ -581,4 +581,4 @@ Sonic The Hedgehog Giant Metal Sonic Action Figure Toy 20-Inch Battle Set is $39
 Link: https://amzn.to/3UEemLY
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=71 repost=9 reply=1 quote=3
+Engagement: like=72 repost=9 reply=1 quote=3

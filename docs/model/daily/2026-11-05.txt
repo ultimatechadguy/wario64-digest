@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-05
-Updated: 2026-11-09T02:45:15.173327Z
+Updated: 2026-11-09T10:26:45.843744Z
 Timezone: America/Los_Angeles
 Count: 85
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -584,7 +584,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=0 reply=8 quote=4
+Engagement: like=41 repost=0 reply=8 quote=4
 
 --- 45/85 | post | 2026-11-05T16:42:11.871Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzlcqqaldk2s
@@ -1031,7 +1031,7 @@ Marvel’s Wolverine has sold 2.4 million units
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=131 repost=16 reply=26 quote=41
+Engagement: like=130 repost=16 reply=26 quote=41
 
 --- 79/85 | post | 2026-11-05T06:37:13.311Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzkawxahss2c
@@ -1070,7 +1070,7 @@ The Legend of Zelda: Ocarina of Time - ocarina sheet music www.nintendo.com/jp/g
 Link: https://www.nintendo.com/jp/games/switch2/aa9ja/melody/index.html
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=394 repost=69 reply=4 quote=6
+Engagement: like=395 repost=69 reply=4 quote=6
 
 --- 82/85 | post | 2026-11-05T01:11:31.826Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzjoqkzoek24

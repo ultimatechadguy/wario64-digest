@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-07
-Updated: 2026-11-09T02:45:15.173327Z
+Updated: 2026-11-09T10:26:45.843744Z
 Timezone: America/Los_Angeles
 Count: 59
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -78,7 +78,7 @@ Created: 2026-11-07T22:35:11.714Z
 Apple Watch Ultra 3 $549/$649 at Best Buy buff.ly/P9zhLza #ad
 Link: https://buff.ly/P9zhLza
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=0 reply=0 quote=0
+Engagement: like=12 repost=0 reply=0 quote=0
 
 --- 6/59 | post | 2026-11-07T22:30:10.625Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqx4spn5i2a
@@ -102,7 +102,7 @@ US PSN buff.ly/SuScifx
 Link: https://buff.ly/hBGY9ir
 Link: https://buff.ly/SuScifx
 Image description: [no alt text supplied; image omitted]
-Engagement: like=57 repost=7 reply=2 quote=2
+Engagement: like=58 repost=7 reply=2 quote=2
 
 --- 8/59 | post | 2026-11-07T21:36:20.255Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqu4jy2cs2k
@@ -154,7 +154,7 @@ Created: 2026-11-07T21:27:01.383Z
 Fire Emblem - Money Lady t-shirt (by HelloWinter) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=195 repost=28 reply=0 quote=2
+Engagement: like=197 repost=28 reply=0 quote=2
 
 --- 11/59 | post | 2026-11-07T21:21:32.322Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqtc36hbc2k
@@ -180,7 +180,7 @@ All VGP deals buff.ly/B2wm2B6 #ad
 Link: https://buff.ly/a0vNV3X
 Link: https://buff.ly/B2wm2B6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=64 repost=6 reply=0 quote=1
+Engagement: like=65 repost=6 reply=0 quote=1
 
 --- 13/59 | post | 2026-11-07T20:47:01.220Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqredzx2y2q
@@ -200,7 +200,7 @@ Created: 2026-11-07T20:31:02.275Z
 TUNIC is $14.99 on Steam buff.ly/nzOOvlA
 Link: https://buff.ly/nzOOvlA
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=19 reply=1 quote=3
+Engagement: like=62 repost=19 reply=1 quote=3
 
 --- 15/59 | post | 2026-11-07T20:30:24.102Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqqgn7uvb2i
@@ -313,7 +313,7 @@ Mention: did:plc:p5apig43qsl7tculldey5ksk
 Link: https://store.steampowered.com/app/3832490/Antivirus_Survivors_2003_Professional/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=189 repost=321 reply=2 quote=4
+Engagement: like=192 repost=323 reply=2 quote=4
 
 --- 22/59 | post | 2026-11-07T19:19:57.244Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqmio2en22g
@@ -362,7 +362,7 @@ Created: 2026-11-07T19:03:45.978Z
 Fire Emblem: Fortune’s Weave - The Queen's Arrival t-shirt (by HelloWinter) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=207 repost=31 reply=0 quote=1
+Engagement: like=208 repost=31 reply=0 quote=1
 
 --- 26/59 | post | 2026-11-07T18:44:01.428Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqkig4l7r2o
@@ -400,7 +400,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=1 reply=1 quote=1
+Engagement: like=20 repost=1 reply=1 quote=1
 
 --- 28/59 | post | 2026-11-07T18:11:57.971Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqip3rl7h2c
@@ -482,7 +482,7 @@ Link: https://amzn.to/4AhzkiL
 Link: https://buff.ly/6duUMmj
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=4 reply=0 quote=0
+Engagement: like=37 repost=4 reply=0 quote=0
 
 --- 34/59 | post | 2026-11-07T17:07:05.084Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqf337tku2p
