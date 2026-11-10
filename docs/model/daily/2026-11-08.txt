@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-08
-Updated: 2026-11-09T21:02:10.316509Z
+Updated: 2026-11-10T03:28:59.038587Z
 Timezone: America/Los_Angeles
 Count: 40
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -44,7 +44,7 @@ Echo Point Nova is $12.49 on Steam buff.ly/FURVFUo
 Link: https://buff.ly/FURVFUo
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=51 repost=7 reply=0 quote=2
+Engagement: like=50 repost=7 reply=0 quote=2
 
 --- 3/40 | post | 2026-11-08T21:25:08.609Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mztdxgvtxs2d
@@ -72,7 +72,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=8 reply=0 quote=0
+Engagement: like=56 repost=8 reply=0 quote=0
 
 --- 5/40 | post | 2026-11-08T21:18:43.989Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mztdly4kat2c
@@ -203,7 +203,7 @@ LEGO Batman 3: Beyond Gotham Premium Edition (Steam) w/ 8 more games/DLC is $8 o
 Link: https://buff.ly/SlLcZfK
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=0 reply=0 quote=0
+Engagement: like=27 repost=1 reply=0 quote=0
 
 --- 14/40 | post | 2026-11-08T18:32:35.055Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzt2cuyehk2d
@@ -287,7 +287,7 @@ Created: 2026-11-08T17:42:01.282Z
 Final Fantasy - Next Level Coffee t-shirt (by ilustrata) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=88 repost=11 reply=0 quote=1
+Engagement: like=89 repost=12 reply=0 quote=1
 
 --- 19/40 | post | 2026-11-08T17:36:27.150Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsx6j4ouq2q
@@ -318,7 +318,7 @@ AVerMedia Streamline Mini+ USB-C Game Capture Card, 4K60 HDR Passthrough is $62.
 Link: https://buff.ly/JvCidkY
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=35 repost=3 reply=0 quote=1
+Engagement: like=36 repost=4 reply=0 quote=1
 
 --- 22/40 | post | 2026-11-08T16:39:48.265Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzstz7od422d
@@ -329,7 +329,7 @@ SUPER MARIO Nintendo Super Mario Deluxe Bowser Battle Playset with Lights and So
 Link: https://amzn.to/4zJsT8j
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=41 repost=2 reply=2 quote=0
+Engagement: like=42 repost=2 reply=2 quote=0
 
 --- 23/40 | post | 2026-11-08T16:28:03.245Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzste7dch72z
