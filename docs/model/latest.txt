@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-11-09
-Updated: 2026-11-10T18:55:06.742086Z
+Updated: 2026-11-10T23:59:42.070165Z
 Timezone: America/Los_Angeles
 Count: 67
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -71,7 +71,7 @@ Takeover 2 is $17.99 on Steam (10% off launch discount) buff.ly/Y3wuPRG
 Link: https://buff.ly/Y3wuPRG
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=60 repost=11 reply=1 quote=0
+Engagement: like=71 repost=13 reply=1 quote=3
 
 --- 5/67 | post | 2026-11-09T21:53:13.474Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvvyl6rmb2j
@@ -91,7 +91,7 @@ Created: 2026-11-09T21:38:52.689Z
 The Legend of Heroes: Trails of Cold Steel (Steam/DRM-free) is $19.99 on Humble buff.ly/HDBkSxJ #ad
 Link: https://buff.ly/HDBkSxJ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=46 repost=16 reply=0 quote=4
+Engagement: like=46 repost=16 reply=0 quote=5
 
 --- 7/67 | post | 2026-11-09T21:20:52.836Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvu6qh2ms27
@@ -104,7 +104,7 @@ variety.com/2026/gaming/...
 Link: https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=71 repost=9 reply=14 quote=16
+Engagement: like=72 repost=9 reply=14 quote=16
 
 --- 8/67 | post | 2026-11-09T21:14:02.705Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvtsjcxpu24
@@ -147,7 +147,7 @@ Created: 2026-11-09T20:38:01.610Z
 THEATRHYTHM FINAL BAR LINE is $24.99 on US eShop buff.ly/dcJkEUg
 Link: https://buff.ly/dcJkEUg
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=11 reply=1 quote=4
+Engagement: like=38 repost=11 reply=1 quote=4
 
 --- 11/67 | post | 2026-11-09T20:31:49.190Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvrgz6atn2b
@@ -192,7 +192,7 @@ Mention: did:plc:p5apig43qsl7tculldey5ksk
 Link: https://store.steampowered.com/app/3832490/Antivirus_Survivors_2003_Professional/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=286 repost=439 reply=2 quote=5
+Engagement: like=290 repost=440 reply=2 quote=5
 
 --- 15/67 | post | 2026-11-09T20:12:01.633Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvqdmmv7o2y
@@ -378,7 +378,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=0 reply=2 quote=0
+Engagement: like=16 repost=0 reply=2 quote=1
 
 --- 27/67 | post | 2026-11-09T18:14:50.816Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvjs3j6jc27
@@ -506,7 +506,7 @@ Created: 2026-11-09T17:17:15.148Z
 Link: https://variety.com/2026/film/news/james-gunn-peter-safran-fired-dc-jeremy-latcham-1236943091/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=398 repost=119 reply=74 quote=582
+Engagement: like=402 repost=120 reply=74 quote=583
 
 --- 35/67 | post | 2026-11-09T17:13:08.970Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvgdr5wvl22
@@ -550,7 +550,7 @@ Warhammer 40,000: Dark Heresy - Release Date Trailer (Jan 28th, 2027) www.youtub
 Link: https://www.youtube.com/watch?v=PKccIqfBskc
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=59 repost=12 reply=1 quote=4
+Engagement: like=60 repost=12 reply=1 quote=4
 
 --- 39/67 | post | 2026-11-09T16:06:41.424Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvcmwdjo227
@@ -688,7 +688,7 @@ Ticket lottery open until Nov 10th, 4 PM ET
 Link: https://www.rockstargames.com/VI/gtavi-thefestival
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=82 repost=12 reply=15 quote=27
+Engagement: like=83 repost=12 reply=15 quote=26
 
 --- 49/67 | post | 2026-11-09T13:51:46.546Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzv33ohmkt2h
@@ -832,7 +832,7 @@ Created: 2026-11-09T06:02:33.497Z
 4 Shirts for $24 on Woot buff.ly/dJLLDN8 #ad
 Link: https://buff.ly/dJLLDN8
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=0 reply=0 quote=0
+Engagement: like=18 repost=0 reply=0 quote=0
 
 --- 61/67 | post | 2026-11-09T06:01:32.840Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzuastrm2n23
