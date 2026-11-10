@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-06
-Updated: 2026-11-10T11:43:03.809080Z
+Updated: 2026-11-10T18:55:06.742086Z
 Timezone: America/Los_Angeles
 Count: 74
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -914,7 +914,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=15 reply=4 quote=7
+Engagement: like=52 repost=15 reply=4 quote=7
 
 --- 57/74 | post | 2026-11-06T13:26:33.661Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznibtbnlk2z
@@ -1045,7 +1045,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=128 repost=32 reply=3 quote=58
+Engagement: like=130 repost=32 reply=3 quote=58
 
 --- 64/74 | post | 2026-11-06T06:05:53.359Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzmpntu4zg2o
@@ -1160,7 +1160,7 @@ Reuters - 'Gaming software provider Unity Software has held recent talks to be a
 Link: https://www.reuters.com/world/silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-2026-11-05/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=584 repost=227 reply=121 quote=585
+Engagement: like=585 repost=228 reply=121 quote=585
 
 --- 74/74 | post | 2026-11-06T00:17:52.131Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzm47jxzoi2v
