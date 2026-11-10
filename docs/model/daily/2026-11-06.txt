@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-06
-Updated: 2026-11-10T03:28:59.038587Z
+Updated: 2026-11-10T11:43:03.809080Z
 Timezone: America/Los_Angeles
 Count: 74
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -15,7 +15,7 @@ Created: 2026-11-06T23:55:52.574Z
 Chrono Trigger Form-ism Crono/Marle figures $64.19 each at VGP (free shipping) buff.ly/ijyFyfy #ad
 Link: https://buff.ly/ijyFyfy
 Image description: [no alt text supplied; image omitted]
-Engagement: like=208 repost=27 reply=6 quote=6
+Engagement: like=209 repost=27 reply=6 quote=6
 
 --- 2/74 | post | 2026-11-06T23:45:53.921Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzokvc3ant2z
@@ -384,7 +384,7 @@ Link: https://buff.ly/A3ae8wr
 Link: https://buff.ly/HIg1hf9
 Link: https://buff.ly/nsClXgm
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=4 reply=0 quote=1
+Engagement: like=27 repost=3 reply=0 quote=1
 
 --- 24/74 | post | 2026-11-06T18:24:27.344Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznywixlfr2s
@@ -522,7 +522,7 @@ Hyperspace Neptunia: Unlimited (PS5/PS4/Switch 2) up for preorder at VGP ($49.93
 Switch 2 on cart
 Link: https://buff.ly/nd931F7
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=2 reply=0 quote=2
+Engagement: like=25 repost=2 reply=0 quote=2
 
 --- 34/74 | post | 2026-11-06T16:59:45.477Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznu72ivfk2z
@@ -914,7 +914,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=15 reply=4 quote=7
+Engagement: like=51 repost=15 reply=4 quote=7
 
 --- 57/74 | post | 2026-11-06T13:26:33.661Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mznibtbnlk2z
@@ -1045,7 +1045,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=127 repost=31 reply=3 quote=58
+Engagement: like=128 repost=32 reply=3 quote=58
 
 --- 64/74 | post | 2026-11-06T06:05:53.359Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzmpntu4zg2o
@@ -1160,7 +1160,7 @@ Reuters - 'Gaming software provider Unity Software has held recent talks to be a
 Link: https://www.reuters.com/world/silver-lake-pif-have-held-recent-talks-buy-gaming-software-provider-unity-2026-11-05/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=584 repost=228 reply=121 quote=585
+Engagement: like=584 repost=227 reply=121 quote=585
 
 --- 74/74 | post | 2026-11-06T00:17:52.131Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzm47jxzoi2v
