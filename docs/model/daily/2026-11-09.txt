@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-09
-Updated: 2026-11-11T06:00:21.469537Z
+Updated: 2026-11-11T14:07:45.907825Z
 Timezone: America/Los_Angeles
 Count: 67
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -71,7 +71,7 @@ Takeover 2 is $17.99 on Steam (10% off launch discount) buff.ly/Y3wuPRG
 Link: https://buff.ly/Y3wuPRG
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=81 repost=17 reply=1 quote=3
+Engagement: like=84 repost=17 reply=1 quote=3
 
 --- 5/67 | post | 2026-11-09T21:53:13.474Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvvyl6rmb2j
@@ -91,7 +91,7 @@ Created: 2026-11-09T21:38:52.689Z
 The Legend of Heroes: Trails of Cold Steel (Steam/DRM-free) is $19.99 on Humble buff.ly/HDBkSxJ #ad
 Link: https://buff.ly/HDBkSxJ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=46 repost=16 reply=0 quote=5
+Engagement: like=47 repost=17 reply=0 quote=5
 
 --- 7/67 | post | 2026-11-09T21:20:52.836Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvu6qh2ms27
@@ -104,7 +104,7 @@ variety.com/2026/gaming/...
 Link: https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=73 repost=9 reply=14 quote=16
+Engagement: like=73 repost=9 reply=13 quote=16
 
 --- 8/67 | post | 2026-11-09T21:14:02.705Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvtsjcxpu24
@@ -192,7 +192,7 @@ Mention: did:plc:p5apig43qsl7tculldey5ksk
 Link: https://store.steampowered.com/app/3832490/Antivirus_Survivors_2003_Professional/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=365 repost=583 reply=2 quote=6
+Engagement: like=378 repost=615 reply=2 quote=6
 
 --- 15/67 | post | 2026-11-09T20:12:01.633Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvqdmmv7o2y
@@ -506,7 +506,7 @@ Created: 2026-11-09T17:17:15.148Z
 Link: https://variety.com/2026/film/news/james-gunn-peter-safran-fired-dc-jeremy-latcham-1236943091/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=404 repost=121 reply=74 quote=583
+Engagement: like=407 repost=123 reply=75 quote=582
 
 --- 35/67 | post | 2026-11-09T17:13:08.970Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvgdr5wvl22
@@ -688,7 +688,7 @@ Ticket lottery open until Nov 10th, 4 PM ET
 Link: https://www.rockstargames.com/VI/gtavi-thefestival
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=84 repost=12 reply=15 quote=26
+Engagement: like=85 repost=12 reply=15 quote=26
 
 --- 49/67 | post | 2026-11-09T13:51:46.546Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzv33ohmkt2h
@@ -711,7 +711,7 @@ perfecting for losing $1,920 in game key cards
 Link: https://buff.ly/YGuS7Vg
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=134 repost=7 reply=2 quote=1
+Engagement: like=135 repost=7 reply=2 quote=1
 
 --- 51/67 | post | 2026-11-09T13:29:51.634Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzuzuihptl2i
