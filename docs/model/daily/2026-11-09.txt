@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-09
-Updated: 2026-11-10T23:59:42.070165Z
+Updated: 2026-11-11T06:00:21.469537Z
 Timezone: America/Los_Angeles
 Count: 67
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -60,7 +60,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=1 reply=5 quote=1
+Engagement: like=22 repost=1 reply=5 quote=1
 
 --- 4/67 | post | 2026-11-09T22:06:32.294Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvwqeylnk27
@@ -71,7 +71,7 @@ Takeover 2 is $17.99 on Steam (10% off launch discount) buff.ly/Y3wuPRG
 Link: https://buff.ly/Y3wuPRG
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=71 repost=13 reply=1 quote=3
+Engagement: like=81 repost=17 reply=1 quote=3
 
 --- 5/67 | post | 2026-11-09T21:53:13.474Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvvyl6rmb2j
@@ -104,7 +104,7 @@ variety.com/2026/gaming/...
 Link: https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=72 repost=9 reply=14 quote=16
+Engagement: like=73 repost=9 reply=14 quote=16
 
 --- 8/67 | post | 2026-11-09T21:14:02.705Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvtsjcxpu24
@@ -192,7 +192,7 @@ Mention: did:plc:p5apig43qsl7tculldey5ksk
 Link: https://store.steampowered.com/app/3832490/Antivirus_Survivors_2003_Professional/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=290 repost=440 reply=2 quote=5
+Engagement: like=365 repost=583 reply=2 quote=6
 
 --- 15/67 | post | 2026-11-09T20:12:01.633Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvqdmmv7o2y
@@ -280,7 +280,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=8 repost=1 reply=0 quote=0
+Engagement: like=9 repost=1 reply=0 quote=0
 
 --- 22/67 | post | 2026-11-09T18:38:56.072Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvl55sue227
@@ -378,7 +378,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=0 reply=2 quote=1
+Engagement: like=17 repost=1 reply=2 quote=1
 
 --- 27/67 | post | 2026-11-09T18:14:50.816Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvjs3j6jc27
@@ -431,7 +431,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=7 reply=1 quote=8
+Engagement: like=16 repost=8 reply=1 quote=8
 
 --- 30/67 | post | 2026-11-09T18:09:02.163Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvjhozdh32m
@@ -485,7 +485,7 @@ Link: https://buff.ly/QC7YmrZ
 Link: https://buff.ly/E8EPxv0
 Link: https://buff.ly/b5fNkNH
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=9 reply=0 quote=1
+Engagement: like=29 repost=10 reply=0 quote=1
 
 --- 33/67 | post | 2026-11-09T17:32:54.542Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvhh3ss2o2x
@@ -506,7 +506,7 @@ Created: 2026-11-09T17:17:15.148Z
 Link: https://variety.com/2026/film/news/james-gunn-peter-safran-fired-dc-jeremy-latcham-1236943091/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=402 repost=120 reply=74 quote=583
+Engagement: like=404 repost=121 reply=74 quote=583
 
 --- 35/67 | post | 2026-11-09T17:13:08.970Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvgdr5wvl22
@@ -675,7 +675,7 @@ Link: https://amzn.to/3WtSTGc
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=72 repost=13 reply=3 quote=9
+Engagement: like=73 repost=13 reply=3 quote=9
 
 --- 48/67 | post | 2026-11-09T14:02:51.448Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzv3piknq22f
@@ -688,7 +688,7 @@ Ticket lottery open until Nov 10th, 4 PM ET
 Link: https://www.rockstargames.com/VI/gtavi-thefestival
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=83 repost=12 reply=15 quote=26
+Engagement: like=84 repost=12 reply=15 quote=26
 
 --- 49/67 | post | 2026-11-09T13:51:46.546Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzv33ohmkt2h
@@ -892,7 +892,7 @@ DRAGON QUEST RPG The Cursed Tree and the Chosen Isle | Announcement Trailer prem
 Link: https://www.youtube.com/watch?v=QkA6TWFDjkE
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=131 repost=10 reply=18 quote=60
+Engagement: like=132 repost=10 reply=18 quote=60
 
 --- 66/67 | post | 2026-11-09T04:19:55.609Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzu354yrwk2v
