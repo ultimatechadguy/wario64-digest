@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-07
-Updated: 2026-11-11T21:27:46.447391Z
+Updated: 2026-11-12T02:29:18.661327Z
 Timezone: America/Los_Angeles
 Count: 59
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -313,7 +313,7 @@ Mention: did:plc:p5apig43qsl7tculldey5ksk
 Link: https://store.steampowered.com/app/3832490/Antivirus_Survivors_2003_Professional/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=379 repost=619 reply=2 quote=6
+Engagement: like=453 repost=715 reply=3 quote=10
 
 --- 22/59 | post | 2026-11-07T19:19:57.244Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzqmio2en22g
