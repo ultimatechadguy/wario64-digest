@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-11-11
-Updated: 2026-11-12T18:26:32.561451Z
+Updated: 2026-11-12T23:51:03.224147Z
 Timezone: America/Los_Angeles
 Count: 69
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -52,7 +52,7 @@ The board is preparing to meet as soon as today to determine his future, people 
 Link: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?mod=e2tw
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=665 repost=159 reply=45 quote=118
+Engagement: like=667 repost=159 reply=45 quote=119
 
 --- 5/69 | post | 2026-11-11T22:16:18.064Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22y7okeo22v
@@ -83,7 +83,7 @@ Author: jasonschreier.bsky.social
 Created: 2026-11-11T21:52:57.710Z
 Skydance Games told the development team behind Marvel 1943: Rise of Hydra on Slack this afternoon that the game is not canceled, despite a widely circulated rumor on Twitter today claiming that it was.
 Languages: en
-Engagement: like=932 repost=123 reply=26 quote=40
+Engagement: like=941 repost=124 reply=26 quote=40
 
 --- 8/69 | post | 2026-11-11T21:44:49.257Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22whfaqb32m
@@ -123,7 +123,7 @@ Created: 2026-11-11T21:12:36.471Z
 Klonoa Phantasy Reverie Series (Steam) is $9.19 on Fanatical buff.ly/FLVyApH #ad
 Link: https://buff.ly/FLVyApH
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=15 reply=0 quote=1
+Engagement: like=53 repost=15 reply=0 quote=1
 
 --- 11/69 | post | 2026-11-11T20:58:45.220Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22tuzazc22k
@@ -150,7 +150,7 @@ Link: https://buff.ly/ca7tiC7
 Link: https://buff.ly/RdaWiNV
 Link: https://buff.ly/2RNxTCX
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=8 reply=1 quote=1
+Engagement: like=39 repost=8 reply=1 quote=1
 
 --- 13/69 | post | 2026-11-11T20:11:02.074Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22r7oqpcs2w
@@ -171,7 +171,7 @@ Created: 2026-11-11T20:10:16.281Z
 Resident Evil Requiem wins Ultimate Game of the Year at Golden Joystick Awards 2026
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=332 repost=45 reply=12 quote=42
+Engagement: like=334 repost=45 reply=12 quote=42
 
 --- 15/69 | post | 2026-11-11T19:58:42.302Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22qjnaqnd2w
@@ -237,7 +237,7 @@ Created: 2026-11-11T18:41:36.419Z
 Simogo Legacy Collection is $11.24 on Steam buff.ly/HvZ11MQ
 Link: https://buff.ly/HvZ11MQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=0 reply=0 quote=2
+Engagement: like=18 repost=0 reply=0 quote=2
 
 --- 21/69 | post | 2026-11-11T18:39:28.356Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22m3xjsys2t
@@ -247,7 +247,7 @@ Created: 2026-11-11T18:39:28.356Z
 SOMA 10th Anniversary Collector’s Edition (Switch EU Import) in-stock at VGP ($126.88 US Dollars) buff.ly/Qihuf0O #ad
 Link: https://buff.ly/Qihuf0O
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=0 reply=0 quote=0
+Engagement: like=25 repost=0 reply=0 quote=0
 
 --- 22/69 | post | 2026-11-11T18:27:44.513Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22lgybyzc2v
@@ -319,7 +319,7 @@ Created: 2026-11-11T17:41:35.100Z
 Yellow Feathers Flock Together t-shirt (by Terry Mack) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=303 repost=55 reply=2 quote=0
+Engagement: like=304 repost=55 reply=2 quote=0
 
 --- 26/69 | post | 2026-11-11T17:33:42.694Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22igenk5k2v
@@ -347,7 +347,7 @@ Mention: did:plc:dwwzb6go5lkw5shdryditl4v
 Link: https://buff.ly/iMeQcme
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=218 repost=381 reply=9 quote=4
+Engagement: like=269 repost=496 reply=10 quote=4
 
 --- 28/69 | post | 2026-11-11T17:11:02.267Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22h5tarh52t
@@ -445,7 +445,7 @@ Link: https://buff.ly/QVCOPkD
 Link: https://buff.ly/pW2ZdCx
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=64 repost=5 reply=2 quote=3
+Engagement: like=65 repost=5 reply=2 quote=3
 
 --- 34/69 | post | 2026-11-11T16:08:59.010Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22doui25v2o
@@ -455,7 +455,7 @@ Created: 2026-11-11T16:08:59.010Z
 The Legend of Zelda: Ocarina of Time (Switch 2 Digital) is $54.99 on Newegg w/ code EMCF3483 buff.ly/gxCMxBV #ad
 Link: https://buff.ly/gxCMxBV
 Image description: [no alt text supplied; image omitted]
-Engagement: like=98 repost=21 reply=0 quote=1
+Engagement: like=99 repost=21 reply=0 quote=1
 
 --- 35/69 | post | 2026-11-11T16:06:08.892Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22djsahhc2t
@@ -539,7 +539,7 @@ Samsung LS27HG610SNXZA 27 Inch Odyssey QHD-OLED G6 Monitor, 240hz Refresh, Free 
 extra 20%/30% off ends at 9:59 PM PT
 Link: https://buff.ly/w6ps2wE
 Image description: [no alt text supplied; image omitted]
-Engagement: like=12 repost=1 reply=0 quote=0
+Engagement: like=13 repost=1 reply=0 quote=0
 
 --- 42/69 | post | 2026-11-11T15:35:53.012Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22btohysc2v
@@ -635,7 +635,7 @@ Link: https://buff.ly/ifxCTuy
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=5 reply=1 quote=0
+Engagement: like=52 repost=6 reply=1 quote=0
 
 --- 48/69 | post | 2026-11-11T15:17:04.645Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22as2f46d2n
@@ -679,7 +679,7 @@ The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 Sells Over 5.2 Millio
 Link: https://www.nintendo.co.jp/corporate/release/en/2026/261111.html
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=947 repost=199 reply=28 quote=151
+Engagement: like=956 repost=200 reply=28 quote=151
 
 --- 52/69 | post | 2026-11-11T06:18:07.390Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzzcod6adk2x
@@ -904,7 +904,7 @@ DANGANRONPA 1/2/V3 bundle is $17.96 on Steam buff.ly/36hKHLn
 -Another Episode: Ultra Despair Girls $5.99
 Link: https://buff.ly/36hKHLn
 Image description: [no alt text supplied; image omitted]
-Engagement: like=69 repost=21 reply=1 quote=9
+Engagement: like=70 repost=21 reply=1 quote=9
 
 --- 68/69 | post | 2026-11-11T00:33:46.947Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzypgltqlh2b

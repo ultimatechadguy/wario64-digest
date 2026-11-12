@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-08
-Updated: 2026-11-12T18:26:32.561451Z
+Updated: 2026-11-12T23:51:03.224147Z
 Timezone: America/Los_Angeles
 Count: 40
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -58,7 +58,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=161 repost=29 reply=0 quote=7
+Engagement: like=162 repost=29 reply=0 quote=7
 
 --- 4/40 | post | 2026-11-08T21:23:00.637Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mztdtmufec2d
@@ -489,7 +489,7 @@ Tides of Tomorrow (PS5) is $20.38 on Amazon amzn.to/3UFFjyD #ad
 Link: https://amzn.to/3UFFjyD
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=0 reply=0 quote=2
+Engagement: like=15 repost=0 reply=0 quote=2
 
 --- 33/40 | post | 2026-11-08T15:45:16.217Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzsqxp7fok2d
