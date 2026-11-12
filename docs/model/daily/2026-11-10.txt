@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-10
-Updated: 2026-11-12T02:29:18.661327Z
+Updated: 2026-11-12T10:14:35.106932Z
 Timezone: America/Los_Angeles
 Count: 69
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -62,7 +62,7 @@ Link: https://buff.ly/sQFhi5X
 Link: https://buff.ly/07VXuGc
 Link: https://buff.ly/WYuakXH
 Image description: [no alt text supplied; image omitted]
-Engagement: like=84 repost=29 reply=2 quote=5
+Engagement: like=85 repost=30 reply=2 quote=5
 
 --- 4/69 | post | 2026-11-10T21:41:00.955Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzyfro2qcv2c
@@ -119,7 +119,7 @@ Languages: en
 Card title: PlayStation Cancels Online Shooting Title ‘Fairgames’
 Card description: There will be no job cuts alongside the cancellation, Sony said
 Card uri: https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDM0MzEyMSwiZXhwIjoxNzk0OTQ3OTIxLCJhcnRpY2xlSWQiOiJUT0IwMDNLSVVQVEwwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.0VitdVcIPZb98kOClbou7VJYMIEblBJyP0spzGGfRQ4
-Engagement: like=1073 repost=167 reply=92 quote=272
+Engagement: like=1077 repost=169 reply=92 quote=272
 
 --- 8/69 | post | 2026-11-10T20:12:01.284Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzyasjqycn2s
@@ -230,7 +230,7 @@ The Outer Worlds 2 - Side Effects Guaranteed DLC coming December 2nd ($14.99) ne
 Link: https://news.xbox.com/en-us/2026/11/10/side-effects-guaranteed-the-outer-worlds-2-dlc/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=103 repost=5 reply=5 quote=9
+Engagement: like=105 repost=6 reply=5 quote=9
 
 --- 16/69 | post | 2026-11-10T18:11:21.456Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzy22rcqg226
@@ -421,7 +421,7 @@ PS+ Premium
 Link: https://blog.playstation.com/2026/11/10/playstation-plus-game-catalog-for-november-death-stranding-2-on-the-beach-like-a-dragon-pirate-yakuza-in-hawaii-atomfall-dragon-quest-iii-hd-2d-remake-and-more/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=62 repost=10 reply=17 quote=9
+Engagement: like=63 repost=10 reply=17 quote=9
 
 --- 29/69 | post | 2026-11-10T16:32:08.141Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzxujds26s26
@@ -781,7 +781,7 @@ Girls Just Wanna Have Guns! Bundle (Steam) up on GMG ($15) buff.ly/jfwV6I2 #ad
 -Severed Steel
 Link: https://buff.ly/jfwV6I2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=35 repost=3 reply=0 quote=1
+Engagement: like=36 repost=3 reply=0 quote=1
 
 --- 56/69 | post | 2026-11-10T13:00:48.856Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzxiphuxwk2x
@@ -911,7 +911,7 @@ en-americas-support.nintendo.com/app/answers/...
 Link: https://en-americas-support.nintendo.com/app/answers/detail/a_id/68473/~/system-update-information-for-nintendo-switch
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=326 repost=74 reply=5 quote=20
+Engagement: like=327 repost=74 reply=5 quote=20
 
 --- 64/69 | post | 2026-11-10T01:17:36.137Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzwbfzrbu22f
@@ -939,7 +939,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=755 repost=139 reply=10 quote=13
+Engagement: like=756 repost=140 reply=10 quote=13
 
 --- 66/69 | post | 2026-11-10T00:34:54.696Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzw6zoyje52n
