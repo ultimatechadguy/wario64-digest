@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-10
-Updated: 2026-11-12T10:14:35.106932Z
+Updated: 2026-11-12T18:26:32.561451Z
 Timezone: America/Los_Angeles
 Count: 69
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -119,7 +119,7 @@ Languages: en
 Card title: PlayStation Cancels Online Shooting Title ‘Fairgames’
 Card description: There will be no job cuts alongside the cancellation, Sony said
 Card uri: https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDM0MzEyMSwiZXhwIjoxNzk0OTQ3OTIxLCJhcnRpY2xlSWQiOiJUT0IwMDNLSVVQVEwwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.0VitdVcIPZb98kOClbou7VJYMIEblBJyP0spzGGfRQ4
-Engagement: like=1077 repost=169 reply=92 quote=272
+Engagement: like=1081 repost=170 reply=92 quote=272
 
 --- 8/69 | post | 2026-11-10T20:12:01.284Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzyasjqycn2s
@@ -159,7 +159,7 @@ Link: https://buff.ly/bjwjL62
 Link: https://buff.ly/zijxwme
 Link: https://buff.ly/gJiHimf
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=5 reply=0 quote=1
+Engagement: like=19 repost=5 reply=2 quote=1
 
 --- 10/69 | post | 2026-11-10T19:35:45.464Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzy6roq55p2y
@@ -199,7 +199,7 @@ SILENT HILL: Townfall is $39.99 on US PSN buff.ly/IY9lsw4
 Link: https://buff.ly/IY9lsw4
 Link: https://buff.ly/SFKoovZ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=3 reply=0 quote=1
+Engagement: like=31 repost=3 reply=0 quote=1
 
 --- 13/69 | post | 2026-11-10T18:59:02.356Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzy4pzonie2e
@@ -209,7 +209,7 @@ Created: 2026-11-10T18:59:02.356Z
 new LRG arrivals going up on VGP buff.ly/JpSjFGb #ad
 Link: https://buff.ly/JpSjFGb
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=1 reply=0 quote=0
+Engagement: like=16 repost=1 reply=0 quote=0
 
 --- 14/69 | post | 2026-11-10T18:29:24.275Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzy32zxx7r2e
@@ -219,7 +219,7 @@ Created: 2026-11-10T18:29:24.275Z
 428: Shibuya Scramble is $9.99 on Steam buff.ly/3NPikKp
 Link: https://buff.ly/3NPikKp
 Image description: [no alt text supplied; image omitted]
-Engagement: like=124 repost=34 reply=2 quote=5
+Engagement: like=124 repost=33 reply=2 quote=5
 
 --- 15/69 | post | 2026-11-10T18:14:21.237Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzy2a4rark26
@@ -333,7 +333,7 @@ DreamWorks Shrek 2 Remastered (Steam) is $25.49 on Gamesplanet buff.ly/iMeQcme #
 this is the most anticipated game download today
 Link: https://buff.ly/iMeQcme
 Image description: [no alt text supplied; image omitted]
-Engagement: like=173 repost=36 reply=3 quote=4
+Engagement: like=174 repost=36 reply=3 quote=4
 
 --- 23/69 | post | 2026-11-10T17:04:15.268Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzxwcrneix2e
@@ -515,7 +515,7 @@ Created: 2026-11-10T15:21:26.814Z
 Elgato - Wave Neo Wired Cardioid Condenser USB Microphone - White is $45.99 at Best Buy buff.ly/bnEU5uD #ad
 Link: https://buff.ly/bnEU5uD
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=0 reply=1 quote=0
+Engagement: like=21 repost=0 reply=1 quote=0
 
 --- 36/69 | post | 2026-11-10T15:14:01.662Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzxq5og6pf2d
@@ -589,7 +589,7 @@ Link: https://amzn.to/4evMuQW
 Link: https://buff.ly/PBf5dOx
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=6 reply=2 quote=1
+Engagement: like=32 repost=6 reply=2 quote=1
 
 --- 42/69 | post | 2026-11-10T13:59:39.718Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzxlyp6agc2x
@@ -606,7 +606,7 @@ www.rockstargames.com/newswire/art...
 Link: https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=151 repost=30 reply=66 quote=228
+Engagement: like=151 repost=30 reply=66 quote=229
 
 --- 43/69 | post | 2026-11-10T13:49:47.090Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzxlgzyp4k2x
@@ -685,7 +685,7 @@ ESRB physical $67 at VGP (Cart Revision 004) buff.ly/fUKt4aq #ad
 Link: https://buff.ly/CJb3Fbf
 Link: https://buff.ly/fUKt4aq
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=8 reply=1 quote=0
+Engagement: like=45 repost=8 reply=1 quote=0
 
 --- 49/69 | post | 2026-11-10T13:19:10.719Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzxjqcpc4h22
