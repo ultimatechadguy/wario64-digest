@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-09
-Updated: 2026-11-13T12:35:00.811391Z
+Updated: 2026-11-13T20:01:37.225023Z
 Timezone: America/Los_Angeles
 Count: 67
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -91,7 +91,7 @@ Created: 2026-11-09T21:38:52.689Z
 The Legend of Heroes: Trails of Cold Steel (Steam/DRM-free) is $19.99 on Humble buff.ly/HDBkSxJ #ad
 Link: https://buff.ly/HDBkSxJ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=17 reply=0 quote=5
+Engagement: like=48 repost=17 reply=0 quote=5
 
 --- 7/67 | post | 2026-11-09T21:20:52.836Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvu6qh2ms27
@@ -192,7 +192,7 @@ Mention: did:plc:p5apig43qsl7tculldey5ksk
 Link: https://store.steampowered.com/app/3832490/Antivirus_Survivors_2003_Professional/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=475 repost=686 reply=3 quote=10
+Engagement: like=476 repost=684 reply=6 quote=10
 
 --- 15/67 | post | 2026-11-09T20:12:01.633Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvqdmmv7o2y
@@ -431,7 +431,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=8 reply=1 quote=10
+Engagement: like=17 repost=9 reply=1 quote=11
 
 --- 30/67 | post | 2026-11-09T18:09:02.163Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvjhozdh32m
@@ -506,7 +506,7 @@ Created: 2026-11-09T17:17:15.148Z
 Link: https://variety.com/2026/film/news/james-gunn-peter-safran-fired-dc-jeremy-latcham-1236943091/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=413 repost=124 reply=77 quote=580
+Engagement: like=412 repost=124 reply=77 quote=580
 
 --- 35/67 | post | 2026-11-09T17:13:08.970Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvgdr5wvl22
@@ -688,7 +688,7 @@ Ticket lottery open until Nov 10th, 4 PM ET
 Link: https://www.rockstargames.com/VI/gtavi-thefestival
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=85 repost=12 reply=15 quote=26
+Engagement: like=84 repost=12 reply=15 quote=26
 
 --- 49/67 | post | 2026-11-09T13:51:46.546Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzv33ohmkt2h
@@ -779,7 +779,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=3 reply=1 quote=1
+Engagement: like=21 repost=3 reply=1 quote=1
 
 --- 56/67 | post | 2026-11-09T13:17:43.029Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzuz6rmad22f
@@ -892,7 +892,7 @@ DRAGON QUEST RPG The Cursed Tree and the Chosen Isle | Announcement Trailer prem
 Link: https://www.youtube.com/watch?v=QkA6TWFDjkE
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=132 repost=10 reply=18 quote=61
+Engagement: like=133 repost=10 reply=18 quote=61
 
 --- 66/67 | post | 2026-11-09T04:19:55.609Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzu354yrwk2v

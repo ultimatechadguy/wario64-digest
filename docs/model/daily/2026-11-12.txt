@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-12
-Updated: 2026-11-13T12:35:00.811391Z
+Updated: 2026-11-13T20:01:37.225023Z
 Timezone: America/Los_Angeles
 Count: 119
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -15,7 +15,7 @@ Created: 2026-11-12T23:35:14.716Z
 The Legend of Zelda: Ocarina of Time (Switch 2) Foil Cover in-stock at VGP ($70 US Dollars - free shipping) buff.ly/Vv842Vx #ad
 Link: https://buff.ly/Vv842Vx
 Image description: [no alt text supplied; image omitted]
-Engagement: like=71 repost=8 reply=2 quote=0
+Engagement: like=73 repost=8 reply=2 quote=0
 
 --- 2/119 | post | 2026-11-12T23:11:45.153Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25lrqxszc2j
@@ -31,7 +31,7 @@ Link: https://buff.ly/dRK1UTL
 Link: https://buff.ly/Wtk11Dm
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=35 repost=6 reply=1 quote=1
+Engagement: like=36 repost=6 reply=1 quote=1
 
 --- 3/119 | post | 2026-11-12T22:39:20.569Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25jxshxd52y
@@ -69,7 +69,7 @@ Created: 2026-11-12T22:04:49.096Z
 PS5 Pro at Best Buy ($899) buff.ly/SZiuSa4 #ad
 Link: https://buff.ly/SZiuSa4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=2 reply=4 quote=2
+Engagement: like=21 repost=2 reply=4 quote=2
 
 --- 6/119 | post | 2026-11-12T22:00:25.551Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25hs7mubq23
@@ -89,7 +89,7 @@ Created: 2026-11-12T21:52:51.923Z
 The Super Mario Galaxy Movie (4K UHD + Blu-ray + Digital) is $12.99 at Walmart  buff.ly/Hs8HBU3 #ad
 Link: https://buff.ly/Hs8HBU3
 Image description: [no alt text supplied; image omitted]
-Engagement: like=41 repost=3 reply=5 quote=1
+Engagement: like=44 repost=3 reply=5 quote=1
 
 --- 8/119 | post | 2026-11-12T21:45:49.622Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25gy4blrp2u
@@ -125,7 +125,7 @@ Mention: did:plc:oc6vwdlmk2kqyida5i74d3p5
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25cv6d2z2me
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25fk6h2acme
-Engagement: like=98 repost=3 reply=3 quote=1
+Engagement: like=101 repost=3 reply=3 quote=1
 
 --- 11/119 | post | 2026-11-12T21:20:08.397Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25fk6h2acme
@@ -140,7 +140,7 @@ Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25cv6d2z2me
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25cv6d2z2me
 Image description: [no alt text supplied; image omitted]
-Engagement: like=80 repost=8 reply=5 quote=3
+Engagement: like=81 repost=8 reply=5 quote=3
 
 --- 12/119 | post | 2026-11-12T21:04:04.274Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25engyduk2j
@@ -157,7 +157,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=191 repost=34 reply=30 quote=85
+Engagement: like=201 repost=34 reply=30 quote=86
 
 --- 13/119 | post | 2026-11-12T20:55:44.689Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25e6kk72p2k
@@ -167,7 +167,7 @@ Created: 2026-11-12T20:55:44.689Z
 Psychonauts / Psychonauts 2 (PS4) reprints up at VGP ($28 US Dollars each) buff.ly/L50g6Yv #ad
 Link: https://buff.ly/L50g6Yv
 Image description: [no alt text supplied; image omitted]
-Engagement: like=66 repost=15 reply=5 quote=5
+Engagement: like=67 repost=15 reply=5 quote=5
 
 --- 14/119 | post | 2026-11-12T20:49:01.820Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25dskdehh2x
@@ -204,7 +204,7 @@ No push notification, but your reply on another post sent one. This has been goi
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25agsfhrk24
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25agsfhrk24
-Engagement: like=200 repost=14 reply=55 quote=2
+Engagement: like=202 repost=14 reply=55 quote=2
 
 --- 17/119 | post | 2026-11-12T20:17:25.376Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25bzzqlb22k
@@ -224,7 +224,7 @@ Created: 2026-11-12T20:10:38.421Z
 id Software - "We're incredibly excited about our next project, a new game from our teams in Texas and Frankfurt, with game direction once again by Hugo Martin. It'll be some time before we're ready to share more but we can't wait for you to see what we're working on."
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=186 repost=26 reply=15 quote=21
+Engagement: like=189 repost=26 reply=15 quote=21
 
 --- 19/119 | post | 2026-11-12T20:08:49.351Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25bknmwesme
@@ -249,7 +249,7 @@ DOOM: The Dark Ages | Revelations - Slaughter Mode Official Trailer | Available 
 Link: https://www.youtube.com/watch?v=RwtRHiZ8zkE
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=90 repost=13 reply=3 quote=1
+Engagement: like=94 repost=13 reply=3 quote=1
 
 --- 21/119 | post | 2026-11-12T19:53:16.464Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25aotxhw22a
@@ -269,7 +269,7 @@ Author: wario64.bsky.social
 Created: 2026-11-12T19:48:46.390Z
 test (Bluesky issues on my end)
 Languages: en
-Engagement: like=267 repost=5 reply=17 quote=1
+Engagement: like=267 repost=4 reply=17 quote=1
 
 --- 23/119 | post | 2026-11-12T19:38:13.270Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n257twm7ix23
@@ -307,7 +307,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=4 reply=6 quote=2
+Engagement: like=27 repost=4 reply=6 quote=2
 
 --- 25/119 | repost | 2026-11-12T19:21:09.576Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22hhc6p3s2v#repost:2026-11-12T19:21:09.576Z
@@ -322,7 +322,7 @@ Mention: did:plc:dwwzb6go5lkw5shdryditl4v
 Link: https://buff.ly/iMeQcme
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=272 repost=499 reply=10 quote=4
+Engagement: like=273 repost=498 reply=11 quote=4
 
 --- 26/119 | post | 2026-11-12T19:18:46.695Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n256r6354skh
@@ -344,7 +344,7 @@ Created: 2026-11-12T19:09:39.161Z
 new Fable footage
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=177 repost=31 reply=14 quote=59
+Engagement: like=182 repost=31 reply=14 quote=60
 
 --- 28/119 | post | 2026-11-12T18:51:53.303Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n255b3gcys2n
@@ -355,7 +355,7 @@ Release Date Announcement | Cook, Serve, Delicious: Remustard! (out Jan 18th for
 Link: https://www.youtube.com/watch?v=LRbDQ1GWGNw
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=5 reply=1 quote=1
+Engagement: like=48 repost=5 reply=1 quote=1
 
 --- 29/119 | post | 2026-11-12T18:45:01.734Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n254uswa5k2n
@@ -446,7 +446,7 @@ TANUKI: Pon's Summer is $16.99 on Steam buff.ly/sH5dcfR
 Link: https://buff.ly/sH5dcfR
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=53 repost=10 reply=0 quote=0
+Engagement: like=54 repost=10 reply=0 quote=0
 
 --- 35/119 | post | 2026-11-12T18:18:26.426Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n253fbjd5s2g
@@ -663,7 +663,7 @@ Sonic the Hedgehog: Memories and Beyond - 35th Anniversary Animation www.youtube
 Link: https://www.youtube.com/watch?v=_yocC5AIQ5M
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=157 repost=42 reply=0 quote=9
+Engagement: like=158 repost=42 reply=0 quote=9
 
 --- 49/119 | post | 2026-11-12T17:03:20.624Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24x6yh4w22n
@@ -674,7 +674,7 @@ Created: 2026-11-12T17:03:20.624Z
 Link: https://news.xbox.com/en-us/2026/11/12/halo-campaign-evolved-firefight-free-update-this-winter/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=103 repost=7 reply=6 quote=9
+Engagement: like=105 repost=7 reply=6 quote=9
 
 --- 50/119 | post | 2026-11-12T17:01:25.538Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24x3koyak2n
@@ -684,7 +684,7 @@ Created: 2026-11-12T17:01:25.538Z
 The Game Awards will air live on Disney+ in addition to all existing platforms where it will stream
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=211 repost=19 reply=24 quote=88
+Engagement: like=217 repost=20 reply=25 quote=88
 
 --- 51/119 | post | 2026-11-12T17:00:07.708Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24wzahrfs2n
@@ -708,7 +708,7 @@ Created: 2026-11-12T16:44:20.393Z
 Assassin's Creed Black Flag Resynced (Ubisoft Connect) is $35.99 at Ubisoft Store w/ code HOLIDAY20 buff.ly/BrF3d2f #ad
 Link: https://buff.ly/BrF3d2f
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=2 reply=0 quote=0
+Engagement: like=22 repost=2 reply=0 quote=0
 
 --- 53/119 | post | 2026-11-12T16:35:12.425Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24vmohf3c2n
@@ -725,7 +725,7 @@ Quoted created: 2026-11-12T16:20:16.061Z
 Verbatim 2TB Vi7000 PCIe NVMe M.2 2280 Internal SSD is $199 at Walmart (PS5 compatible) buff.ly/sFvbQEt #ad
 Link: https://buff.ly/sFvbQEt
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=9 reply=1 quote=1
+Engagement: like=51 repost=17 reply=1 quote=2
 
 --- 54/119 | post | 2026-11-12T16:30:30.613Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24vebph4g2t
@@ -746,7 +746,7 @@ The Complete Calvin and Hobbes [Box Set] hardcover is $93.21 on Amazon after lis
 Link: https://amzn.to/3IXmRf8
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=180 repost=34 reply=1 quote=3
+Engagement: like=181 repost=34 reply=1 quote=3
 
 --- 56/119 | post | 2026-11-12T16:20:16.061Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24urxmqpr2t
@@ -756,7 +756,7 @@ Created: 2026-11-12T16:20:16.061Z
 Verbatim 2TB Vi7000 PCIe NVMe M.2 2280 Internal SSD is $199 at Walmart (PS5 compatible) buff.ly/sFvbQEt #ad
 Link: https://buff.ly/sFvbQEt
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=6 reply=0 quote=3
+Engagement: like=38 repost=6 reply=0 quote=4
 
 --- 57/119 | post | 2026-11-12T16:19:30.517Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24uqm6tic2v
@@ -790,7 +790,7 @@ Created: 2026-11-12T16:17:26.834Z
 Stellar Blade: The Director's Edition 4xLP Vinyl up for order at Lost in Cult buff.ly/jSpQgNa #ad
 Link: https://buff.ly/jSpQgNa
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=0 reply=1 quote=0
+Engagement: like=26 repost=0 reply=1 quote=0
 
 --- 60/119 | post | 2026-11-12T16:08:35.642Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24u53nfpc2n
@@ -806,7 +806,7 @@ Link: http://www.xbox.com/XBOXPlayback
 Link: https://www.xbox.com/en-US/playback
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=91 repost=6 reply=14 quote=42
+Engagement: like=92 repost=6 reply=14 quote=42
 
 --- 61/119 | post | 2026-11-12T16:01:14.391Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24tpwtijk2n
@@ -1061,7 +1061,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=154 repost=28 reply=7 quote=26
+Engagement: like=155 repost=28 reply=7 quote=27
 
 --- 80/119 | post | 2026-11-12T14:12:18.569Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24nn5sb7h2w
@@ -1102,7 +1102,7 @@ nvidianews.nvidia.com/news/nvidia-...
 Link: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=625 repost=213 reply=39 quote=172
+Engagement: like=627 repost=213 reply=39 quote=172
 
 --- 83/119 | post | 2026-11-12T13:51:29.832Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24mhwvo3c2n
@@ -1118,7 +1118,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=80 repost=7 reply=1 quote=2
+Engagement: like=80 repost=7 reply=2 quote=2
 
 --- 84/119 | post | 2026-11-12T13:49:53.877Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24mf3fdzk2n
@@ -1412,7 +1412,7 @@ The Complete Calvin and Hobbes [Box Set] hardcover is $93.21 on Amazon after lis
 Link: https://amzn.to/3IXmRf8
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=180 repost=34 reply=1 quote=3
+Engagement: like=181 repost=34 reply=1 quote=3
 
 --- 109/119 | post | 2026-11-12T03:02:21.666Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n23i7723ms2v
@@ -1525,7 +1525,7 @@ Languages: en
 Card title: All tracks - Nintendo Music
 Card description: Playlist ・ Pikmin Bloom
 Card uri: https://music.nintendo.com/en-US/playlist/8f85b48c-05fd-422b-b764-82e1f1b95f21/
-Engagement: like=141 repost=19 reply=4 quote=10
+Engagement: like=142 repost=19 reply=4 quote=10
 
 --- 116/119 | repost | 2026-11-12T01:00:13.971Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n22doui25v2o#repost:2026-11-12T01:00:13.971Z
