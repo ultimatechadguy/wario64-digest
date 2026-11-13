@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-09
-Updated: 2026-11-13T04:29:42.314538Z
+Updated: 2026-11-13T12:35:00.811391Z
 Timezone: America/Los_Angeles
 Count: 67
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -104,7 +104,7 @@ variety.com/2026/gaming/...
 Link: https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=73 repost=9 reply=13 quote=16
+Engagement: like=72 repost=9 reply=13 quote=16
 
 --- 8/67 | post | 2026-11-09T21:14:02.705Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvtsjcxpu24
@@ -157,7 +157,7 @@ Created: 2026-11-09T20:31:49.190Z
 The Elder Scrolls IV Oblivion Remastered Deluxe Edition (Switch 2) in-stock at PNP ($63.99) buff.ly/3RzX9t1 #ad
 Link: https://buff.ly/3RzX9t1
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=0 reply=1 quote=0
+Engagement: like=20 repost=0 reply=1 quote=0
 
 --- 12/67 | post | 2026-11-09T20:25:47.857Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvr4al7p524
@@ -192,7 +192,7 @@ Mention: did:plc:p5apig43qsl7tculldey5ksk
 Link: https://store.steampowered.com/app/3832490/Antivirus_Survivors_2003_Professional/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=476 repost=688 reply=3 quote=10
+Engagement: like=475 repost=686 reply=3 quote=10
 
 --- 15/67 | post | 2026-11-09T20:12:01.633Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzvqdmmv7o2y
