@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-10
-Updated: 2026-11-12T23:51:03.224147Z
+Updated: 2026-11-13T04:29:42.314538Z
 Timezone: America/Los_Angeles
 Count: 69
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -367,7 +367,7 @@ Created: 2026-11-10T16:59:51.919Z
 Twinkle Tale Collectors Cartridge (Genesis/Mega Drive) up for preorder on VGP ($60 US Dollars) buff.ly/md2OHAv #ad
 Link: https://buff.ly/md2OHAv
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=1 reply=1 quote=0
+Engagement: like=23 repost=1 reply=1 quote=0
 
 --- 26/69 | post | 2026-11-10T16:44:06.967Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzxv6rcxz32d
@@ -495,7 +495,7 @@ Quoted created: 2026-11-10T15:44:23.149Z
 PlayStation - “Grand Theft Auto VI is the most pre-ordered game in PlayStation Store history” buff.ly/BruKuFB
 Link: https://buff.ly/BruKuFB
 Image description: [no alt text supplied; image omitted]
-Engagement: like=65 repost=7 reply=10 quote=10
+Engagement: like=64 repost=7 reply=10 quote=10
 
 --- 34/69 | post | 2026-11-10T15:44:23.149Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzxrtxjjof25
@@ -606,7 +606,7 @@ www.rockstargames.com/newswire/art...
 Link: https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=151 repost=30 reply=66 quote=229
+Engagement: like=151 repost=30 reply=66 quote=230
 
 --- 43/69 | post | 2026-11-10T13:49:47.090Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzxlgzyp4k2x
@@ -926,7 +926,7 @@ en-americas-support.nintendo.com/app/answers/...
 Link: https://en-americas-support.nintendo.com/app/answers/detail/a_id/68473/~/system-update-information-for-nintendo-switch
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=416 repost=86 reply=11 quote=63
+Engagement: like=417 repost=86 reply=11 quote=63
 
 --- 65/69 | post | 2026-11-10T00:42:49.341Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzw7htne4c2f
