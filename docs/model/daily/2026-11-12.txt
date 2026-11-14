@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-12
-Updated: 2026-11-14T14:21:27.042249Z
+Updated: 2026-11-14T19:21:19.753030Z
 Timezone: America/Los_Angeles
 Count: 119
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -249,7 +249,7 @@ DOOM: The Dark Ages | Revelations - Slaughter Mode Official Trailer | Available 
 Link: https://www.youtube.com/watch?v=RwtRHiZ8zkE
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=95 repost=14 reply=3 quote=1
+Engagement: like=97 repost=15 reply=3 quote=1
 
 --- 21/119 | post | 2026-11-12T19:53:16.464Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25aotxhw22a
@@ -279,7 +279,7 @@ Created: 2026-11-12T19:38:13.270Z
 Coyote vs. Acme Steelbook (4K UHD + Blu-ray) preorder available on GRUV - $37.95 (extra discount w/ code FIRSTGRUV15) buff.ly/7c8snm5 #ad
 Link: https://buff.ly/7c8snm5
 Image description: [no alt text supplied; image omitted]
-Engagement: like=69 repost=11 reply=2 quote=1
+Engagement: like=70 repost=11 reply=2 quote=1
 
 --- 24/119 | post | 2026-11-12T19:23:56.883Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2572fvd3s2n
@@ -674,7 +674,7 @@ Created: 2026-11-12T17:03:20.624Z
 Link: https://news.xbox.com/en-us/2026/11/12/halo-campaign-evolved-firefight-free-update-this-winter/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=105 repost=7 reply=6 quote=9
+Engagement: like=105 repost=7 reply=6 quote=10
 
 --- 50/119 | post | 2026-11-12T17:01:25.538Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24x3koyak2n
@@ -684,7 +684,7 @@ Created: 2026-11-12T17:01:25.538Z
 The Game Awards will air live on Disney+ in addition to all existing platforms where it will stream
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=218 repost=20 reply=25 quote=88
+Engagement: like=219 repost=20 reply=25 quote=88
 
 --- 51/119 | post | 2026-11-12T17:00:07.708Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24wzahrfs2n
@@ -1061,7 +1061,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=155 repost=28 reply=7 quote=27
+Engagement: like=157 repost=28 reply=7 quote=27
 
 --- 80/119 | post | 2026-11-12T14:12:18.569Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24nn5sb7h2w
