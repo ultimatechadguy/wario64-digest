@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-12
-Updated: 2026-11-13T20:01:37.225023Z
+Updated: 2026-11-14T00:52:05.887880Z
 Timezone: America/Los_Angeles
 Count: 119
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -112,7 +112,7 @@ Control: Ultimate Edition (Steam) w/ 5 more games is $15 on GMG Girls Just Wanna
 Link: https://buff.ly/RD2qC94
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=8 reply=0 quote=2
+Engagement: like=39 repost=8 reply=0 quote=2
 
 --- 10/119 | post | 2026-11-12T21:24:00.205Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25fr3jbac2p
@@ -125,7 +125,7 @@ Mention: did:plc:oc6vwdlmk2kqyida5i74d3p5
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25cv6d2z2me
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25fk6h2acme
-Engagement: like=101 repost=3 reply=3 quote=1
+Engagement: like=102 repost=3 reply=3 quote=1
 
 --- 11/119 | post | 2026-11-12T21:20:08.397Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25fk6h2acme
@@ -140,7 +140,7 @@ Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25cv6d2z2me
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25cv6d2z2me
 Image description: [no alt text supplied; image omitted]
-Engagement: like=81 repost=8 reply=5 quote=3
+Engagement: like=82 repost=8 reply=5 quote=2
 
 --- 12/119 | post | 2026-11-12T21:04:04.274Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25engyduk2j
@@ -157,7 +157,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=201 repost=34 reply=30 quote=86
+Engagement: like=203 repost=34 reply=30 quote=86
 
 --- 13/119 | post | 2026-11-12T20:55:44.689Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25e6kk72p2k
@@ -269,7 +269,7 @@ Author: wario64.bsky.social
 Created: 2026-11-12T19:48:46.390Z
 test (Bluesky issues on my end)
 Languages: en
-Engagement: like=267 repost=4 reply=17 quote=1
+Engagement: like=268 repost=4 reply=17 quote=1
 
 --- 23/119 | post | 2026-11-12T19:38:13.270Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n257twm7ix23
@@ -279,7 +279,7 @@ Created: 2026-11-12T19:38:13.270Z
 Coyote vs. Acme Steelbook (4K UHD + Blu-ray) preorder available on GRUV - $37.95 (extra discount w/ code FIRSTGRUV15) buff.ly/7c8snm5 #ad
 Link: https://buff.ly/7c8snm5
 Image description: [no alt text supplied; image omitted]
-Engagement: like=68 repost=11 reply=2 quote=1
+Engagement: like=69 repost=11 reply=2 quote=1
 
 --- 24/119 | post | 2026-11-12T19:23:56.883Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2572fvd3s2n
@@ -322,7 +322,7 @@ Mention: did:plc:dwwzb6go5lkw5shdryditl4v
 Link: https://buff.ly/iMeQcme
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=273 repost=498 reply=11 quote=4
+Engagement: like=274 repost=499 reply=11 quote=4
 
 --- 26/119 | post | 2026-11-12T19:18:46.695Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n256r6354skh
@@ -407,7 +407,7 @@ Link: https://buff.ly/EPZAlif
 Link: https://buff.ly/IDfGndf
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=3 reply=6 quote=1
+Engagement: like=45 repost=3 reply=6 quote=1
 
 --- 32/119 | post | 2026-11-12T18:40:17.650Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n254mdyoek2n
@@ -725,7 +725,7 @@ Quoted created: 2026-11-12T16:20:16.061Z
 Verbatim 2TB Vi7000 PCIe NVMe M.2 2280 Internal SSD is $199 at Walmart (PS5 compatible) buff.ly/sFvbQEt #ad
 Link: https://buff.ly/sFvbQEt
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=17 reply=1 quote=2
+Engagement: like=53 repost=17 reply=2 quote=2
 
 --- 54/119 | post | 2026-11-12T16:30:30.613Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24vebph4g2t
@@ -806,7 +806,7 @@ Link: http://www.xbox.com/XBOXPlayback
 Link: https://www.xbox.com/en-US/playback
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=92 repost=6 reply=14 quote=42
+Engagement: like=92 repost=6 reply=14 quote=43
 
 --- 61/119 | post | 2026-11-12T16:01:14.391Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24tpwtijk2n
@@ -1102,7 +1102,7 @@ nvidianews.nvidia.com/news/nvidia-...
 Link: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=627 repost=213 reply=39 quote=172
+Engagement: like=628 repost=213 reply=39 quote=172
 
 --- 83/119 | post | 2026-11-12T13:51:29.832Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24mhwvo3c2n
@@ -1245,7 +1245,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=2 reply=1 quote=0
+Engagement: like=38 repost=2 reply=1 quote=0
 
 --- 94/119 | post | 2026-11-12T05:44:39.690Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n23rbfx2mi2t

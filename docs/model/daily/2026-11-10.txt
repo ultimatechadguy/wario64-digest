@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-10
-Updated: 2026-11-13T20:01:37.225023Z
+Updated: 2026-11-14T00:52:05.887880Z
 Timezone: America/Los_Angeles
 Count: 69
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -119,7 +119,7 @@ Languages: en
 Card title: PlayStation Cancels Online Shooting Title ‘Fairgames’
 Card description: There will be no job cuts alongside the cancellation, Sony said
 Card uri: https://www.bloomberg.com/news/articles/2026-11-10/playstation-cancels-online-shooting-title-fairgames?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDM0MzEyMSwiZXhwIjoxNzk0OTQ3OTIxLCJhcnRpY2xlSWQiOiJUT0IwMDNLSVVQVEwwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.0VitdVcIPZb98kOClbou7VJYMIEblBJyP0spzGGfRQ4
-Engagement: like=1083 repost=169 reply=94 quote=272
+Engagement: like=1084 repost=169 reply=94 quote=272
 
 --- 8/69 | post | 2026-11-10T20:12:01.284Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzyasjqycn2s
@@ -606,7 +606,7 @@ www.rockstargames.com/newswire/art...
 Link: https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=150 repost=30 reply=65 quote=230
+Engagement: like=151 repost=30 reply=65 quote=230
 
 --- 43/69 | post | 2026-11-10T13:49:47.090Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzxlgzyp4k2x
@@ -685,7 +685,7 @@ ESRB physical $67 at VGP (Cart Revision 004) buff.ly/fUKt4aq #ad
 Link: https://buff.ly/CJb3Fbf
 Link: https://buff.ly/fUKt4aq
 Image description: [no alt text supplied; image omitted]
-Engagement: like=45 repost=8 reply=1 quote=0
+Engagement: like=46 repost=8 reply=1 quote=0
 
 --- 49/69 | post | 2026-11-10T13:19:10.719Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3mzxjqcpc4h22
