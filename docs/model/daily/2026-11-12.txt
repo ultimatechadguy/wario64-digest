@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-12
-Updated: 2026-11-14T07:18:50.141003Z
+Updated: 2026-11-14T14:21:27.042249Z
 Timezone: America/Los_Angeles
 Count: 119
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -249,7 +249,7 @@ DOOM: The Dark Ages | Revelations - Slaughter Mode Official Trailer | Available 
 Link: https://www.youtube.com/watch?v=RwtRHiZ8zkE
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=94 repost=13 reply=3 quote=1
+Engagement: like=95 repost=14 reply=3 quote=1
 
 --- 21/119 | post | 2026-11-12T19:53:16.464Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25aotxhw22a
@@ -322,7 +322,7 @@ Mention: did:plc:dwwzb6go5lkw5shdryditl4v
 Link: https://buff.ly/iMeQcme
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=274 repost=499 reply=11 quote=4
+Engagement: like=275 repost=500 reply=11 quote=4
 
 --- 26/119 | post | 2026-11-12T19:18:46.695Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n256r6354skh
@@ -344,7 +344,7 @@ Created: 2026-11-12T19:09:39.161Z
 new Fable footage
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=185 repost=31 reply=15 quote=60
+Engagement: like=186 repost=31 reply=15 quote=60
 
 --- 28/119 | post | 2026-11-12T18:51:53.303Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n255b3gcys2n
@@ -591,7 +591,7 @@ Link: https://buff.ly/33Tl6bt
 Link: https://buff.ly/kxr5P7s
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=2 reply=1 quote=0
+Engagement: like=15 repost=2 reply=1 quote=0
 
 --- 44/119 | post | 2026-11-12T17:32:22.348Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24ysvidb22n
@@ -746,7 +746,7 @@ The Complete Calvin and Hobbes [Box Set] hardcover is $93.21 on Amazon after lis
 Link: https://amzn.to/3IXmRf8
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=181 repost=34 reply=1 quote=3
+Engagement: like=182 repost=34 reply=1 quote=3
 
 --- 56/119 | post | 2026-11-12T16:20:16.061Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24urxmqpr2t
@@ -1412,7 +1412,7 @@ The Complete Calvin and Hobbes [Box Set] hardcover is $93.21 on Amazon after lis
 Link: https://amzn.to/3IXmRf8
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=181 repost=34 reply=1 quote=3
+Engagement: like=182 repost=34 reply=1 quote=3
 
 --- 109/119 | post | 2026-11-12T03:02:21.666Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n23i7723ms2v

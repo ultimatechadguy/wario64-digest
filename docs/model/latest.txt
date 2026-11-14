@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-11-13
-Updated: 2026-11-14T07:18:50.141003Z
+Updated: 2026-11-14T14:21:27.042249Z
 Timezone: America/Los_Angeles
 Count: 83
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -18,7 +18,7 @@ Zero Escape Trilogy is $7.98 on Steam buff.ly/4f0N87i
 -Zero Time Dilemma $3.99
 Link: https://buff.ly/4f0N87i
 Image description: [no alt text supplied; image omitted]
-Engagement: like=48 repost=22 reply=0 quote=1
+Engagement: like=49 repost=22 reply=0 quote=1
 
 --- 2/83 | post | 2026-11-13T23:10:32.846Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2a46jhwpk2p
@@ -35,7 +35,7 @@ Quoted created: 2026-11-13T05:01:26.480Z
 XBOX Series X25 Limited Edition up at GameStop...for $4,950.00 buff.ly/nkfnF1C #ad
 Link: https://buff.ly/nkfnF1C
 Image description: [no alt text supplied; image omitted]
-Engagement: like=77 repost=8 reply=23 quote=13
+Engagement: like=77 repost=8 reply=24 quote=13
 
 --- 3/83 | post | 2026-11-13T22:48:36.633Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2a2xcahhe2y
@@ -47,7 +47,7 @@ $9.99 GOG buff.ly/p0N5OK9 #ad
 Link: https://buff.ly/Hkf4kPs
 Link: https://buff.ly/p0N5OK9
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=3 reply=0 quote=0
+Engagement: like=28 repost=3 reply=0 quote=0
 
 --- 4/83 | post | 2026-11-13T22:16:29.737Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27z5umbzp23
@@ -57,7 +57,7 @@ Created: 2026-11-13T22:16:29.737Z
 Prince of Persia Bundle is $7.16 on GOG buff.ly/Q7YEmCK #ad
 Link: https://buff.ly/Q7YEmCK
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=5 reply=0 quote=1
+Engagement: like=44 repost=5 reply=0 quote=1
 
 --- 5/83 | post | 2026-11-13T22:06:01.753Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27yl5ppfr2a
@@ -95,7 +95,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=73 repost=13 reply=4 quote=5
+Engagement: like=74 repost=13 reply=4 quote=5
 
 --- 7/83 | post | 2026-11-13T21:50:11.777Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27xotqrke2d
@@ -131,7 +131,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=552 repost=115 reply=7 quote=13
+Engagement: like=609 repost=118 reply=7 quote=16
 
 --- 10/83 | post | 2026-11-13T20:53:56.243Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27ukalngm2q
@@ -153,7 +153,7 @@ Created: 2026-11-13T20:46:50.371Z
 Tokyo Xanadu eX+ is $19.99 on US eShop buff.ly/MCuqcCx
 Link: https://buff.ly/MCuqcCx
 Image description: [no alt text supplied; image omitted]
-Engagement: like=34 repost=5 reply=0 quote=9
+Engagement: like=36 repost=5 reply=0 quote=9
 
 --- 12/83 | post | 2026-11-13T20:14:56.612Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27sejdlp22t
@@ -174,7 +174,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=2 reply=1 quote=1
+Engagement: like=27 repost=2 reply=1 quote=1
 
 --- 13/83 | post | 2026-11-13T20:04:40.966Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27rs67uno2y
@@ -195,7 +195,7 @@ Created: 2026-11-13T19:38:44.128Z
 Truckful (Steam) is $16.99 on Fanatical w/ code FANATICAL15 buff.ly/Genml2F #ad
 Link: https://buff.ly/Genml2F
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=3 reply=0 quote=0
+Engagement: like=19 repost=3 reply=0 quote=0
 
 --- 15/83 | post | 2026-11-13T19:29:33.626Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27pteinok2t
@@ -219,7 +219,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=160 repost=28 reply=25 quote=45
+Engagement: like=163 repost=29 reply=26 quote=46
 
 --- 17/83 | post | 2026-11-13T19:05:08.227Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27ohoz27n2a
@@ -253,7 +253,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=0 reply=0 quote=1
+Engagement: like=20 repost=0 reply=0 quote=1
 
 --- 19/83 | post | 2026-11-13T18:56:18.569Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27nxvujou2l
@@ -266,7 +266,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=33 repost=0 reply=0 quote=4
+Engagement: like=34 repost=0 reply=0 quote=4
 
 --- 20/83 | post | 2026-11-13T18:52:53.284Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27nrs3pxm23
@@ -276,7 +276,7 @@ Created: 2026-11-13T18:52:53.284Z
 Cold Fear is $5.99 on GOG (preservation program) buff.ly/noLjwlz #ad
 Link: https://buff.ly/noLjwlz
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=7 reply=2 quote=4
+Engagement: like=56 repost=7 reply=2 quote=4
 
 --- 21/83 | post | 2026-11-13T18:38:15.157Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27mxmn7d22t
@@ -289,7 +289,7 @@ Link: https://buff.ly/uIrIJMS
 Link: https://buff.ly/V5h9Eyy
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=106 repost=27 reply=7 quote=1
+Engagement: like=109 repost=27 reply=7 quote=1
 
 --- 22/83 | post | 2026-11-13T18:34:59.417Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27mrrxwoc2q
@@ -305,7 +305,7 @@ Link: https://buff.ly/uZxi75d
 Link: https://buff.ly/LVFsk7A
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=6 reply=0 quote=0
+Engagement: like=64 repost=6 reply=0 quote=0
 
 --- 23/83 | post | 2026-11-13T18:32:24.816Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27mn6juae2y
@@ -315,7 +315,7 @@ Created: 2026-11-13T18:32:24.816Z
 Project Destati: RE:AWAKENING (orchestral reimagining of KINGDOM HEARTS classics) 1xLP Vinyl Record / CD available for preorder on Materia Store ($34.99/$19.99 - extra discount w/ code WARIO64) buff.ly/bWDhCi3 #ad
 Link: https://buff.ly/bWDhCi3
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=6 reply=1 quote=2
+Engagement: like=40 repost=6 reply=1 quote=2
 
 --- 24/83 | post | 2026-11-13T18:24:33.363Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27m74wbqw2a
@@ -349,7 +349,7 @@ Link: https://buff.ly/1GvjoXa
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=2 reply=3 quote=0
+Engagement: like=25 repost=2 reply=3 quote=0
 
 --- 27/83 | post | 2026-11-13T18:05:34.386Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27l56pfmd2q
@@ -402,7 +402,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=0 reply=0 quote=0
+Engagement: like=19 repost=0 reply=0 quote=0
 
 --- 30/83 | post | 2026-11-13T17:40:46.439Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27jqtovep2y
@@ -412,7 +412,7 @@ Created: 2026-11-13T17:40:46.439Z
 Pikmin - All Together Now t-shirt (by Pop Culture Wizard) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=110 repost=16 reply=0 quote=0
+Engagement: like=112 repost=16 reply=0 quote=0
 
 --- 31/83 | post | 2026-11-13T17:38:50.044Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27jneomn22t
@@ -482,7 +482,7 @@ Fangamer Holiday Catalog + Black Friday (free US Shipping) buff.ly/zP6DsJ6
 new merch starting Nov 16
 Link: https://buff.ly/zP6DsJ6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=1 reply=1 quote=1
+Engagement: like=29 repost=1 reply=1 quote=1
 
 --- 35/83 | post | 2026-11-13T17:23:30.568Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27irxsisk2t
@@ -495,7 +495,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=2 reply=1 quote=1
+Engagement: like=31 repost=2 reply=1 quote=1
 
 --- 36/83 | post | 2026-11-13T17:19:28.883Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27ikrcy432y
@@ -507,7 +507,7 @@ $4.79 GOG buff.ly/QuFxeMB #ad
 Link: https://buff.ly/c06FxxF
 Link: https://buff.ly/QuFxeMB
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=10 reply=0 quote=5
+Engagement: like=45 repost=10 reply=0 quote=5
 
 --- 37/83 | post | 2026-11-13T16:47:37.066Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27grs2qlc2t
@@ -559,7 +559,7 @@ Volvy’s Adventure: Reslimed preorder is $3.74 on Steam (25% off discount - out
 Link: https://store.steampowered.com/app/4523120/Volvys_Adventure_Reslimed/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=11 reply=2 quote=4
+Engagement: like=62 repost=11 reply=2 quote=4
 
 --- 42/83 | post | 2026-11-13T16:09:04.459Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27emulnb22e
@@ -571,7 +571,7 @@ The Game Awards will stream live in Roblox
 "Fans 18+ will be able to watch, vote and interact LIVE alongside the show."
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=92 repost=12 reply=21 quote=72
+Engagement: like=94 repost=12 reply=23 quote=73
 
 --- 43/83 | post | 2026-11-13T16:00:28.115Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27e5i67pp23
@@ -626,7 +626,7 @@ Link: https://buff.ly/TABGwwn
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=46 repost=4 reply=2 quote=6
+Engagement: like=47 repost=4 reply=2 quote=6
 
 --- 47/83 | post | 2026-11-13T15:05:06.692Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27b2imgll2x
@@ -643,7 +643,7 @@ Masterful Remasters Bundle: Vol. 2 up on GMG (7 Steam games for $16) buff.ly/38E
 -Star Wars Bounty Hunter
 Link: https://buff.ly/38EP70b
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=5 reply=2 quote=3
+Engagement: like=36 repost=5 reply=2 quote=2
 
 --- 48/83 | post | 2026-11-13T15:02:04.659Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27av2z3d22t
@@ -656,7 +656,7 @@ New update also coming adding Hermes Mode & Erebus Mode
 Link: https://blog.playstation.com/2026/02/13/god-of-war-sons-of-sparta-what-you-need-to-know/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=80 repost=4 reply=19 quote=35
+Engagement: like=80 repost=5 reply=20 quote=36
 
 --- 49/83 | post | 2026-11-13T15:00:17.622Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27aruwly22t
@@ -688,7 +688,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=0 reply=1 quote=0
+Engagement: like=16 repost=0 reply=1 quote=0
 
 --- 51/83 | post | 2026-11-13T14:14:59.360Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n276aulrc22t
@@ -722,7 +722,7 @@ PS5 - QSSR arrives in Marvel’s Spider-Man 2, Control Resonant, The Finals, ARC
 Link: https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=72 repost=5 reply=3 quote=8
+Engagement: like=73 repost=5 reply=3 quote=8
 
 --- 53/83 | post | 2026-11-13T14:07:37.808Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n275tpitov23
@@ -805,7 +805,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=56 repost=9 reply=1 quote=5
+Engagement: like=56 repost=9 reply=2 quote=5
 
 --- 59/83 | post | 2026-11-13T13:43:35.767Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n274iqbbiz2i
@@ -944,7 +944,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=0 reply=1 quote=1
+Engagement: like=18 repost=0 reply=1 quote=1
 
 --- 71/83 | post | 2026-11-13T06:02:11.575Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n26cpokpmg2l
@@ -1005,7 +1005,7 @@ Created: 2026-11-13T05:01:26.480Z
 XBOX Series X25 Limited Edition up at GameStop...for $4,950.00 buff.ly/nkfnF1C #ad
 Link: https://buff.ly/nkfnF1C
 Image description: [no alt text supplied; image omitted]
-Engagement: like=84 repost=5 reply=33 quote=44
+Engagement: like=85 repost=5 reply=33 quote=44
 
 --- 77/83 | post | 2026-11-13T04:21:00.487Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2652qptoo2q
@@ -1089,4 +1089,4 @@ Wolfenstein 3 is officially in production
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=1101 repost=181 reply=41 quote=220
+Engagement: like=1103 repost=181 reply=41 quote=220
