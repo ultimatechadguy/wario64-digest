@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-12
-Updated: 2026-11-14T00:52:05.887880Z
+Updated: 2026-11-14T07:18:50.141003Z
 Timezone: America/Los_Angeles
 Count: 119
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -89,7 +89,7 @@ Created: 2026-11-12T21:52:51.923Z
 The Super Mario Galaxy Movie (4K UHD + Blu-ray + Digital) is $12.99 at Walmart  buff.ly/Hs8HBU3 #ad
 Link: https://buff.ly/Hs8HBU3
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=3 reply=5 quote=1
+Engagement: like=45 repost=3 reply=5 quote=1
 
 --- 8/119 | post | 2026-11-12T21:45:49.622Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25gy4blrp2u
@@ -157,7 +157,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=203 repost=34 reply=30 quote=86
+Engagement: like=204 repost=34 reply=30 quote=86
 
 --- 13/119 | post | 2026-11-12T20:55:44.689Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25e6kk72p2k
@@ -204,7 +204,7 @@ No push notification, but your reply on another post sent one. This has been goi
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25agsfhrk24
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25agsfhrk24
-Engagement: like=202 repost=14 reply=55 quote=2
+Engagement: like=203 repost=14 reply=55 quote=2
 
 --- 17/119 | post | 2026-11-12T20:17:25.376Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25bzzqlb22k
@@ -224,7 +224,7 @@ Created: 2026-11-12T20:10:38.421Z
 id Software - "We're incredibly excited about our next project, a new game from our teams in Texas and Frankfurt, with game direction once again by Hugo Martin. It'll be some time before we're ready to share more but we can't wait for you to see what we're working on."
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=189 repost=26 reply=15 quote=21
+Engagement: like=190 repost=26 reply=15 quote=21
 
 --- 19/119 | post | 2026-11-12T20:08:49.351Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25bknmwesme
@@ -269,7 +269,7 @@ Author: wario64.bsky.social
 Created: 2026-11-12T19:48:46.390Z
 test (Bluesky issues on my end)
 Languages: en
-Engagement: like=268 repost=4 reply=17 quote=1
+Engagement: like=270 repost=4 reply=17 quote=1
 
 --- 23/119 | post | 2026-11-12T19:38:13.270Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n257twm7ix23
@@ -344,7 +344,7 @@ Created: 2026-11-12T19:09:39.161Z
 new Fable footage
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=182 repost=31 reply=14 quote=60
+Engagement: like=185 repost=31 reply=15 quote=60
 
 --- 28/119 | post | 2026-11-12T18:51:53.303Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n255b3gcys2n
@@ -376,7 +376,7 @@ Link: https://buff.ly/EPZAlif
 Link: https://buff.ly/IDfGndf
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=3 reply=0 quote=1
+Engagement: like=26 repost=3 reply=0 quote=1
 
 --- 30/119 | post | 2026-11-12T18:42:55.816Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n254r2tqy22w
@@ -555,7 +555,7 @@ Free titles up on Prime Gaming/Amazon Luna: buff.ly/x9s2Ps0
 -Radiolight (EGS)
 Link: https://buff.ly/x9s2Ps0
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=1 reply=0 quote=0
+Engagement: like=17 repost=1 reply=0 quote=0
 
 --- 41/119 | post | 2026-11-12T17:56:58.391Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2526v5qs72t
@@ -663,7 +663,7 @@ Sonic the Hedgehog: Memories and Beyond - 35th Anniversary Animation www.youtube
 Link: https://www.youtube.com/watch?v=_yocC5AIQ5M
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=158 repost=42 reply=0 quote=9
+Engagement: like=159 repost=42 reply=0 quote=9
 
 --- 49/119 | post | 2026-11-12T17:03:20.624Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24x6yh4w22n
@@ -684,7 +684,7 @@ Created: 2026-11-12T17:01:25.538Z
 The Game Awards will air live on Disney+ in addition to all existing platforms where it will stream
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=217 repost=20 reply=25 quote=88
+Engagement: like=218 repost=20 reply=25 quote=88
 
 --- 51/119 | post | 2026-11-12T17:00:07.708Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24wzahrfs2n
@@ -725,7 +725,7 @@ Quoted created: 2026-11-12T16:20:16.061Z
 Verbatim 2TB Vi7000 PCIe NVMe M.2 2280 Internal SSD is $199 at Walmart (PS5 compatible) buff.ly/sFvbQEt #ad
 Link: https://buff.ly/sFvbQEt
 Image description: [no alt text supplied; image omitted]
-Engagement: like=53 repost=17 reply=2 quote=2
+Engagement: like=55 repost=17 reply=2 quote=2
 
 --- 54/119 | post | 2026-11-12T16:30:30.613Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24vebph4g2t
@@ -780,7 +780,7 @@ Android buff.ly/MgFQWTQ
 Link: https://buff.ly/vcvjSZ1
 Link: https://buff.ly/MgFQWTQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=1 reply=0 quote=0
+Engagement: like=26 repost=1 reply=0 quote=0
 
 --- 59/119 | post | 2026-11-12T16:17:26.834Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24umwaf3u2m
@@ -806,7 +806,7 @@ Link: http://www.xbox.com/XBOXPlayback
 Link: https://www.xbox.com/en-US/playback
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=92 repost=6 reply=14 quote=43
+Engagement: like=92 repost=7 reply=14 quote=43
 
 --- 61/119 | post | 2026-11-12T16:01:14.391Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24tpwtijk2n
@@ -827,7 +827,7 @@ Created: 2026-11-12T16:00:27.479Z
 Knightica is free on Epic Games Store. Alien: Isolation & Mark of the Deep are the next free titles buff.ly/MdEraPT
 Link: https://buff.ly/MdEraPT
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=1 reply=3 quote=3
+Engagement: like=30 repost=1 reply=3 quote=3
 
 --- 63/119 | post | 2026-11-12T16:00:18.782Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24tobsqzq2m
@@ -890,7 +890,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=79 repost=10 reply=0 quote=8
+Engagement: like=79 repost=11 reply=0 quote=8
 
 --- 67/119 | post | 2026-11-12T15:27:46.419Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24ru3vbkf2j
@@ -1102,7 +1102,7 @@ nvidianews.nvidia.com/news/nvidia-...
 Link: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=628 repost=213 reply=39 quote=172
+Engagement: like=628 repost=214 reply=39 quote=172
 
 --- 83/119 | post | 2026-11-12T13:51:29.832Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24mhwvo3c2n
