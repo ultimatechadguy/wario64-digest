@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-14
-Updated: 2026-11-15T17:17:17.378274Z
+Updated: 2026-11-15T21:54:16.062472Z
 Timezone: America/Los_Angeles
 Count: 64
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -69,7 +69,7 @@ The Invincible is $7.49 on US PS+ buff.ly/dpPPQmn
 Link: https://buff.ly/dpPPQmn
 Link: https://buff.ly/Ck7dU2A
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=5 reply=3 quote=3
+Engagement: like=23 repost=5 reply=3 quote=3
 
 --- 5/64 | post | 2026-11-14T22:16:38.376Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cjn2cjlc2a
@@ -100,7 +100,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=0 reply=0 quote=0
+Engagement: like=23 repost=0 reply=0 quote=0
 
 --- 6/64 | post | 2026-11-14T22:13:01.297Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cjglbvft22
@@ -172,7 +172,7 @@ Link: https://buff.ly/aF8ST9s
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=2 reply=0 quote=2
+Engagement: like=40 repost=2 reply=0 quote=2
 
 --- 12/64 | post | 2026-11-14T20:39:01.488Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ce6iqnbz2p
@@ -233,7 +233,7 @@ Link: https://buff.ly/huG0h56
 Link: https://buff.ly/vIVfBgQ
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=2 reply=6 quote=4
+Engagement: like=29 repost=2 reply=6 quote=4
 
 --- 16/64 | post | 2026-11-14T19:57:52.219Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cbuvujrj2h
@@ -370,7 +370,7 @@ Created: 2026-11-14T17:56:12.941Z
 Grand Theft Auto VI preorder is $1,999.99 on Xbox buff.ly/X5NwtO2
 Link: https://buff.ly/X5NwtO2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=893 repost=256 reply=60 quote=161
+Engagement: like=906 repost=258 reply=62 quote=169
 
 --- 25/64 | post | 2026-11-14T17:52:02.533Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c2tvwgzq2u
@@ -392,7 +392,7 @@ Best Buy buff.ly/XUhxsPN #ad
 Link: https://buff.ly/nE6VPGd
 Link: https://buff.ly/XUhxsPN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=4 reply=2 quote=2
+Engagement: like=24 repost=4 reply=2 quote=2
 
 --- 27/64 | post | 2026-11-14T17:40:02.647Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c26hfash2a
@@ -485,7 +485,7 @@ Star Fox (Switch 2 Digital) is $42.99 on Amazon amzn.to/4jf45iC #ad
 Link: https://amzn.to/4jf45iC
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=46 repost=13 reply=0 quote=1
+Engagement: like=45 repost=13 reply=0 quote=1
 
 --- 34/64 | post | 2026-11-14T16:10:24.531Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bv66fxls2a
@@ -577,7 +577,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=3 reply=1 quote=1
+Engagement: like=39 repost=3 reply=1 quote=1
 
 --- 40/64 | post | 2026-11-14T15:23:53.506Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bskyoo7s2a
@@ -673,7 +673,7 @@ Link: https://amzn.to/4wawTwY
 Link: https://amzn.to/4BfFbGE
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=46 repost=5 reply=1 quote=1
+Engagement: like=46 repost=6 reply=1 quote=1
 
 --- 46/64 | post | 2026-11-14T15:07:56.265Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2brohs6yv23
@@ -836,7 +836,7 @@ Link: https://www.youtube.com/watch?v=jYA72wBTU-4
 Link: https://store.steampowered.com/app/4269060/Super_Meat_Boy_Again/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=134 repost=21 reply=8 quote=36
+Engagement: like=137 repost=21 reply=10 quote=37
 
 --- 60/64 | post | 2026-11-14T02:26:33.760Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ah4zkrfa2k
