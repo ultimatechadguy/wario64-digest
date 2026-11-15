@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-12
-Updated: 2026-11-15T02:51:27.792635Z
+Updated: 2026-11-15T10:16:49.242550Z
 Timezone: America/Los_Angeles
 Count: 119
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -125,7 +125,7 @@ Mention: did:plc:oc6vwdlmk2kqyida5i74d3p5
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25cv6d2z2me
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25fk6h2acme
-Engagement: like=102 repost=3 reply=3 quote=1
+Engagement: like=103 repost=3 reply=3 quote=1
 
 --- 11/119 | post | 2026-11-12T21:20:08.397Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25fk6h2acme
@@ -204,7 +204,7 @@ No push notification, but your reply on another post sent one. This has been goi
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25agsfhrk24
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n25agsfhrk24
-Engagement: like=203 repost=14 reply=55 quote=2
+Engagement: like=204 repost=14 reply=55 quote=2
 
 --- 17/119 | post | 2026-11-12T20:17:25.376Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25bzzqlb22k
@@ -935,7 +935,7 @@ Black Friday sale on Ubisoft Store (extra 20% off w/ code HOLIDAY20) buff.ly/nhR
 Link: https://buff.ly/nhRLUyj
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=1 reply=0 quote=0
+Engagement: like=14 repost=1 reply=0 quote=0
 
 --- 71/119 | post | 2026-11-12T14:49:00.341Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24porkxuq2o
@@ -1245,7 +1245,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=2 reply=1 quote=0
+Engagement: like=37 repost=2 reply=1 quote=0
 
 --- 94/119 | post | 2026-11-12T05:44:39.690Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n23rbfx2mi2t
@@ -1426,7 +1426,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=3 reply=0 quote=3
+Engagement: like=53 repost=3 reply=0 quote=3
 
 --- 110/119 | post | 2026-11-12T02:34:26.664Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n23gnbmvms2h

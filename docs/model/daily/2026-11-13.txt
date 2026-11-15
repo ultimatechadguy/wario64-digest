@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-13
-Updated: 2026-11-15T02:51:27.792635Z
+Updated: 2026-11-15T10:16:49.242550Z
 Timezone: America/Los_Angeles
 Count: 83
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -118,7 +118,7 @@ Exo Rally Championship is $14.99 on Steam buff.ly/iHHjmpV
 Link: https://buff.ly/iHHjmpV
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=19 repost=2 reply=0 quote=1
+Engagement: like=20 repost=2 reply=0 quote=1
 
 --- 9/83 | post | 2026-11-13T20:59:41.459Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27uujsrje2y
@@ -131,7 +131,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=648 repost=121 reply=7 quote=17
+Engagement: like=651 repost=121 reply=7 quote=17
 
 --- 10/83 | post | 2026-11-13T20:53:56.243Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27ukalngm2q
@@ -412,7 +412,7 @@ Created: 2026-11-13T17:40:46.439Z
 Pikmin - All Together Now t-shirt (by Pop Culture Wizard) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=113 repost=16 reply=0 quote=0
+Engagement: like=114 repost=16 reply=0 quote=0
 
 --- 31/83 | post | 2026-11-13T17:38:50.044Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27jneomn22t
@@ -507,7 +507,7 @@ $4.79 GOG buff.ly/QuFxeMB #ad
 Link: https://buff.ly/c06FxxF
 Link: https://buff.ly/QuFxeMB
 Image description: [no alt text supplied; image omitted]
-Engagement: like=45 repost=10 reply=0 quote=5
+Engagement: like=46 repost=10 reply=0 quote=5
 
 --- 37/83 | post | 2026-11-13T16:47:37.066Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27grs2qlc2t
@@ -612,7 +612,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=0 reply=2 quote=1
+Engagement: like=21 repost=1 reply=2 quote=1
 
 --- 46/83 | post | 2026-11-13T15:13:03.475Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27bipckd22t
@@ -626,7 +626,7 @@ Link: https://buff.ly/TABGwwn
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=4 reply=2 quote=6
+Engagement: like=47 repost=4 reply=2 quote=5
 
 --- 47/83 | post | 2026-11-13T15:05:06.692Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27b2imgll2x
@@ -1089,4 +1089,4 @@ Wolfenstein 3 is officially in production
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=1104 repost=181 reply=41 quote=221
+Engagement: like=1104 repost=182 reply=41 quote=222

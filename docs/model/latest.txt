@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-11-14
-Updated: 2026-11-15T02:51:27.792635Z
+Updated: 2026-11-15T10:16:49.242550Z
 Timezone: America/Los_Angeles
 Count: 64
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -22,7 +22,7 @@ All VGP deals buff.ly/B2wm2B6 #ad
 Link: https://buff.ly/fF1sdzk
 Link: https://buff.ly/B2wm2B6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=56 repost=19 reply=1 quote=1
+Engagement: like=59 repost=19 reply=1 quote=1
 
 --- 2/64 | post | 2026-11-14T23:22:43.100Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cnd7ecec2h
@@ -43,7 +43,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=0 reply=2 quote=0
+Engagement: like=23 repost=0 reply=2 quote=0
 
 --- 3/64 | post | 2026-11-14T23:14:01.849Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cmtob3jq2q
@@ -69,7 +69,7 @@ The Invincible is $7.49 on US PS+ buff.ly/dpPPQmn
 Link: https://buff.ly/dpPPQmn
 Link: https://buff.ly/Ck7dU2A
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=5 reply=3 quote=3
+Engagement: like=22 repost=5 reply=3 quote=3
 
 --- 5/64 | post | 2026-11-14T22:16:38.376Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cjn2cjlc2a
@@ -100,7 +100,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=0 reply=0 quote=0
+Engagement: like=22 repost=0 reply=0 quote=0
 
 --- 6/64 | post | 2026-11-14T22:13:01.297Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cjglbvft22
@@ -112,7 +112,7 @@ COLLECTION of SaGa FINAL FANTASY LEGEND is $9.99 on US eShop buff.ly/lF0Ru4x
 Link: https://buff.ly/lF0Ru4x
 Link: https://buff.ly/5fztKiI
 Image description: [no alt text supplied; image omitted]
-Engagement: like=48 repost=12 reply=1 quote=0
+Engagement: like=50 repost=13 reply=1 quote=0
 
 --- 7/64 | post | 2026-11-14T21:55:32.360Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cihcwwrs2c
@@ -124,7 +124,7 @@ US PSN buff.ly/ZODdGOH
 Link: https://buff.ly/sCn1SVL
 Link: https://buff.ly/ZODdGOH
 Image description: [no alt text supplied; image omitted]
-Engagement: like=35 repost=5 reply=0 quote=1
+Engagement: like=39 repost=6 reply=0 quote=1
 
 --- 8/64 | post | 2026-11-14T21:29:37.127Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cgyxqxjz2f
@@ -134,7 +134,7 @@ Created: 2026-11-14T21:29:37.127Z
 Shin Megami Tensei III Nocturne Vinyl Soundtrack Box Set is $59 at Fangamer (free US shipping) buff.ly/WIfKDqs
 Link: https://buff.ly/WIfKDqs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=8 reply=1 quote=3
+Engagement: like=60 repost=10 reply=1 quote=3
 
 --- 9/64 | post | 2026-11-14T21:16:01.105Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cganjx3i22
@@ -146,7 +146,7 @@ FINAL FANTASY I-VI Bundle is $44.99 on US eShop buff.ly/HMBsOpu
 Link: https://buff.ly/HMBsOpu
 Link: https://buff.ly/ZKtGNsN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=66 repost=16 reply=0 quote=2
+Engagement: like=72 repost=16 reply=0 quote=2
 
 --- 10/64 | post | 2026-11-14T20:58:01.166Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cfahmv3m2q
@@ -158,7 +158,7 @@ Rune Factory 4 Special is $8.99 on US eShop buff.ly/edBw4hP
 Link: https://buff.ly/edBw4hP
 Link: https://buff.ly/9Lav8tB
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=14 reply=0 quote=2
+Engagement: like=48 repost=14 reply=0 quote=2
 
 --- 11/64 | post | 2026-11-14T20:54:33.764Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cf2btc6c2a
@@ -184,7 +184,7 @@ TowerFall is $4.99 on US eShop buff.ly/QtVRP2U
 Link: https://buff.ly/QtVRP2U
 Link: https://buff.ly/4aDSmWT
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=5 reply=0 quote=1
+Engagement: like=28 repost=6 reply=2 quote=1
 
 --- 13/64 | post | 2026-11-14T20:31:08.844Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cdqfyrsz2b
@@ -204,7 +204,7 @@ Created: 2026-11-14T20:08:19.082Z
 Last chance to get LEGO DC vs Marvel Collection Bundle on GMG ($8 for all) buff.ly/1CDVMD8 #ad
 Link: https://buff.ly/1CDVMD8
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=2 reply=0 quote=0
+Engagement: like=18 repost=2 reply=0 quote=0
 
 --- 15/64 | post | 2026-11-14T20:00:35.054Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cbzr5rfc2a
@@ -233,7 +233,7 @@ Link: https://buff.ly/huG0h56
 Link: https://buff.ly/vIVfBgQ
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=2 reply=5 quote=3
+Engagement: like=27 repost=2 reply=6 quote=4
 
 --- 16/64 | post | 2026-11-14T19:57:52.219Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cbuvujrj2h
@@ -246,7 +246,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=128 repost=33 reply=2 quote=4
+Engagement: like=136 repost=33 reply=2 quote=4
 
 --- 17/64 | post | 2026-11-14T19:46:30.953Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cbam5r3c2a
@@ -267,7 +267,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=0 reply=0 quote=0
+Engagement: like=16 repost=0 reply=0 quote=0
 
 --- 18/64 | post | 2026-11-14T19:42:01.325Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2caykzjek2p
@@ -277,7 +277,7 @@ Created: 2026-11-14T19:42:01.325Z
 NieR - Duality t-shirt (by Tee Twist) is $20 at The Yetee (today only) buff.ly/iw1ifF0 #ad
 Link: https://buff.ly/iw1ifF0
 Image description: [no alt text supplied; image omitted]
-Engagement: like=144 repost=26 reply=0 quote=0
+Engagement: like=156 repost=29 reply=0 quote=0
 
 --- 19/64 | post | 2026-11-14T19:24:02.125Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c7yfszrh2u
@@ -287,7 +287,7 @@ Created: 2026-11-14T19:24:02.125Z
 CloverPit is $6.99 on Steam buff.ly/lsubPpa
 Link: https://buff.ly/lsubPpa
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=2 reply=0 quote=3
+Engagement: like=32 repost=2 reply=0 quote=3
 
 --- 20/64 | post | 2026-11-14T19:11:34.922Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c7c57xsk2a
@@ -315,7 +315,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=4 reply=1 quote=2
+Engagement: like=47 repost=4 reply=1 quote=2
 
 --- 21/64 | post | 2026-11-14T18:39:09.053Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c5i5j7p32x
@@ -325,7 +325,7 @@ Created: 2026-11-14T18:39:09.053Z
 STEINS;GATE is $8.99 on Steam buff.ly/gMB46HV
 Link: https://buff.ly/gMB46HV
 Image description: [no alt text supplied; image omitted]
-Engagement: like=58 repost=14 reply=0 quote=2
+Engagement: like=59 repost=14 reply=0 quote=2
 
 --- 22/64 | post | 2026-11-14T18:08:50.896Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c3rxlaun2d
@@ -370,7 +370,7 @@ Created: 2026-11-14T17:56:12.941Z
 Grand Theft Auto VI preorder is $1,999.99 on Xbox buff.ly/X5NwtO2
 Link: https://buff.ly/X5NwtO2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=814 repost=244 reply=54 quote=149
+Engagement: like=875 repost=254 reply=58 quote=160
 
 --- 25/64 | post | 2026-11-14T17:52:02.533Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c2tvwgzq2u
@@ -380,7 +380,7 @@ Created: 2026-11-14T17:52:02.533Z
 Mortal Kombat: Legacy Kollection (Steam) is $17.85 on Gamebillet buff.ly/WueevsJ
 Link: https://buff.ly/WueevsJ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=12 repost=1 reply=0 quote=0
+Engagement: like=14 repost=1 reply=0 quote=0
 
 --- 26/64 | post | 2026-11-14T17:49:43.792Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c2prmf652x
@@ -392,7 +392,7 @@ Best Buy buff.ly/XUhxsPN #ad
 Link: https://buff.ly/nE6VPGd
 Link: https://buff.ly/XUhxsPN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=4 reply=2 quote=2
+Engagement: like=23 repost=4 reply=2 quote=2
 
 --- 27/64 | post | 2026-11-14T17:40:02.647Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c26hfash2a
@@ -402,7 +402,7 @@ Created: 2026-11-14T17:40:02.647Z
 NieR - Mirror Connection t-shirt (by Tee Twist) is $20 at The Yetee (today only) buff.ly/iw1ifF0 #ad
 Link: https://buff.ly/iw1ifF0
 Image description: [no alt text supplied; image omitted]
-Engagement: like=93 repost=13 reply=0 quote=1
+Engagement: like=96 repost=14 reply=0 quote=1
 
 --- 28/64 | post | 2026-11-14T17:34:14.940Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bzu3rtfs2a
@@ -416,7 +416,7 @@ Link: https://buff.ly/SjSQhiV
 Link: https://buff.ly/hhq0TFE
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=9 reply=0 quote=1
+Engagement: like=33 repost=9 reply=0 quote=1
 
 --- 29/64 | post | 2026-11-14T17:17:13.291Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2byvnhnb22a
@@ -439,7 +439,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=9 repost=0 reply=0 quote=0
+Engagement: like=10 repost=0 reply=0 quote=0
 
 --- 30/64 | post | 2026-11-14T16:53:42.874Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bxlmf2xc2a
@@ -454,7 +454,7 @@ Link: https://buff.ly/D1yItvW
 Link: https://buff.ly/KRKmAC5
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=3 reply=5 quote=3
+Engagement: like=33 repost=3 reply=6 quote=3
 
 --- 31/64 | post | 2026-11-14T16:39:03.307Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bwrfl2ht2y
@@ -464,7 +464,7 @@ Created: 2026-11-14T16:39:03.307Z
 Hatsune Miku Keyboard is $59.99 on Newegg Doorbuster deals (in 20 minutes - 9 AM PT) buff.ly/Nw6I0MP #ad
 Link: https://buff.ly/Nw6I0MP
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=2 reply=1 quote=0
+Engagement: like=21 repost=2 reply=1 quote=0
 
 --- 32/64 | post | 2026-11-14T16:26:24.618Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bw2rzpcj2l
@@ -474,7 +474,7 @@ Created: 2026-11-14T16:26:24.618Z
 VIZIO 50" Mini LED Quantum 4K QLED HDR Smart TV (VQM50C-10) is $198 at Walmart buff.ly/QCY5VOr #ad
 Link: https://buff.ly/QCY5VOr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=1 reply=2 quote=0
+Engagement: like=19 repost=1 reply=2 quote=0
 
 --- 33/64 | post | 2026-11-14T16:17:39.586Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bvl5cryk2a
@@ -485,7 +485,7 @@ Star Fox (Switch 2 Digital) is $42.99 on Amazon amzn.to/4jf45iC #ad
 Link: https://amzn.to/4jf45iC
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=13 reply=0 quote=1
+Engagement: like=46 repost=13 reply=0 quote=1
 
 --- 34/64 | post | 2026-11-14T16:10:24.531Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bv66fxls2a
@@ -508,7 +508,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=4 reply=0 quote=2
+Engagement: like=23 repost=4 reply=0 quote=2
 
 --- 35/64 | post | 2026-11-14T16:04:27.551Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2butjxtc22a
@@ -520,7 +520,7 @@ Link: https://amzn.to/4eAxyRA
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=2 reply=0 quote=1
+Engagement: like=29 repost=2 reply=0 quote=1
 
 --- 36/64 | post | 2026-11-14T16:00:30.780Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bumi6dwq2u
@@ -534,7 +534,7 @@ Fanatical Flash Deals (Nov 14th) buff.ly/aJR3wed #ad
 -The Alters: Deluxe Edition - 55% off ($22.26)
 Link: https://buff.ly/aJR3wed
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=0 reply=0 quote=0
+Engagement: like=12 repost=0 reply=0 quote=0
 
 --- 37/64 | post | 2026-11-14T15:54:42.342Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2buc3uur22y
@@ -550,7 +550,7 @@ Link: https://buff.ly/3RzX9t1
 Link: https://buff.ly/oE1AQEm
 Link: https://buff.ly/hZ4dCi8
 Image description: [no alt text supplied; image omitted]
-Engagement: like=10 repost=0 reply=0 quote=0
+Engagement: like=12 repost=0 reply=0 quote=0
 
 --- 38/64 | post | 2026-11-14T15:35:05.305Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bt6zeilp2y
@@ -563,7 +563,7 @@ Link: https://buff.ly/zSlgRWY
 Link: https://buff.ly/MFbyqRI
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=1 reply=1 quote=2
+Engagement: like=20 repost=1 reply=1 quote=2
 
 --- 39/64 | post | 2026-11-14T15:28:39.542Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bstjhrbk2a
@@ -577,7 +577,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=3 reply=1 quote=1
+Engagement: like=38 repost=3 reply=1 quote=1
 
 --- 40/64 | post | 2026-11-14T15:23:53.506Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bskyoo7s2a
@@ -588,7 +588,7 @@ Super Mario Galaxy Movie Bowser Jr. Toy, 5 Inch Action Figure & Paintbrush is $4
 Link: https://amzn.to/4kAhG56
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=4 reply=0 quote=1
+Engagement: like=27 repost=4 reply=0 quote=1
 
 --- 41/64 | post | 2026-11-14T15:19:52.918Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bsdtahzk2a
@@ -604,7 +604,7 @@ Link: https://buff.ly/O2d8zNG
 Link: https://buff.ly/FNvlmmW
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=2 reply=1 quote=1
+Engagement: like=25 repost=2 reply=1 quote=1
 
 --- 42/64 | post | 2026-11-14T15:17:52.035Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bsa7xg7s2a
@@ -622,7 +622,7 @@ Link: https://buff.ly/xFIQ2dB
 Link: https://buff.ly/KAVwJc2
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=1 reply=0 quote=1
+Engagement: like=15 repost=1 reply=0 quote=1
 
 --- 43/64 | post | 2026-11-14T15:14:53.984Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bs2w5qc22a
@@ -645,7 +645,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=49 repost=9 reply=0 quote=3
+Engagement: like=51 repost=9 reply=0 quote=3
 
 --- 44/64 | post | 2026-11-14T15:12:19.180Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2brwcjij22a
@@ -659,7 +659,7 @@ Link: https://amzn.to/4Avaig6
 Link: https://amzn.to/4BfFbGE
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=58 repost=8 reply=0 quote=2
+Engagement: like=59 repost=8 reply=0 quote=2
 
 --- 45/64 | post | 2026-11-14T15:10:59.863Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2brtwuwis2a
@@ -673,7 +673,7 @@ Link: https://amzn.to/4wawTwY
 Link: https://amzn.to/4BfFbGE
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=45 repost=5 reply=1 quote=1
+Engagement: like=46 repost=5 reply=1 quote=1
 
 --- 46/64 | post | 2026-11-14T15:07:56.265Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2brohs6yv23
@@ -687,7 +687,7 @@ eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
 Wallet limit is $800
 Link: https://buff.ly/7xVSejB
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=1 reply=0 quote=0
+Engagement: like=12 repost=1 reply=0 quote=0
 
 --- 47/64 | post | 2026-11-14T15:06:23.558Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2brlpexyc2y
@@ -704,7 +704,7 @@ All VGP deals buff.ly/B2wm2B6 #ad
 Link: https://buff.ly/fF1sdzk
 Link: https://buff.ly/B2wm2B6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=56 repost=19 reply=1 quote=1
+Engagement: like=59 repost=19 reply=1 quote=1
 
 --- 48/64 | post | 2026-11-14T14:27:31.116Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bpg6yils2x
@@ -714,7 +714,7 @@ Created: 2026-11-14T14:27:31.116Z
 The Legend of Zelda™: Ocarina of Time / The Legend of Zelda 40th Anniversary Pin Set back up at My Nintendo rewards (800 Platinum Points) buff.ly/Z731FOT
 Link: https://buff.ly/Z731FOT
 Image description: [no alt text supplied; image omitted]
-Engagement: like=95 repost=6 reply=4 quote=0
+Engagement: like=96 repost=6 reply=4 quote=0
 
 --- 49/64 | post | 2026-11-14T09:15:48.202Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2b5ysitsj2q
@@ -724,7 +724,7 @@ Created: 2026-11-14T09:15:48.202Z
 PlayStation 5 Slim Console – Ghost of Yōtei Gold Limited Edition Bundle - Open Box - Excellent is $424.99 at Best Buy buff.ly/K6tZZM2 #ad
 Link: https://buff.ly/K6tZZM2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=0 reply=2 quote=0
+Engagement: like=38 repost=0 reply=2 quote=0
 
 --- 50/64 | post | 2026-11-14T06:11:31.221Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2atpbqekc2t
@@ -737,7 +737,7 @@ Link: https://amzn.to/4zglQTx
 Link: https://buff.ly/kFStJvT
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=1 reply=2 quote=0
+Engagement: like=30 repost=1 reply=2 quote=0
 
 --- 51/64 | post | 2026-11-14T06:08:52.952Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2atkkslct23
@@ -748,7 +748,7 @@ LG sale on Best Buy DOTD buff.ly/hlblJun #ad
 Link: https://buff.ly/hlblJun
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=8 repost=0 reply=2 quote=1
+Engagement: like=9 repost=0 reply=2 quote=1
 
 --- 52/64 | post | 2026-11-14T06:06:00.179Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2atffzyn62f
@@ -758,7 +758,7 @@ Created: 2026-11-14T06:06:00.179Z
 MSI MAG A650GN II Gaming Power Supply - 80 Plus Gold - 650W - Non-Modular - Low Noise ATX PSU is $24.99 on Woot buff.ly/oEE2PEo #ad
 Link: https://buff.ly/oEE2PEo
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=2 reply=0 quote=0
+Engagement: like=20 repost=2 reply=0 quote=0
 
 --- 53/64 | post | 2026-11-14T06:03:52.064Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2atblu7cb2y
@@ -768,7 +768,7 @@ Created: 2026-11-14T06:03:52.064Z
 The Home Gym sale on Woot buff.ly/msDDpoO #ad
 Link: https://buff.ly/msDDpoO
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=2 reply=0 quote=0
+Engagement: like=20 repost=2 reply=0 quote=0
 
 --- 54/64 | post | 2026-11-14T06:03:19.909Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2atan6uxa2y
@@ -779,7 +779,7 @@ STANLEY, Ello, & More sale on Woot buff.ly/E6k7lDp #ad
 Link: https://buff.ly/E6k7lDp
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=7 repost=0 reply=1 quote=0
+Engagement: like=8 repost=0 reply=1 quote=0
 
 --- 55/64 | post | 2026-11-14T06:02:32.703Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2at7a6cb72a
@@ -789,7 +789,7 @@ Created: 2026-11-14T06:02:32.703Z
 Android sale on Woot buff.ly/3btYg40 #ad
 Link: https://buff.ly/3btYg40
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=0 reply=0 quote=0
+Engagement: like=12 repost=0 reply=0 quote=0
 
 --- 56/64 | post | 2026-11-14T06:01:20.325Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2at535iqp2y
@@ -799,7 +799,7 @@ Created: 2026-11-14T06:01:20.325Z
 Nier apparel at The Yetee (available for 24 hours) buff.ly/iw1ifF0 #ad
 Link: https://buff.ly/iw1ifF0
 Image description: [no alt text supplied; image omitted]
-Engagement: like=45 repost=9 reply=0 quote=1
+Engagement: like=46 repost=9 reply=0 quote=1
 
 --- 57/64 | post | 2026-11-14T06:01:04.868Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2at4mfsuk23
@@ -810,7 +810,7 @@ November Grocery and Household Bonanza sale on Woot (buy 1, get extra 20% off, b
 Link: https://buff.ly/4iF1vCO
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=6 repost=0 reply=0 quote=0
+Engagement: like=7 repost=0 reply=0 quote=0
 
 --- 58/64 | post | 2026-11-14T06:00:15.908Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2at35pnjl23
@@ -820,7 +820,7 @@ Created: 2026-11-14T06:00:15.908Z
 Grandma's Cookies Variety Pack 30 Count is $4.72 on Woot (discount at final checkout screen) buff.ly/770apAk #ad
 Link: https://buff.ly/770apAk
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=6 reply=2 quote=0
+Engagement: like=26 repost=6 reply=2 quote=0
 
 --- 59/64 | post | 2026-11-14T05:43:41.144Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2as5izmys2t
@@ -836,7 +836,7 @@ Link: https://www.youtube.com/watch?v=jYA72wBTU-4
 Link: https://store.steampowered.com/app/4269060/Super_Meat_Boy_Again/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=132 repost=21 reply=8 quote=32
+Engagement: like=133 repost=21 reply=8 quote=33
 
 --- 60/64 | post | 2026-11-14T02:26:33.760Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ah4zkrfa2k
