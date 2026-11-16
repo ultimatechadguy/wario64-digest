@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-13
-Updated: 2026-11-16T01:56:24.986129Z
+Updated: 2026-11-16T09:31:10.315888Z
 Timezone: America/Los_Angeles
 Count: 83
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -382,7 +382,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=12 repost=0 reply=0 quote=2
+Engagement: like=12 repost=0 reply=0 quote=1
 
 --- 29/83 | post | 2026-11-13T18:01:08.774Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27kvbfg5k2g
@@ -599,7 +599,7 @@ Link: https://buff.ly/3U3LZTF
 Link: https://buff.ly/let4Koa
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=80 repost=21 reply=1 quote=3
+Engagement: like=81 repost=21 reply=1 quote=3
 
 --- 45/83 | post | 2026-11-13T15:23:55.794Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27c45fvdz2v
@@ -1089,4 +1089,4 @@ Wolfenstein 3 is officially in production
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=1107 repost=182 reply=41 quote=222
+Engagement: like=1107 repost=182 reply=41 quote=223
