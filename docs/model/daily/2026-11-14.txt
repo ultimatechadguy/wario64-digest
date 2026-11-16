@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-14
-Updated: 2026-11-16T09:31:10.315888Z
+Updated: 2026-11-16T19:49:23.856231Z
 Timezone: America/Los_Angeles
 Count: 64
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -22,7 +22,7 @@ All VGP deals buff.ly/B2wm2B6 #ad
 Link: https://buff.ly/fF1sdzk
 Link: https://buff.ly/B2wm2B6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=59 repost=19 reply=1 quote=1
+Engagement: like=60 repost=19 reply=1 quote=1
 
 --- 2/64 | post | 2026-11-14T23:22:43.100Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cnd7ecec2h
@@ -57,7 +57,7 @@ Link: https://buff.ly/S4R8k3H
 Link: https://buff.ly/LKevLQ5
 Link: https://buff.ly/lYlPDZt
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=0 reply=0 quote=0
+Engagement: like=16 repost=0 reply=0 quote=0
 
 --- 4/64 | post | 2026-11-14T22:39:01.855Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ckv3ketb2t
@@ -158,7 +158,7 @@ Rune Factory 4 Special is $8.99 on US eShop buff.ly/edBw4hP
 Link: https://buff.ly/edBw4hP
 Link: https://buff.ly/9Lav8tB
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=14 reply=0 quote=2
+Engagement: like=51 repost=14 reply=0 quote=2
 
 --- 11/64 | post | 2026-11-14T20:54:33.764Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cf2btc6c2a
@@ -233,7 +233,7 @@ Link: https://buff.ly/huG0h56
 Link: https://buff.ly/vIVfBgQ
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=2 reply=6 quote=4
+Engagement: like=29 repost=2 reply=6 quote=5
 
 --- 16/64 | post | 2026-11-14T19:57:52.219Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cbuvujrj2h
@@ -277,7 +277,7 @@ Created: 2026-11-14T19:42:01.325Z
 NieR - Duality t-shirt (by Tee Twist) is $20 at The Yetee (today only) buff.ly/iw1ifF0 #ad
 Link: https://buff.ly/iw1ifF0
 Image description: [no alt text supplied; image omitted]
-Engagement: like=157 repost=29 reply=0 quote=0
+Engagement: like=158 repost=29 reply=0 quote=0
 
 --- 19/64 | post | 2026-11-14T19:24:02.125Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c7yfszrh2u
@@ -370,7 +370,7 @@ Created: 2026-11-14T17:56:12.941Z
 Grand Theft Auto VI preorder is $1,999.99 on Xbox buff.ly/X5NwtO2
 Link: https://buff.ly/X5NwtO2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=921 repost=260 reply=63 quote=171
+Engagement: like=927 repost=260 reply=64 quote=171
 
 --- 25/64 | post | 2026-11-14T17:52:02.533Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c2tvwgzq2u
@@ -402,7 +402,7 @@ Created: 2026-11-14T17:40:02.647Z
 NieR - Mirror Connection t-shirt (by Tee Twist) is $20 at The Yetee (today only) buff.ly/iw1ifF0 #ad
 Link: https://buff.ly/iw1ifF0
 Image description: [no alt text supplied; image omitted]
-Engagement: like=100 repost=14 reply=0 quote=1
+Engagement: like=101 repost=14 reply=0 quote=1
 
 --- 28/64 | post | 2026-11-14T17:34:14.940Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bzu3rtfs2a
@@ -508,7 +508,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=4 reply=0 quote=2
+Engagement: like=24 repost=4 reply=0 quote=2
 
 --- 35/64 | post | 2026-11-14T16:04:27.551Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2butjxtc22a
@@ -604,7 +604,7 @@ Link: https://buff.ly/O2d8zNG
 Link: https://buff.ly/FNvlmmW
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=2 reply=1 quote=1
+Engagement: like=26 repost=2 reply=1 quote=1
 
 --- 42/64 | post | 2026-11-14T15:17:52.035Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bsa7xg7s2a
@@ -645,7 +645,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=9 reply=0 quote=3
+Engagement: like=52 repost=9 reply=0 quote=3
 
 --- 44/64 | post | 2026-11-14T15:12:19.180Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2brwcjij22a
@@ -704,7 +704,7 @@ All VGP deals buff.ly/B2wm2B6 #ad
 Link: https://buff.ly/fF1sdzk
 Link: https://buff.ly/B2wm2B6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=59 repost=19 reply=1 quote=1
+Engagement: like=60 repost=19 reply=1 quote=1
 
 --- 48/64 | post | 2026-11-14T14:27:31.116Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bpg6yils2x
@@ -836,7 +836,7 @@ Link: https://www.youtube.com/watch?v=jYA72wBTU-4
 Link: https://store.steampowered.com/app/4269060/Super_Meat_Boy_Again/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=138 repost=20 reply=10 quote=38
+Engagement: like=138 repost=20 reply=11 quote=39
 
 --- 60/64 | post | 2026-11-14T02:26:33.760Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ah4zkrfa2k
@@ -861,7 +861,7 @@ Link: https://buff.ly/Y5o3DsQ
 Link: https://buff.ly/mLm2Bkb
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=2 reply=2 quote=0
+Engagement: like=26 repost=2 reply=2 quote=0
 
 --- 62/64 | post | 2026-11-14T02:21:41.829Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2agud5rnf2v
@@ -871,7 +871,7 @@ Created: 2026-11-14T02:21:41.829Z
 Saros (PS5) is $41.99 at Walmart (antonline) buff.ly/TWRiX2a #ad
 Link: https://buff.ly/TWRiX2a
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=1 reply=0 quote=1
+Engagement: like=21 repost=1 reply=0 quote=1
 
 --- 63/64 | post | 2026-11-14T00:39:04.973Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ab4tjdss23
@@ -890,7 +890,7 @@ Link: https://buff.ly/5f3hOw7
 Link: https://buff.ly/uSQ7lmc
 Link: https://buff.ly/jxx41GL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=8 reply=0 quote=1
+Engagement: like=37 repost=8 reply=0 quote=1
 
 --- 64/64 | post | 2026-11-14T00:29:35.697Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2aaluma622t

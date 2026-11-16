@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-12
-Updated: 2026-11-16T09:31:10.315888Z
+Updated: 2026-11-16T19:49:23.856231Z
 Timezone: America/Los_Angeles
 Count: 119
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -249,7 +249,7 @@ DOOM: The Dark Ages | Revelations - Slaughter Mode Official Trailer | Available 
 Link: https://www.youtube.com/watch?v=RwtRHiZ8zkE
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=97 repost=15 reply=3 quote=1
+Engagement: like=98 repost=15 reply=3 quote=2
 
 --- 21/119 | post | 2026-11-12T19:53:16.464Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25aotxhw22a
@@ -279,7 +279,7 @@ Created: 2026-11-12T19:38:13.270Z
 Coyote vs. Acme Steelbook (4K UHD + Blu-ray) preorder available on GRUV - $37.95 (extra discount w/ code FIRSTGRUV15) buff.ly/7c8snm5 #ad
 Link: https://buff.ly/7c8snm5
 Image description: [no alt text supplied; image omitted]
-Engagement: like=70 repost=11 reply=2 quote=1
+Engagement: like=71 repost=11 reply=2 quote=1
 
 --- 24/119 | post | 2026-11-12T19:23:56.883Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2572fvd3s2n
@@ -322,7 +322,7 @@ Mention: did:plc:dwwzb6go5lkw5shdryditl4v
 Link: https://buff.ly/iMeQcme
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=329 repost=645 reply=11 quote=5
+Engagement: like=334 repost=653 reply=11 quote=5
 
 --- 26/119 | post | 2026-11-12T19:18:46.695Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n256r6354skh
@@ -425,7 +425,7 @@ Link: https://buff.ly/EPZAlif
 Link: https://buff.ly/IDfGndf
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=2 reply=2 quote=1
+Engagement: like=19 repost=2 reply=2 quote=1
 
 --- 33/119 | post | 2026-11-12T18:32:19.425Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25463wm522l
@@ -565,7 +565,7 @@ Created: 2026-11-12T17:56:58.391Z
 Mario - Storybook Brothers t-shirt (by Brian Shepard) is $20 at The Yetee (today only) buff.ly/pbF7UwQ #ad
 Link: https://buff.ly/pbF7UwQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=77 repost=8 reply=0 quote=1
+Engagement: like=78 repost=8 reply=0 quote=1
 
 --- 42/119 | post | 2026-11-12T17:42:23.181Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24zesiiiu2t
@@ -609,7 +609,7 @@ Link: https://buff.ly/nd931F7
 Link: https://buff.ly/PbtcN3U
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=6 reply=2 quote=4
+Engagement: like=23 repost=6 reply=2 quote=4
 
 --- 45/119 | post | 2026-11-12T17:22:02.827Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24yagocgm2t
@@ -827,7 +827,7 @@ Created: 2026-11-12T16:00:27.479Z
 Knightica is free on Epic Games Store. Alien: Isolation & Mark of the Deep are the next free titles buff.ly/MdEraPT
 Link: https://buff.ly/MdEraPT
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=1 reply=3 quote=3
+Engagement: like=31 repost=1 reply=3 quote=4
 
 --- 63/119 | post | 2026-11-12T16:00:18.782Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24tobsqzq2m
@@ -890,7 +890,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=79 repost=11 reply=0 quote=8
+Engagement: like=81 repost=11 reply=0 quote=9
 
 --- 67/119 | post | 2026-11-12T15:27:46.419Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n24ru3vbkf2j

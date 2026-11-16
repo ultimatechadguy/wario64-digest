@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-13
-Updated: 2026-11-16T09:31:10.315888Z
+Updated: 2026-11-16T19:49:23.856231Z
 Timezone: America/Los_Angeles
 Count: 83
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -174,7 +174,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=2 reply=1 quote=1
+Engagement: like=28 repost=2 reply=1 quote=1
 
 --- 13/83 | post | 2026-11-13T20:04:40.966Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27rs67uno2y
@@ -289,7 +289,7 @@ Link: https://buff.ly/uIrIJMS
 Link: https://buff.ly/V5h9Eyy
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=112 repost=28 reply=7 quote=1
+Engagement: like=111 repost=28 reply=7 quote=1
 
 --- 22/83 | post | 2026-11-13T18:34:59.417Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27mrrxwoc2q
@@ -440,7 +440,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=6 reply=0 quote=0
+Engagement: like=32 repost=6 reply=0 quote=0
 
 --- 32/83 | post | 2026-11-13T17:32:19.245Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n27jbpyjv42v
@@ -954,7 +954,7 @@ Created: 2026-11-13T06:02:11.575Z
 Xbox Series X25 at Best Buy ($899.99) buff.ly/o4kWapd #ad
 Link: https://buff.ly/o4kWapd
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=1 reply=3 quote=3
+Engagement: like=43 repost=1 reply=3 quote=4
 
 --- 72/83 | post | 2026-11-13T06:01:45.750Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n26covwmu52y
@@ -1065,7 +1065,7 @@ Link: https://buff.ly/jJRGdVs
 Link: https://buff.ly/hTzM76g
 Link: https://buff.ly/BaKA61S
 Image description: [no alt text supplied; image omitted]
-Engagement: like=167 repost=39 reply=14 quote=6
+Engagement: like=168 repost=39 reply=14 quote=6
 
 --- 82/83 | post | 2026-11-13T00:09:55.359Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n25ozrikak2j

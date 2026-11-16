@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-11-15
-Updated: 2026-11-16T09:31:10.315888Z
+Updated: 2026-11-16T19:49:23.856231Z
 Timezone: America/Los_Angeles
 Count: 98
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -16,7 +16,7 @@ Dave the Diver Complete Edition (PS5) is $36.54 on Amazon amzn.to/4fchwgR #ad
 Link: https://amzn.to/4fchwgR
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=0 reply=1 quote=1
+Engagement: like=34 repost=0 reply=1 quote=1
 
 --- 2/98 | post | 2026-11-15T23:17:11.845Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2f5iaw53p2z
@@ -26,7 +26,7 @@ Created: 2026-11-15T23:17:11.845Z
 Alpha Protocol is $6.79 on GOG (preservation program) buff.ly/tlDqBsd #ad
 Link: https://buff.ly/tlDqBsd
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=4 reply=0 quote=4
+Engagement: like=57 repost=4 reply=0 quote=4
 
 --- 3/98 | post | 2026-11-15T22:46:08.279Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2f3qpolfi2p
@@ -74,7 +74,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=2 reply=0 quote=0
+Engagement: like=15 repost=2 reply=0 quote=0
 
 --- 6/98 | post | 2026-11-15T22:00:53.611Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ez7srbkk2q
@@ -147,7 +147,7 @@ add more games to save more (~$7.50 per game)
 Link: https://buff.ly/CWQkMzc
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=12 repost=0 reply=0 quote=0
+Engagement: like=13 repost=0 reply=0 quote=0
 
 --- 10/98 | post | 2026-11-15T20:50:18.080Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2evblhdpp2n
@@ -160,7 +160,7 @@ Pre Black Friday flash deals buff.ly/fF1sdzk #ad
 Link: https://buff.ly/etcz16V
 Link: https://buff.ly/fF1sdzk
 Image description: [no alt text supplied; image omitted]
-Engagement: like=10 repost=0 reply=0 quote=0
+Engagement: like=11 repost=0 reply=0 quote=0
 
 --- 11/98 | post | 2026-11-15T20:46:34.743Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ev2whhas2h
@@ -174,7 +174,7 @@ Link: https://amzn.to/4m5u2PT
 Link: https://buff.ly/1ru9rCn
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=0 reply=3 quote=1
+Engagement: like=19 repost=0 reply=4 quote=1
 
 --- 12/98 | post | 2026-11-15T20:44:23.372Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2euwz6iw42p
@@ -207,7 +207,7 @@ Created: 2026-11-15T20:21:02.180Z
 Rogue Legacy is $1.49 on GOG buff.ly/vMcvhSj #ad
 Link: https://buff.ly/vMcvhSj
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=5 reply=1 quote=0
+Engagement: like=34 repost=6 reply=1 quote=0
 
 --- 15/98 | post | 2026-11-15T20:12:58.075Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2et6t7tvm2q
@@ -233,7 +233,7 @@ Link: https://buff.ly/NULsGIF
 Link: https://buff.ly/MiJNs0R
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=11 reply=1 quote=1
+Engagement: like=41 repost=11 reply=1 quote=1
 
 --- 17/98 | post | 2026-11-15T19:19:57.916Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2eqa2euv22q
@@ -261,7 +261,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=34 repost=5 reply=1 quote=1
+Engagement: like=35 repost=5 reply=1 quote=1
 
 --- 18/98 | post | 2026-11-15T19:05:10.861Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2epfmg4ac2q
@@ -380,7 +380,7 @@ All VGP deals buff.ly/B2wm2B6 #ad
 Link: https://buff.ly/aa8vSwj
 Link: https://buff.ly/B2wm2B6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=4 reply=0 quote=0
+Engagement: like=33 repost=4 reply=0 quote=0
 
 --- 25/98 | post | 2026-11-15T18:20:15.825Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2emvca55c2q
@@ -391,7 +391,7 @@ DRAGON BALL FighterZ | Balance Update Coming Soon www.youtube.com/watch?v=Dyqw..
 Link: https://www.youtube.com/watch?v=DyqwKbUaXH4
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=141 repost=19 reply=5 quote=27
+Engagement: like=144 repost=19 reply=5 quote=31
 
 --- 26/98 | post | 2026-11-15T18:08:15.259Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2em7t27fsvb
@@ -470,7 +470,7 @@ Link: https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=131 repost=12 reply=13 quote=18
+Engagement: like=138 repost=13 reply=13 quote=19
 
 --- 31/98 | post | 2026-11-15T17:25:56.484Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2eju5uxwc2q
@@ -517,7 +517,7 @@ TOEM 2 is $15.99 on US eShop buff.ly/ZfSxz1g
 Link: https://buff.ly/ZfSxz1g
 Link: https://buff.ly/tycaGJr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=4 reply=0 quote=0
+Engagement: like=29 repost=4 reply=0 quote=0
 
 --- 34/98 | post | 2026-11-15T17:05:51.005Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2eiqaamf22q
@@ -529,7 +529,7 @@ Link: https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=92 repost=13 reply=5 quote=7
+Engagement: like=94 repost=12 reply=5 quote=7
 
 --- 35/98 | post | 2026-11-15T17:00:58.669Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2eihjhayc2q
@@ -552,7 +552,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=5 reply=1 quote=2
+Engagement: like=37 repost=5 reply=1 quote=2
 
 --- 36/98 | post | 2026-11-15T16:53:29.187Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ei24scei2t
@@ -562,7 +562,7 @@ Created: 2026-11-15T16:53:29.187Z
 Legend of Zelda A Link Between Worlds / Legend of Zelda : Ocarina of Time 3D (3DS ESRB) restocked at VGP ($42 US Dollars each) buff.ly/5bPfhTO #ad
 Link: https://buff.ly/5bPfhTO
 Image description: [no alt text supplied; image omitted]
-Engagement: like=102 repost=13 reply=1 quote=1
+Engagement: like=104 repost=13 reply=1 quote=1
 
 --- 37/98 | post | 2026-11-15T16:44:02.653Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ehjaj3kd2n
@@ -598,7 +598,7 @@ Link: https://buff.ly/qEPeuRL
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=4 reply=0 quote=1
+Engagement: like=40 repost=4 reply=0 quote=1
 
 --- 39/98 | post | 2026-11-15T16:19:35.054Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2eg5ivdpk2q
@@ -697,7 +697,7 @@ Link: https://amzn.to/3WHJpXU
 Link: https://buff.ly/jNk3YsC
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=0 reply=0 quote=0
+Engagement: like=14 repost=0 reply=0 quote=0
 
 --- 45/98 | post | 2026-11-15T15:45:27.464Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2eeai5ztc2h
@@ -736,7 +736,7 @@ Link: https://buff.ly/hUpRTLs
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=1 reply=1 quote=0
+Engagement: like=26 repost=1 reply=1 quote=0
 
 --- 48/98 | post | 2026-11-15T15:10:24.842Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ecbswwck2q
@@ -752,7 +752,7 @@ Link: https://link.amazon/B06gTXYyY
 Link: https://buff.ly/pstbEXY
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=9 repost=0 reply=0 quote=0
+Engagement: like=10 repost=0 reply=0 quote=0
 
 --- 49/98 | post | 2026-11-15T15:08:02.027Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ec5kqlj22q
@@ -806,7 +806,7 @@ Link: https://buff.ly/SiiTa6x
 Link: https://buff.ly/0XS57fw
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=4 reply=0 quote=0
+Engagement: like=30 repost=5 reply=0 quote=0
 
 --- 53/98 | post | 2026-11-15T14:37:59.069Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2eahtcmf22h
@@ -842,7 +842,7 @@ Link: https://amzn.to/4ABuEoc
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=3 reply=0 quote=1
+Engagement: like=32 repost=3 reply=0 quote=1
 
 --- 55/98 | post | 2026-11-15T14:26:59.650Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2e7u6grik2h
@@ -891,7 +891,7 @@ Link: https://amzn.to/4CjxMqu
 Link: https://buff.ly/ABqMfJz
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=1 reply=0 quote=0
+Engagement: like=27 repost=1 reply=0 quote=0
 
 --- 58/98 | post | 2026-11-15T14:19:09.239Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2e7g5sxqs2h
@@ -937,7 +937,7 @@ Lies of P (PS5) is $29.99 on Amazon amzn.to/3YfigXb #ad
 Link: https://amzn.to/3YfigXb
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=1 reply=0 quote=0
+Engagement: like=17 repost=1 reply=0 quote=0
 
 --- 62/98 | post | 2026-11-15T14:12:26.210Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2e725hiqk2h
@@ -961,7 +961,7 @@ Link: https://amzn.to/4t1MEpb
 Link: https://amzn.to/4eEzJn8
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=3 reply=1 quote=0
+Engagement: like=20 repost=3 reply=1 quote=0
 
 --- 64/98 | post | 2026-11-15T09:50:17.926Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2dqffsefk2a
@@ -1018,7 +1018,7 @@ Includes 7 games, all on cart except KOTOR 1+2
 Link: https://amzn.to/4hU8KEc
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=59 repost=3 reply=2 quote=1
+Engagement: like=60 repost=3 reply=2 quote=1
 
 --- 69/98 | post | 2026-11-15T07:31:21.425Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2dimxipg52p
@@ -1054,7 +1054,7 @@ Created: 2026-11-15T06:19:51.430Z
 Cyberpunk 2077 Ultimate Edition (PS5) is $39.99 at Best Buy buff.ly/OmeCDJA #ad
 Link: https://buff.ly/OmeCDJA
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=2 reply=1 quote=0
+Engagement: like=41 repost=2 reply=1 quote=0
 
 --- 72/98 | post | 2026-11-15T06:18:59.990Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2dell6m2p2l
@@ -1064,7 +1064,7 @@ Created: 2026-11-15T06:18:59.990Z
 Alan Wake 2 Deluxe Edition (PS5) is $29.99 at Best Buy buff.ly/8opVx93 #ad
 Link: https://buff.ly/8opVx93
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=5 reply=1 quote=1
+Engagement: like=45 repost=5 reply=1 quote=1
 
 --- 73/98 | post | 2026-11-15T06:18:33.111Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2dekrkczv2y
@@ -1116,7 +1116,7 @@ Created: 2026-11-15T06:15:20.695Z
 Turok Trilogy Bundle (PS5/Switch) is $19.99 at Best Buy buff.ly/0PghoPQ #ad
 Link: https://buff.ly/0PghoPQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=3 reply=0 quote=0
+Engagement: like=27 repost=3 reply=0 quote=0
 
 --- 78/98 | post | 2026-11-15T06:13:31.760Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2debs5unq2p
@@ -1146,7 +1146,7 @@ Created: 2026-11-15T06:12:11.738Z
 Mafia: The Old Country (PS5/XSX) is $19.99 at Best Buy buff.ly/KdZWVzq #ad
 Link: https://buff.ly/KdZWVzq
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=1 reply=0 quote=1
+Engagement: like=17 repost=1 reply=0 quote=1
 
 --- 81/98 | post | 2026-11-15T06:11:23.300Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2de5xnlis2z
@@ -1188,7 +1188,7 @@ Red Dead Redemption (PS5/Switch) is $19.99 at Best Buy buff.ly/9zyksQY #ad
 Switch 2 upgrade pack is free
 Link: https://buff.ly/9zyksQY
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=5 reply=1 quote=0
+Engagement: like=37 repost=5 reply=1 quote=1
 
 --- 85/98 | post | 2026-11-15T06:08:54.989Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ddzk7jqg2q
@@ -1242,7 +1242,7 @@ Created: 2026-11-15T06:05:02.728Z
 Mouse: P.I. For Hire (PS5/Switch 2) is $19.99/$34.99 at Best Buy buff.ly/ABqMfJz #ad
 Link: https://buff.ly/ABqMfJz
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=3 reply=1 quote=1
+Engagement: like=20 repost=3 reply=1 quote=1
 
 --- 90/98 | post | 2026-11-15T06:04:13.611Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ddr5uk7u2p
@@ -1329,7 +1329,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=34 repost=0 reply=0 quote=0
+Engagement: like=35 repost=0 reply=0 quote=0
 
 --- 97/98 | repost | 2026-11-15T00:21:39.450Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n23i7723ms2v#repost:2026-11-15T00:21:39.450Z
