@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-12
-Updated: 2026-11-17T02:40:28.404460Z
+Updated: 2026-11-17T11:15:31.248975Z
 Timezone: America/Los_Angeles
 Count: 119
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -322,7 +322,7 @@ Mention: did:plc:dwwzb6go5lkw5shdryditl4v
 Link: https://buff.ly/iMeQcme
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=388 repost=779 reply=14 quote=8
+Engagement: like=385 repost=746 reply=14 quote=8
 
 --- 26/119 | post | 2026-11-12T19:18:46.695Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n256r6354skh
