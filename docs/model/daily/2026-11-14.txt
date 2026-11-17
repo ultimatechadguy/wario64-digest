@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-14
-Updated: 2026-11-16T19:49:23.856231Z
+Updated: 2026-11-17T02:40:28.404460Z
 Timezone: America/Los_Angeles
 Count: 64
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -158,7 +158,7 @@ Rune Factory 4 Special is $8.99 on US eShop buff.ly/edBw4hP
 Link: https://buff.ly/edBw4hP
 Link: https://buff.ly/9Lav8tB
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=14 reply=0 quote=2
+Engagement: like=54 repost=16 reply=0 quote=2
 
 --- 11/64 | post | 2026-11-14T20:54:33.764Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cf2btc6c2a
@@ -204,7 +204,7 @@ Created: 2026-11-14T20:08:19.082Z
 Last chance to get LEGO DC vs Marvel Collection Bundle on GMG ($8 for all) buff.ly/1CDVMD8 #ad
 Link: https://buff.ly/1CDVMD8
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=2 reply=0 quote=0
+Engagement: like=19 repost=2 reply=0 quote=0
 
 --- 15/64 | post | 2026-11-14T20:00:35.054Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2cbzr5rfc2a
@@ -277,7 +277,7 @@ Created: 2026-11-14T19:42:01.325Z
 NieR - Duality t-shirt (by Tee Twist) is $20 at The Yetee (today only) buff.ly/iw1ifF0 #ad
 Link: https://buff.ly/iw1ifF0
 Image description: [no alt text supplied; image omitted]
-Engagement: like=158 repost=29 reply=0 quote=0
+Engagement: like=160 repost=29 reply=0 quote=0
 
 --- 19/64 | post | 2026-11-14T19:24:02.125Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c7yfszrh2u
@@ -315,7 +315,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=48 repost=4 reply=1 quote=2
+Engagement: like=49 repost=4 reply=1 quote=2
 
 --- 21/64 | post | 2026-11-14T18:39:09.053Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c5i5j7p32x
@@ -370,7 +370,7 @@ Created: 2026-11-14T17:56:12.941Z
 Grand Theft Auto VI preorder is $1,999.99 on Xbox buff.ly/X5NwtO2
 Link: https://buff.ly/X5NwtO2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=927 repost=260 reply=64 quote=171
+Engagement: like=928 repost=260 reply=64 quote=171
 
 --- 25/64 | post | 2026-11-14T17:52:02.533Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2c2tvwgzq2u
@@ -416,7 +416,7 @@ Link: https://buff.ly/SjSQhiV
 Link: https://buff.ly/hhq0TFE
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=34 repost=9 reply=0 quote=1
+Engagement: like=36 repost=9 reply=0 quote=1
 
 --- 29/64 | post | 2026-11-14T17:17:13.291Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2byvnhnb22a
@@ -464,7 +464,7 @@ Created: 2026-11-14T16:39:03.307Z
 Hatsune Miku Keyboard is $59.99 on Newegg Doorbuster deals (in 20 minutes - 9 AM PT) buff.ly/Nw6I0MP #ad
 Link: https://buff.ly/Nw6I0MP
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=2 reply=1 quote=0
+Engagement: like=22 repost=2 reply=1 quote=0
 
 --- 32/64 | post | 2026-11-14T16:26:24.618Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bw2rzpcj2l
@@ -474,7 +474,7 @@ Created: 2026-11-14T16:26:24.618Z
 VIZIO 50" Mini LED Quantum 4K QLED HDR Smart TV (VQM50C-10) is $198 at Walmart buff.ly/QCY5VOr #ad
 Link: https://buff.ly/QCY5VOr
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=1 reply=2 quote=0
+Engagement: like=20 repost=1 reply=2 quote=0
 
 --- 33/64 | post | 2026-11-14T16:17:39.586Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bvl5cryk2a
@@ -485,7 +485,7 @@ Star Fox (Switch 2 Digital) is $42.99 on Amazon amzn.to/4jf45iC #ad
 Link: https://amzn.to/4jf45iC
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=13 reply=0 quote=1
+Engagement: like=48 repost=13 reply=0 quote=1
 
 --- 34/64 | post | 2026-11-14T16:10:24.531Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2bv66fxls2a
@@ -768,7 +768,7 @@ Created: 2026-11-14T06:03:52.064Z
 The Home Gym sale on Woot buff.ly/msDDpoO #ad
 Link: https://buff.ly/msDDpoO
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=2 reply=0 quote=0
+Engagement: like=21 repost=2 reply=0 quote=0
 
 --- 54/64 | post | 2026-11-14T06:03:19.909Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2atan6uxa2y
@@ -810,7 +810,7 @@ November Grocery and Household Bonanza sale on Woot (buy 1, get extra 20% off, b
 Link: https://buff.ly/4iF1vCO
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=7 repost=0 reply=0 quote=0
+Engagement: like=8 repost=0 reply=0 quote=0
 
 --- 58/64 | post | 2026-11-14T06:00:15.908Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2at35pnjl23
@@ -836,7 +836,7 @@ Link: https://www.youtube.com/watch?v=jYA72wBTU-4
 Link: https://store.steampowered.com/app/4269060/Super_Meat_Boy_Again/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=138 repost=20 reply=11 quote=39
+Engagement: like=139 repost=20 reply=11 quote=39
 
 --- 60/64 | post | 2026-11-14T02:26:33.760Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ah4zkrfa2k
