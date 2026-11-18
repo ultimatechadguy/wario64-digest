@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-16
-Updated: 2026-11-18T02:22:22.194884Z
+Updated: 2026-11-18T10:40:42.830047Z
 Timezone: America/Los_Angeles
 Count: 96
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -25,7 +25,7 @@ Mention: did:plc:dwwzb6go5lkw5shdryditl4v
 Link: https://buff.ly/iMeQcme
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=43 repost=8 reply=2 quote=2
+Engagement: like=44 repost=8 reply=2 quote=2
 
 --- 2/96 | post | 2026-11-16T23:19:38.718Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ho3kgutk2h
@@ -68,7 +68,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=13 reply=2 quote=5
+Engagement: like=39 repost=13 reply=2 quote=5
 
 --- 3/96 | post | 2026-11-16T22:38:02.407Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2hlr5rqte2z
@@ -178,7 +178,7 @@ Created: 2026-11-16T21:39:01.506Z
 Spyro Reignited Trilogy is $13.99 on US PSN buff.ly/ncWCzGi
 Link: https://buff.ly/ncWCzGi
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=7 reply=0 quote=1
+Engagement: like=33 repost=7 reply=0 quote=1
 
 --- 10/96 | post | 2026-11-16T21:14:18.124Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2hh3gaqfw2f
@@ -188,7 +188,7 @@ Created: 2026-11-16T21:14:18.124Z
 The Legend of Zelda: Ocarina of Time (Switch 2) Foil Cover in-stock at VGP ($70 US Dollars - free shipping) buff.ly/Vv842Vx #ad
 Link: https://buff.ly/Vv842Vx
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=6 reply=1 quote=1
+Engagement: like=55 repost=6 reply=1 quote=1
 
 --- 11/96 | post | 2026-11-16T21:10:03.409Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2hgttdcmk2h
@@ -199,7 +199,7 @@ Final Fantasy VII: Advent Children Complete (4K UHD + Blu-ray + Digital) is $15.
 Link: https://amzn.to/3rQ0gm8
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=6 reply=1 quote=5
+Engagement: like=55 repost=6 reply=1 quote=5
 
 --- 12/96 | post | 2026-11-16T21:05:05.056Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2hgkwspwl2q
@@ -211,7 +211,7 @@ $13.99 US PSN buff.ly/cr9fMQL
 Link: https://buff.ly/AMYcfLA
 Link: https://buff.ly/cr9fMQL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=33 repost=3 reply=0 quote=3
+Engagement: like=34 repost=3 reply=0 quote=3
 
 --- 13/96 | post | 2026-11-16T20:39:01.727Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2hf4dvh7b2p
@@ -235,7 +235,7 @@ Created: 2026-11-16T20:22:21.592Z
 Iconoclasts is $1.99 on US PS+ buff.ly/8uZWVTQ
 Link: https://buff.ly/8uZWVTQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=86 repost=31 reply=0 quote=6
+Engagement: like=115 repost=41 reply=0 quote=7
 
 --- 15/96 | post | 2026-11-16T20:08:40.679Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2hdg37bms2h
@@ -368,7 +368,7 @@ Link: https://buff.ly/4wfwJXv
 Link: https://buff.ly/Dm1dNj8
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=83 repost=9 reply=1 quote=2
+Engagement: like=85 repost=9 reply=1 quote=2
 
 --- 22/96 | post | 2026-11-16T19:03:52.864Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2h7s7irmc2p
@@ -616,7 +616,7 @@ Created: 2026-11-16T17:19:46.709Z
 Nintendo Switch™ 2 – The Legend of Zelda™ – 40th Anniversary Edition at Nintendo Store buff.ly/WGuWdaa
 Link: https://buff.ly/WGuWdaa
 Image description: [no alt text supplied; image omitted]
-Engagement: like=70 repost=10 reply=11 quote=3
+Engagement: like=71 repost=10 reply=11 quote=3
 
 --- 37/96 | post | 2026-11-16T17:06:57.328Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2gzb4xlf62f
@@ -646,7 +646,7 @@ Link: https://buff.ly/A8gjbdR
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=4 reply=0 quote=2
+Engagement: like=24 repost=4 reply=0 quote=2
 
 --- 39/96 | post | 2026-11-16T16:36:48.047Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2gxl7iqj62c
@@ -814,7 +814,7 @@ Robert Pattinson is the new James Bond variety.com/2026/film/gl...
 Link: https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=2483 repost=515 reply=223 quote=1074
+Engagement: like=2492 repost=516 reply=224 quote=1073
 
 --- 48/96 | post | 2026-11-16T15:00:58.627Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2gs7ug5xs2c
@@ -956,7 +956,7 @@ Race The Sun 2 coming 2027 to Steam/Mobile (Kickstarter soon) store.steampowered
 Link: https://store.steampowered.com/app/4872750/Race_The_Sun_2/
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=94 repost=11 reply=7 quote=4
+Engagement: like=94 repost=12 reply=7 quote=4
 
 --- 54/96 | post | 2026-11-16T14:22:09.810Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2gq2hika322
@@ -1265,7 +1265,7 @@ Much more in interview: www.rpgsite.net/news/21767-m...
 Link: https://www.rpgsite.net/news/21767-marvelous-usa-xseed-games-new-interview-nintendo-switch-2-physical-release-game-key-card-ken-berry-ps5-discs-xbox-ports
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=438 repost=109 reply=10 quote=19
+Engagement: like=439 repost=109 reply=10 quote=19
 
 --- 66/96 | post | 2026-11-16T13:17:49.108Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2gmhfmzt22c
@@ -1568,7 +1568,7 @@ Sony VGP deals buff.ly/WpUgY4Z #ad
 Link: https://buff.ly/VcxraN0
 Link: https://buff.ly/WpUgY4Z
 Image description: [no alt text supplied; image omitted]
-Engagement: like=41 repost=5 reply=0 quote=1
+Engagement: like=42 repost=5 reply=0 quote=1
 
 --- 88/96 | post | 2026-11-16T05:00:03.057Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2fqnd5omf2h
