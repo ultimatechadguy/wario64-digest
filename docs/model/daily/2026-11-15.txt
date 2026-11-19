@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-15
-Updated: 2026-11-19T01:17:55.848116Z
+Updated: 2026-11-19T08:54:47.437493Z
 Timezone: America/Los_Angeles
 Count: 98
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -828,7 +828,7 @@ Link: https://buff.ly/b5mgJzK
 Link: https://buff.ly/jNk3YsC
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=0 reply=0 quote=0
+Engagement: like=14 repost=0 reply=0 quote=0
 
 --- 54/98 | post | 2026-11-15T14:34:01.637Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2eaaqut5k2h
@@ -1222,7 +1222,7 @@ Created: 2026-11-15T06:06:04.205Z
 Super Bomberman Collection (Switch/PS5) is $29.99 at Best Buy buff.ly/7BqKw42 #ad
 Link: https://buff.ly/7BqKw42
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=1 reply=2 quote=0
+Engagement: like=25 repost=1 reply=2 quote=0
 
 --- 88/98 | post | 2026-11-15T06:05:32.488Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ddtj3ovk2a

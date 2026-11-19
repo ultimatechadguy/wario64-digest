@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-11-18
-Updated: 2026-11-19T01:17:55.848116Z
+Updated: 2026-11-19T08:54:47.437493Z
 Timezone: America/Los_Angeles
 Count: 75
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -28,7 +28,7 @@ Black Friday sale on GRUV buff.ly/WzNLUo4 #ad
 extra discount w/ code FIRSTGRUV15 for first orders - not valid on multi-buy promos
 Link: https://buff.ly/WzNLUo4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=8 repost=3 reply=0 quote=0
+Engagement: like=19 repost=3 reply=0 quote=0
 
 --- 2/75 | post | 2026-11-18T23:50:25.004Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mqqg4lic2c
@@ -40,7 +40,7 @@ Link: https://buff.ly/IF5Ekku
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=4 repost=0 reply=3 quote=1
+Engagement: like=7 repost=0 reply=3 quote=1
 
 --- 3/75 | post | 2026-11-18T23:45:23.752Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mqhgtk4a2l
@@ -54,7 +54,7 @@ Drop page buff.ly/KoHFXer #ad
 Link: https://buff.ly/5caO77a
 Link: https://buff.ly/KoHFXer
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=1 reply=1 quote=1
+Engagement: like=32 repost=2 reply=3 quote=6
 
 --- 4/75 | post | 2026-11-18T23:27:30.208Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mphgz5bc23
@@ -73,7 +73,7 @@ Link: https://buff.ly/aTL0tK6
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=10 repost=0 reply=0 quote=0
+Engagement: like=14 repost=0 reply=0 quote=0
 
 --- 5/75 | post | 2026-11-18T23:18:55.910Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2moy4jy5k2c
@@ -83,7 +83,7 @@ Created: 2026-11-18T23:18:55.910Z
 Free hot or iced coffee at Dunkin w/ code DUNKINRUNSONDOOM (redeem in app on rewards section)
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=82 repost=15 reply=8 quote=4
+Engagement: like=103 repost=17 reply=9 quote=6
 
 --- 6/75 | post | 2026-11-18T23:12:46.088Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mon3uacc2z
@@ -93,7 +93,7 @@ Created: 2026-11-18T23:12:46.088Z
 Mighty Morphin Power Rangers: Rita's Rewind is $15.74 on US PSN buff.ly/plwxPTt
 Link: https://buff.ly/plwxPTt
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=1 reply=0 quote=0
+Engagement: like=43 repost=1 reply=1 quote=1
 
 --- 7/75 | post | 2026-11-18T22:41:19.824Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mmuuxp622h
@@ -116,7 +116,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=1 reply=0 quote=1
+Engagement: like=26 repost=1 reply=0 quote=1
 
 --- 8/75 | post | 2026-11-18T22:06:18.135Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mkwan7jk2c
@@ -157,7 +157,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=11 reply=2 quote=4
+Engagement: like=38 repost=12 reply=2 quote=4
 
 --- 9/75 | post | 2026-11-18T22:02:21.334Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mkp6sw2q2c
@@ -167,7 +167,7 @@ Created: 2026-11-18T22:02:21.334Z
 Pokemon TCG up on Walmart drawing (ends in 1 hour / 3 PM PT) buff.ly/8wJPU97 #ad
 Link: https://buff.ly/8wJPU97
 Image description: [no alt text supplied; image omitted]
-Engagement: like=7 repost=0 reply=0 quote=0
+Engagement: like=11 repost=0 reply=0 quote=0
 
 --- 10/75 | post | 2026-11-18T21:46:25.283Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mjsp2kg32f
@@ -177,7 +177,7 @@ Created: 2026-11-18T21:46:25.283Z
 DAEMON X MACHINA is $9.99 on Steam buff.ly/qQ4Eig5
 Link: https://buff.ly/qQ4Eig5
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=8 reply=1 quote=2
+Engagement: like=52 repost=10 reply=1 quote=2
 
 --- 11/75 | post | 2026-11-18T21:28:36.817Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2misu3d4k24
@@ -200,7 +200,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=0 reply=0 quote=0
+Engagement: like=18 repost=0 reply=1 quote=0
 
 --- 12/75 | post | 2026-11-18T21:13:45.037Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mhybmdac2c
@@ -247,7 +247,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=5 reply=1 quote=2
+Engagement: like=23 repost=5 reply=1 quote=2
 
 --- 13/75 | post | 2026-11-18T21:09:40.248Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mhqy6adz2n
@@ -260,7 +260,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=5 repost=1 reply=0 quote=1
+Engagement: like=6 repost=1 reply=0 quote=1
 
 --- 14/75 | post | 2026-11-18T21:05:10.920Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mhixcqtc2j
@@ -283,7 +283,7 @@ Black Friday deals buff.ly/fF1sdzk #ad
 Link: https://buff.ly/4CIzOX6
 Link: https://buff.ly/fF1sdzk
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=2 reply=0 quote=0
+Engagement: like=22 repost=2 reply=0 quote=0
 
 --- 15/75 | post | 2026-11-18T21:03:55.102Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mhgozajn2q
@@ -295,7 +295,7 @@ SteamWorld Heist II is $5.99 on US PSN buff.ly/sehkVPL
 Link: https://buff.ly/sehkVPL
 Link: https://buff.ly/tpKArPh
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=1 reply=0 quote=1
+Engagement: like=16 repost=1 reply=0 quote=1
 
 --- 16/75 | post | 2026-11-18T20:30:08.063Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mfkbumks2c
@@ -306,7 +306,7 @@ The Legend of Zelda: Ocarina of Time (Switch 2) Foil Cover in-stock at VGP ($70 
 Link: https://buff.ly/Vv842Vx
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=3 reply=1 quote=1
+Engagement: like=44 repost=3 reply=1 quote=1
 
 --- 17/75 | post | 2026-11-18T20:09:59.965Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2megbqfec2c
@@ -317,7 +317,7 @@ LEGO Pokémon Iconic Trainer Moments Poké Ball is $239.99 on Amazon amzn.to/4zO
 Link: https://amzn.to/4zOa2Zb
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=33 repost=2 reply=2 quote=1
+Engagement: like=38 repost=2 reply=2 quote=1
 
 --- 18/75 | post | 2026-11-18T20:08:53.435Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2meecccso2h
@@ -328,7 +328,7 @@ Skin Deep (Steam) w/ 5 more games is $15 on GMG Girls Just Wanna Have Guns Bundl
 Link: https://buff.ly/RD2qC94
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=9 repost=0 reply=0 quote=1
+Engagement: like=12 repost=0 reply=0 quote=1
 
 --- 19/75 | post | 2026-11-18T20:07:10.317Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2meb7xgu72p
@@ -338,7 +338,7 @@ Created: 2026-11-18T20:07:10.317Z
 Vice City t-shirt $18 at Draculabyte w/ code WARIO64 buff.ly/fEkQZjg #ad
 Link: https://buff.ly/fEkQZjg
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=4 reply=1 quote=0
+Engagement: like=55 repost=4 reply=1 quote=0
 
 --- 20/75 | post | 2026-11-18T19:38:28.210Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mcnvmnds2c
@@ -360,7 +360,7 @@ Black Friday deals buff.ly/fF1sdzk #ad
 Link: https://buff.ly/i0DWQoC
 Link: https://buff.ly/fF1sdzk
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=6 reply=0 quote=1
+Engagement: like=45 repost=7 reply=0 quote=2
 
 --- 21/75 | post | 2026-11-18T19:36:49.099Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mckx3ybs2b
@@ -388,7 +388,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=2 reply=0 quote=1
+Engagement: like=40 repost=3 reply=0 quote=1
 
 --- 22/75 | post | 2026-11-18T19:19:20.610Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mblp6nak2b
@@ -410,7 +410,7 @@ Black Friday deals buff.ly/fF1sdzk #ad
 Link: https://buff.ly/i0DWQoC
 Link: https://buff.ly/fF1sdzk
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=2 reply=0 quote=3
+Engagement: like=41 repost=4 reply=0 quote=4
 
 --- 23/75 | post | 2026-11-18T19:17:28.885Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mbienclc22
@@ -423,7 +423,7 @@ Black Friday deals buff.ly/fF1sdzk #ad
 Link: https://buff.ly/i0DWQoC
 Link: https://buff.ly/fF1sdzk
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=2 reply=0 quote=3
+Engagement: like=13 repost=3 reply=0 quote=3
 
 --- 24/75 | post | 2026-11-18T19:12:46.897Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mb7xpiuk2n
@@ -435,7 +435,7 @@ Link: https://amzn.to/4zUhmDh
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=0 reply=1 quote=0
+Engagement: like=14 repost=0 reply=1 quote=0
 
 --- 25/75 | post | 2026-11-18T19:04:17.173Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2maqrmc4k2h
@@ -448,7 +448,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=10 reply=0 quote=8
+Engagement: like=49 repost=10 reply=0 quote=9
 
 --- 26/75 | post | 2026-11-18T19:02:45.917Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2mao2kzec2n
@@ -476,7 +476,7 @@ Link: https://buff.ly/uNCzuET
 Link: https://buff.ly/BaKA61S
 Link: https://buff.ly/9WoUWgZ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=63 repost=19 reply=4 quote=9
+Engagement: like=68 repost=20 reply=4 quote=10
 
 --- 28/75 | post | 2026-11-18T18:32:38.904Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m6y7bf7c26
@@ -499,7 +499,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=0 reply=0 quote=0
+Engagement: like=16 repost=0 reply=0 quote=0
 
 --- 29/75 | post | 2026-11-18T18:30:45.956Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m6utkqje2h
@@ -517,7 +517,7 @@ Link: https://buff.ly/eMQyenc
 Link: https://buff.ly/ZGKtAgZ
 Link: https://buff.ly/0lJLcCP
 Image description: [no alt text supplied; image omitted]
-Engagement: like=8 repost=1 reply=1 quote=1
+Engagement: like=11 repost=1 reply=1 quote=1
 
 --- 30/75 | post | 2026-11-18T18:08:06.333Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m5mcwecg22
@@ -530,7 +530,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=7 repost=0 reply=0 quote=0
+Engagement: like=8 repost=0 reply=0 quote=0
 
 --- 31/75 | post | 2026-11-18T18:02:57.722Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m5d4mcnn2b
@@ -555,7 +555,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=5 reply=2 quote=4
+Engagement: like=38 repost=5 reply=2 quote=5
 
 --- 32/75 | post | 2026-11-18T17:57:31.227Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m4zfah5u2f
@@ -571,7 +571,7 @@ Link: https://buff.ly/jc2gU0r
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=0 reply=2 quote=1
+Engagement: like=25 repost=0 reply=2 quote=1
 
 --- 33/75 | post | 2026-11-18T17:49:49.496Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m4lmvixu2a
@@ -585,7 +585,7 @@ eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
 Wallet limit is $800
 Link: https://buff.ly/T3AP53S
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=1 reply=1 quote=1
+Engagement: like=27 repost=1 reply=1 quote=1
 
 --- 34/75 | post | 2026-11-18T17:47:42.138Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m4htglok2n
@@ -608,7 +608,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=1 reply=1 quote=2
+Engagement: like=21 repost=1 reply=1 quote=2
 
 --- 35/75 | post | 2026-11-18T17:46:47.686Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m4g7iuus2n
@@ -631,7 +631,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=8 repost=1 reply=0 quote=0
+Engagement: like=9 repost=1 reply=0 quote=0
 
 --- 36/75 | post | 2026-11-18T17:42:42.770Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m46vwm4k2n
@@ -676,7 +676,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=0 reply=0 quote=0
+Engagement: like=21 repost=0 reply=0 quote=0
 
 --- 37/75 | post | 2026-11-18T17:30:39.561Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m3jeackd2f
@@ -692,7 +692,7 @@ Link: https://buff.ly/3RzX9t1
 Link: https://buff.ly/eQpn9uu
 Link: https://buff.ly/hZ4dCi8
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=0 reply=0 quote=0
+Engagement: like=17 repost=0 reply=0 quote=0
 
 --- 38/75 | post | 2026-11-18T17:26:13.574Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m3bgkygx2p
@@ -720,7 +720,7 @@ Link: https://buff.ly/xzj3IHj
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=130 repost=20 reply=2 quote=4
+Engagement: like=135 repost=23 reply=2 quote=4
 
 --- 40/75 | post | 2026-11-18T17:18:53.597Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m2ucxpec2n
@@ -733,7 +733,7 @@ Link: https://amzn.to/3UG6pGd
 Link: https://buff.ly/EsDNnT6
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=2 reply=1 quote=0
+Engagement: like=24 repost=2 reply=1 quote=0
 
 --- 41/75 | post | 2026-11-18T17:04:13.247Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2m223g7im2z
@@ -743,7 +743,7 @@ Created: 2026-11-18T17:04:13.247Z
 Nintendo Switch™ 2 – The Legend of Zelda™ – 40th Anniversary Edition at Nintendo Store buff.ly/WGuWdaa
 Link: https://buff.ly/WGuWdaa
 Image description: [no alt text supplied; image omitted]
-Engagement: like=67 repost=5 reply=12 quote=4
+Engagement: like=69 repost=5 reply=12 quote=4
 
 --- 42/75 | post | 2026-11-18T16:46:49.675Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2lz2y6mjf2c
@@ -766,7 +766,7 @@ Created: 2026-11-18T16:39:40.406Z
 Shadow Labyrinth Collector's Edition (PS5/Steam) is $19.99 at Bandai Namco Store buff.ly/xyqhTk6
 Link: https://buff.ly/xyqhTk6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=0 reply=2 quote=0
+Engagement: like=22 repost=0 reply=2 quote=0
 
 --- 44/75 | post | 2026-11-18T16:36:31.601Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2lyikqgkp2a
@@ -776,7 +776,7 @@ Created: 2026-11-18T16:36:31.601Z
 DualSense Wireless Controller - Grand Theft Auto VI Black Limited Edition available to order on PS Direct (exclusive - $84) buff.ly/D1yItvW #ad
 Link: https://buff.ly/D1yItvW
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=1 reply=2 quote=3
+Engagement: like=30 repost=1 reply=2 quote=3
 
 --- 45/75 | post | 2026-11-18T16:32:23.092Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2lyb5qjeu2y
@@ -796,7 +796,7 @@ Created: 2026-11-18T16:30:16.672Z
 more 4K/Blu-ray physical movies now sold at Best Buy (up to 15 - ship and sold by Best Buy / not 3rd party) buff.ly/aTDSa2f #ad
 Link: https://buff.ly/aTDSa2f
 Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=5 reply=5 quote=3
+Engagement: like=54 repost=5 reply=5 quote=3
 
 --- 47/75 | post | 2026-11-18T16:28:41.214Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ly2k5co22y
@@ -819,7 +819,7 @@ Created: 2026-11-18T16:03:20.355Z
 Link: https://buff.ly/5kng9qK
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=149 repost=16 reply=23 quote=39
+Engagement: like=151 repost=17 reply=23 quote=40
 
 --- 49/75 | post | 2026-11-18T15:41:33.559Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2lvgbhvas26
@@ -838,7 +838,7 @@ Link: https://buff.ly/aTL0tK6
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=2 reply=0 quote=0
+Engagement: like=16 repost=2 reply=0 quote=0
 
 --- 50/75 | post | 2026-11-18T15:40:28.396Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2lveddbj22n
@@ -849,7 +849,7 @@ Ravensburger Labyrinth Pokemon Board Game is $12.99 on Amazon amzn.to/4zpYg6L #a
 Link: https://amzn.to/4zpYg6L
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=1 reply=0 quote=0
+Engagement: like=20 repost=1 reply=0 quote=0
 
 --- 51/75 | post | 2026-11-18T15:10:19.430Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ltog624s2r
@@ -874,7 +874,7 @@ Black Friday deals buff.ly/fF1sdzk #ad
 Link: https://buff.ly/4CIzOX6
 Link: https://buff.ly/fF1sdzk
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=5 reply=0 quote=0
+Engagement: like=19 repost=6 reply=0 quote=0
 
 --- 52/75 | post | 2026-11-18T14:59:59.017Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2lt3wiro622
@@ -884,7 +884,7 @@ Created: 2026-11-18T14:59:59.017Z
 The Blood of Dawnwalker - Collector's Edition (PS5/XSX/Steam) is $99.99 at Bandai Namco Store buff.ly/yKftS3Z
 Link: https://buff.ly/yKftS3Z
 Image description: [no alt text supplied; image omitted]
-Engagement: like=31 repost=3 reply=2 quote=0
+Engagement: like=32 repost=3 reply=2 quote=0
 
 --- 53/75 | post | 2026-11-18T14:45:44.743Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2lschs54s2n
@@ -948,7 +948,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=4 reply=0 quote=1
+Engagement: like=42 repost=4 reply=1 quote=1
 
 --- 58/75 | post | 2026-11-18T14:15:45.119Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2lqmtjys22h
@@ -973,7 +973,7 @@ Link: https://buff.ly/DrPLOYM
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=2 reply=1 quote=0
+Engagement: like=29 repost=3 reply=1 quote=0
 
 --- 59/75 | post | 2026-11-18T14:13:13.737Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2lqid6gpp2h
@@ -986,7 +986,7 @@ more gift cards (free $10 Best Buy GC w/ purchase of $100+ select GC) buff.ly/go
 Link: https://buff.ly/zmYjHUq
 Link: https://buff.ly/gouEDy9
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=2 reply=0 quote=1
+Engagement: like=18 repost=2 reply=0 quote=1
 
 --- 60/75 | post | 2026-11-18T14:07:11.554Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2lq5jr7ik2n
@@ -997,7 +997,7 @@ Godzilla Minus Zero Soundtrack Vinyl up for preorder on Amazon ($54.98) amzn.to/
 Link: https://amzn.to/4eKUDkB
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=3 reply=2 quote=0
+Engagement: like=33 repost=3 reply=2 quote=0
 
 --- 61/75 | post | 2026-11-18T14:06:15.104Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2lq3twrp22t
@@ -1010,7 +1010,7 @@ Black Friday deals buff.ly/fF1sdzk #ad
 Link: https://buff.ly/4CIzOX6
 Link: https://buff.ly/fF1sdzk
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=3 reply=0 quote=2
+Engagement: like=16 repost=3 reply=0 quote=2
 
 --- 62/75 | post | 2026-11-18T08:13:04.846Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2l4eddfpq2l
@@ -1023,7 +1023,7 @@ $10 off GTA6 Ultimate Edition if you still need to order
 Link: https://buff.ly/ACx6vsp
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=0 reply=1 quote=1
+Engagement: like=22 repost=0 reply=1 quote=1
 
 --- 63/75 | post | 2026-11-18T08:11:13.378Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2l4ayzotp2q
@@ -1036,7 +1036,7 @@ $10 off GTA6 Ultimate Edition if you still need to order
 Link: https://buff.ly/srMXBDH
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=0 reply=3 quote=0
+Engagement: like=27 repost=0 reply=3 quote=0
 
 --- 64/75 | post | 2026-11-18T07:10:27.488Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2kyudzncs22
@@ -1086,7 +1086,7 @@ Puyo Puyo Tetris 2S (Switch 2 KC) is $15 on Amazon amzn.to/4iBodeA #ad
 Link: https://amzn.to/4iBodeA
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=7 reply=0 quote=1
+Engagement: like=27 repost=7 reply=0 quote=1
 
 --- 67/75 | post | 2026-11-18T06:35:26.185Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2kwvq37if2a
@@ -1126,7 +1126,7 @@ Link: https://amzn.to/4zqmY76
 Link: https://buff.ly/jW8vO0P
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=12 repost=0 reply=0 quote=0
+Engagement: like=13 repost=0 reply=0 quote=0
 
 --- 70/75 | post | 2026-11-18T06:25:42.125Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2kwed2whk22
@@ -1166,7 +1166,7 @@ $10 off Avengers: Doomsday movie ticket via Disney+ Perks perks.disneyplus.com
 Link: https://perks.disneyplus.com/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=9 reply=2 quote=3
+Engagement: like=57 repost=9 reply=2 quote=3
 
 --- 73/75 | post | 2026-11-18T00:24:44.162Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2kc6ugmpa2a
