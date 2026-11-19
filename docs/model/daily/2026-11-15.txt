@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-15
-Updated: 2026-11-19T08:54:47.437493Z
+Updated: 2026-11-19T18:12:07.037521Z
 Timezone: America/Los_Angeles
 Count: 98
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -439,7 +439,7 @@ Primetime (4K UHD) preorder is $35 on Amazon amzn.to/4jjfH48 #ad
 Link: https://amzn.to/4jjfH48
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=2 reply=2 quote=2
+Engagement: like=48 repost=2 reply=2 quote=2
 
 --- 29/98 | post | 2026-11-15T17:43:01.006Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2eksox2nc2y
