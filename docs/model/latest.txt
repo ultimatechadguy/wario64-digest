@@ -1,5 +1,5 @@
 Wario64 latest completed digest 2026-11-19
-Updated: 2026-11-20T07:50:19.731423Z
+Updated: 2026-11-20T16:30:21.220938Z
 Timezone: America/Los_Angeles
 Count: 167
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -16,7 +16,7 @@ Alienware AW2725DF OLED Gaming Monitor - 26.7-inch Quantom-Dot WQHD (2560x1440) 
 Link: https://amzn.to/4jqYTrX
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=0 reply=1 quote=1
+Engagement: like=16 repost=0 reply=1 quote=1
 
 --- 2/167 | post | 2026-11-19T23:41:26.871Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2papcerys2a
@@ -51,7 +51,7 @@ Link: https://link.amazon/B00UZKnnd
 Link: https://link.amazon/B0cAOjwNH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=1 reply=0 quote=0
+Engagement: like=17 repost=1 reply=0 quote=0
 
 --- 3/167 | post | 2026-11-19T23:19:12.358Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2p7hjpdk72l
@@ -65,7 +65,7 @@ Link: https://buff.ly/JbaYYLV
 Link: https://buff.ly/plVTILK
 Link: https://buff.ly/QB9bE2n
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=14 reply=4 quote=3
+Engagement: like=47 repost=14 reply=4 quote=3
 
 --- 4/167 | post | 2026-11-19T22:57:14.408Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2p6aas2422a
@@ -76,7 +76,7 @@ Logitech G PRO X2 SUPERSTRIKE Wireless Gaming Mouse is $149.99 on Amazon amzn.to
 Link: https://amzn.to/4j22vzf
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=5 repost=0 reply=0 quote=0
+Engagement: like=8 repost=0 reply=0 quote=0
 
 --- 5/167 | post | 2026-11-19T22:48:17.914Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2p5qb5l5s2a
@@ -90,7 +90,7 @@ Link: https://amzn.to/4jwYMs9
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=1 reply=0 quote=0
+Engagement: like=28 repost=1 reply=0 quote=0
 
 --- 6/167 | post | 2026-11-19T22:46:58.261Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2p5nv6q2c2a
@@ -124,7 +124,7 @@ Link: https://link.amazon/B00UZKnnd
 Link: https://link.amazon/B0cAOjwNH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=2 reply=0 quote=1
+Engagement: like=18 repost=2 reply=0 quote=1
 
 --- 7/167 | post | 2026-11-19T22:33:14.302Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2p4vdfilk2a
@@ -153,7 +153,7 @@ Link: https://link.amazon/B00UZKnnd
 Link: https://link.amazon/B0cAOjwNH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=0 reply=2 quote=0
+Engagement: like=15 repost=0 reply=2 quote=0
 
 --- 8/167 | post | 2026-11-19T22:10:38.030Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2p3mvxf6s2a
@@ -164,7 +164,7 @@ POP Funko Bitty 4 Pack: Pokémon - Pikachu,Vaporeon,Caterpie & Cubone is $10.49 
 Link: https://amzn.to/4iXWeVq
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=0 reply=0 quote=0
+Engagement: like=17 repost=0 reply=0 quote=0
 
 --- 9/167 | post | 2026-11-19T22:05:59.953Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2p3emr4ncvv
@@ -176,7 +176,7 @@ Link: https://buff.ly/65gZ19F
 Languages: en
 Reply root: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n2p34oobqj2a
 Reply parent: https://bsky.app/profile/did:plc:knj5sw5al3sukl6vhkpi7637/post/3n2p34oobqj2a
-Engagement: like=6 repost=0 reply=0 quote=0
+Engagement: like=7 repost=0 reply=0 quote=0
 
 --- 10/167 | post | 2026-11-19T22:01:33.512Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2p34oobqj2a
@@ -186,7 +186,7 @@ Created: 2026-11-19T22:01:33.512Z
 Alienware 27 240Hz QHD QD-OLED Gaming Monitor - AW2726DM is $279.99 at Dell buff.ly/fyJoXfo #ad
 Link: https://buff.ly/fyJoXfo
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=0 reply=3 quote=0
+Engagement: like=17 repost=0 reply=3 quote=0
 
 --- 11/167 | post | 2026-11-19T21:56:38.618Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2p2tvgwjc2h
@@ -202,7 +202,7 @@ Link: https://buff.ly/x2tQqXm
 Link: https://buff.ly/ub4p7Xk
 Link: https://buff.ly/NK4Z4j3
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=6 reply=1 quote=1
+Engagement: like=30 repost=6 reply=1 quote=1
 
 --- 12/167 | post | 2026-11-19T21:54:51.279Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2p2qp2sos2a
@@ -219,7 +219,7 @@ ASUS ROG Strix G16 (2025) Gaming Laptop is $1,179.99 on Amazon amzn.to/4tkxsDF #
 Link: https://amzn.to/4tkxsDF
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=3 reply=0 quote=0
+Engagement: like=18 repost=3 reply=0 quote=0
 
 --- 13/167 | post | 2026-11-19T21:30:40.465Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ozfhhth52f
@@ -231,7 +231,7 @@ Etrian Odyssey Origins Collection is $23.99 on US eShop buff.ly/RCnN4bo
 Link: https://buff.ly/RCnN4bo
 Link: https://buff.ly/IEI8LqJ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=46 repost=15 reply=1 quote=3
+Engagement: like=56 repost=21 reply=1 quote=4
 
 --- 14/167 | post | 2026-11-19T21:24:52.113Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2oz33azjc2n
@@ -245,7 +245,7 @@ Link: https://buff.ly/C1HC8QM
 Link: https://buff.ly/6hTajSe
 Link: https://buff.ly/BhqPp1D
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=5 reply=1 quote=0
+Engagement: like=22 repost=5 reply=1 quote=0
 
 --- 15/167 | post | 2026-11-19T21:07:48.640Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2oy4l6yfx2b
@@ -259,7 +259,7 @@ Link: https://buff.ly/u3dsTHX
 Link: https://buff.ly/QfFXRvd
 Link: https://buff.ly/o4ZmtjC
 Image description: [no alt text supplied; image omitted]
-Engagement: like=58 repost=18 reply=0 quote=5
+Engagement: like=59 repost=18 reply=0 quote=5
 
 --- 16/167 | post | 2026-11-19T20:58:36.209Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2oxm4dtvc2a
@@ -286,7 +286,7 @@ Link: https://link.amazon/B00UZKnnd
 Link: https://link.amazon/B0cAOjwNH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=1 reply=1 quote=0
+Engagement: like=20 repost=1 reply=1 quote=0
 
 --- 17/167 | post | 2026-11-19T20:50:44.784Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ox62rfju2h
@@ -296,7 +296,7 @@ Created: 2026-11-19T20:50:44.784Z
 Gears of War sale on Xbox buff.ly/AfaoruF
 Link: https://buff.ly/AfaoruF
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=1 reply=1 quote=1
+Engagement: like=35 repost=1 reply=1 quote=1
 
 --- 18/167 | post | 2026-11-19T20:46:45.630Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2owwwoy6v2b
@@ -318,7 +318,7 @@ Created: 2026-11-19T20:43:50.272Z
 Gears of War: E-Day is $48.99 on Xbox buff.ly/pij4P5s
 Link: https://buff.ly/pij4P5s
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=0 reply=4 quote=0
+Engagement: like=22 repost=0 reply=4 quote=0
 
 --- 20/167 | post | 2026-11-19T20:42:48.795Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2owputj2e2z
@@ -346,7 +346,7 @@ Sand Land is $11.99 on Xbox buff.ly/NoZMJQB
 Link: https://buff.ly/NoZMJQB
 Link: https://buff.ly/fX3vUBj
 Image description: [no alt text supplied; image omitted]
-Engagement: like=34 repost=4 reply=0 quote=1
+Engagement: like=36 repost=4 reply=0 quote=1
 
 --- 22/167 | post | 2026-11-19T20:39:14.739Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2owjiows722
@@ -365,7 +365,7 @@ Link: https://buff.ly/r8dJNyd
 Link: https://buff.ly/36HysCY
 Link: https://buff.ly/M45LnNS
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=3 reply=1 quote=1
+Engagement: like=17 repost=3 reply=1 quote=1
 
 --- 23/167 | post | 2026-11-19T20:37:40.793Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2owgp3yjl2p
@@ -377,7 +377,7 @@ $26.99 Steam buff.ly/kqcRh1f
 Link: https://buff.ly/agZRy46
 Link: https://buff.ly/kqcRh1f
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=14 reply=2 quote=5
+Engagement: like=44 repost=14 reply=2 quote=5
 
 --- 24/167 | post | 2026-11-19T20:34:50.957Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2owbn4vlu2c
@@ -402,7 +402,7 @@ Zelda 40th Switch 2 consoles are expected in January 2027 according to Nintendo 
 Link: https://www.nintendo.com/us/store/products/nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition-121642/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=70 repost=10 reply=5 quote=1
+Engagement: like=74 repost=10 reply=5 quote=1
 
 --- 26/167 | post | 2026-11-19T20:12:15.514Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ouzahrgk2a
@@ -431,7 +431,7 @@ Link: https://link.amazon/B00UZKnnd
 Link: https://link.amazon/B0cAOjwNH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=11 repost=0 reply=0 quote=0
+Engagement: like=12 repost=0 reply=0 quote=0
 
 --- 27/167 | post | 2026-11-19T19:43:07.347Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2otf5bz2c2a
@@ -449,7 +449,7 @@ Link: https://link.amazon/B0g3Cg2FX
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=57 repost=10 reply=0 quote=3
+Engagement: like=59 repost=11 reply=0 quote=3
 
 --- 28/167 | post | 2026-11-19T19:30:41.032Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2osovkkrj22
@@ -461,7 +461,7 @@ The Legend of Zelda A Link Between Worlds, Ocarina of Time and Majora's Mask Nin
 $41.86 US Dollars each
 Link: https://buff.ly/O7uY2G8
 Image description: [no alt text supplied; image omitted]
-Engagement: like=73 repost=16 reply=3 quote=4
+Engagement: like=74 repost=16 reply=3 quote=4
 
 --- 29/167 | post | 2026-11-19T19:25:47.665Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2osg5roiq2n
@@ -489,7 +489,7 @@ Link: https://amzn.to/3UE83YU
 Link: https://buff.ly/zZ39m9I
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=72 repost=13 reply=3 quote=2
+Engagement: like=73 repost=14 reply=3 quote=2
 
 --- 31/167 | post | 2026-11-19T19:16:15.569Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2orv46f5c2a
@@ -536,7 +536,7 @@ Star Wars Galactic Racer: Collector's Edition (PS5) is $134.39 on Amazon amzn.to
 Link: https://amzn.to/4912ZkG
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=2 reply=1 quote=1
+Engagement: like=33 repost=2 reply=1 quote=1
 
 --- 35/167 | post | 2026-11-19T19:09:21.773Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2orirkehk2a
@@ -563,7 +563,7 @@ Valve on Steam Machine: "We've been able to fulfill all current reservations for
 Link: https://steamcommunity.com/groups/steam_hardware/announcements/detail/687522235410285039
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=133 repost=18 reply=2 quote=14
+Engagement: like=134 repost=18 reply=2 quote=14
 
 --- 37/167 | post | 2026-11-19T19:03:20.961Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2or5zhjps2y
@@ -575,7 +575,7 @@ Link: https://buff.ly/H0aiaWn
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=30 repost=10 reply=4 quote=10
+Engagement: like=31 repost=10 reply=4 quote=10
 
 --- 38/167 | post | 2026-11-19T19:01:30.882Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2or2qi5wt22
@@ -588,7 +588,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=0 reply=0 quote=0
+Engagement: like=16 repost=0 reply=0 quote=0
 
 --- 39/167 | post | 2026-11-19T18:40:31.164Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2opv74dn22a
@@ -641,7 +641,7 @@ Link: https://link.amazon/B00UZKnnd
 Link: https://link.amazon/B0cAOjwNH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=1 reply=1 quote=2
+Engagement: like=24 repost=1 reply=1 quote=2
 
 --- 42/167 | post | 2026-11-19T18:19:00.577Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2oooqcqrc2a
@@ -685,7 +685,7 @@ Link: https://buff.ly/pPJwX4n
 Link: https://buff.ly/HjmcvLB
 Link: https://buff.ly/KXTqEvF
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=5 reply=0 quote=1
+Engagement: like=28 repost=5 reply=0 quote=1
 
 --- 44/167 | post | 2026-11-19T18:13:49.926Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2oofi2pzj2p
@@ -695,7 +695,7 @@ Created: 2026-11-19T18:13:49.926Z
 Nihon Falcom developer sale on Steam buff.ly/gZtZOzC
 Link: https://buff.ly/gZtZOzC
 Image description: [no alt text supplied; image omitted]
-Engagement: like=75 repost=42 reply=1 quote=21
+Engagement: like=75 repost=43 reply=1 quote=21
 
 --- 45/167 | post | 2026-11-19T18:12:45.051Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2oodk6vzy22
@@ -707,7 +707,7 @@ $47.99 US PSN buff.ly/fTgWYXf
 Link: https://buff.ly/QNNmkOM
 Link: https://buff.ly/fTgWYXf
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=3 reply=2 quote=6
+Engagement: like=56 repost=3 reply=2 quote=6
 
 --- 46/167 | post | 2026-11-19T18:06:39.383Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2onynhlrb2c
@@ -794,7 +794,7 @@ Volvy’s Adventure: Reslimed is $3.74 on Steam (25% off launch discount) buff.l
 surely the biggest release today
 Link: https://buff.ly/Je4r8C9
 Image description: [no alt text supplied; image omitted]
-Engagement: like=199 repost=48 reply=3 quote=4
+Engagement: like=200 repost=49 reply=3 quote=4
 
 --- 50/167 | post | 2026-11-19T17:41:30.548Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2omlojli52y
@@ -837,7 +837,7 @@ Created: 2026-11-19T17:33:51.695Z
 LA-MULANA 1 & 2 Bundle is $10.49 on US eShop buff.ly/7P946FF
 Link: https://buff.ly/7P946FF
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=8 reply=0 quote=1
+Engagement: like=38 repost=7 reply=0 quote=1
 
 --- 54/167 | post | 2026-11-19T17:29:48.925Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2olwrft6z2z
@@ -850,7 +850,7 @@ ESRB physical $67 at VGP (Cart Revision 004) buff.ly/fUKt4aq #ad
 Link: https://buff.ly/KpFXv1i
 Link: https://buff.ly/fUKt4aq
 Image description: [no alt text supplied; image omitted]
-Engagement: like=61 repost=18 reply=1 quote=0
+Engagement: like=62 repost=18 reply=1 quote=0
 
 --- 55/167 | post | 2026-11-19T17:24:09.543Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2olmnqpsi2h
@@ -863,7 +863,7 @@ Upgrade Pack $6.99 buff.ly/HsRnZIL
 Link: https://buff.ly/NdNotlt
 Link: https://buff.ly/HsRnZIL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=19 reply=0 quote=5
+Engagement: like=45 repost=19 reply=0 quote=5
 
 --- 56/167 | post | 2026-11-19T17:21:46.815Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2olifmnksvv
@@ -933,7 +933,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=35 repost=2 reply=9 quote=2
+Engagement: like=34 repost=2 reply=9 quote=2
 
 --- 61/167 | post | 2026-11-19T17:04:22.475Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2okjboalr2p
@@ -943,7 +943,7 @@ Created: 2026-11-19T17:04:22.475Z
 The Silver Case 2425 is $11.99 on US eShop buff.ly/6XQrPEk
 Link: https://buff.ly/6XQrPEk
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=11 reply=1 quote=1
+Engagement: like=29 repost=12 reply=1 quote=1
 
 --- 62/167 | post | 2026-11-19T17:02:08.316Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2okfbq32f2h
@@ -979,7 +979,7 @@ Created: 2026-11-19T16:33:54.850Z
 WITCH ON THE HOLY NIGHT is $19.99 on Steam buff.ly/Ui1PXz7
 Link: https://buff.ly/Ui1PXz7
 Image description: [no alt text supplied; image omitted]
-Engagement: like=72 repost=49 reply=1 quote=8
+Engagement: like=73 repost=49 reply=1 quote=8
 
 --- 65/167 | post | 2026-11-19T16:27:27.313Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2oihb4uov2y
@@ -1293,7 +1293,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=0 reply=0 quote=0
+Engagement: like=15 repost=0 reply=0 quote=0
 
 --- 83/167 | post | 2026-11-19T14:20:32.198Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2obecrpes2a
@@ -1409,7 +1409,7 @@ Created: 2026-11-19T14:05:49.999Z
 BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT GAME OF THE YEAR SUPREMO EDITION is now on GOG - $3.25 buff.ly/pFb1n0g #ad
 Link: https://buff.ly/pFb1n0g
 Image description: [no alt text supplied; image omitted]
-Engagement: like=199 repost=63 reply=3 quote=9
+Engagement: like=201 repost=63 reply=3 quote=10
 
 --- 89/167 | post | 2026-11-19T14:05:14.706Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2oaixsdke2y
@@ -1508,7 +1508,7 @@ Link: https://link.amazon/B00UZKnnd
 Link: https://link.amazon/B0cAOjwNH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=3 reply=2 quote=1
+Engagement: like=20 repost=3 reply=2 quote=1
 
 --- 94/167 | post | 2026-11-19T13:43:22.436Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2o7bucqh22a
@@ -1858,7 +1858,7 @@ Link: https://link.amazon/B00UZKnnd
 Link: https://link.amazon/B0cAOjwNH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=46 repost=8 reply=2 quote=28
+Engagement: like=48 repost=8 reply=2 quote=31
 
 --- 112/167 | post | 2026-11-19T08:29:50.370Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2nnr7q2ak2o
@@ -2074,7 +2074,7 @@ Virtua Fighter 5 R.E.V.O. World Stage: 30th Anniversary Edition (Switch 2 KC) is
 Link: https://link.amazon/B05oLxyRM
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=1 reply=0 quote=0
+Engagement: like=15 repost=1 reply=0 quote=0
 
 --- 130/167 | post | 2026-11-19T08:13:05.855Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2nmtbqoks2a
@@ -2544,7 +2544,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=578 repost=183 reply=2 quote=31
+Engagement: like=580 repost=184 reply=2 quote=31
 
 --- 167/167 | post | 2026-11-19T00:15:56.444Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ms62mpvm2t
