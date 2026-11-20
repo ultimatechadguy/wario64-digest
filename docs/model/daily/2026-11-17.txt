@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-17
-Updated: 2026-11-20T00:42:55.989478Z
+Updated: 2026-11-20T07:50:19.731423Z
 Timezone: America/Los_Angeles
 Count: 77
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -31,7 +31,7 @@ Link: https://buff.ly/4HLiRMU
 Link: https://buff.ly/4Bv8IFv
 Link: https://buff.ly/18EdfUB
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=2 reply=0 quote=0
+Engagement: like=14 repost=2 reply=0 quote=0
 
 --- 3/77 | post | 2026-11-17T22:12:01.388Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2k2rkjzpx2p
@@ -43,7 +43,7 @@ $9.99 GOG buff.ly/TEAgVWM #ad
 Link: https://buff.ly/mIOLCDv
 Link: https://buff.ly/TEAgVWM
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=0 reply=0 quote=3
+Engagement: like=21 repost=0 reply=0 quote=3
 
 --- 4/77 | post | 2026-11-17T21:54:40.690Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2jzsk2ijg2t
@@ -70,7 +70,7 @@ Metro Saga Bundle is $5.99 on US PSN buff.ly/a3NxAwE
 Link: https://buff.ly/a3NxAwE
 Link: https://buff.ly/J9gAyDJ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=3 reply=3 quote=0
+Engagement: like=16 repost=3 reply=3 quote=0
 
 --- 6/77 | post | 2026-11-17T21:35:00.451Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2jypei5p227
@@ -81,7 +81,7 @@ The Legend of Zelda: Ocarina of Time (Switch 2 Digital) is $54.99 on Amazon amzn
 Link: https://amzn.to/3V0UjYg
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=79 repost=5 reply=2 quote=1
+Engagement: like=80 repost=5 reply=2 quote=1
 
 --- 7/77 | post | 2026-11-17T21:16:28.014Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2jxo7lcg227
@@ -222,7 +222,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=46 repost=6 reply=1 quote=1
+Engagement: like=47 repost=6 reply=1 quote=1
 
 --- 12/77 | post | 2026-11-17T20:31:05.174Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2jv52uxfa2p
@@ -269,7 +269,7 @@ Created: 2026-11-17T19:43:01.547Z
 Shadows of the Damned: Hella Remastered is $12.49 on US PSN buff.ly/npVkLeD
 Link: https://buff.ly/npVkLeD
 Image description: [no alt text supplied; image omitted]
-Engagement: like=45 repost=11 reply=1 quote=1
+Engagement: like=46 repost=11 reply=1 quote=1
 
 --- 16/77 | post | 2026-11-17T19:27:07.005Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2jrkojdst2q
@@ -573,7 +573,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=42 repost=2 reply=5 quote=1
+Engagement: like=43 repost=2 reply=5 quote=1
 
 --- 33/77 | post | 2026-11-17T17:11:27.595Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2jjy463j227
@@ -593,7 +593,7 @@ thegameawards.com
 Link: https://thegameawards.com/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=596 repost=111 reply=226 quote=1452
+Engagement: like=597 repost=111 reply=226 quote=1451
 
 --- 34/77 | post | 2026-11-17T17:08:08.371Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2jjs66ot32p
@@ -719,7 +719,7 @@ Languages: en
 Card title: Take-Two’s Firaxis, Maker of ‘Civilization,’ Cuts a Third of Its Staff
 Card description: The Maryland-based development studio behind the Civilization and XCOM franchises, laid off around 60 people on Tuesday
 Card uri: https://www.bloomberg.com/news/articles/2026-11-17/take-two-s-firaxis-maker-of-civilization-cuts-a-third-of-its-staff?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDkzMjgwNywiZXhwIjoxNzk1NTM3NjA3LCJhcnRpY2xlSWQiOiJUT05OMDlLSUpIOTQwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.UB2VStiHDC6AEPIoF0t33xZ72QVmViJYS4hB0UM7vs8
-Engagement: like=936 repost=263 reply=44 quote=164
+Engagement: like=936 repost=263 reply=44 quote=165
 
 --- 41/77 | post | 2026-11-17T16:17:21.092Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2jgxe32622n
