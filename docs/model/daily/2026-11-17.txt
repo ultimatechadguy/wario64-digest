@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-17
-Updated: 2026-11-20T22:48:18.809093Z
+Updated: 2026-11-21T03:34:26.766606Z
 Timezone: America/Los_Angeles
 Count: 77
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -593,7 +593,7 @@ thegameawards.com
 Link: https://thegameawards.com/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=599 repost=111 reply=226 quote=1451
+Engagement: like=599 repost=111 reply=226 quote=1450
 
 --- 34/77 | post | 2026-11-17T17:08:08.371Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2jjs66ot32p
