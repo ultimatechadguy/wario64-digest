@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-17
-Updated: 2026-11-21T03:34:26.766606Z
+Updated: 2026-11-21T11:45:03.874305Z
 Timezone: America/Los_Angeles
 Count: 77
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -593,7 +593,7 @@ thegameawards.com
 Link: https://thegameawards.com/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=599 repost=111 reply=226 quote=1450
+Engagement: like=598 repost=111 reply=226 quote=1452
 
 --- 34/77 | post | 2026-11-17T17:08:08.371Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2jjs66ot32p
@@ -740,7 +740,7 @@ Created: 2026-11-17T16:05:47.476Z
 Jacksepticeye Thankmas 2026 Collection Bundle is up on Digiphile (8 games for $10) buff.ly/rdBitQ8 #ad
 Link: https://buff.ly/rdBitQ8
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=9 reply=3 quote=0
+Engagement: like=37 repost=9 reply=3 quote=0
 
 --- 43/77 | post | 2026-11-17T15:59:15.392Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2jfwynrik27
