@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-19
-Updated: 2026-11-22T11:57:05.308642Z
+Updated: 2026-11-22T19:29:44.847203Z
 Timezone: America/Los_Angeles
 Count: 167
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -525,7 +525,7 @@ Created: 2026-11-19T19:11:04.901Z
 Steam Machine 512GB in-stock at Steam buff.ly/shR0IJN
 Link: https://buff.ly/shR0IJN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=101 repost=13 reply=12 quote=11
+Engagement: like=100 repost=13 reply=12 quote=11
 
 --- 34/167 | post | 2026-11-19T19:10:13.609Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2orkcyalc2a
@@ -695,7 +695,7 @@ Created: 2026-11-19T18:13:49.926Z
 Nihon Falcom developer sale on Steam buff.ly/gZtZOzC
 Link: https://buff.ly/gZtZOzC
 Image description: [no alt text supplied; image omitted]
-Engagement: like=77 repost=44 reply=1 quote=21
+Engagement: like=77 repost=44 reply=1 quote=20
 
 --- 45/167 | post | 2026-11-19T18:12:45.051Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2oodk6vzy22
@@ -817,7 +817,7 @@ Created: 2026-11-19T17:38:18.698Z
 Donkey Kong Country Returns HD is $41.99 on US eShop buff.ly/sYuT0Q4
 Link: https://buff.ly/sYuT0Q4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=41 repost=2 reply=4 quote=1
+Engagement: like=40 repost=2 reply=4 quote=1
 
 --- 52/167 | post | 2026-11-19T17:36:59.126Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2omdloibl2p
@@ -827,7 +827,7 @@ Created: 2026-11-19T17:36:59.126Z
 Vitamin Connection is $3.99 on US eShop buff.ly/DsQmNOB
 Link: https://buff.ly/DsQmNOB
 Image description: [no alt text supplied; image omitted]
-Engagement: like=24 repost=7 reply=0 quote=2
+Engagement: like=25 repost=7 reply=0 quote=2
 
 --- 53/167 | post | 2026-11-19T17:33:51.695Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2om5ywj7h2p
@@ -850,7 +850,7 @@ ESRB physical $67 at VGP (Cart Revision 004) buff.ly/fUKt4aq #ad
 Link: https://buff.ly/KpFXv1i
 Link: https://buff.ly/fUKt4aq
 Image description: [no alt text supplied; image omitted]
-Engagement: like=63 repost=18 reply=1 quote=0
+Engagement: like=62 repost=18 reply=1 quote=0
 
 --- 55/167 | post | 2026-11-19T17:24:09.543Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2olmnqpsi2h
@@ -863,7 +863,7 @@ Upgrade Pack $6.99 buff.ly/HsRnZIL
 Link: https://buff.ly/NdNotlt
 Link: https://buff.ly/HsRnZIL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=19 reply=0 quote=5
+Engagement: like=46 repost=18 reply=0 quote=5
 
 --- 56/167 | post | 2026-11-19T17:21:46.815Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2olifmnksvv
@@ -1002,7 +1002,7 @@ Created: 2026-11-19T16:25:05.792Z
 Hisense - 98" Class QD5 Hi-QLED Series 4K UHD Smart Fire TV (2026) is $799.99 at Best Buy buff.ly/LkhWtaI #ad
 Link: https://buff.ly/LkhWtaI
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=0 reply=1 quote=2
+Engagement: like=13 repost=0 reply=2 quote=2
 
 --- 67/167 | post | 2026-11-19T16:22:02.205Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2oi5l2zuc2a
@@ -1060,7 +1060,7 @@ Clair Obscur: Expedition 33 Monolith Set will go up on Laced Records on Nov 23rd
 does not include copy of the game
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=5 reply=2 quote=2
+Engagement: like=42 repost=5 reply=2 quote=2
 
 --- 70/167 | post | 2026-11-19T16:00:39.575Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ogxduoi62z
@@ -1110,7 +1110,7 @@ Link: https://link.amazon/B00UZKnnd
 Link: https://link.amazon/B0cAOjwNH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=2 reply=3 quote=3
+Engagement: like=27 repost=2 reply=3 quote=3
 
 --- 73/167 | post | 2026-11-19T15:25:59.909Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2oezejvoc2a
@@ -1409,7 +1409,7 @@ Created: 2026-11-19T14:05:49.999Z
 BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT GAME OF THE YEAR SUPREMO EDITION is now on GOG - $3.25 buff.ly/pFb1n0g #ad
 Link: https://buff.ly/pFb1n0g
 Image description: [no alt text supplied; image omitted]
-Engagement: like=204 repost=64 reply=3 quote=10
+Engagement: like=204 repost=65 reply=3 quote=10
 
 --- 89/167 | post | 2026-11-19T14:05:14.706Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2oaixsdke2y
@@ -2186,7 +2186,7 @@ Link: https://buff.ly/ZD63kHR
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=0 reply=1 quote=1
+Engagement: like=12 repost=0 reply=1 quote=1
 
 --- 140/167 | post | 2026-11-19T06:14:51.977Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ng7uiypw2n
@@ -2452,7 +2452,7 @@ Created: 2026-11-19T04:55:46.924Z
 CONTROL Resonant SteelBook Edition (PS5) in-stock at Best Buy ($69.99) buff.ly/l0EbAXt #ad
 Link: https://buff.ly/l0EbAXt
 Image description: [no alt text supplied; image omitted]
-Engagement: like=34 repost=0 reply=3 quote=0
+Engagement: like=33 repost=0 reply=3 quote=0
 
 --- 161/167 | post | 2026-11-19T03:39:51.781Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2n5kp5lhy2p
@@ -2544,7 +2544,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=584 repost=184 reply=2 quote=31
+Engagement: like=587 repost=185 reply=2 quote=31
 
 --- 167/167 | post | 2026-11-19T00:15:56.444Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ms62mpvm2t
