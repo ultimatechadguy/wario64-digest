@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-20
-Updated: 2026-11-22T03:27:35.089036Z
+Updated: 2026-11-22T11:57:05.308642Z
 Timezone: America/Los_Angeles
 Count: 81
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -41,7 +41,7 @@ Link: https://link.amazon/B05CgSt95
 Link: https://buff.ly/uyLWp22
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=1 reply=0 quote=0
+Engagement: like=41 repost=1 reply=0 quote=0
 
 --- 4/81 | post | 2026-11-20T23:22:35.967Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2rq4jd3ks2n
@@ -54,7 +54,7 @@ Link: https://link.amazon/B0hPWA1jA
 Link: https://buff.ly/eM0mdPJ
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=2 reply=0 quote=0
+Engagement: like=30 repost=2 reply=0 quote=0
 
 --- 5/81 | post | 2026-11-20T23:17:03.723Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2rpsmhsjs2n
@@ -65,7 +65,7 @@ Batman 4K Film Collection (4K Ultra HD + Blu-ray) is $30.99 on Amazon amzn.to/4f
 Link: https://amzn.to/4fKpMmM
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=0 reply=0 quote=0
+Engagement: like=28 repost=0 reply=0 quote=0
 
 --- 6/81 | post | 2026-11-20T23:15:27.273Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2rppqiq4y2n
@@ -77,7 +77,7 @@ Xbox buff.ly/oaZb92v
 Link: https://buff.ly/yaqBHoO
 Link: https://buff.ly/oaZb92v
 Image description: [no alt text supplied; image omitted]
-Engagement: like=50 repost=7 reply=1 quote=4
+Engagement: like=51 repost=7 reply=1 quote=4
 
 --- 7/81 | post | 2026-11-20T22:12:50.074Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2rm7re4vi2h
@@ -87,7 +87,7 @@ Created: 2026-11-20T22:12:50.074Z
 Dust: An Elysian Tail is $2.99 on Steam buff.ly/QWA34I3
 Link: https://buff.ly/QWA34I3
 Image description: [no alt text supplied; image omitted]
-Engagement: like=76 repost=24 reply=2 quote=5
+Engagement: like=78 repost=25 reply=2 quote=5
 
 --- 8/81 | post | 2026-11-20T21:58:19.711Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2rlftcov72c
@@ -189,7 +189,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=104 repost=9 reply=0 quote=4
+Engagement: like=105 repost=9 reply=0 quote=4
 
 --- 17/81 | post | 2026-11-20T20:23:05.869Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2rg3k5rqc2n
@@ -386,7 +386,7 @@ Link: https://buff.ly/PmRxbqL
 Link: https://buff.ly/eBzB5tv
 Link: https://buff.ly/oiPGX5G
 Image description: [no alt text supplied; image omitted]
-Engagement: like=47 repost=14 reply=1 quote=4
+Engagement: like=48 repost=15 reply=1 quote=4
 
 --- 30/81 | post | 2026-11-20T18:14:06.120Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2r6uuxf422n
