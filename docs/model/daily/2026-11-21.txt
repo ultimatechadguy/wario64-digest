@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-21
-Updated: 2026-11-23T08:09:10.466347Z
+Updated: 2026-11-23T20:22:24.758304Z
 Timezone: America/Los_Angeles
 Count: 61
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -37,7 +37,7 @@ Digimon Story Cyber Sleuth: Complete Edition is $9.99 on US eShop buff.ly/YDeDDr
 Link: https://buff.ly/YDeDDr6
 Link: https://buff.ly/oSegeW6
 Image description: [no alt text supplied; image omitted]
-Engagement: like=33 repost=16 reply=0 quote=0
+Engagement: like=35 repost=17 reply=0 quote=0
 
 --- 4/61 | post | 2026-11-21T22:49:00.000Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2u6pnii2y2z
@@ -603,7 +603,7 @@ Apple Watch Series 12 GPS 46mm Smartwatch Black Aluminum is $329 on Amazon amzn.
 Link: https://amzn.to/4AMXr9m
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=0 reply=0 quote=0
+Engagement: like=15 repost=0 reply=0 quote=0
 
 --- 31/61 | post | 2026-11-21T17:28:01.905Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2tmrgbjj72h

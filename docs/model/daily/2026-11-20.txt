@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-20
-Updated: 2026-11-23T08:09:10.466347Z
+Updated: 2026-11-23T20:22:24.758304Z
 Timezone: America/Los_Angeles
 Count: 81
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -313,7 +313,7 @@ Grand Theft Auto VI sold 32.5 million units pre-release, a new record across all
 Link: https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=247 repost=45 reply=22 quote=81
+Engagement: like=250 repost=45 reply=23 quote=81
 
 --- 24/81 | post | 2026-11-20T19:00:58.153Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2rbiopt3c2n
@@ -469,7 +469,7 @@ Created: 2026-11-20T17:49:29.051Z
 Donkey Kong Plush available at Build a Bear buff.ly/6ENHEf5 #ad
 Link: https://buff.ly/6ENHEf5
 Image description: [no alt text supplied; image omitted]
-Engagement: like=74 repost=11 reply=5 quote=5
+Engagement: like=75 repost=11 reply=5 quote=5
 
 --- 35/81 | post | 2026-11-20T17:44:29.684Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2r57wsud22n
@@ -878,7 +878,7 @@ on Nintendo Store Europe, playable and electric Ocarina is being sold through an
 Link: https://www.nintendo.com/en-gb/News/2026/November/Register-your-interest-for-a-chance-to-purchase-the-playable-Ocarina-musical-instrument-and-the-electric-Ocarina-based-on-The-Legend-of-Zelda-Ocarina-of-Time-on-Nintendo-Store--3243896.html
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=87 repost=10 reply=8 quote=14
+Engagement: like=88 repost=10 reply=8 quote=14
 
 --- 60/81 | post | 2026-11-20T14:33:00.300Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2qsjjopqc2f
