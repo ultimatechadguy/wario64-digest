@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-21
-Updated: 2026-11-22T19:29:44.847203Z
+Updated: 2026-11-23T00:27:46.120295Z
 Timezone: America/Los_Angeles
 Count: 61
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -15,7 +15,7 @@ Created: 2026-11-21T23:41:01.852Z
 Eternal Strands is $8.99 on GOG buff.ly/8bB5rO2 #ad
 Link: https://buff.ly/8bB5rO2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=2 reply=2 quote=5
+Engagement: like=41 repost=2 reply=2 quote=5
 
 --- 2/61 | post | 2026-11-21T23:28:01.414Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2uav562hz2t
@@ -25,7 +25,7 @@ Created: 2026-11-21T23:28:01.414Z
 Steven Spielberg: The Spotlight Collection - Limited Edition Steelbook Library Case [4K Ultra HD + Blu-ray + Digital] is $169.99 on Amazon link.amazon/B04bPmfVE #ad
 Link: https://link.amazon/B04bPmfVE
 Image description: [no alt text supplied; image omitted]
-Engagement: like=49 repost=5 reply=2 quote=6
+Engagement: like=49 repost=5 reply=3 quote=6
 
 --- 3/61 | post | 2026-11-21T23:14:01.678Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ua44ddi22f
@@ -109,7 +109,7 @@ Created: 2026-11-21T22:46:47.953Z
 The Elder Scrolls IV: Oblivion is $1.99 on Xbox buff.ly/julq8mQ
 Link: https://buff.ly/julq8mQ
 Image description: [no alt text supplied; image omitted]
-Engagement: like=71 repost=6 reply=3 quote=3
+Engagement: like=72 repost=6 reply=3 quote=3
 
 --- 7/61 | post | 2026-11-21T22:26:00.000Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2u5gi4ohc2n
@@ -162,7 +162,7 @@ Link: https://link.amazon/B00UZKnnd
 Link: https://link.amazon/B0cAOjwNH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=22 repost=4 reply=0 quote=1
+Engagement: like=23 repost=4 reply=0 quote=1
 
 --- 9/61 | post | 2026-11-21T21:37:03.384Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2u2opl3tc2h
@@ -178,7 +178,7 @@ Peggle Extreme is free buff.ly/SpleRmb
 Link: https://buff.ly/Sj2qZmq
 Link: https://buff.ly/SpleRmb
 Image description: [no alt text supplied; image omitted]
-Engagement: like=65 repost=23 reply=5 quote=8
+Engagement: like=67 repost=23 reply=5 quote=8
 
 --- 10/61 | post | 2026-11-21T21:19:23.848Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2tzp54be22b
@@ -223,7 +223,7 @@ SEGA AGES titles $2.39 each on US eShop buff.ly/M0lamPR
 Link: https://buff.ly/M0lamPR
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=59 repost=21 reply=4 quote=13
+Engagement: like=61 repost=21 reply=4 quote=14
 
 --- 12/61 | post | 2026-11-21T20:59:35.234Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2tylpknik2b
@@ -285,7 +285,7 @@ Link: https://amzn.to/4tgSUJV
 Link: https://buff.ly/Yive4b7
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=2 reply=2 quote=1
+Engagement: like=29 repost=2 reply=2 quote=1
 
 --- 15/61 | post | 2026-11-21T20:20:36.528Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2twfz6yw22b
@@ -306,7 +306,7 @@ Link: https://buff.ly/EzdjgVV
 Link: https://buff.ly/HrDaxh0
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=35 repost=3 reply=5 quote=2
+Engagement: like=36 repost=3 reply=5 quote=2
 
 --- 16/61 | post | 2026-11-21T20:16:04.671Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2tw5vwmk22b
@@ -509,7 +509,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=5 reply=0 quote=0
+Engagement: like=18 repost=5 reply=0 quote=0
 
 --- 25/61 | post | 2026-11-21T18:15:15.491Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2tpfullk62p
@@ -523,7 +523,7 @@ Link: https://buff.ly/Y3Cnhsq
 Link: https://buff.ly/QOWf4Mh
 Link: https://buff.ly/W4AWRbV
 Image description: [no alt text supplied; image omitted]
-Engagement: like=96 repost=32 reply=1 quote=15
+Engagement: like=98 repost=32 reply=1 quote=15
 
 --- 26/61 | post | 2026-11-21T18:05:13.932Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2totwvhmp2t
@@ -1055,7 +1055,7 @@ Anime sale on Amazon link.amazon/B02oiUeR9 #ad
 Link: https://link.amazon/B02oiUeR9
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=5 reply=0 quote=2
+Engagement: like=53 repost=5 reply=0 quote=2
 
 --- 59/61 | post | 2026-11-21T01:25:09.532Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2rwxoaekm2p
