@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-20
-Updated: 2026-11-24T04:57:10.584855Z
+Updated: 2026-11-24T15:45:44.697246Z
 Timezone: America/Los_Angeles
 Count: 81
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -189,7 +189,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=105 repost=9 reply=0 quote=4
+Engagement: like=104 repost=9 reply=0 quote=4
 
 --- 17/81 | post | 2026-11-20T20:23:05.869Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2rg3k5rqc2n
@@ -221,7 +221,7 @@ Link: https://link.amazon/B00UZKnnd
 Link: https://link.amazon/B0cAOjwNH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=5 reply=1 quote=0
+Engagement: like=31 repost=5 reply=1 quote=0
 
 --- 18/81 | post | 2026-11-20T20:11:11.362Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2rfgar56e2c
@@ -231,7 +231,7 @@ Created: 2026-11-20T20:11:11.362Z
 Another Warehouse Clean Out sale on Woot buff.ly/dMPF20k #ad
 Link: https://buff.ly/dMPF20k
 Image description: [no alt text supplied; image omitted]
-Engagement: like=14 repost=1 reply=0 quote=0
+Engagement: like=13 repost=1 reply=0 quote=0
 
 --- 19/81 | post | 2026-11-20T20:08:11.453Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2rfav6oh32p
@@ -504,7 +504,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=2 reply=0 quote=0
+Engagement: like=15 repost=2 reply=0 quote=0
 
 --- 37/81 | post | 2026-11-20T17:23:26.517Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2r42c62sc2n
