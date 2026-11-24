@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-20
-Updated: 2026-11-23T20:22:24.758304Z
+Updated: 2026-11-24T04:57:10.584855Z
 Timezone: America/Los_Angeles
 Count: 81
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -313,7 +313,7 @@ Grand Theft Auto VI sold 32.5 million units pre-release, a new record across all
 Link: https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=250 repost=45 reply=23 quote=81
+Engagement: like=250 repost=45 reply=23 quote=80
 
 --- 24/81 | post | 2026-11-20T19:00:58.153Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2rbiopt3c2n
@@ -736,7 +736,7 @@ LEGO Animal Crossing Creative Houses: Seasons of Fun is $43.99 on Amazon Lightni
 Link: https://amzn.to/48r1nR7
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=23 repost=1 reply=0 quote=1
+Engagement: like=24 repost=1 reply=0 quote=1
 
 --- 52/81 | post | 2026-11-20T15:50:07.106Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2qwtg5wxj2b

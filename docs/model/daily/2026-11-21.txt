@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-21
-Updated: 2026-11-23T20:22:24.758304Z
+Updated: 2026-11-24T04:57:10.584855Z
 Timezone: America/Los_Angeles
 Count: 61
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -223,7 +223,7 @@ SEGA AGES titles $2.39 each on US eShop buff.ly/M0lamPR
 Link: https://buff.ly/M0lamPR
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=62 repost=21 reply=4 quote=14
+Engagement: like=63 repost=21 reply=4 quote=14
 
 --- 12/61 | post | 2026-11-21T20:59:35.234Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2tylpknik2b
@@ -404,7 +404,7 @@ Link: https://link.amazon/B00UZKnnd
 Link: https://link.amazon/B0cAOjwNH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=10 repost=0 reply=0 quote=0
+Engagement: like=11 repost=1 reply=0 quote=0
 
 --- 20/61 | post | 2026-11-21T19:18:02.600Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2tsw56koe2z
