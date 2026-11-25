@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-23
-Updated: 2026-11-25T00:10:42.794826Z
+Updated: 2026-11-25T08:52:29.897325Z
 Timezone: America/Los_Angeles
 Count: 155
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -21,7 +21,7 @@ Link: https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-a
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=208 repost=28 reply=5 quote=19
+Engagement: like=211 repost=28 reply=5 quote=20
 
 --- 2/155 | post | 2026-11-23T23:31:04.501Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2zbygoy2g2t
@@ -217,7 +217,7 @@ Created: 2026-11-23T21:38:35.081Z
 Certified Refurbished PlayStation 5 Pro Console in-stock at PS Direct ($849) buff.ly/fNqfj44 #ad
 Link: https://buff.ly/fNqfj44
 Image description: [no alt text supplied; image omitted]
-Engagement: like=38 repost=1 reply=6 quote=7
+Engagement: like=39 repost=1 reply=6 quote=7
 
 --- 16/155 | post | 2026-11-23T21:29:03.052Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2z36ag2sx2c
@@ -253,7 +253,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=203 repost=40 reply=2 quote=2
+Engagement: like=206 repost=40 reply=2 quote=2
 
 --- 18/155 | post | 2026-11-23T21:19:46.400Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2z2nnk3ps2a
@@ -367,7 +367,7 @@ Link: https://buff.ly/iS3ChQd
 Link: https://buff.ly/nO1pr7j
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=5 reply=1 quote=2
+Engagement: like=27 repost=5 reply=1 quote=2
 
 --- 25/155 | post | 2026-11-23T20:29:49.209Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yxud6zgk2a
@@ -380,7 +380,7 @@ Link: https://amzn.to/48wmMZ9
 Link: https://buff.ly/5sFEGgH
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=66 repost=24 reply=1 quote=6
+Engagement: like=67 repost=24 reply=1 quote=6
 
 --- 26/155 | post | 2026-11-23T20:29:01.802Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yxsvynav2y
@@ -410,7 +410,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=7 repost=0 reply=0 quote=0
+Engagement: like=8 repost=0 reply=0 quote=0
 
 --- 28/155 | post | 2026-11-23T20:10:48.650Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ywsdiicc2p
@@ -488,7 +488,7 @@ Queen's Domain has sold 300,000 copies in 3 weeks store.steampowered.com/news/ap
 Link: https://store.steampowered.com/news/app/1799840/view/669508471871243339
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=643 repost=100 reply=2 quote=26
+Engagement: like=643 repost=100 reply=2 quote=27
 
 --- 34/155 | post | 2026-11-23T19:19:48.288Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ytx4uzks2a
@@ -867,7 +867,7 @@ Created: 2026-11-23T17:08:23.031Z
 Link: https://variety.com/2026/tv/news/god-of-war-tv-series-amazon-deborah-ann-woll-faye-1236955900/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=602 repost=41 reply=17 quote=24
+Engagement: like=603 repost=41 reply=17 quote=24
 
 --- 57/155 | post | 2026-11-23T17:03:06.027Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ymcomgch2n
@@ -957,7 +957,7 @@ Created: 2026-11-23T16:28:02.611Z
 Nintendo Switch 2 + Mario Kart World Digital + 12 Month NSO + Expansion Pack Individual Membership is $519.99 at Costco buff.ly/4FlWd1l
 Link: https://buff.ly/4FlWd1l
 Image description: [no alt text supplied; image omitted]
-Engagement: like=51 repost=7 reply=1 quote=0
+Engagement: like=52 repost=7 reply=1 quote=0
 
 --- 64/155 | post | 2026-11-23T16:19:48.170Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yjvb3zvu2h
@@ -1099,7 +1099,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=94 repost=31 reply=1 quote=19
+Engagement: like=95 repost=31 reply=1 quote=19
 
 --- 75/155 | post | 2026-11-23T14:30:11.358Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ydraxcc22h
@@ -1162,7 +1162,7 @@ eShop balance works on Nintendo Store (hardware, consoles, physical games, etc.)
 Wallet limit is $800
 Link: https://buff.ly/lAa6jim
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=1 reply=0 quote=0
+Engagement: like=21 repost=1 reply=0 quote=0
 
 --- 80/155 | post | 2026-11-23T14:18:17.576Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yd3yaow62b
@@ -1220,7 +1220,7 @@ Created: 2026-11-23T14:00:58.107Z
 Link: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=416 repost=148 reply=120 quote=537
+Engagement: like=417 repost=149 reply=121 quote=537
 
 --- 85/155 | post | 2026-11-23T13:58:50.599Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ybz7dfkc2p
@@ -1241,7 +1241,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=8 reply=7 quote=1
+Engagement: like=53 repost=8 reply=7 quote=1
 
 --- 86/155 | post | 2026-11-23T13:54:11.566Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ybqv7og22h
@@ -1267,7 +1267,7 @@ Link: https://amzn.to/4CdUkZL
 Link: https://buff.ly/wQOpSFa
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=8 repost=0 reply=0 quote=0
+Engagement: like=7 repost=0 reply=0 quote=0
 
 --- 88/155 | post | 2026-11-23T13:51:41.758Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ybmgdtlk2h
@@ -1632,7 +1632,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=68 repost=10 reply=5 quote=0
+Engagement: like=67 repost=10 reply=5 quote=0
 
 --- 116/155 | post | 2026-11-23T05:42:48.160Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2xgc7ntut2l
@@ -1705,7 +1705,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=112 repost=27 reply=7 quote=25
+Engagement: like=111 repost=27 reply=7 quote=25
 
 --- 122/155 | post | 2026-11-23T05:30:23.630Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2xflzmmvg2y
@@ -1899,7 +1899,7 @@ Created: 2026-11-23T05:10:25.726Z
 Kirby Air Riders (Switch 2) is $30 at Walmart buff.ly/M7BdpcD #ad
 Link: https://buff.ly/M7BdpcD
 Image description: [no alt text supplied; image omitted]
-Engagement: like=79 repost=39 reply=1 quote=14
+Engagement: like=80 repost=39 reply=1 quote=14
 
 --- 141/155 | post | 2026-11-23T05:09:54.128Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2xehf36vd2p
@@ -1941,7 +1941,7 @@ Created: 2026-11-23T05:06:51.102Z
 Super Mario Galaxy + Super Mario Galaxy 2 (Switch) is $30 at Walmart buff.ly/RjQuxYN #ad
 Link: https://buff.ly/RjQuxYN
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=11 reply=1 quote=3
+Engagement: like=38 repost=11 reply=1 quote=3
 
 --- 145/155 | post | 2026-11-23T05:05:30.613Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2xe7jrfbo2a
