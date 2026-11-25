@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-23
-Updated: 2026-11-25T08:52:29.897325Z
+Updated: 2026-11-25T19:09:57.595137Z
 Timezone: America/Los_Angeles
 Count: 155
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -21,7 +21,7 @@ Link: https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-a
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=211 repost=28 reply=5 quote=20
+Engagement: like=212 repost=28 reply=5 quote=20
 
 --- 2/155 | post | 2026-11-23T23:31:04.501Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2zbygoy2g2t
@@ -81,7 +81,7 @@ Link: https://buff.ly/BtTrbqu
 Link: https://buff.ly/v8m0BHY
 Link: https://buff.ly/gITqJu2
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=5 reply=2 quote=3
+Engagement: like=44 repost=5 reply=2 quote=3
 
 --- 6/155 | post | 2026-11-23T22:53:02.292Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2z7ug7jph2l
@@ -134,7 +134,7 @@ Link: https://buff.ly/2dh94lO
 Link: https://buff.ly/4gkU7YR
 Link: https://buff.ly/2ySmVIL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=46 repost=8 reply=1 quote=1
+Engagement: like=47 repost=8 reply=1 quote=1
 
 --- 9/155 | post | 2026-11-23T22:36:01.565Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2z6vyrex72c
@@ -168,7 +168,7 @@ Created: 2026-11-23T22:29:03.140Z
 UnderMine 2 is $14.99 on Steam early access buff.ly/3iwUZuo
 Link: https://buff.ly/3iwUZuo
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=0 reply=1 quote=0
+Engagement: like=16 repost=0 reply=1 quote=0
 
 --- 12/155 | post | 2026-11-23T21:58:40.329Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2z4t7dudc2a
@@ -194,7 +194,7 @@ Link: https://amzn.to/4AeqFxZ
 Link: https://buff.ly/U6Xh42Z
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=36 repost=6 reply=0 quote=3
+Engagement: like=37 repost=6 reply=0 quote=3
 
 --- 14/155 | post | 2026-11-23T21:51:48.159Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2z4gwbijc2a
@@ -313,7 +313,7 @@ Link: https://amzn.to/4zZMqRZ
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=1 reply=0 quote=1
+Engagement: like=19 repost=1 reply=0 quote=1
 
 --- 22/155 | post | 2026-11-23T20:47:01.390Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yyt3kqnc2a
@@ -332,7 +332,7 @@ Link: https://buff.ly/idXHIm6
 Link: https://buff.ly/Bf8aISw
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=1 reply=1 quote=0
+Engagement: like=27 repost=1 reply=1 quote=0
 
 --- 23/155 | post | 2026-11-23T20:43:50.805Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yynfswzd2c
@@ -367,7 +367,7 @@ Link: https://buff.ly/iS3ChQd
 Link: https://buff.ly/nO1pr7j
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=27 repost=5 reply=1 quote=2
+Engagement: like=28 repost=5 reply=1 quote=2
 
 --- 25/155 | post | 2026-11-23T20:29:49.209Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yxud6zgk2a
@@ -410,7 +410,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=8 repost=0 reply=0 quote=0
+Engagement: like=9 repost=0 reply=0 quote=0
 
 --- 28/155 | post | 2026-11-23T20:10:48.650Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ywsdiicc2p
@@ -433,7 +433,7 @@ Created: 2026-11-23T20:07:29.447Z
 VIZIO 50" Mini LED Quantum 4K QLED HDR Smart TV (VQM50C-10) is $198 at Walmart buff.ly/1eM6biD #ad
 Link: https://buff.ly/1eM6biD
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=0 reply=0 quote=0
+Engagement: like=16 repost=0 reply=0 quote=0
 
 --- 30/155 | post | 2026-11-23T20:05:01.240Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ywhy65v22p
@@ -488,7 +488,7 @@ Queen's Domain has sold 300,000 copies in 3 weeks store.steampowered.com/news/ap
 Link: https://store.steampowered.com/news/app/1799840/view/669508471871243339
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=643 repost=100 reply=2 quote=27
+Engagement: like=646 repost=100 reply=2 quote=27
 
 --- 34/155 | post | 2026-11-23T19:19:48.288Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ytx4uzks2a
@@ -525,7 +525,7 @@ Bubsy 4D Pawsome Edition (Switch/Switch 2) $24.99/$34.99 Atari Store buff.ly/dXi
 Link: https://buff.ly/GZqG90I
 Link: https://buff.ly/dXi7uFF
 Image description: [no alt text supplied; image omitted]
-Engagement: like=44 repost=7 reply=0 quote=0
+Engagement: like=45 repost=7 reply=0 quote=0
 
 --- 37/155 | post | 2026-11-23T18:28:58.719Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yr4allss2a
@@ -546,7 +546,7 @@ GameFly pre-played sale buff.ly/xlQgUyQ #ad
 Link: https://buff.ly/xlQgUyQ
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=1 reply=0 quote=0
+Engagement: like=16 repost=1 reply=0 quote=0
 
 --- 38/155 | post | 2026-11-23T18:24:47.344Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yququdds2a
@@ -567,7 +567,7 @@ GameFly pre-played sale buff.ly/xlQgUyQ #ad
 Link: https://buff.ly/xlQgUyQ
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=1 reply=0 quote=0
+Engagement: like=20 repost=1 reply=0 quote=0
 
 --- 39/155 | post | 2026-11-23T18:23:11.222Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yqrv6tbk2a
@@ -585,7 +585,7 @@ GameFly pre-played sale buff.ly/xlQgUyQ #ad
 Link: https://buff.ly/xlQgUyQ
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=1 reply=2 quote=1
+Engagement: like=18 repost=1 reply=2 quote=1
 
 --- 40/155 | post | 2026-11-23T18:22:25.761Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yqqjtgs22a
@@ -637,7 +637,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=4 repost=0 reply=0 quote=0
+Engagement: like=5 repost=0 reply=0 quote=0
 
 --- 43/155 | post | 2026-11-23T18:19:37.723Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yqljld6k2a
@@ -793,7 +793,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=3 reply=0 quote=5
+Engagement: like=16 repost=3 reply=0 quote=5
 
 --- 52/155 | post | 2026-11-23T17:58:49.386Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ypgd3kic2z
@@ -821,7 +821,7 @@ Link: https://buff.ly/WLq2big
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=0 reply=0 quote=1
+Engagement: like=16 repost=0 reply=0 quote=1
 
 --- 54/155 | post | 2026-11-23T17:38:42.301Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yocdvu3k2h
@@ -841,7 +841,7 @@ Link: https://buff.ly/MFnVVL1
 Link: https://buff.ly/r8dJNyd
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=20 repost=4 reply=0 quote=1
+Engagement: like=21 repost=4 reply=0 quote=1
 
 --- 55/155 | post | 2026-11-23T17:18:23.916Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yn5zy3ev2c
@@ -856,7 +856,7 @@ Link: https://buff.ly/2ZFgwqm
 Link: https://link.amazon/B061BU2T6
 Link: https://link.amazon/B04ksD132
 Image description: [no alt text supplied; image omitted]
-Engagement: like=28 repost=3 reply=0 quote=0
+Engagement: like=29 repost=3 reply=0 quote=0
 
 --- 56/155 | post | 2026-11-23T17:08:23.031Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ymm4w4as2h
@@ -867,7 +867,7 @@ Created: 2026-11-23T17:08:23.031Z
 Link: https://variety.com/2026/tv/news/god-of-war-tv-series-amazon-deborah-ann-woll-faye-1236955900/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=603 repost=41 reply=17 quote=24
+Engagement: like=604 repost=42 reply=17 quote=24
 
 --- 57/155 | post | 2026-11-23T17:03:06.027Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ymcomgch2n
@@ -914,7 +914,7 @@ Hollow Knight: Silksong & Clair Obscur: Expedition 33 merch up for order at Fang
 Link: https://buff.ly/tq0xM1q
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=6 reply=0 quote=5
+Engagement: like=33 repost=6 reply=0 quote=5
 
 --- 61/155 | post | 2026-11-23T16:35:16.605Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ykqwj74c2h
@@ -947,7 +947,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=10 repost=0 reply=0 quote=0
+Engagement: like=11 repost=0 reply=0 quote=0
 
 --- 63/155 | post | 2026-11-23T16:28:02.611Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ykdyn66s2a
@@ -1198,7 +1198,7 @@ CONTROL Ultimate Edition (PS5) is $14.99 on Amazon amzn.to/42PIswt #ad
 Link: https://amzn.to/42PIswt
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=33 repost=6 reply=1 quote=1
+Engagement: like=34 repost=6 reply=1 quote=1
 
 --- 83/155 | post | 2026-11-23T14:04:11.544Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yccrfii22h
@@ -1241,7 +1241,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=53 repost=8 reply=7 quote=1
+Engagement: like=54 repost=8 reply=7 quote=1
 
 --- 86/155 | post | 2026-11-23T13:54:11.566Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ybqv7og22h
@@ -1632,7 +1632,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=67 repost=10 reply=5 quote=0
+Engagement: like=66 repost=10 reply=5 quote=0
 
 --- 116/155 | post | 2026-11-23T05:42:48.160Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2xgc7ntut2l
@@ -1829,7 +1829,7 @@ Created: 2026-11-23T05:16:36.861Z
 Star Wars Galactic Racer (PS5) is $30 at Walmart buff.ly/gFbiaQt #ad
 Link: https://buff.ly/gFbiaQt
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=9 reply=3 quote=1
+Engagement: like=55 repost=9 reply=3 quote=1
 
 --- 134/155 | post | 2026-11-23T05:16:07.640Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2xesjbu2o2l
