@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-23
-Updated: 2026-11-26T02:18:01.729724Z
+Updated: 2026-11-26T11:08:52.435845Z
 Timezone: America/Los_Angeles
 Count: 155
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -512,7 +512,7 @@ Sektori is $11.99 on Steam buff.ly/1VlsZfC
 Link: https://buff.ly/1VlsZfC
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=52 repost=8 reply=3 quote=14
+Engagement: like=53 repost=9 reply=3 quote=14
 
 --- 36/155 | post | 2026-11-23T18:52:47.007Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ysgspus62c

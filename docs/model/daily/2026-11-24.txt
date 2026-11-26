@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-24
-Updated: 2026-11-26T02:18:01.729724Z
+Updated: 2026-11-26T11:08:52.435845Z
 Timezone: America/Los_Angeles
 Count: 85
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -45,7 +45,7 @@ Link: https://link.amazon/B09SKdy3I
 Link: https://buff.ly/L02hD0j
 Link: https://buff.ly/7lkkbHs
 Image description: [no alt text supplied; image omitted]
-Engagement: like=17 repost=3 reply=0 quote=2
+Engagement: like=18 repost=3 reply=0 quote=2
 
 --- 4/85 | post | 2026-11-24T23:04:27.278Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n33qxqw3m423
@@ -67,7 +67,7 @@ $14.99 Xbox buff.ly/E3NyBt4
 Link: https://buff.ly/JZ9QOn3
 Link: https://buff.ly/E3NyBt4
 Image description: [no alt text supplied; image omitted]
-Engagement: like=81 repost=26 reply=0 quote=1
+Engagement: like=83 repost=26 reply=0 quote=1
 
 --- 6/85 | post | 2026-11-24T22:49:25.926Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n33q4vcw4226
@@ -187,7 +187,7 @@ The Elder Scrolls IV: Oblivion Remastered- Physical Deluxe (Switch 2) in-stock a
 Indiana Jones backorder for Dec 2026
 Link: https://buff.ly/Oj25kYb
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=0 reply=0 quote=2
+Engagement: like=27 repost=0 reply=0 quote=2
 
 --- 16/85 | post | 2026-11-24T20:35:26.682Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n33incimvs26
@@ -455,7 +455,7 @@ Created: 2026-11-24T17:32:47.843Z
 Thee Legend of Zelda: Ocarina of Time - Blast from the Past t-shirt (by Zaxx The Artist) is $24 at The Yetee (today only) buff.ly/1BqXJay #ad
 Link: https://buff.ly/1BqXJay
 Image description: [no alt text supplied; image omitted]
-Engagement: like=273 repost=45 reply=2 quote=2
+Engagement: like=275 repost=45 reply=2 quote=2
 
 --- 36/85 | post | 2026-11-24T17:21:43.914Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n335sw6crc2l
@@ -750,7 +750,7 @@ Link: https://link.amazon/B0e6Wj1Mu
 Link: https://buff.ly/01ehp3c
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=29 repost=2 reply=1 quote=0
+Engagement: like=29 repost=1 reply=1 quote=0
 
 --- 59/85 | post | 2026-11-24T14:14:39.952Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n32teg5s4k26
@@ -1052,7 +1052,7 @@ HORI Electric OCARINA OF TIME for Nintendo Switch 2 up for preorder on Amazon ($
 Link: https://amzn.to/4kxttkX
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=65 repost=6 reply=5 quote=3
+Engagement: like=66 repost=6 reply=5 quote=2
 
 --- 82/85 | post | 2026-11-24T00:40:38.892Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2zfutovic2a
