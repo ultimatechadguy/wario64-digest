@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-23
-Updated: 2026-11-25T19:09:57.595137Z
+Updated: 2026-11-26T02:18:01.729724Z
 Timezone: America/Los_Angeles
 Count: 155
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -253,7 +253,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=206 repost=40 reply=2 quote=2
+Engagement: like=207 repost=40 reply=2 quote=2
 
 --- 18/155 | post | 2026-11-23T21:19:46.400Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2z2nnk3ps2a
@@ -313,7 +313,7 @@ Link: https://amzn.to/4zZMqRZ
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=19 repost=1 reply=0 quote=1
+Engagement: like=19 repost=2 reply=0 quote=1
 
 --- 22/155 | post | 2026-11-23T20:47:01.390Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2yyt3kqnc2a
@@ -488,7 +488,7 @@ Queen's Domain has sold 300,000 copies in 3 weeks store.steampowered.com/news/ap
 Link: https://store.steampowered.com/news/app/1799840/view/669508471871243339
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=646 repost=100 reply=2 quote=27
+Engagement: like=647 repost=100 reply=2 quote=27
 
 --- 34/155 | post | 2026-11-23T19:19:48.288Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ytx4uzks2a
@@ -1099,7 +1099,7 @@ Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=95 repost=31 reply=1 quote=19
+Engagement: like=96 repost=32 reply=1 quote=19
 
 --- 75/155 | post | 2026-11-23T14:30:11.358Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2ydraxcc22h
@@ -1705,7 +1705,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=111 repost=27 reply=7 quote=25
+Engagement: like=112 repost=27 reply=7 quote=25
 
 --- 122/155 | post | 2026-11-23T05:30:23.630Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2xflzmmvg2y
@@ -1839,7 +1839,7 @@ Created: 2026-11-23T05:16:07.640Z
 Castlevania: Belmont's Curse Midnight Edition (PS5) is $15 at Walmart buff.ly/97uFe1V #ad
 Link: https://buff.ly/97uFe1V
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=7 reply=6 quote=2
+Engagement: like=55 repost=7 reply=6 quote=2
 
 --- 135/155 | post | 2026-11-23T05:15:16.194Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2xeqy7uyn2h
@@ -1889,7 +1889,7 @@ Created: 2026-11-23T05:10:49.528Z
 Donkey Kong Bananza (Switch 2) is $30 at Walmart buff.ly/Y5Cnq3r #ad
 Link: https://buff.ly/Y5Cnq3r
 Image description: [no alt text supplied; image omitted]
-Engagement: like=55 repost=19 reply=2 quote=6
+Engagement: like=54 repost=19 reply=2 quote=6
 
 --- 140/155 | post | 2026-11-23T05:10:25.726Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2xeid7jc32p
@@ -1899,7 +1899,7 @@ Created: 2026-11-23T05:10:25.726Z
 Kirby Air Riders (Switch 2) is $30 at Walmart buff.ly/M7BdpcD #ad
 Link: https://buff.ly/M7BdpcD
 Image description: [no alt text supplied; image omitted]
-Engagement: like=80 repost=39 reply=1 quote=14
+Engagement: like=81 repost=40 reply=1 quote=14
 
 --- 141/155 | post | 2026-11-23T05:09:54.128Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2xehf36vd2p
