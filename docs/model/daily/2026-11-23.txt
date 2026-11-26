@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-23
-Updated: 2026-11-26T11:08:52.435845Z
+Updated: 2026-11-26T20:18:41.835167Z
 Timezone: America/Los_Angeles
 Count: 155
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -217,7 +217,7 @@ Created: 2026-11-23T21:38:35.081Z
 Certified Refurbished PlayStation 5 Pro Console in-stock at PS Direct ($849) buff.ly/fNqfj44 #ad
 Link: https://buff.ly/fNqfj44
 Image description: [no alt text supplied; image omitted]
-Engagement: like=39 repost=1 reply=6 quote=7
+Engagement: like=40 repost=1 reply=6 quote=7
 
 --- 16/155 | post | 2026-11-23T21:29:03.052Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2z36ag2sx2c
@@ -1849,7 +1849,7 @@ Created: 2026-11-23T05:15:16.194Z
 Resident Evil Requiem (PS5) is $30 at Walmart buff.ly/ohgvMuY #ad
 Link: https://buff.ly/ohgvMuY
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=3 reply=0 quote=0
+Engagement: like=24 repost=3 reply=0 quote=0
 
 --- 136/155 | post | 2026-11-23T05:14:41.158Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2xepwspcy2p
@@ -1889,7 +1889,7 @@ Created: 2026-11-23T05:10:49.528Z
 Donkey Kong Bananza (Switch 2) is $30 at Walmart buff.ly/Y5Cnq3r #ad
 Link: https://buff.ly/Y5Cnq3r
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=19 reply=2 quote=6
+Engagement: like=53 repost=19 reply=2 quote=6
 
 --- 140/155 | post | 2026-11-23T05:10:25.726Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2xeid7jc32p
