@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-24
-Updated: 2026-11-27T12:03:41.991976Z
+Updated: 2026-11-27T21:08:45.080959Z
 Timezone: America/Los_Angeles
 Count: 85
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -28,7 +28,7 @@ Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=13 repost=3 reply=0 quote=1
+Engagement: like=14 repost=3 reply=0 quote=1
 
 --- 3/85 | post | 2026-11-24T23:40:12.225Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n33sxoirfg2w
@@ -55,7 +55,7 @@ Created: 2026-11-24T23:04:27.278Z
 GLORIOUS Gaming Model O 2 PRO Wireless Gaming Mouse is $19.99 on Woot Mobile App w/ code WOOTMOUSE buff.ly/RPwyWKE #ad
 Link: https://buff.ly/RPwyWKE
 Image description: [no alt text supplied; image omitted]
-Engagement: like=15 repost=0 reply=0 quote=1
+Engagement: like=16 repost=0 reply=0 quote=1
 
 --- 5/85 | post | 2026-11-24T22:59:35.171Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n33qp2dptn2t
@@ -175,7 +175,7 @@ Created: 2026-11-24T21:00:34.357Z
 The Legend of Zelda: Ocarina of Time - Non-Playable Cuties t-shirt (by Heart Fan Art) is $24 at The Yetee (today only) buff.ly/1BqXJay #ad
 Link: https://buff.ly/1BqXJay
 Image description: [no alt text supplied; image omitted]
-Engagement: like=228 repost=26 reply=0 quote=1
+Engagement: like=230 repost=26 reply=0 quote=1
 
 --- 15/85 | post | 2026-11-24T20:55:30.302Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n33jr6en462q
@@ -359,7 +359,7 @@ Nihon Falcom developer sale on Steam buff.ly/I62Unsu
 Link: https://buff.ly/I62Unsu
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=52 repost=21 reply=2 quote=10
+Engagement: like=53 repost=21 reply=2 quote=10
 
 --- 29/85 | post | 2026-11-24T18:27:01.337Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n33bho4k5m2z
@@ -638,7 +638,7 @@ Created: 2026-11-24T15:34:11.551Z
 English/JPN import restocks at VGP buff.ly/yohpRzv #ad
 Link: https://buff.ly/yohpRzv
 Image description: [no alt text supplied; image omitted]
-Engagement: like=16 repost=0 reply=0 quote=0
+Engagement: like=17 repost=0 reply=0 quote=0
 
 --- 50/85 | post | 2026-11-24T15:24:34.247Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n32xbg5uzh2t
@@ -703,7 +703,7 @@ Created: 2026-11-24T14:47:21.437Z
 Pokémon TCG: 30th Celebration Booster Bundle $31.99 on Amazon link.amazon/B0gXWfwvh #ad
 Link: https://link.amazon/B0gXWfwvh
 Image description: [no alt text supplied; image omitted]
-Engagement: like=26 repost=3 reply=4 quote=0
+Engagement: like=25 repost=3 reply=4 quote=0
 
 --- 55/85 | post | 2026-11-24T14:46:30.286Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n32v5dyypq2a
@@ -771,7 +771,7 @@ Created: 2026-11-24T14:12:57.195Z
 AMD Ryzen 7 9800X3D Processor is $349.99 at Micro Center in-stores buff.ly/t56bWsX
 Link: https://buff.ly/t56bWsX
 Image description: [no alt text supplied; image omitted]
-Engagement: like=21 repost=0 reply=3 quote=1
+Engagement: like=22 repost=0 reply=3 quote=1
 
 --- 61/85 | post | 2026-11-24T14:09:50.380Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n32t3rypyc26
@@ -796,7 +796,7 @@ Link: https://buff.ly/581IJhU
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=91 repost=12 reply=6 quote=15
+Engagement: like=92 repost=12 reply=6 quote=15
 
 --- 63/85 | post | 2026-11-24T14:04:21.159Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n32sry23ef2f
@@ -925,7 +925,7 @@ Link: https://amzn.to/4tgSUJV
 Link: https://buff.ly/Yive4b7
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=40 repost=9 reply=0 quote=0
+Engagement: like=41 repost=9 reply=0 quote=0
 
 --- 72/85 | post | 2026-11-24T05:11:18.132Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2zuysnl5d2a
@@ -1006,7 +1006,7 @@ Wave Race Blue Storm out on Nintendo GameCube - Nintendo Classics on NSO (Switch
 Link: https://www.youtube.com/watch?v=9ZAr8bhi1ig
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=2287 repost=491 reply=34 quote=53
+Engagement: like=2288 repost=491 reply=34 quote=53
 
 --- 78/85 | post | 2026-11-24T01:16:51.781Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2zhvlwaes2a
@@ -1017,7 +1017,7 @@ Fast & Furious 10-Movie Collection (4K UHD + Digital) is $51.99 on Amazon amzn.t
 Link: https://amzn.to/4AVL4YJ
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=18 repost=4 reply=0 quote=7
+Engagement: like=19 repost=4 reply=0 quote=7
 
 --- 79/85 | post | 2026-11-24T01:10:48.915Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2zhkruh2c2a
@@ -1030,7 +1030,7 @@ Link: https://amzn.to/2VwvfG7
 Link: https://buff.ly/mMQ8BVi
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=54 repost=7 reply=0 quote=0
+Engagement: like=55 repost=7 reply=0 quote=0
 
 --- 80/85 | post | 2026-11-24T01:02:50.992Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2zh4k3gds2a
