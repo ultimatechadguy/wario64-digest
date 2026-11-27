@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-25
-Updated: 2026-11-27T02:58:34.282732Z
+Updated: 2026-11-27T12:03:41.991976Z
 Timezone: America/Los_Angeles
 Count: 84
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -318,7 +318,7 @@ Created: 2026-11-25T19:57:01.908Z
 Rubbermaid EasyStore Containers, 26-Piece Set, Food Storage Container Set, Food Storage Containers With Lids, Red is $8 at Walmart buff.ly/QlaD9ru #ad
 Link: https://buff.ly/QlaD9ru
 Image description: [no alt text supplied; image omitted]
-Engagement: like=37 repost=6 reply=2 quote=1
+Engagement: like=38 repost=6 reply=2 quote=1
 
 --- 25/84 | post | 2026-11-25T19:55:24.357Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n35wumwfwp2t
@@ -351,7 +351,7 @@ Created: 2026-11-25T19:43:01.212Z
 Final Fantasy - clown trance t-shirt (by Caitlin Rose Boyle) is $24 at The Yetee (Today only) buff.ly/1BqXJay #ad
 Link: https://buff.ly/1BqXJay
 Image description: [no alt text supplied; image omitted]
-Engagement: like=69 repost=8 reply=1 quote=1
+Engagement: like=70 repost=8 reply=1 quote=1
 
 --- 28/84 | post | 2026-11-25T19:40:46.476Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n35w2hpn6e2n
@@ -375,7 +375,7 @@ Link: https://amzn.to/488VszT
 Link: https://link.amazon/B06Hsv0uN
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=42 repost=4 reply=1 quote=2
+Engagement: like=43 repost=4 reply=1 quote=2
 
 --- 30/84 | post | 2026-11-25T19:21:15.709Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n35uxl7anv23
@@ -465,7 +465,7 @@ Link: https://buff.ly/slYB53T
 Link: https://buff.ly/yqwm2dY
 Link: https://buff.ly/SyTjJmn
 Image description: [no alt text supplied; image omitted]
-Engagement: like=43 repost=7 reply=1 quote=3
+Engagement: like=44 repost=7 reply=1 quote=3
 
 --- 36/84 | post | 2026-11-25T18:26:02.016Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n35rusyppr2t
@@ -633,7 +633,7 @@ Languages: en
 Card title: Yooka-Laylee and the Impossible Lair: Definitive Edition announced for PS5, Switch 2, and PC
 Card description: Playtonic Games has announced Yooka-Laylee and the Impossible Lair: Definitive Edition, an enhanced re-release of the 2019-released side-scrolling platformer. It will launch for PlayStation 5, Swit…
 Card uri: https://www.gematsu.com/2026/11/yooka-laylee-and-the-impossible-lair-definitive-edition-announced-for-ps5-switch-2-and-pc
-Engagement: like=160 repost=27 reply=11 quote=20
+Engagement: like=161 repost=27 reply=11 quote=21
 
 --- 47/84 | post | 2026-11-25T17:02:31.049Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n35n7i66bm2t
@@ -725,7 +725,7 @@ blog.playstation.com/2026/11/25/p...
 Link: https://blog.playstation.com/2026/11/25/playstation-plus-monthly-games-for-december-tony-hawks-pro-skater-34-dragon-ball-xenoverse-2-amnesia-the-bunker/
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=88 repost=7 reply=2 quote=4
+Engagement: like=89 repost=7 reply=2 quote=4
 
 --- 52/84 | post | 2026-11-25T16:22:54.395Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n35kynmbn227
@@ -817,7 +817,7 @@ Created: 2026-11-25T15:48:07.630Z
 Dressmaker (Steam) is $10.49 on Fanatical buff.ly/D4ZbkyS #ad
 Link: https://buff.ly/D4ZbkyS
 Image description: [no alt text supplied; image omitted]
-Engagement: like=73 repost=21 reply=0 quote=1
+Engagement: like=74 repost=21 reply=0 quote=1
 
 --- 60/84 | post | 2026-11-25T15:42:19.488Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n35iq3iy3k2t
@@ -875,7 +875,7 @@ www.youtube.com/watch?v=M-QU...
 Link: https://www.youtube.com/watch?v=M-QUgdcBpZU
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=464 repost=114 reply=10 quote=62
+Engagement: like=465 repost=115 reply=10 quote=62
 
 --- 64/84 | post | 2026-11-25T14:54:27.496Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n35g2ikk4227
@@ -912,7 +912,7 @@ Link: https://amzn.to/4ATXaBv
 Link: https://buff.ly/MTOlhXR
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=63 repost=5 reply=0 quote=2
+Engagement: like=64 repost=5 reply=0 quote=2
 
 --- 67/84 | post | 2026-11-25T14:49:16.870Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n35frad6or2j
@@ -1097,7 +1097,7 @@ Link: https://info.exoprimal.com/en/pages/important_261125_001/
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=245 repost=59 reply=37 quote=146
+Engagement: like=245 repost=59 reply=37 quote=148
 
 --- 81/84 | post | 2026-11-25T01:26:52.412Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n33ywg6s3k26
