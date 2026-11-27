@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-24
-Updated: 2026-11-26T20:18:41.835167Z
+Updated: 2026-11-27T02:58:34.282732Z
 Timezone: America/Los_Angeles
 Count: 85
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -175,7 +175,7 @@ Created: 2026-11-24T21:00:34.357Z
 The Legend of Zelda: Ocarina of Time - Non-Playable Cuties t-shirt (by Heart Fan Art) is $24 at The Yetee (today only) buff.ly/1BqXJay #ad
 Link: https://buff.ly/1BqXJay
 Image description: [no alt text supplied; image omitted]
-Engagement: like=226 repost=26 reply=0 quote=1
+Engagement: like=228 repost=26 reply=0 quote=1
 
 --- 15/85 | post | 2026-11-24T20:55:30.302Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n33jr6en462q
@@ -455,7 +455,7 @@ Created: 2026-11-24T17:32:47.843Z
 Thee Legend of Zelda: Ocarina of Time - Blast from the Past t-shirt (by Zaxx The Artist) is $24 at The Yetee (today only) buff.ly/1BqXJay #ad
 Link: https://buff.ly/1BqXJay
 Image description: [no alt text supplied; image omitted]
-Engagement: like=275 repost=45 reply=2 quote=2
+Engagement: like=278 repost=45 reply=2 quote=2
 
 --- 36/85 | post | 2026-11-24T17:21:43.914Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n335sw6crc2l
@@ -1006,7 +1006,7 @@ Wave Race Blue Storm out on Nintendo GameCube - Nintendo Classics on NSO (Switch
 Link: https://www.youtube.com/watch?v=9ZAr8bhi1ig
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=2286 repost=491 reply=34 quote=53
+Engagement: like=2287 repost=491 reply=34 quote=53
 
 --- 78/85 | post | 2026-11-24T01:16:51.781Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2zhvlwaes2a
@@ -1041,7 +1041,7 @@ Wave Race Blue Storm out on Nintendo GameCube - Nintendo Classics on NSO (Switch
 Link: https://www.youtube.com/watch?v=9ZAr8bhi1ig
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=405 repost=71 reply=17 quote=86
+Engagement: like=406 repost=71 reply=17 quote=86
 
 --- 81/85 | post | 2026-11-24T00:41:19.381Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2zfw2cli22a
