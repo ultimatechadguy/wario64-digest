@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-26
-Updated: 2026-11-27T21:08:45.080959Z
+Updated: 2026-11-28T03:22:25.882777Z
 Timezone: America/Los_Angeles
 Count: 92
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -139,7 +139,7 @@ Link: https://buff.ly/BP0un2T
 Link: https://buff.ly/w2mSZre
 Link: https://buff.ly/6drX3Ed
 Image description: [no alt text supplied; image omitted]
-Engagement: like=25 repost=4 reply=0 quote=0
+Engagement: like=26 repost=4 reply=0 quote=0
 
 --- 10/92 | post | 2026-11-26T21:20:33.154Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n3am3sjcdh2m
@@ -247,7 +247,7 @@ Created: 2026-11-26T20:21:55.776Z
 Drakengard 3 (PS3) in-stock at VGP ($49.23 US Dollars) buff.ly/k2oJGPh #ad
 Link: https://buff.ly/k2oJGPh
 Image description: [no alt text supplied; image omitted]
-Engagement: like=79 repost=23 reply=1 quote=11
+Engagement: like=81 repost=24 reply=1 quote=11
 
 --- 18/92 | post | 2026-11-26T20:14:58.310Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n3aigjx7u22l
@@ -260,7 +260,7 @@ Link: https://amzn.to/4tjJpta
 Link: https://buff.ly/acDgT2G
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=10 repost=0 reply=0 quote=0
+Engagement: like=11 repost=0 reply=0 quote=0
 
 --- 19/92 | post | 2026-11-26T20:12:04.567Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n3aibeb5dd2f
@@ -661,7 +661,7 @@ Link: https://amzn.to/4AkbeE3
 Link: https://link.amazon/B06Hsv0uN
 Languages: en
 Video description: [no description supplied; video omitted]
-Engagement: like=34 repost=3 reply=1 quote=0
+Engagement: like=35 repost=3 reply=1 quote=0
 
 --- 49/92 | post | 2026-11-26T16:36:32.185Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n3a47wy6wf2g
@@ -900,7 +900,7 @@ Nintendo eShop/PSN gift card codes sale at Costco (20% off - ends Nov 30th): buf
 -$100/$150 PSN for $80/$120
 Link: https://buff.ly/UuP9DHL
 Image description: [no alt text supplied; image omitted]
-Engagement: like=72 repost=12 reply=3 quote=2
+Engagement: like=73 repost=12 reply=3 quote=2
 
 --- 67/92 | post | 2026-11-26T14:08:35.148Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n37txf6lb32t

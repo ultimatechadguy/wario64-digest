@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-25
-Updated: 2026-11-27T21:08:45.080959Z
+Updated: 2026-11-28T03:22:25.882777Z
 Timezone: America/Los_Angeles
 Count: 84
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -565,7 +565,7 @@ Created: 2026-11-25T17:43:01.609Z
 Final Fantasy - Bubble Birds t-shirt (by Pop Culture Wizard) is $24 at The Yetee (Today only) buff.ly/1BqXJay #ad
 Link: https://buff.ly/1BqXJay
 Image description: [no alt text supplied; image omitted]
-Engagement: like=114 repost=23 reply=0 quote=0
+Engagement: like=115 repost=23 reply=0 quote=0
 
 --- 42/84 | post | 2026-11-25T17:38:22.977Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n35p7mfnxs27
@@ -684,7 +684,7 @@ Created: 2026-11-25T16:46:10.276Z
 Undertale/Deltarune merch up for order at Fangamer buff.ly/tq0xM1q
 Link: https://buff.ly/tq0xM1q
 Image description: [no alt text supplied; image omitted]
-Engagement: like=68 repost=14 reply=2 quote=11
+Engagement: like=71 repost=14 reply=2 quote=11
 
 --- 50/84 | post | 2026-11-25T16:43:34.801Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n35m5mkils27
@@ -886,7 +886,7 @@ Samurai Jack: The Complete Series (Blu-ray) is $19.99 on Amazon amzn.to/4jbzGQZ 
 Link: https://amzn.to/4jbzGQZ
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=87 repost=17 reply=1 quote=2
+Engagement: like=139 repost=24 reply=1 quote=4
 
 --- 65/84 | post | 2026-11-25T14:52:14.528Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n35fwjqwqu2n
@@ -1097,7 +1097,7 @@ Link: https://info.exoprimal.com/en/pages/important_261125_001/
 Languages: en
 Image description: [no alt text supplied; image omitted]
 Image description: [no alt text supplied; image omitted]
-Engagement: like=246 repost=58 reply=37 quote=151
+Engagement: like=246 repost=58 reply=37 quote=154
 
 --- 81/84 | post | 2026-11-25T01:26:52.412Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n33ywg6s3k26

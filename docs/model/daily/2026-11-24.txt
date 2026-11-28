@@ -1,5 +1,5 @@
 Wario64 digest 2026-11-24
-Updated: 2026-11-27T21:08:45.080959Z
+Updated: 2026-11-28T03:22:25.882777Z
 Timezone: America/Los_Angeles
 Count: 85
 Format: complete post text and text metadata; no images, avatars, thumbnails or media downloads.
@@ -260,7 +260,7 @@ possible monitor price errors on Amazon link.amazon/B05pvY1HC #ad
 Link: https://link.amazon/B05pvY1HC
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=32 repost=3 reply=8 quote=2
+Engagement: like=32 repost=3 reply=8 quote=3
 
 --- 22/85 | post | 2026-11-24T19:48:10.157Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n33fyreoz226
@@ -455,7 +455,7 @@ Created: 2026-11-24T17:32:47.843Z
 Thee Legend of Zelda: Ocarina of Time - Blast from the Past t-shirt (by Zaxx The Artist) is $24 at The Yetee (today only) buff.ly/1BqXJay #ad
 Link: https://buff.ly/1BqXJay
 Image description: [no alt text supplied; image omitted]
-Engagement: like=278 repost=45 reply=2 quote=2
+Engagement: like=279 repost=45 reply=2 quote=2
 
 --- 36/85 | post | 2026-11-24T17:21:43.914Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n335sw6crc2l
@@ -1052,7 +1052,7 @@ HORI Electric OCARINA OF TIME for Nintendo Switch 2 up for preorder on Amazon ($
 Link: https://amzn.to/4kxttkX
 Languages: en
 Image description: [no alt text supplied; image omitted]
-Engagement: like=66 repost=6 reply=5 quote=2
+Engagement: like=65 repost=6 reply=5 quote=2
 
 --- 82/85 | post | 2026-11-24T00:40:38.892Z ---
 ID: at://did:plc:knj5sw5al3sukl6vhkpi7637/app.bsky.feed.post/3n2zfutovic2a
